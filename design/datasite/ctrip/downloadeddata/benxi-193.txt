@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=1024">
+<title>本溪景点推荐,旅游景点排行,本溪景点大全【携程攻略】 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="本溪景点,本溪景点介绍,本溪旅游景点,本溪景点推荐,本溪著名景点,本溪必游景点,本溪景点排行" /><meta name="description" content="本溪旅游景点大全，携程攻略社区! 告诉您本溪有哪些旅游景点，提供本溪周边旅游景点介绍、图片、点评、热门景点推荐，了解更多著名旅游景点排行信息就来携程旅游攻略。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.ctrip.com/you/sight/Benxi463.html" >
+<link rel="canonical" href="http://you.ctrip.com/sight/benxi463.html?keywords=" />        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/common/css/common.v2.0.css?t=20140822153037" />
+        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/fed/css/fed.v2.0.css?t=20140822153037" />
+        
+    <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/ttd2/css/city_sight.v2.0.css?t=20140822153037" />
+
+        <!--[if lt IE 9]>      
+            <script type="text/javascript">        
+                if(screen.width >= 1200) {     
+                    var link = document.createElement('link');     
+                    link.rel = "stylesheet";       
+                    link.type="text/css";  
+                    link.href="http://youresource.c-ctrip.com/ttd2/css/media_ttd2.css"; 
+                    document.getElementsByTagName('head')[0].appendChild(link);    
+                }      
+            </script>      
+        <![endif]-->   
+    </head>
+<body>
+    <div>
+<div><input type="hidden" id="CorrelationId" name="CorrelationId" value="4292988446878603129"/><link href="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/css/pageheader.css?temp=20140820" rel="stylesheet" />
+
+    
+    <div class="cui_hd_cont">
+  <div id="cui_hd" class="cui_hd">
+    <div class="ctriplogo"><a href="http://www.ctrip.com" title="携程旅行网">携程旅行网</a></div>
+    <div class="cui_toolkit"><a id="cui_lang_en" class="cui_lang_en" href="http://english.ctrip.com/" rel="nofollow">English</a>
+        |
+        <a class="cui_help" target="_blank" rel="nofollow" href="&#xD;&#xA;          http://kefu.ctrip.com">客服中心
+          </a> |
+        <div class="cui_lang" onmouseover="this.className='cui_lang cui_lang_hover'" onmouseout="this.className='cui_lang'"><b></b><div id="cui_lang_list" class="cui_lang_list"><a class="cui_lang_gb" href="http://www.ctrip.com">简体版</a><a class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a><a class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a><a class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a><a href="http://de.ctrip.com/" rel="nofollow" class="cui_lang_de">Deutsch</a><a href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a><a href="http://es.ctrip.com/" rel="nofollow" class="cui_lang_es">Espa&#xF1;ol</a><a href="http://ru.ctrip.com/" rel="nofollow" class="cui_lang_ru">Русский</a><a href="http://vn.ctrip.com/" rel="nofollow" class="cui_lang_vn">Tiêng Viêt</a></div>
+      </div>
+    </div>
+    <div onmouseover="this.className='cui_tel cui_tel_hover'" onmouseout="this.className='cui_tel'" onclick="this.className='cui_tel cui_tel_hover'" class="cui_tel"><b></b><span class="cui_tel_in" title="免境内长话费">
+              国内：<i>1010-6666</i></span><div class="cui_tel_more"><span class="cui_tel_in">
+                国内（座机拨打）：<i>800-820-6666</i></span><span class="cui_tel_in">
+                香港：<i>852-3610-6666</i></span><span class="cui_tel_in">
+                海外：<i>+86-21-3406-4888</i></span></div>
+    </div>
+    <div id="head_float_level" class="cui_wireless"><a class="cui_wireless_pic">
+                  携程无线<i></i></a></div>
+    <div class="cui_pagehead_pic"></div><i class="cui_ico_new" style="left:622px;"></i></div>
+</div>
+<div id="cui_nav" class="cui_nav_single">
+  <div class="base_nav">
+    <ul id="cui_nav_ul" class="cui_nav">
+      <li id="cui_nav_home"><a title="首页" class="cui_nav_non" id="c_ph_hp" href="&#xD;&#xA;          http://www.ctrip.com"><span>首页</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_hotel"><a id="a_hotelLink" title="酒店" class="cui_nav_hotel cui_nav_has" href="&#xD;&#xA;          http://hotels.ctrip.com"><span>酒店</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_hotel"><a title="国内酒店" id="c_ph_hotel_h" href="&#xD;&#xA;          http://hotels.ctrip.com">国内酒店
+                </a>|<a title="海外酒店" id="c_ph_hoteli_h" href="&#xD;&#xA;          http://hotels.ctrip.com/international/&#xD;&#xA;                  ">海外酒店
+                </a>|<a title="团购" id="c_ph_tuan_h" href="&#xD;&#xA;          http://tuan.ctrip.com">团购
+                </a>|<a title="惠选" id="c_ph_huixuan_h" href="&#xD;&#xA;          http://huixuan.ctrip.com">惠选
+                </a>|<a title="特价超市" id="c_ph_hotsale_h" href="&#xD;&#xA;          http://hotels.ctrip.com/hotsale&#xD;&#xA;        ">特价超市
+                </a>|<a title="机+酒" id="c_ph_taocan_h" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a rel="nofollow" title="途家公寓" id="c_ph_tujia_h" href="&#xD;&#xA;          http://hotels.ctrip.com/tujia/&#xD;&#xA;                  ">途家公寓
+                </a>|<a title="客栈民宿" i="c_ph_inn_h" href="&#xD;&#xA;          http://hotels.ctrip.com/inn/&#xD;&#xA;                  ">客栈民宿<i class="cui_ico_new" style="left:52px;"></i></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                ">酒店订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_vac"><a id="a_vacationLink" title="旅游" class="cui_nav_vac cui_nav_has" href="&#xD;&#xA;          http://vacations.ctrip.com"><span>旅游</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_vacation"><a title="旅游首页" id="c_ph_vacations_v" href="&#xD;&#xA;          http://vacations.ctrip.com">旅游首页
+                </a>|<a title="周末游" id="c_ph_around_v" href="http://you.ctrip.com/around/">周末游
+                </a>|<a title="国内旅游" id="c_ph_vacationsd_v" href="&#xD;&#xA;          http://vacations.ctrip.com/domestic/&#xD;&#xA;                  ">国内旅游
+                </a>|<a title="出境旅游" id="c_ph_ vacationsdi_v" href="&#xD;&#xA;          http://vacations.ctrip.com/international/&#xD;&#xA;                  ">出境旅游
+                </a>|<a title="邮轮" id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮
+                </a>|<a title="自由行" id="c_ph_taocan_v" href="http://taocan.ctrip.com/fh/">自由行
+                </a>|<a title="自驾游" id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">自驾游
+                </a>|<a title="当地玩乐" id="c_ph_huodong_v" href="http://huodong.ctrip.com/">当地玩乐
+                </a>|<a title="游学" id="c_ph_youxue_v" href="&#xD;&#xA;          http://vacations.ctrip.com/youxue&#xD;&#xA;                  ">游学
+                </a>|<a title="签证" id="c_ph_visa_v" href="&#xD;&#xA;          http://vacations.ctrip.com/visa&#xD;&#xA;                  ">签证
+                </a>|<a title="公司旅游" id="c_ph_mice_v" href="&#xD;&#xA;          http://vacations.ctrip.com/mice/abouts&#xD;&#xA;                  ">公司旅游
+                </a>|<a title="顶级游" href="http://www.hhtravel.com/" target="_blank" rel="nofollow" id="c_ph_hh_v">
+                  顶级游
+                </a>|<a title="高尔夫" id="c_ph_golf_v" href="http://fun.ctrip.com/golf/">高尔夫
+                </a>|<a title="保险" id="c_ph_insurance_v" href="&#xD;&#xA;          http://vacations.ctrip.com/insurance&#xD;&#xA;                  ">保险
+                </a>|<a title="特卖汇" id="c_ph_deals_v" href="&#xD;&#xA;          http://vacations.ctrip.com/deals&#xD;&#xA;                  ">特卖汇<span class="cui_ico_hot" style="left:35px;"></span></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                ">旅游订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_flight"><a id="a_flightLink" title="机票" class="cui_nav_flight cui_nav_has" href="&#xD;&#xA;          http://flights.ctrip.com"><span>机票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div id="div_flight" class="cui_sub_nav"><a title="国内机票" id="c_ph_flights_f" href="&#xD;&#xA;          http://flights.ctrip.com">国内机票
+                </a>|<a title="国际机票" id="c_ph_flightsi_f" href="&#xD;&#xA;          http://flights.ctrip.com/international/&#xD;&#xA;                  ">国际机票
+                </a>|<a title="机+酒" id="c_ph_taocan_f" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a title="航班动态" id="c_ph_flightstoolbox_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/Default.aspx&#xD;&#xA;                  ">航班动态
+                </a>|<a rel="nofollow" title="机场攻略" id="c_ph_airportguides_f" href="&#xD;&#xA;          http://flights.ctrip.com/booking/airport-guides.html&#xD;&#xA;                  ">机场攻略
+                </a>|<a rel="nofollow" title="网上选座" id="c_ph_bookseat_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/BookSeatDemo.aspx&#xD;&#xA;                  ">网上选座
+                </a>|<a rel="nofollow" title="退票改签" id="c_ph_flightorderlist_f" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">退票改签
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                ">机票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_trains"><a title="火车" class="cui_nav_has" id="c_ph_train" href="&#xD;&#xA;          http://trains.ctrip.com"><b></b><span>火车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内火车票" id="c_ph_train_t" href="&#xD;&#xA;          http://trains.ctrip.com">国内火车票
+                </a>|<a title="国际火车票" id="c_ph_traino_t" href="&#xD;&#xA;          http://vacations.ctrip.com/outie&#xD;&#xA;                  ">国际火车票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                ">火车票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination"><a title="汽车" class="cui_nav_non" id="c_ph_bus" href="&#xD;&#xA;          http://Bus.ctrip.com"><span>汽车</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_car"><a href="http://car.ctrip.com/#ctm_ref=chp_var_txt" class="cui_nav_hotel cui_nav_has" id="c_ph_car"><span>用车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="用车首页" id="c_ph_car_c" href="&#xD;&#xA;          http://car.ctrip.com#ctm_ref=chp_var_txt&#xD;&#xA;                  ">用车首页
+                </a>|<a title="接送机/专车" id="c_ph_daijia_c" href="&#xD;&#xA;          http://car.ctrip.com/daijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">接送机/专车
+                </a>|<a title="海外自驾" id="c_ph_hwzj_c" href="&#xD;&#xA;          http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">海外自驾
+                </a>|<a title="国内自驾" id="c_ph_zj_c" href="&#xD;&#xA;          http://car.ctrip.com/zijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">国内自驾
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/CarOrderList.aspx&#xD;&#xA;                ">用车订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_ticket"><a title="门票" class="cui_nav_has" id="c_ph_piao" href="&#xD;&#xA;                http://piao.ctrip.com"><b></b><span>门票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内门票" id="c_ph_piao_p" href="&#xD;&#xA;                    http://piao.ctrip.com/?clear=t&#xD;&#xA;                  ">国内门票
+                </a>|<a title="海外门票" id="c_ph_piaooversea_p" href="&#xD;&#xA;                    http://piao.ctrip.com/oversea&#xD;&#xA;                  ">海外门票
+                </a>|<a title="当地玩乐" id="c_ph_huodong_p" href="http://huodong.ctrip.com">当地玩乐<i class="cui_ico_new" style="left:52px;"></i></a>|<a title="周末游" id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PiaoOrderlist.aspx&#xD;&#xA;                ">门票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_tuan"><a class="cui_nav_has" id="c_ph_tuan" href="&#xD;&#xA;          http://tuan.ctrip.com"><span>团购</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="团购首页" id="c_ph_tuan_tu" href="&#xD;&#xA;          http://tuan.ctrip.com">团购首页
+                </a>|<a title="酒店客房" id="c_ph_tuanhotel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/hotel/&#xD;&#xA;                  ">酒店客房
+                </a>|<a title="餐饮娱乐" id="c_ph_tuanlife_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/life/&#xD;&#xA;                  ">餐饮娱乐
+                </a>|<a title="旅游出行" id="c_ph_tuantravel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/travel/&#xD;&#xA;                  ">旅游出行
+                </a>|<a title="门票" id="c_ph_tuanticket_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/ticket/&#xD;&#xA;                  ">门票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/GroupOrderList.aspx&#xD;&#xA;                ">团购订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01" class="cui_nav_current"><a title="攻略" class="cui_nav_non" id="c_ph_you" href="&#xD;&#xA;          http://you.ctrip.com"><b></b><span>攻略</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01"><a title="全球购" class="cui_nav_non" id="c_ph_go" href="&#xD;&#xA;          http://g.ctrip.com"><b></b><span>全球购</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_lpk"><a class="cui_nav_has" id="c_ph_lipin" href="&#xD;&#xA;          http://lipin.ctrip.com"><span>金融</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="礼品卡" id="c_ph_lipin_l" href="&#xD;&#xA;          http://lipin.ctrip.com">礼品卡
+                </a>|<a title="携程宝" id="c_ph_xcb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/xcb&#xD;&#xA;                  ">携程宝
+                </a>|<a title="程涨宝" id="c_ph_czb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/czb&#xD;&#xA;                  ">程涨宝
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/TicketOrderList.aspx&#xD;&#xA;                ">礼品卡订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination03"><a title="商旅" rel="nofollow" class="cui_nav_non" id="c_ph_crptravel" href="&#xD;&#xA;          http://www.ctrip.com/crptravel/&#xD;&#xA;              "><b></b><span>商旅</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_more"><a rel="nofollow" id="a_moreLink" title="更多" class="cui_nav_more cui_nav_has" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;              "><span>更多</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_more"><a title="积分商城" rel="nofollow" id="c_ph_rewards_m" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;                  ">积分商城
+                </a>|<a title="合作卡" rel="nofollow" id="c_ph_cards_m" href="&#xD;&#xA;          http://cards.ctrip.com">合作卡
+                </a>|<a title="订餐" rel="nofollow" href="http://dining.ctrip.com" id="c_ph_dining_m">
+                  订餐
+                </a></div>
+        </div>
+      </li>
+      <li id="loginDivLi" class="cui_myctrip">
+        <div id="div_LoginShow" style="display:none;"><span class="cui_myctrip_status" id="usernameId"><a rel="nofollow" id="c_ph_myhome" href="&#xD;&#xA;          http://my.ctrip.com/home/myinfo.aspx&#xD;&#xA;                  ">我的携程
+                </a></span><b></b><a href="" class="cui_links_exit" id="c_ph_logout">退出</a></div>
+        <div id="notLogin"></div>
+        <div class="cui_account" id="notLoginDiv" style="display:none;">
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+        <div class="cui_account" id="loginDiv" style="display:none;">
+          <div id="div_user"></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+      </li>
+    </ul>
+  </div><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><script type="text/javascript">
+(function () {
+;window.replace=function(){return ''};(function(){var D=document,$=function(id){return D.getElementById(id)},st=null,st2=null,lazyTime=0,lis=[$("cui_nav_hotel"),$("cui_nav_car"),$("cui_nav_vac"),$("cui_nav_flight"),$("cui_nav_more"),$("cui_nav_trains"),$("cui_nav_tuan"),$("cui_nav_lpk"),$("cui_nav_ticket")],E={onmouseenter:function(o,f){if(D.all){o.onmouseenter=f
+}else{o.onmouseover=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},onmouseout:function(o,f){if(D.all){o.onmouseleave=f}else{o.onmouseout=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},addEvent:function(el,type,handler){if(el.addEventListener){el.addEventListener(type,handler,false)
+}else{if(el.attachEvent){el.attachEvent("on"+type,handler)}else{el["on"+type]=handler}}}},F={setTime:function(){E.onmouseenter($("cui_nav"),function(){setTimeout(function(){lazyTime=150
+},30)});E.onmouseout($("cui_nav"),function(){lazyTime=0})},initEvent:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;E.onmouseenter(lis[j],function(){F.interFn(lis[j])});E.onmouseout(lis[j],function(){F.outerFn(lis[j])
+})})(i)}},reset:function(){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{lis[i].className=""}}},padReset:function(j){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{if(i!==j){lis[i].className=""}}}},interFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st2!=null){clearTimeout(st2);st2=null}st=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){}else{obj.className="cui_nav_o";
+node.className="cui_nav_current cui_nav_unhover"}},lazyTime)},outerFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st!=null){clearTimeout(st);st=null}st2=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){obj.className="cui_nav_current"
+}else{obj.className="";node.className="cui_nav_current"}},250)},initMobile:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;var oneLevel=lis[j].getElementsByTagName("A")[0];oneLevel.href="###";oneLevel.onmousedown=function(){F.padReset(j);
+if(lis[j].className.indexOf("cui_nav_current")===-1){if(lis[j].className.indexOf("cui_nav_o")>-1){lis[j].className="";
+document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";oneLevel.style.visibility="hidden";
+setTimeout(function(){oneLevel.style.visibility="visible"},10)}else{lis[j].className="cui_nav_o";document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";
+document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover"}}}})(i)}},contains:function(target){for(var i=0,len=lis.length;
+i<len;i++){if(lis[i].compareDocumentPosition(target)-19>0){return true}}return false}};if($("headStyleId")){$("headStyleId").parentNode.removeChild($("headStyleId"))
+}if((/ip(hone|od)|ipad/i).test(navigator.userAgent)){F.initMobile();E.addEvent(D.body,"click",function(e){var target=e.target||e.srcElement;
+if(!F.contains(target)){F.reset()}})}else{F.setTime();F.initEvent()}})();
+})();
+</script></div>
+<div class="gs-header cf">
+    <div class="content">
+        <div class="gs-nav">
+            <ul>
+                <li id="gs_nav_0"><a href="/"><i class="icon_home"></i></a>
+                </li>
+                <li id="gs_nav_1"  class="active"> <a href="/place/">目的地</a></li>
+                <li id="gs_nav_3"> <a href="/travels/">游记</a></li>
+                <li id="gs_nav_4" > <a href="/asks/">问答</a></li>
+                <li id="gs_nav_5" > <a href="/events/">结伴</a></li>
+                <li id="gs_nav_7"> <a href="/around/">周末游</a></li>
+                <li id="gs_nav_9"> <a href="http://vacations.ctrip.com/deals">特卖汇</a></li>
+                <li id="gs_nav_8"> <a href="http://top.ctrip.com">口碑榜</a></li>
+                <li id="gs_head_myhomepage" class="last"><a rel="nofollow" href="/members/">我的主页</a></li>
+            </ul>
+        </div>
+        <div class="gs-search-2">
+            <input type="text" placeholder="搜索城市、景点、游记、问答、用户" id="gsSearch" autocomplete="off" class="sgtgray">
+            <button class="btn-search" type="button"></button> 
+            <div id="gsNotice" class="gs-notice">
+                <a class="ico_linkpbox" href="#"></a>
+                <div class="glistbox">
+                    <span class="npoptip-arrow"></span>
+                    <div class="ulouter">
+                        <ul class="populist">
+                            <li>
+                                <a href="/dianping/">写点评</a>
+                            </li>
+                            <li>
+                                <a href="/add-travel/guide.html">写游记</a>
+                            </li>
+                            <li>
+                                <a href="/asks/newquestion.html">提问题</a>
+                            </li>
+                            <li>
+                                <a href="/events/selectindentity">发结伴</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var getHeadOtherInfo = function () {
+        $.ajax({
+            url: '/Destinationsite/Shared/GetHeadeOtherInfo',
+            type: "POST",
+            async: true,
+            data: {},
+            datatype: "json",
+            success: function (responseText) {
+                if (responseText.IsMerchantUser) {
+                    $('#gs_head_myhomepage a').text('商家主页');
+                }
+                $('#gs_head_myhomepage a').attr('href', responseText.MySiteUrl);
+                if (responseText.ShowUserMsgCount != "") {
+                    //var msg = "<span class=\"tipsbox_outer\"><a href=\"/members/message/receivelist.aspx\" class=\"gstips_supcount\" title=\"消息(" + responseText.ShowUserMsgCount + ")\" rel=\"nofollow\">" + responseText.ShowUserMsgCount + "</a></span>";
+                    var msg = "<span class=\"tipsbox_outer\">" + responseText.ShowUserMsgCount + "</span>";
+                    $('#gs_head_myhomepage').append(msg);
+                }
+            },
+            error: function () {
+                
+            }
+        });
+    };
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(getHeadOtherInfo);
+</script>
+
+    </div>
+    
+<div class="content cf">
+    <input type="hidden" id="page_id" value="290546" />
+    <div class="breadbar cf">
+                <a href="/" title="旅游攻略社区">旅游攻略社区</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place" title="目的地">目的地</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/china110000.html" title="中国">中国</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/liaoning100061.html" title="辽宁">辽宁</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/benxi463.html" title="本溪">本溪</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                    景点
+    </div>
+
+    <div class="dest_toptitle">
+        <div class="cf">
+            <div class="f_left">
+                <h1><a href="/place/benxi463.html" title="本溪">本溪</a></h1>
+                <p>Benxi</p>
+            </div>
+<div class="f_right">
+    <ul>
+        <li id="wentClick" class="des_icon_been"><a id="wentClickID" rel="nofollow" data_type="Place" dataresource-cat="463" data-cat="463" class="a_popup_login"  href="javascript:void(0)"></a>
+            <p>
+                <span class="textcolor" id="spanwentId">去过</span><span><em id="emWentValueID">0</em></span></p>
+        </li>
+        <li id="wantClick" class="des_icon_want">
+            <a id="wantClickID" data_type="Place" class="a_popup_login"  dataresource-cat="463" data-cat="463" rel="nofollow" href="javascript:void(0)" ></a>
+            <p>
+                <span class="textcolor" id="spanwantId">想去</span><span><em id="emWantValueID">0</em></span></p>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    /*
+    *想去的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.wantRequestFn = function (param) {
+        ClickWant();
+    };
+    /**
+    *去过的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.beenRequestFn = function (param) {
+         ClickWent();
+    };
+</script>        </div>
+        <div class="sec_line cf">
+
+    <div class="weather gs_tianqi_mini">
+        <span  id="WeaTher">
+                <i class="ws_icon ws_icon4"></i>19℃/26℃<span class="arrow"></span>
+        </span>
+        <span class="f_line">|</span>
+    </div>
+    <div style="display: none;" class="hoverweather">
+        <ul>
+            <li><span class="daytext">今天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon4"></i>19℃/26℃</div>
+                <span class="arrow"></span></li>
+            <li><span class="daytext">明天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon3"></i>17℃/27℃</div>
+            </li>
+            <li><span class="daytext">后天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon0"></i>15℃/28℃</div>
+            </li>
+        </ul>
+    </div>
+            <p class="ellipsis">冰天雪地中的暖暖温泉，秋高气爽中红叶飘飘，这里是高句丽民族之源。</p>
+        </div>
+    </div>
+ <input type="hidden" id="putDistrictId" value="463" /> 
+</div>
+<!--悬顶标题-->
+
+<div class="ttd_topnav_box">
+    <div class="ttd_topnav">
+        <div class="innerbox">
+            <ul class="cf">
+                <li>    <a href="/place/benxi463.html">主页</a> 
+</li>
+                <li>    <a href="/summary/benxi463.html">指南</a> 
+</li>
+                <li>    <a href="/traffic/benxi463.html">交通</a> 
+</li>
+                <li class="current">    <a href="/sight/benxi463.html">景点</a> 
+</li>
+<li>    <a href="/hotels/benxi463.html">住宿</a> 
+        <span class="gs_newicon"></span>
+</li>                <li>    <a href="/restaurant/benxi463.html">美食</a> 
+</li>
+                <li>    <a href="/shopping/benxi463.html">购物</a> 
+</li>
+                <li>    <a href="/resort/benxi463.html">娱乐</a> 
+</li>
+                <li>    <a href="/travels/benxi463.html">游记</a> 
+</li>
+                <li>    <a href="/journeys/benxi463.html">行程</a> 
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="ttd2_background">
+    <div class="content cf">
+        <div class="des_narrow f_left">
+            <!--排行榜-->
+        
+            <!--侧边下载二维码&攻略轮播-->
+
+
+<div class="app_entrance">
+    <!--APP下载-->
+    <div class="appbox">
+        <h3><a target="_blank" href="http://app.ctrip.com/">下载携程旅行</a><span class="tips">最新</span></h3>
+        <ul>
+            <li>吃喝玩乐住旅行指引</li>
+            <li>口袋中的旅行利器</li>
+        </ul>
+    </div>
+</div><div class="c_vacation" id="destVacationProductId" style="display: none">
+</div>
+
+<script type="text/javascript">
+    function ShowVacationAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetVacationsAdView',
+            type: "POST",
+            async: true,
+            dataType: 'html',
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText != "") {
+                    $('#destVacationProductId').show();
+                    $('#destVacationProductId').html($('#destVacationProductId').html() + responseText);
+                    ReplaceVacationUrl();
+                }
+            },
+            error: function () {
+                $('#destVacationProductId').hide();
+            }
+        });
+    }
+    //设置特价度假统计链接锚点
+    function ReplaceVacationUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_07_vac_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_vacationl]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script><div class="c_hotel" style="display: none" id="destHotelID">
+</div>
+<script type="text/javascript">
+    function ShowspecialHotelAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetSpecialHotelAdView',
+            type: "POST",
+            async: true,
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "")
+                    $('#destHotelID').hide();
+                else {
+                    $('#destHotelID').show();
+                    $('#destHotelID').html(responseText);
+                    ReplaceHotelUrl();
+                }
+            },
+            error: function () {
+                $('#destHotelID').hide();
+            }
+        });
+    }
+    //设置酒店统计链接锚点
+    function ReplaceHotelUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_08_hod_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_hotel]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+
+            });
+        }
+    }
+</script>
+            <!--侧边特价机票--> 
+     <!--侧边tab表单切换-->
+           <div id="cateSTab" class="catetab_title">
+               <ul>
+                   <li class="active"><a href="#cate_hotel">酒店</a></li>
+                   <li><a href="#cate_flight">机票</a></li>
+                   <li><a href="#cate_travel">旅游</a></li>
+                   <li><a href="#cate_ticket">门票</a></li>
+                   <li class="cate_train"><a href="#cate_train">火车票</a></li>
+               </ul>
+           </div>
+<div class="catetab_content">
+    <div class="tabitem active" id="cate_hotel">
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="hotelTo" value="本溪"  data="Benxi|本溪|1155"/></div>
+    	<div class="sformline"><label>入住日期：</label><input type="text" class="sformtext" id="hotelStartDate" readonly="true"/></div>
+        <div class="sformline"><label>退房日期：</label><input type="text" class="sformtext" id="hotelEndDate" readonly="true"/></div>
+            <div class="sformline"><label>酒店级别：</label><div class="gsn-select sformselect">
+                                                           <div class="select-txt" data-value="0">不限</div>
+                                                           <ul style="display: none;" class="selectlist undis">
+                                                               <li><a data-value="0" href="javascript:;">不限</a></li>
+                                                               <li><a data-value="5" href="javascript:;">五星级/豪华</a></li>
+                                                               <li><a data-value="4" href="javascript:;">四星级/高档</a></li>
+                                                               <li><a data-value="3" href="javascript:;">三星级/舒适</a></li>
+                                                               <li><a data-value="2" href="javascript:;">二星级以下/经济</a></li>
+                                                           </ul>
+                                                           <span class="arrow"></span> </div></div>
+    	<div class="sformline"><label>关键词：</label><input type="text" class="sformtext" id="hotelKeyword" placeholder="酒店名/地标/商圈" /></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索酒店</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_flight">
+    	<div class="sformline"><label>航程类型：</label><span class="radiobox" for="flightOneWay"><input type="radio" id="flightOneWay" checked="checked" value="0" name="flyType"/>单程</span><span class="radiobox"><input type="radio" id="flightBackForth" value="1" name="flyType"/>往返</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="flightFrom" value="上海"  data="|上海|SHA" /></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="flightTo" value="本溪"  data="|本溪|SHE" /></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="flightStartDate" readonly="true"/></div>
+    	<div class="sformline gray"><label>返回日期：</label><input type="text" class="sformtext" id="flightEndDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索机票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+    <div class="tabitem" id="cate_travel">
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext" readonly="readonly" id="travelFrom" value="上海" data="2"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="travelTo" value="本溪" data="1155"/></div>
+    	<!--div class="sformline"><label>类型：</label><ul class="checkul">
+    	    <li><span class="radiobox"><input type="radio" checked="checked" value="0"/>团队游</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="1"/>半自助</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="2"/>自由行</span></li>
+    	</ul></div-->
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索旅游</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_ticket">
+    	<div class="sformline"><label>景点名称：</label><input type="text" class="sformtext" placeholder="请输入景点名称" id="ticketText"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索门票</span></a><!--p class="errtext">请输入景点名称报错文字</p--></div>
+      
+    </div>
+    <div class="tabitem" id="cate_train">
+    	<div class="sformline"><label>类型：</label><span class="radiobox"><input type="radio" id="trainOneWay" checked="checked"/>单程</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="trainFrom" value="上海" data="|上海|Shanghai"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="trainTo" value="本溪" data="|本溪|Benxi"/></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="trainStartDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索火车票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    var district = 463;
+    INTERFACE.isChina = true;
+            //点击搜索酒店 触发的方法
+    INTERFACE.searchHotelFn = function(param) {
+        var cityPY = param.destinationData.split('|')[0];
+        var cityId = param.destinationData.split('|')[2];
+        // var kw = (param.keyword == "" ? "" : ("k1" + param.keyword));
+        var kw = (((!param.hotelLevel) || (param.hotelLevel == "0") || (param.hotelLevel == "")) ? "" : ("star" + param.hotelLevel))
+            + (param.keyword == "" ? "" : (((INTERFACE.isChina) ? "k1" : "k2") + param.keyword));
+        var urlhead = "";
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if(INTERFACE.isChina) {
+            gnw = "hod";
+            urlhead = "http://hotels.ctrip.com/hotel/";
+        }else {
+            gnw = "hoi";
+            urlhead = "http://hotels.ctrip.com/international/";
+        }
+        var url = urlhead + cityPY + cityId
+            + (kw == "" ? "" : ("/" + kw))
+                + "/?checkin=" + param.startDate
+                    + "&checkout=" + param.endDate;
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        window.open(url + ctm, "HotelSearch" + (new Date()).getMilliseconds());
+    };
+            //点击搜索机票 触发的方法
+    INTERFACE.searchFlightFn = function(param) {
+        var type = param.type;
+        var from = param.fromData.split('|')[2];
+        var to = param.destinationData.split('|')[2];
+        var startTime = param.startDate;
+        var endTime = param.endDate;
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if (true) {
+            gnw = "fld";
+        } else {
+            gnw = "fli";
+        }
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        if (from != undefined && from != "" && to != undefined && to != "" && startTime != "" && startTime != null) {
+            if (type == 0) {
+
+                if (true) {
+                    var diff = GetDateDiff(startTime);
+                    var url0 = "http://flights.ctrip.com/booking/" + from + "-" + to + "-day-" + 1 + ".html?SortByPrice=true&ddate=" + startTime;
+                    window.open(url0 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=S&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            } else if (type == 1 && endTime != null && endTime != "") {
+                if (true) {
+                    var url1 = "http://flights.ctrip.com/booking/" + from + "-" + to + "---d-adu-1/?ddate1=" + startTime + "&ddate2=" + endTime;
+                    window.open(url1 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=D&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "&&relrdate=" + endTime + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            }
+        }
+    };
+            //点击搜索旅游 触发的方法
+    INTERFACE.searchTravelFn = function(param) {
+        form = submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: {
+                "searchFrom": "http://you.ctrip.com/",
+                "searchID": "0",
+                "searchText": param.destination,
+                "searchType": "U",
+                "searchValue": param.destination,
+                "startCity": param.fromData
+            }
+        });
+    };
+            //点击搜索门票 触发的方法
+    INTERFACE.searchTicketFn = function(param) {
+        var saleCity = $("#tab_vacationStartCity").val(); //出发城市
+        var param = {
+            "SearchFrom": "http://vacations.ctrip.com/tickets",
+            "SearchID": "0",
+            "SearchText": param.name,
+            "SearchType": "U",
+            "SearchValue": param.name,
+            "StartCity": saleCity
+        };
+
+        submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: param
+        });
+
+    };
+            //点击搜索火车票 触发的方法
+    INTERFACE.searchTrainFn = function(param) {
+        var from = param.fromData.split('|')[2];
+        var fromCn = param.fromData.split('|')[1];
+        var to = param.destinationData.split('|')[2];
+        var toCn = param.destinationData.split('|')[1];
+        var startTime = param.startDate;
+        var pageid = $("#page_id").val();
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_trd_3_" + district + "_undefined";
+        var url = "http://trains.ctrip.com/TrainBooking/Search.aspx?from=" + from
+            + "&to=" + to
+                + "&day=" + (GetDateDiff(startTime) + 1)
+                    + "&fromCn=" + escape(fromCn)
+                        + "&toCn=" + escape(toCn);
+        window.open(url + ctm, "TrainSearch" + (new Date()).getMilliseconds());
+    };
+</script>
+            <!--侧边特价机票-->
+<div id="specialFlightId" class="special_ticket" style="display:none">
+	
+</div>
+<input type="hidden"  id="startCityId" name="startCityId" value="2" />
+<input type="hidden"  id="endCityId" name="endCityId" value="463" />
+<input type="hidden"  id="dCode" name="dCode" value="" />
+<input type="hidden"  id="aCode" name="aCode" value="" />
+<input type="hidden"  id="inChina" name="inChina" value="True" />
+<input type="hidden"  id="ctmInfo" name="ctmInfo" value="#ctm_ref=gs_ttd_{0}_02_fld_2_463_undefined" />
+<script type="text/javascript">
+    var index = 0;
+//下一个标识
+
+    function GetSpecialFlightView   () {
+        var dCode = $("#dCode").val();//出发三字码
+        var aCode = $("#aCode").val(); //到达三字码
+
+        var startCity = $("#startCityId").val();
+        var endCity = $("#endCityId").val(); 
+        
+        var inChina = $("#inChina").val(); //是否国内
+
+        if (startCity != "" && endCity != "") {
+            $.ajax({
+                url: '/Destinationsite/TTDSecond/SharedView/AjaxGetSpecialFlight',
+                type: "POST",
+                async: true,
+                dataType: "text",
+                data: { dCode: dCode, aCode: aCode, inChina: inChina, startCity: startCity, endCity: endCity, index: index, rank: Math.random() },
+                success: function (responseText) {
+
+                    if (responseText == "") {
+                        $('#specialFlightId').hide();
+                    } else {
+                        $('#specialFlightId').show();
+                        $('#specialFlightId').html(responseText);
+                        ReplaceFlightUrl();
+                    }
+                },
+                error: function () {
+                    $('#specialFlightId').hide();
+                }
+            });
+        }
+
+    }
+//下一批7天 
+    function NextSpecialFlight() {
+        index += 1;
+       
+        if (index <= 4) {
+            GetSpecialFlightView();
+      } 
+//        else {
+//            $("#NextRightId").addClass("disable_r");
+//        }
+    }
+
+    function UpSpecialFlight() {
+        index = index - 1;
+        GetSpecialFlightView();
+
+    }
+    //设置国内机票统计链接锚点
+    function ReplaceFlightUrl() {
+        var pageid = $("#page_id").val();
+        if (pageid != "") {
+            var ctmInfo = $("#ctmInfo").val().replace("{0}", pageid);
+            $("a[data-id=ctm_gs_gnjp]").each(function (i) {
+                var str = $(this).attr("href") + ctmInfo;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script>        
+            <!--侧边栏广告位-->
+            <!--侧边结伴活动-->
+  <script type="text/javascript">
+      function OnloadEventDistrictimg() {
+          var sid = "";
+          var district = "";
+          $("a[name='eventDistrict_img'] img").each(function () {
+              var imgid = $(this).attr("writing");
+              var districtid = $(this).attr("data-id");
+              sid += "," + imgid;
+              district += "," + districtid;
+          });
+          if (sid != "" || district != "") {
+
+              $.ajax({
+                  url: "/destinationsite/SharedPage/GetDistrictPhoto",
+                  type: "post",
+                  async: true,
+                  data: { "writing": sid, "district": district, "width": "60", "height": "60" },
+                  success: function (responseText) {
+                      $.each(responseText, function (i, item) {
+                          if (item && item.ImgageUrl != "") {
+                              if (item.IsDistrict == 1) {
+                                  $("a[name='eventDistrict_img'] img[data-id='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              } else {
+                                  $("a[name='eventDistrict_img'] img[writing='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              }
+
+                          }
+                      });
+                  },
+                  error: function () {
+                  }
+              });
+          }
+      }
+      var asynfunc = window.asynfunc || [];
+      asynfunc.push(OnloadEventDistrictimg);
+    </script>
+
+        
+            <!--侧边问答-->
+    <div class="c_ques">
+        <div class="narrow_title cf">
+            <h3>当地问答</h3>
+            <span><a target="_blank" href="/asks/newquestion.html">我要提问</a>&emsp;|&emsp; <a target="_blank" href="/asks/benxi463.html">更多<i class="gs2_more_arror"></i></a></span>
+        </div>
+        <ul>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1358940.html" target="_blank" class="ellipsis" title="#汉庭酒店（本溪客运站店）#港澳台客人可以入住吗？">#汉庭酒店（本溪客运站店）#港澳台客人可以入住吗？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1337122.html" target="_blank" class="ellipsis" title="我要买景区门票 明天 可以用吗">我要买景区门票 明天 可以用吗</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1336205.html" target="_blank" class="ellipsis" title="#本溪海航国际酒店#住海航酒店赠水洞门票吗">#本溪海航国际酒店#住海航酒店赠水洞门票吗</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1335272.html" target="_blank" class="ellipsis" title="要去遼寧賞秋景紅葉，請問:行程如何安排較妥較順?謝謝!">要去遼寧賞秋景紅葉，請問:行程如何安排較妥較順?謝謝!</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1320270.html" target="_blank" class="ellipsis" title="本溪有自驾游吗？？？">本溪有自驾游吗？？？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1320269.html" target="_blank" class="ellipsis" title="本溪有森林公园吗？？">本溪有森林公园吗？？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1320267.html" target="_blank" class="ellipsis" title="带孩子去哪玩好呢？？">带孩子去哪玩好呢？？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/benxi463/1320266.html" target="_blank" class="ellipsis" title="七夕去哪玩啊？？？？？">七夕去哪玩啊？？？？？</a>
+                </li>
+        </ul>
+
+            <div class="searchwrap">
+                
+                <p><input type="text" class="s_input" placeholder="输入您的问题" id="textAskSearch"/><a href="javascript:;" class="b_blue_m" id="btnAskSearch"><span>搜索</span></a></p>
+
+                    <p class="ques_tips"><span>热门问答：</span>
+                            <a target="_blank" href="/asks/benxi463-t590.html">携程</a>
+                            <a target="_blank" href="/asks/benxi463-t2.html">住宿</a>
+                            <a target="_blank" href="/asks/benxi463-t595.html">门票</a>
+                            <a target="_blank" href="/asks/benxi463-dandong315.html">丹东</a>
+                            <a target="_blank" href="/asks/benxi463-shenyang155.html">沈阳</a>
+                            <a target="_blank" href="/asks/benxi463-t105302.html">返现</a>
+                            <a target="_blank" href="/asks/benxi463-z63506.html">如家快捷酒店（丹东七经街店）</a>
+                            <a target="_blank" href="/asks/benxi463-t526.html">一日游</a>
+                            <a target="_blank" href="/asks/benxi463-t106431.html">时间</a>
+                            <a target="_blank" href="/asks/benxi463-t3815.html">比如</a>
+                    </p>
+            </div>
+    </div>
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {}; INTERFACE.askSearchUrl = "http://you.ctrip.com/asks/search/?keywords=";
+    </script>
+        
+            <!--侧边目的地专家-->
+
+<div class="c_expert" id="destexpertId" style="display: none">
+  
+</div>
+
+<input type="hidden"  id="txtDistrictId" value="463" />
+
+<script type="text/javascript">
+    
+    function GetExpertPartialTTDView() {
+     
+        var district = $('#txtDistrictId').val();
+
+        $.ajax({
+            url: '/Destinationsite/TTDSecond/SharedView/PostDistrictExertView',
+            type: "POST",
+            async: true,
+            dataType: "text",
+            data: { district: district, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "") {
+                    $('#destexpertId').hide();
+                }
+                else {
+                    $('#destexpertId').show();
+                    $('#destexpertId').html(responseText);
+                }
+            },
+            error: function () {
+                $('#destexpertId').hide();
+            }
+        });
+
+    }
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(GetExpertPartialTTDView);
+</script>        
+            <!--侧边栏广告位-->
+        </div>
+        <div class="des_wide f_right">
+            
+<div class="normalbox channelspace">
+       <div class="normaltitle cf"><h1>本溪</h1></div>
+        <div class="gs_list_load">
+            <i class="listface"></i>暂时还没有相关信息，编辑们正在辛勤劳作，请期待更新！欢迎投稿给我们 <a target="_blank" href="mailto:support@ctrip.com">support@ctrip.com</a>，采纳有好礼。
+        </div> 
+</div>
+            <div class="normalbox">
+                    <div class="normaltitle cf" id="sightname">
+                        <h1>本溪<span>景点</span></h1>
+                    </div>
+                <div class="search_wide">
+                        <!--没有筛选时候这里不显示-->
+                            <ul>
+                                    <li>
+                                        <dl>
+                                            <dt>类型：<a class="current" rel="nofollow" href="javascript:void(0);">全部</a>                                            </dt>
+                                            <dd>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(169)">自然景观</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1000)">公园乐园</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1016)">运动活动</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(77)">宗教场所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1002)">历史遗迹</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1003)">建筑人文</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1004)">民风民俗</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1005)">场馆院所</a>
+                                            </dd>
+                                        </dl>
+                                        <a class="seeline" rel="nofollow" href="javascript:void(0);">更多<span></span></a>
+                                    </li>
+                            </ul>
+                    <!--没有筛选时候这里不显示 END-->
+                    <div class="city_sfind">
+                        <form action="javascript: OnSubmit();">
+                            <span class="f_left">
+                                
+                                <input id="search_sight_dg" type="checkbox" />只看可订购的景点
+                            </span>
+                            <span class="f_right">
+                                <input id="search_sight_name" type="text" placeholder="搜索景点名称" />
+                                <a class="b_blue_s" rel="nofollow" href="javascript:OnSubmit();"><span>查找</span></a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+<!--城市景点-->
+    <div class="list_wide_mod2">
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/17766.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/045/210/567/bdbc06dc8ca04604a4fe59bf6567a7dd_C_220_140.jpg" width="220" height="140" img-id="988954" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/17766.html" title="本溪水洞">本溪水洞</a>
+                                <s >第1名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市本溪满族自治县本桓公路                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/17766.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/17766.html#comment" class="recomment">
+                                (97条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/4A5549C6EC004F2EA754C3459932CDF2">Nina是彤彤</a>点评：</span>不错的自然景观，甚是壮观，旱洞比较小一小会就走完了，水洞好大~~~坐着小船一个来回差不多用了半个小时~~~里面的景观衬托着灯光显得格外的壮观美丽，感觉没有词语能够形容我当时的心情~~大自然的手斧神功实在是太厉害了
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/17768.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/667/923/092/344bda6575f640c7972a0ef4c746a9e9_C_220_140.jpg" width="220" height="140" img-id="15213728" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/17768.html" title="关门山国家森林公园">关门山国家森林公园</a>
+                                <s >第2名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市本溪满族自治县508县道山城子镇                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/17768.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/17768.html#comment" class="recomment">
+                                (32条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA05997715D54C62B22E98761E740FDF">hi绿野仙踪</a>点评：</span>关门山风景秀丽，一年四季五彩缤纷，景色各异。关门山是以枫叶著称的，都说“关门归来不看枫”，建议大家不要穿红色的衣服，因为这里的枫叶多得让你数不过来，一片连着一片。夹在两座山之间，有一条五彩湖。湖中有许多五颜六色的枫叶，经过阳光的照射，湖中反射出各种颜色，给这条五彩湖增添了不少色彩，使其更加绚烂多彩。据说在这里可以同时看到五种颜色，就像人间仙境一样非常美丽。最后别忘了去品尝地道的小市羊汤。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/huanren2144/64881.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/635/231/304/553630352e5140559eed8d0e719f8144_C_220_140.jpg" width="220" height="140" img-id="15909711" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/huanren2144/64881.html" title="五女山">五女山</a>
+                                <s >第3名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市桓仁满族自治县桓仁镇刘家沟村哈达河东岸五女山风景旅游区                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/huanren2144/64881.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/huanren2144/64881.html#comment" class="recomment">
+                                (21条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA013BD8976B406C96DD322EB5519362">行走老牛</a>点评：</span>桓仁名山，因为高句丽民族的开国都城在此，所以名声海内外，山的高度较高，而且比较陡，所以爬起来有些辛苦，山顶上平缓，有几处高句丽王朝的遗址。。。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/142518.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/428/545/729/be591e22a1824b57a7eec77bb80ac5a8_C_220_140.jpg" width="220" height="140" img-id="7327477" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/142518.html" title="大雅河漂流">大雅河漂流</a>
+                                <s class=g_background>第4名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市桓仁满族自治县大雅河漂流风景区                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/142518.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/142518.html#comment" class="recomment">
+                                (8条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/huanren2144/64938.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/064/143/505/69f046a68bc04648ad771f40f29bb0d9_C_220_140.jpg" width="220" height="140" img-id="10318192" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/huanren2144/64938.html" title="望天洞">望天洞</a>
+                                <s class=g_background>第5名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市桓仁县雅河乡弯川村                        </dd>
+                        <dd>
+                            AAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/huanren2144/64938.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/huanren2144/64938.html#comment" class="recomment">
+                                (6条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/136151.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/768/318/318/fb2bee85ce85422c8f6fa25e30119e1f_C_220_140.jpg" width="220" height="140" img-id="7163466" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/136151.html" title="本溪老边沟风景区">本溪老边沟风景区</a>
+                                <s class=g_background>第6名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市本溪县东营坊乡南营坊村                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/136151.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/136151.html#comment" class="recomment">
+                                (16条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA05997715D54C62B22E98761E740FDF">hi绿野仙踪</a>点评：</span>这是一处溪水潺潺、绿树成荫、处处岩石的小桥流水亭台楼阁的仙境之中。阳光照耀下，水波粼粼，翠绿的树叶闪着光芒，呼吸着清新的空气，好一派世外桃源之境。这里的石头长期被流水冲刷，十分湿滑，经常有人滑倒，建议穿防滑的鞋。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/17767.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/075/971/776/b49b187055dd466f8faf060392255c98_C_220_140.jpg" width="220" height="140" img-id="7176248" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/17767.html" title="本溪湖公园">本溪湖公园</a>
+                                <s class=g_background>第7名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市溪湖区溪湖西路212号                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/17767.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/17767.html#comment" class="recomment">
+                                (19条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA013BD8976B406C96DD322EB5519362">行走老牛</a>点评：</span>去的时候不知道是后期建设还是整修，总之是在施工，当时卫生环境不太好。有很多老年人在，景色还可以。有寺庙。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/132094.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/924/888/104/088e9b010a3444599ed5e87ab1b1d862_C_220_140.jpg" width="220" height="140" img-id="2141146" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/132094.html" title="枫叶广场 ">枫叶广场 </a>
+                                <s class=g_background>第8名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市明山区翠溪路                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/132094.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/132094.html#comment" class="recomment">
+                                (23条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/136137.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/948/739/501/08de8191588044ac95ac230e99f01333_C_220_140.jpg" width="220" height="140" img-id="6007230" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/136137.html" title="本溪龙溪园水上世界">本溪龙溪园水上世界</a>
+                                <s class=g_background>第9名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市明山区541乡道                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/136137.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/136137.html#comment" class="recomment">
+                                (9条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/17770.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/904/242/135/d24710c6540f4410bb50517a3fed2cd7_C_220_140.jpg" width="220" height="140" img-id="7176214" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/17770.html" title="铁刹山">铁刹山</a>
+                                <s class=g_background>第10名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市本溪满族自治县溪田铁路南甸子车站西南                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/17770.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/17770.html#comment" class="recomment">
+                                (7条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA013BD8976B406C96DD322EB5519362">行走老牛</a>点评：</span>辽宁省有明的道教圣地，景区里总能看到我在教科书里才见到过的竹节虫，野生的山核桃，蚕蛹在地上随处都可以捡的到，景区内的大柏树着实憾人心魄，本溪也不愧是山城辽宁省的山全部都在这座城市安了家。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/142517.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/657/422/812/07b2e1cfac2240a2bcf51506d09133d3_C_220_140.jpg" width="220" height="140" img-id="14941985" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/142517.html" title="大石湖风景区">大石湖风景区</a>
+                                <s class=g_background>第11名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪县东营坊乡南营坊村                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/142517.html"><strong>3.7</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/142517.html#comment" class="recomment">
+                                (7条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/DA013BD8976B406C96DD322EB5519362">行走老牛</a>点评：</span>山青水秀，进到景区里的时候确实被眼前的景色吸引了，和语文书中的室外桃源一种感觉。 而且，潭中鱼可百许头，皆若空游无所依。 里面的龙王庙过往的游客如果有心的话一定要舍些功德，因为里面有说不完的故事。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/142513.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/578/758/195/35ba86dd83e64d6bb5f63c255f4359ec_C_220_140.jpg" width="220" height="140" img-id="7327241" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/142513.html" title="关门山森林大峡谷">关门山森林大峡谷</a>
+                                <s class=g_background>第12名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪县满族自治县小市镇关门山森林公园                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/142513.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/142513.html#comment" class="recomment">
+                                (5条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/13C6A06F1775442F89606E60574D8CD5">云游四海翁</a>点评：</span>关门山森林大峡谷是关门山国家森林公园的一部分，位于辽宁省本溪满族自治县。这里的秋天，万山红遍层林尽染，美不胜收！是欣赏枫叶的绝佳去处！！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/17769.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/251/878/433/c4706439c6e148e297459fc8d2bf6302_C_220_140.jpg" width="220" height="140" img-id="7176215" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/17769.html" title="温泉寺">温泉寺</a>
+                                <s class=g_background>第13名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市本溪满族自治县太子河畔                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/17769.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/17769.html#comment" class="recomment">
+                                (5条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/142516.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/721/616/190/285c7ef7fb5e418585a5adf533dbbad0_C_220_140.jpg" width="220" height="140" img-id="7327535" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/142516.html" title="同泉温泉">同泉温泉</a>
+                                <s class=g_background>第14名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市明山区卧龙镇三家子村                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/142516.html"><strong>3.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:70%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/142516.html#comment" class="recomment">
+                                (2条点评)</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/benxi463/1407141.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/691/561/417/08fc96bc534d4efc8e23e256f488cef1_C_220_140.jpg" width="220" height="140" img-id="7709775" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/benxi463/1407141.html" title="同泉滑雪场">同泉滑雪场</a>
+                                <s class=g_background>第15名</s>
+                        </dt>
+                        <dd class="ellipsis">
+本溪市明山区卧龙镇三家子村                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/benxi463/1407141.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/benxi463/1407141.html#comment" class="recomment">
+                                (3条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/842F2C55EC604111BF89FEDBB8D8BA16">冰糖菊花茶</a>点评：</span>滑雪场很好啊，初级雪道，中级雪道，都不错，高级雪道没敢上，哈哈，附近有温泉，滑完雪泡个温泉，一日游不错的选择
+                    </p>
+            </div>
+        <div class="ttd_pager cf"><p>1-15 / 22条</p><div class="pager_v1"><a class="prevpage disabled">上一页</a><a class="current">1</a><a href="/sight/benxi463/s0-p2.html">2</a><a  class="nextpage" href="/sight/benxi463/s0-p2.html">下一页</a><span>到 <input id="gopagetext" value="" type="text"> 页 / <b class="numpage">2</b>页</span><a class="gopage" href="javascript:;">确定</a></div></div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div><div class="footerseo"><div class="footerseo_con"><div class="cf seo_title"><h2 class="seotitle1">旅游攻略导航</h2><div class="seo1title_r"><h3>当季热点：</h3><a href="http://you.ctrip.com/place/qingdao5.html" target="_blank">青岛</a><a href="http://you.ctrip.com/place/xiamen21.html" target="_blank">厦门</a><a href="http://you.ctrip.com/place/beidaihe1938.html" target="_blank">北戴河</a><a href="http://you.ctrip.com/place/jiuzhaigou25.html" target="_blank">九寨沟</a><a href="http://you.ctrip.com/place/zhangjiajie23.html" target="_blank">张家界</a><a href="http://you.ctrip.com/place/sanya61.html" target="_blank">三亚</a><a href="http://you.ctrip.com/place/marseilles120370.html" target="_blank">马赛</a><a href="http://you.ctrip.com/place/bali438.html" target="_blank">巴厘岛</a><a href="http://you.ctrip.com/place/phuket364.html" target="_blank">普吉岛</a></div></div><p>本溪旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的本溪自助游、自由行、自驾游、跟团旅线路，海量本溪旅游景点图片、游记、交通、美食、购物、住宿、娱乐、行程、指南等旅游攻略信息，了解更多本溪旅游信息就来携程旅游攻略。</p></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 本溪旅游快速入口</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/place/benxi463.html" target="_blank">本溪旅游攻略</a></li><li><a href="/summary/benxi463.html" target="_blank">本溪旅行指南</a></li><li><a href="/guides/benxi463.html" target="_blank">本溪攻略下载</a></li><li><a href="/sight/benxi463.html" target="_blank">本溪旅游景点</a></li><li><a href="/restaurant/benxi463.html" target="_blank">本溪特色美食</a></li><li><a href="/resort/benxi463.html" target="_blank">本溪娱乐体验</a></li><li><a href="/journeys/benxi463.html" target="_blank">本溪行程推荐</a></li><li><a href="/asks/benxi463.html" target="_blank">本溪旅游问答</a></li><li><a href="/map/benxi463.html" target="_blank">本溪景点地图</a></li><li><a href="/travels/benxi463.html" target="_blank">本溪游记攻略</a></li><li><a href="/photos/benxi463/r463.html" target="_blank">本溪旅游图片</a></li><li><a href="/hotels/benxi463.html" target="_blank">本溪酒店攻略</a></li><li><a href="/shopping/benxi463.html" target="_blank">本溪购物指南</a></li><li><a href="/traffic/benxi463.html" target="_blank">本溪旅游交通</a></li><li><a href="/events/benxi463c463-p1" target="_blank">本溪结伴旅游</a></li><li><a href="http://hotels.ctrip.com/hotel/benxi1155" target="_blank">本溪酒店</a></li><li><a href="http://trains.ctrip.com/TrainBooking/benxi/" target="_blank">本溪火车票</a></li><li><a href="http://vacations.ctrip.com/dest/d-benxi-463" target="_blank">本溪旅游</a></li></ul><h4 class="seotitle3">辽宁旅游攻略导航：</h4><ul class="cf"><li><a href="/place/chaoyao1104.html" target="_blank">朝阳</a></li><li><a href="/place/yingkou692.html" target="_blank">营口</a></li><li><a href="/place/anshan229.html" target="_blank">鞍山</a></li><li><a href="/place/huludao345.html" target="_blank">葫芦岛</a></li><li><a href="/place/dalian4.html" target="_blank">大连</a></li><li><a href="/place/jinzhou513.html" target="_blank">锦州</a></li><li><a href="/place/panjin602.html" target="_blank">盘锦</a></li><li><a href="/place/fuxin879.html" target="_blank">阜新</a></li><li><a href="/place/tieling589.html" target="_blank">铁岭</a></li><li><a href="/place/liaoyang881.html" target="_blank">辽阳</a></li><li><a href="/place/fushun514.html" target="_blank">抚顺</a></li><li><a href="/place/benxi463.html" target="_blank">本溪</a></li><li><a href="/place/dandong315.html" target="_blank">丹东</a></li><li><a href="/place/shenyang155.html" target="_blank">沈阳</a></li></ul></div> </div><div class="footerseo_con seojs3line"> <div class="cf seo_title"> <h3 class="seotitle2"> 本溪旅游景点</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/sight/benxi463/17768.html" target="_blank">关门山国家森林公园</a></li><li><a href="/sight/huanren2144/64881.html" target="_blank">五女山</a></li><li><a href="/sight/benxi463/142518.html" target="_blank">大雅河漂流</a></li><li><a href="/sight/benxi463/136151.html" target="_blank">本溪老边沟风景区</a></li><li><a href="/sight/huanren2144/64938.html" target="_blank">望天洞</a></li><li><a href="/sight/benxi463/17767.html" target="_blank">本溪湖公园</a></li><li><a href="/sight/benxi463/132094.html" target="_blank">枫叶广场 </a></li><li><a href="/sight/benxi463/136137.html" target="_blank">本溪龙溪园水上世界</a></li><li><a href="/sight/benxi463/17770.html" target="_blank">铁刹山</a></li><li><a href="/sight/benxi463/142517.html" target="_blank">大石湖风景区</a></li><li><a href="/sight/benxi463/142513.html" target="_blank">关门山森林大峡谷</a></li><li><a href="/sight/benxi463/17769.html" target="_blank">温泉寺</a></li><li><a href="/sight/benxi463/142516.html" target="_blank">同泉温泉</a></li><li><a href="/sight/benxi463/64939.html" target="_blank">天龙洞</a></li><li><a href="/sight/benxi463/1407372.html" target="_blank">东风湖冰雪大世界</a></li><li><a href="/sight/benxi463/1407141.html" target="_blank">同泉滑雪场</a></li><li><a href="/sight/huanren2144/70290.html" target="_blank">桓龙湖</a></li><li><a href="/sight/huanren2144/1411902.html" target="_blank">枫林谷森林公园</a></li><li><a href="/sight/huanren2144/69546.html" target="_blank">万乐岛</a></li><li><a href="/sight/huanren2144/1412121.html" target="_blank">五女山庄</a></li><li><a href="/sight/benxi463/70289.html" target="_blank">东风旅游度假村</a></li></ul></div> </div><div class="footerseo_con">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游目的地推荐</h3>
+                                        <a class="more" href="http://you.ctrip.com/sitemap/" target="_blank">全部&nbsp;&gt;</a>
+                                    </div><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/yongkang189.html" target="_blank">永康旅游攻略</a></li><li><a href="http://you.ctrip.com/place/liquan2759.html" target="_blank">礼泉旅游攻略</a></li><li><a href="http://you.ctrip.com/place/prague822.html" target="_blank">布拉格旅游攻略</a></li><li><a href="http://you.ctrip.com/place/malta38479.html" target="_blank">马耳他旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hebi595.html" target="_blank">鹤壁旅游攻略</a></li><li><a href="http://you.ctrip.com/place/tongxiang220.html" target="_blank">桐乡旅游攻略</a></li><li><a href="http://you.ctrip.com/place/guam1422.html" target="_blank">关岛旅游攻略</a></li><li><a href="http://you.ctrip.com/place/uganda100207.html" target="_blank">乌干达旅游攻略</a></li><li><a href="http://you.ctrip.com/place/palmsprings1925.html" target="_blank">棕榈泉旅游攻略</a></li><li><a href="http://you.ctrip.com/place/kaiyang2342.html" target="_blank">开阳旅游攻略</a></li><li><a href="http://you.ctrip.com/place/turin1433.html" target="_blank">都灵旅游攻略</a></li><li><a href="http://you.ctrip.com/place/suqian492.html" target="_blank">宿迁旅游攻略</a></li><li><a href="http://you.ctrip.com/place/munich572.html" target="_blank">慕尼黑旅游攻略</a></li><li><a href="http://you.ctrip.com/place/luanxian2573.html" target="_blank">滦县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hechi838.html" target="_blank">河池旅游攻略</a></li><li><a href="http://you.ctrip.com/place/belarus100141.html" target="_blank">白俄罗斯旅游攻略</a></li><li><a href="http://you.ctrip.com/place/nairobi795.html" target="_blank">内罗毕旅游攻略</a></li><li><a href="http://you.ctrip.com/place/wulanhaote1316.html" target="_blank">乌兰浩特旅游攻略</a></li><li><a href="http://you.ctrip.com/place/luoyang198.html" target="_blank">洛阳旅游攻略</a></li><li><a href="http://you.ctrip.com/place/liechtenstein20335.html" target="_blank">列支敦士登旅游攻略</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/sight/suzhou11/1825.html" target="_blank">沧浪亭</a></li><li><a href="http://you.ctrip.com/sight/thousandmiaovillage120531/134051.html" target="_blank">田园风光</a></li><li><a href="http://you.ctrip.com/sight/zhaoqing269/142169.html" target="_blank">七星岩</a></li><li><a href="http://you.ctrip.com/sight/beijing1/5181.html" target="_blank">北京自然博物馆</a></li><li><a href="http://you.ctrip.com/sight/kuandian2137/14924.html" target="_blank">青山沟</a></li><li><a href="http://you.ctrip.com/sight/yangzhou12/1896.html" target="_blank">个园</a></li><li><a href="http://you.ctrip.com/sight/linan88/51377.html" target="_blank">浙西大峡谷</a></li><li><a href="http://you.ctrip.com/sight/seattle253/83337.html" target="_blank">地下城</a></li><li><a href="http://you.ctrip.com/sight/linan88/16633.html" target="_blank">剑门关</a></li><li><a href="http://you.ctrip.com/sight/victoria357/21243.html" target="_blank">小人国</a></li><li><a href="http://you.ctrip.com/sight/leshan103/49087.html" target="_blank">黑竹沟</a></li><li><a href="http://you.ctrip.com/sight/tianjin154/56365.html" target="_blank">五大道</a></li><li><a href="http://you.ctrip.com/sight/xinjiang100008/110169.html" target="_blank">天山</a></li><li><a href="http://you.ctrip.com/sight/wuxi10/1769.html" target="_blank">蠡园</a></li><li><a href="http://you.ctrip.com/sight/xining237/136228.html" target="_blank">西宁</a></li><li><a href="http://you.ctrip.com/sight/xishui2343/22034.html" target="_blank">习水</a></li><li><a href="http://you.ctrip.com/sight/edonglvyouqu1194/52030.html" target="_blank">天堂寨风景区</a></li><li><a href="http://you.ctrip.com/sight/changsha148/9012.html" target="_blank">天心阁</a></li><li><a href="http://you.ctrip.com/sight/shanghai2/758.html" target="_blank">上海野生动物园</a></li><li><a href="http://you.ctrip.com/sight/hongya3096/77339.html" target="_blank">柳江古镇</a></li></ul></div><div class="footerseo_con"> <div class="cf seo_title"> <h3 class="seotitle2"> 地图导航</h3> </div> <div class="linklist cf"><a href="http://you.ctrip.com/place/countrylist.html">世界</a><a href="http://you.ctrip.com/place/china110000.html">中国</a><a href="http://you.ctrip.com/place/asia120001.html">亚洲</a><a href="http://you.ctrip.com/place/europe120002.html">欧洲</a><a href="http://you.ctrip.com/place/africa120006.html">非洲</a><a href="http://you.ctrip.com/place/northamerica120004.html">北美洲</a><a href="http://you.ctrip.com/place/southamerica120005.html">南美洲</a><a href="http://you.ctrip.com/place/oceania120003.html">大洋洲</a><a href="http://You.ctrip.com/sitemap/">目的地大全</a><a href="http://you.ctrip.com/sitemap/places.html">海外目的地</a><a href="http://you.ctrip.com/sitemap/placedis/c110000">国内目的地</a><a href="http://you.ctrip.com/sitemap/spotdis/c0">国内景点</a><a href="http://you.ctrip.com/sitemap/spots.html">海外景点</a><a href="http://you.ctrip.com/sitemap/guides">攻略</a><a href="http://you.ctrip.com/sitemap/travels.html">游记</a><a href="http://you.ctrip.com/sitemap/asks">问答</a><a href="http://you.ctrip.com/sitemap/events">结伴</a><a href="http://you.ctrip.com/sitemap/groups">小组</a><a href="http://you.ctrip.com/sitemap/official.html">认证</a></div> </div><div class="footerseo_con"><div class="cf seo_title"><h3 class="seotitle2">最新游友动态资讯</h3></div><div class="footerseo_con1" id="footerseo_marquee"><ul><li>[7分钟前] m101** 发布了游记 <a href="/travels/benxi463/1952235.html" target="_blank">本溪大石湖老边沟一日游</a></li><li>[7分钟前] 1584** 发布了游记 <a href="/travels/benxi463/1945858.html" target="_blank">盛誉枫叶之都    本溪红叶最美</a></li><li>[7分钟前] _CFT** 发布了游记 <a href="/travels/benxi463/1933213.html" target="_blank">本溪水洞一日游</a></li><li>[7分钟前] M625** 发布了游记 <a href="/travels/benxi463/1931572.html" target="_blank">丹东游记</a></li><li>[7分钟前] 1101** 发表了问题 <a href="/asks/benxi463/1358940.html" target="_blank">#汉庭酒店（本溪客运站店）#港澳台客人可以入住吗？</a></li><li>[7分钟前] 1390** 发表了问题 <a href="/asks/benxi463/1337122.html" target="_blank">我要买景区门票 明天 可以用吗</a></li><li>[7分钟前] _CFT** 发表了问题 <a href="/asks/benxi463/1336205.html" target="_blank">#本溪海航国际酒店#住海航酒店赠水洞门票吗</a></li><li>[7分钟前] bt67** 发表了问题 <a href="/asks/benxi463/1335272.html" target="_blank">要去遼寧賞秋景紅葉，請問:行程如何安排較妥較順?謝謝!</a></li></ul></div></div></div><div class="footgray"><div class="footinner cf"><dl><dt>社区必读</dt><dd><a href="http://you.ctrip.com/htmlpages/eula.html" target="_blank">用户协议</a></dd><dd><a href="http://you.ctrip.com/htmlpages/guide.html" target="_blank">社区指南</a></dd><dd><a href="http://you.ctrip.com/htmlpages/exp.html" target="_blank">经验与等级</a></dd><dd><a href="http://you.ctrip.com/htmlpages/help.html" target="_blank">新手导航</a></dd></dl><dl><dt>发现你的旅行</dt><dd><a href="http://you.ctrip.com/place" target="_blank">了解目的地</a></dd><dd><a href="http://you.ctrip.com/travels" target="_blank">阅读精彩游记</a></dd><dd><a href="http://you.ctrip.com/guides" target="_blank">下载精品攻略</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">逛逛兴趣小组</a></dd><dd><a href="http://you.ctrip.com/asks" target="_blank">请教旅行达人</a></dd><dd><a href="http://you.ctrip.com/events" target="_blank">发起结伴</a></dd></dl><dl><dt>分享你的旅行</dt><dd><a href="http://you.ctrip.com/add-travel/guide.html" target="_blank">发表游记大作</a></dd><dd><a href="http://you.ctrip.com/dianping/" target="_blank">点评去过的景点</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">去小组讨论</a></dd></dl><dl class="ftabout"><dt>关于我们</dt><dd><a href="http://you.ctrip.com/htmlpages/about.html" target="_blank">社区简介</a></dd><dd><a href="http://you.ctrip.com/htmlpages/contact.html" target="_blank">联系我们</a></dd><dd><a href="http://you.ctrip.com/htmlpages/job.html" target="_blank">加入我们</a></dd></dl><dl class="ftguanzhu"><dt>关注携程攻略社区</dt><dd class="youguanzhu cf"><span class="ftweixin"></span><a rel="nofollow" target="_blank" href="http://weibo.com/ctripyou" class="ftweibo"></a></dd></dl></div></div>
+    <script src="http://webresource.c-ctrip.com/ResCRMOnline/r1/js/float/headFloat.min.js?ws_testp20140729.js"></script><div id="base_ft">
+  <p><a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&#xA0;|&#xA0;<a rel="nofollow" title="免费注册" href="https://accounts.ctrip.com/member/emailregist.aspx">免费注册</a>&#xA0;|&#xA0;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&#xA0;|&#xA0;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&#xA0;|&#xA0;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&#xA0;|&#xA0;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" title="诚聘英才" href="http://job.ctrip.com/">诚聘英才</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201012/other/yp/index.html" title="企业礼品卡采购">企业礼品卡采购</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>&#xA0;|&#xA0;<a rel="nofollow" style="color: #0066CC;" target="_blank" title="我要提建议" href="http://my.ctrip.com/adv/uxp/Community/CommunityAdvice.aspx">我要提建议</a></p>
+  <p><a rel="nofollow" href="http://hotels.ctrip.com/jiameng#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&#xA0;|
+            <a rel="nofollow" href="http://pages.ctrip.com/commerce/promote/201406/destination/mdd/index.html">目的地营销合作</a>&#xA0;|&#xA0;
+            <a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="服务说明">服务说明</a>&#xA0;|&#xA0;
+            <a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/tour/ingroupline_pages.asp?folder=ingroup0904&amp;file=0177" title="旅游度假资质">旅游度假资质</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/Insurance/index.htm">保险代理</a>&#xA0;|&#xA0;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm">Copyright&copy;</a> 1999-2014, <a href="http://www.ctrip.com/"> ctrip.com</a>. All rights reserved.&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a></p>
+  <p id="cui_lang_bottom"><a target="_blank" class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a> <a target="_blank" class="cui_lang_en" rel="nofollow" href="http://english.ctrip.com/">English</a> <a target="_blank" class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a> <a target="_blank" class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a> <a target="_blank" href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a> <a target="_blank" class="cui_lang_de" rel="nofollow" href="http://de.ctrip.com/">Deutsch</a> <a target="_blank" rel="nofollow" href="http://es.ctrip.com/" class="cui_lang_es">Espa&#xF1;ol</a> <a target="_blank" rel="nofollow" class="cui_lang_ru" href="http://ru.ctrip.com/">Русский</a><a target="_blank" rel="nofollow" class="cui_lang_vn" href="http://vn.ctrip.com/">Tiêng Viêt</a></p>
+  <div class="honour_wrap"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=163178864X" title="网信编码：163178864X" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://search.cxwz.org/cert/l/CX20111018000615000623" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="javascript:" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.cnnic.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a></div>
+</div><!-- InstanceEnd name="position" --><script type="text/javascript">var globalConfig={H1:'https',H3:'my.ctrip.com',Lang:'gb2312',AjaxUrl:'accounts.ctrip.com'};</script><script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/js/Ctrip2013JS.js?temp=20140820" charset="utf-8"></script>
+<div class="gs_bottombar cf"><ul><li><a href="http://you.ctrip.com/special/2014bikini.aspx" target="_blank">一张比基尼照换豪宅！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/comments/foretaste" target="_blank">争当免单达人，吃遍全球霸王餐！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/event/zhoumoyou.html" target="_blank">免费趣玩，五星香格里拉！</a></li></ul></div>
+</div>
+<input type="hidden" id="sso_loginprocxyPath" name="sso_loginprocxyPath" value="http://you.ctrip.com/DestinationSite/LoginHelper/loginprocxy.html" />
+                                            <script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/R6/member/common/js/mask_you.js?20140603" charset="gb2312" ></script>
+
+
+    
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/common/js/common.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/fed/js/fed.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/ttd2/js/city_sight.v2.0.js?20140822153037"></script>
+    <script type="text/javascript">
+        function SetImgOriginalUrl() {
+            try {
+                $("img[data-original]").each(function (i) {
+                    var url = $(this).attr("data-original");
+                    if (url != "") {
+                        $(this).attr("src", url);
+                    }
+                });
+            } catch (e) {
+            }
+        }
+        $(function () {
+            ShowVacationAd(); ShowspecialHotelAd(); GetExpertPartialView();
+            OnloadEventDistrictimg(); SetImgOriginalUrl();
+        }); </script>
+    <script type="text/javascript">
+        var IsTheme = 0;
+        //是否是标签列表页（0否，1是）
+        var LabelID = 0;
+        //主题标签
+        var RegionID = 0;
+        //行政区
+        var IsPrice = 0;
+        //是否订购
+        var Keywords = '';
+        //关键字
+        var DistrictID = 463;
+        //目的地ID
+        var PageNow = 1;
+        //当前页码
+        var EName = 'Benxi';
+        //目的地英文名称
+
+        var OrderType = '0';
+
+        if (PageNow>1) {
+            window.location.hash = 'sightname';
+        }
+       
+        $(function() {
+            if (IsPrice == 1) {
+                $("#search_sight_dg").attr("checked", true);
+            } else {
+                $("#search_sight_dg").attr("checked", false);
+            }
+
+            if (Keywords != "") {
+                $("#search_sight_name").val(Keywords);
+            }
+            
+            $("#search_sight_dg").click(function() {
+                if ($("#search_sight_dg").attr("checked")) {
+                    IsPrice = 1;
+                } else {
+                    IsPrice = 0;
+                }
+                PageNow = 1;
+                OnSearch();
+            });
+             if ($("#inChina").val().toLowerCase() == "true") {
+                GetSpecialFlightView();
+            } else {
+                ShowIntelFlightAd();
+            }
+        });
+
+        function OnLabel(id) {
+            PageNow = 1;
+            LabelID = id;
+            OnSearch();
+        }
+
+        function OnRegion(id) {
+            RegionID = id;
+            PageNow = 1;
+            OnSearch();
+        }
+
+        function ColseKeys() {
+            Keywords = "";
+            PageNow = 1;
+            OnSearch();
+        }
+        function OnOrderBy(id) {
+            OrderType = id;
+            OnSearch();
+        }
+        function OnSubmit() {
+            var strkey = $.trim($("#search_sight_name").val());
+            var pl = $("#search_sight_name").attr('placeholder');
+            if (strkey == "" || strkey==pl)
+            { Keywords = ""; }
+            else
+            { Keywords = strkey; }
+            PageNow = 1;
+            OnSearch();
+        }
+        
+        INTERFACE.pageLinkJump = function (page) {
+            PageNow = page;
+            OnSearch();
+        };
+
+        function OnSearch() {
+            var strUrl = "";
+            var key = "";
+            var type = "";
+            //是否是标签页
+            if (IsTheme == '1') {
+                type = "?type=t";
+            }
+            if (Keywords != "") {
+                if (IsTheme == '1') {
+                    key = "&keywords=" + escape(Keywords);
+                } else {
+                    key = "?keywords=" + escape(Keywords);
+                }
+            }
+//            if (OrderType != "") {
+//                if (Keywords == "" && IsTheme != '1') {
+//                    key += "?ordertype=" + escape(OrderType);
+//                } else {
+//                    key += "&ordertype=" + escape(OrderType);
+//                }
+//            }
+            var params = type + key;
+
+            if ((LabelID == "" || LabelID == 0) && (PageNow == "" || PageNow <= 1) && (IsPrice == "" || IsPrice == 0) && (RegionID == "" || RegionID == 0) &&(OrderType == "" || OrderType ==0))  {
+                strUrl = "/sight/" + EName + DistrictID + ".html" + params;
+            } else {
+                var label = LabelID == "" || LabelID == 0 ? "s0" : "s" + LabelID;
+                var page = PageNow == "" || PageNow <= 1 ? "" : "-p" + PageNow;
+                var label1 = LabelID == "" || LabelID == 0 ? "" : "-l" + LabelID;
+                var isprice = IsPrice == "" || IsPrice == 0 ? "" : "-i1";
+                var region = RegionID == "" || RegionID == 0 ? "" : "-r" + RegionID;
+                var otype = OrderType != "" && OrderType != "0" ? "-o" + OrderType : "";
+                var strparams = label + page + label1+ region + isprice +otype;
+                strUrl = "/sight/" + EName + DistrictID + "/" + strparams + ".html" + params;
+            }
+
+            window.location.href = strUrl;
+        }
+    </script>
+
+<div class="content">
+                                           <div class="gs_operate_right_fix" id="gs_operate_right_fix">
+                                                 <div class="cf">
+                                                        <a href="javascript:;" class="close"></a>
+                                                 </div>
+                    <a href="http://you.ctrip.com/travels/yangzhou12/1950347.html" target="_blank" class="one">发点评赢扬州美食游！ </a></div></div>
+                            <script>
+                                $(function () {
+                                    $('#gs_operate_right_fix a.close').on('click', function ()
+                                    { $(this).parent().parent().hide(); }
+                                        );
+
+                                    }); 
+                            </script>
+    <script type="text/javascript">
+        if (!window.__SSO_submit) {
+            window.__SSO_submit = function(a, t) {
+                $('.a_popup_login').removeClass('a_popup_login');
+                switch (a) {
+                case 'wantClickID':
+                case 'wentClickID':
+                    $("#" + a).trigger('click');
+                    break;
+                case 'writereviewid':
+                    var currentUrl = window.location.href.replace( /#.*$/g , "");
+                    var urlParamsIndex = currentUrl.lastIndexOf("?");
+                    var randomCode = Math.floor(Math.random() * 10000 + 1);
+
+                    if (urlParamsIndex == -1) {
+                        currentUrl += "?RandomCode=" + randomCode;
+                    } else {
+                        var hasParamAlready = currentUrl.match( /RandomCode=[^&]{0,}/ );
+                        if (hasParamAlready != null) {
+                            currentUrl = currentUrl.replace( /RandomCode=[^&]{0,}/ , "RandomCode=" + randomCode);
+                        } else {
+                            currentUrl += "&RandomCode=" + randomCode;
+                        }
+                    }
+                    window.location.href = currentUrl + "#dianPing";
+                    break;
+                case 'comment-submit':
+                    $(".post_review .btn_line .gsn-btn-2").click();
+                    break;
+                }
+            };
+        }
+
+        if (window.$) {
+            $(function () {
+                if (window.ShowGowant) {
+                    ShowGowant();
+                }
+                if (window.ShowWeather) {
+                    ShowWeather();
+                }
+                if (window.asynfunc) {
+                    for (var index in window.asynfunc) {
+                        try {
+                            window.asynfunc[index].call();
+                        } catch (e) {
+                            if (window.console) {
+                                console.log(e);
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

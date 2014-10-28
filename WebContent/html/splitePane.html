@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Dojo Mobile tutorial | Flickrview | Part II | HTML Structure</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../js/dojo/dojox/mobile/deviceTheme.js"></script>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../js/dojo/dojo/dojo.js"></script>
+    <!-- dojo application code -->
+    <script>
+    var deviceReady = false;
+        // Load the widget parser and mobile base
+        require([
+            "dojox/mobile/parser",
+            "dojox/mobile/compat",
+            "dojox/mobile/ScrollableView",
+            "dojox/mobile/Heading",
+            "dojox/mobile/RoundRect",
+            "dojox/mobile/ToolBarButton",
+            "dojox/mobile/FixedSplitter",
+            "dojox/mobile/ContentPane",
+            "dojox/mobile/Button",
+            "dojox/mobile/ToggleButton",
+            "dojo/domReady!"
+        ], function (parser) {
+            // Parse the page for widgets
+            parser.parse();
+            regbuttons();
+            document.addEventListener("deviceready",function(){
+            	deviceReady = true;
+        	},false);
+        });
+    </script>
+</head>
+<body style="visibility:hidden;">
+<script>
+function onclickButton(){
+	require(["dijit/registry"], function(registry){
+        var container = registry.byId("container");
+        var leftwidget = registry.byId("left2");
+        var rightwidget = registry.byId("right2");
+        //container.removeChild(leftwidget);
+        leftwidget.domNode.style.display="none";
+        container.resize();
+        console.log(container);
+    });
+}
+function onclickButton2(){
+	require(["dijit/registry"], function(registry){
+        var container = registry.byId("container");
+        var leftwidget = registry.byId("left2");
+        var rightwidget = registry.byId("right2");
+        //container.removeChild(leftwidget);
+        leftwidget.domNode.style.display="block";
+        container.resize();
+        console.log(container);
+    });
+}
+function regbuttons(){
+	require(["dijit/registry"], function(registry){
+		registry.byId("backButton3").on("click", function(){
+	        window.location="index.html#feed"
+	    });
+		registry.byId("hideLeft").set("isHide", "false");
+		registry.byId("hideLeft").on("click", function(){
+			var isHide = registry.byId("hideLeft").get("isHide");
+			if(isHide=="true"){
+				registry.byId("hideLeft").set("isHide", "false");
+				registry.byId("hideLeft").set("label","Hide");
+				onclickButton2();
+			}else{
+				registry.byId("hideLeft").set("isHide", "true");
+				registry.byId("hideLeft").set("label","Show");
+				onclickButton();
+			}
+	    });
+		registry.byId("takePictureButton").on("click", function(){
+			takePicture();
+	    });
+    });
+	
+	
+}
+function takePicture(){
+	if(deviceReady==false){
+		alert("Mobile Device not Ready.");
+		return;
+	}
+	try{
+	 navigator.camera.getPicture(onSuccess, onFail, {
+         quality: 30,
+         destinationType: navigator.camera.DestinationType.DATA_URL
+     });
+	}catch(e){
+		alert(e);
+	}
+	function onSuccess(imageData) {
+	    var image = document.getElementById('testCamera');
+	    image.src = "data:image/jpeg;base64," + imageData;
+	}
+
+	function onFail(message) {
+	    alert('Failed because: ' + message);
+	}
+}
+
+</script>
+<div data-dojo-type="dojox/mobile/FixedSplitter" data-dojo-props='orientation:"H"' style="width:100%;height:100%;" id="container">
+  <div id="left2" data-dojo-type="dojox/mobile/ContentPane" style="background-color:#f9f9f9;height:100%;width:20%;">
+  	<div id="feedHeading2"
+	     data-dojo-type="dojox/mobile/Heading"
+	     data-dojo-props="fixed: 'top', label: 'Functions'">
+	</div>
+	<div data-dojo-type="dojox/mobile/RoundRect" style="text-align:center">
+	<button data-dojo-type="dojox/mobile/Button" id="takePictureButton">Take Picture?</button>
+	</div>
+  </div>
+  <div id="right2" data-dojo-type="dojox/mobile/ContentPane" style="background-color:#f10f10f10;height:100%">
+  	<div id="feedHeading3"
+	     data-dojo-type="dojox/mobile/Heading"
+	     data-dojo-props="fixed: 'top', label: 'Splite'">
+	    		 <span id="backButton4" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="arrow:'right'" style="float:right;">
+	            Next
+	            </span>
+	            <span id="backButton3" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="arrow:'left'" style="float:right;">
+	            Back
+	            </span>
+	             <button id="hideLeft" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="href: 'ttt.html'" style="float:left;">
+	            Hide
+	            </button>
+	</div>
+	<div data-dojo-type="dojox/mobile/RoundRect" style="text-align:center">
+		<img id="testCamera" alt="Camera Picture" width="80%"/>
+	</div>
+  </div>
+</div>
+<script src="../cordova.js"></script>
+<script src="../cordova_plugins.js"></script>
+<script type="text/javascript">
+  app.initialize();
+</script>
+</body>
+</html>

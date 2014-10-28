@@ -1,0 +1,1758 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=1024">
+<title>厦门景点推荐,旅游景点排行,厦门景点大全【携程攻略】 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="厦门景点,厦门景点介绍,厦门旅游景点,厦门景点推荐,厦门著名景点,厦门必游景点,厦门景点排行" /><meta name="description" content="厦门旅游景点大全，携程攻略社区! 告诉您厦门有哪些旅游景点，提供厦门周边旅游景点介绍、图片、点评、热门景点推荐，了解更多著名旅游景点排行信息就来携程旅游攻略。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.ctrip.com/you/sight/Xiamen21.html" >
+<link rel="canonical" href="http://you.ctrip.com/sight/xiamen21.html?keywords=" />        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/common/css/common.v2.0.css?t=20140822153037" />
+        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/fed/css/fed.v2.0.css?t=20140822153037" />
+        
+    <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/ttd2/css/city_sight.v2.0.css?t=20140822153037" />
+
+        <!--[if lt IE 9]>      
+            <script type="text/javascript">        
+                if(screen.width >= 1200) {     
+                    var link = document.createElement('link');     
+                    link.rel = "stylesheet";       
+                    link.type="text/css";  
+                    link.href="http://youresource.c-ctrip.com/ttd2/css/media_ttd2.css"; 
+                    document.getElementsByTagName('head')[0].appendChild(link);    
+                }      
+            </script>      
+        <![endif]-->   
+    </head>
+<body>
+    <div>
+<div><input type="hidden" id="CorrelationId" name="CorrelationId" value="4092607354755535377"/><link href="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/css/pageheader.css?temp=20140820" rel="stylesheet" />
+
+    
+    <div class="cui_hd_cont">
+  <div id="cui_hd" class="cui_hd">
+    <div class="ctriplogo"><a href="http://www.ctrip.com" title="携程旅行网">携程旅行网</a></div>
+    <div class="cui_toolkit"><a id="cui_lang_en" class="cui_lang_en" href="http://english.ctrip.com/" rel="nofollow">English</a>
+        |
+        <a class="cui_help" target="_blank" rel="nofollow" href="&#xD;&#xA;          http://kefu.ctrip.com">客服中心
+          </a> |
+        <div class="cui_lang" onmouseover="this.className='cui_lang cui_lang_hover'" onmouseout="this.className='cui_lang'"><b></b><div id="cui_lang_list" class="cui_lang_list"><a class="cui_lang_gb" href="http://www.ctrip.com">简体版</a><a class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a><a class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a><a class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a><a href="http://de.ctrip.com/" rel="nofollow" class="cui_lang_de">Deutsch</a><a href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a><a href="http://es.ctrip.com/" rel="nofollow" class="cui_lang_es">Espa&#xF1;ol</a><a href="http://ru.ctrip.com/" rel="nofollow" class="cui_lang_ru">Русский</a><a href="http://vn.ctrip.com/" rel="nofollow" class="cui_lang_vn">Tiêng Viêt</a></div>
+      </div>
+    </div>
+    <div onmouseover="this.className='cui_tel cui_tel_hover'" onmouseout="this.className='cui_tel'" onclick="this.className='cui_tel cui_tel_hover'" class="cui_tel"><b></b><span class="cui_tel_in" title="免境内长话费">
+              国内：<i>1010-6666</i></span><div class="cui_tel_more"><span class="cui_tel_in">
+                国内（座机拨打）：<i>800-820-6666</i></span><span class="cui_tel_in">
+                香港：<i>852-3610-6666</i></span><span class="cui_tel_in">
+                海外：<i>+86-21-3406-4888</i></span></div>
+    </div>
+    <div id="head_float_level" class="cui_wireless"><a class="cui_wireless_pic">
+                  携程无线<i></i></a></div>
+    <div class="cui_pagehead_pic"></div><i class="cui_ico_new" style="left:622px;"></i></div>
+</div>
+<div id="cui_nav" class="cui_nav_single">
+  <div class="base_nav">
+    <ul id="cui_nav_ul" class="cui_nav">
+      <li id="cui_nav_home"><a title="首页" class="cui_nav_non" id="c_ph_hp" href="&#xD;&#xA;          http://www.ctrip.com"><span>首页</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_hotel"><a id="a_hotelLink" title="酒店" class="cui_nav_hotel cui_nav_has" href="&#xD;&#xA;          http://hotels.ctrip.com"><span>酒店</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_hotel"><a title="国内酒店" id="c_ph_hotel_h" href="&#xD;&#xA;          http://hotels.ctrip.com">国内酒店
+                </a>|<a title="海外酒店" id="c_ph_hoteli_h" href="&#xD;&#xA;          http://hotels.ctrip.com/international/&#xD;&#xA;                  ">海外酒店
+                </a>|<a title="团购" id="c_ph_tuan_h" href="&#xD;&#xA;          http://tuan.ctrip.com">团购
+                </a>|<a title="惠选" id="c_ph_huixuan_h" href="&#xD;&#xA;          http://huixuan.ctrip.com">惠选
+                </a>|<a title="特价超市" id="c_ph_hotsale_h" href="&#xD;&#xA;          http://hotels.ctrip.com/hotsale&#xD;&#xA;        ">特价超市
+                </a>|<a title="机+酒" id="c_ph_taocan_h" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a rel="nofollow" title="途家公寓" id="c_ph_tujia_h" href="&#xD;&#xA;          http://hotels.ctrip.com/tujia/&#xD;&#xA;                  ">途家公寓
+                </a>|<a title="客栈民宿" i="c_ph_inn_h" href="&#xD;&#xA;          http://hotels.ctrip.com/inn/&#xD;&#xA;                  ">客栈民宿<i class="cui_ico_new" style="left:52px;"></i></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                ">酒店订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_vac"><a id="a_vacationLink" title="旅游" class="cui_nav_vac cui_nav_has" href="&#xD;&#xA;          http://vacations.ctrip.com"><span>旅游</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_vacation"><a title="旅游首页" id="c_ph_vacations_v" href="&#xD;&#xA;          http://vacations.ctrip.com">旅游首页
+                </a>|<a title="周末游" id="c_ph_around_v" href="http://you.ctrip.com/around/">周末游
+                </a>|<a title="国内旅游" id="c_ph_vacationsd_v" href="&#xD;&#xA;          http://vacations.ctrip.com/domestic/&#xD;&#xA;                  ">国内旅游
+                </a>|<a title="出境旅游" id="c_ph_ vacationsdi_v" href="&#xD;&#xA;          http://vacations.ctrip.com/international/&#xD;&#xA;                  ">出境旅游
+                </a>|<a title="邮轮" id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮
+                </a>|<a title="自由行" id="c_ph_taocan_v" href="http://taocan.ctrip.com/fh/">自由行
+                </a>|<a title="自驾游" id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">自驾游
+                </a>|<a title="当地玩乐" id="c_ph_huodong_v" href="http://huodong.ctrip.com/">当地玩乐
+                </a>|<a title="游学" id="c_ph_youxue_v" href="&#xD;&#xA;          http://vacations.ctrip.com/youxue&#xD;&#xA;                  ">游学
+                </a>|<a title="签证" id="c_ph_visa_v" href="&#xD;&#xA;          http://vacations.ctrip.com/visa&#xD;&#xA;                  ">签证
+                </a>|<a title="公司旅游" id="c_ph_mice_v" href="&#xD;&#xA;          http://vacations.ctrip.com/mice/abouts&#xD;&#xA;                  ">公司旅游
+                </a>|<a title="顶级游" href="http://www.hhtravel.com/" target="_blank" rel="nofollow" id="c_ph_hh_v">
+                  顶级游
+                </a>|<a title="高尔夫" id="c_ph_golf_v" href="http://fun.ctrip.com/golf/">高尔夫
+                </a>|<a title="保险" id="c_ph_insurance_v" href="&#xD;&#xA;          http://vacations.ctrip.com/insurance&#xD;&#xA;                  ">保险
+                </a>|<a title="特卖汇" id="c_ph_deals_v" href="&#xD;&#xA;          http://vacations.ctrip.com/deals&#xD;&#xA;                  ">特卖汇<span class="cui_ico_hot" style="left:35px;"></span></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                ">旅游订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_flight"><a id="a_flightLink" title="机票" class="cui_nav_flight cui_nav_has" href="&#xD;&#xA;          http://flights.ctrip.com"><span>机票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div id="div_flight" class="cui_sub_nav"><a title="国内机票" id="c_ph_flights_f" href="&#xD;&#xA;          http://flights.ctrip.com">国内机票
+                </a>|<a title="国际机票" id="c_ph_flightsi_f" href="&#xD;&#xA;          http://flights.ctrip.com/international/&#xD;&#xA;                  ">国际机票
+                </a>|<a title="机+酒" id="c_ph_taocan_f" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a title="航班动态" id="c_ph_flightstoolbox_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/Default.aspx&#xD;&#xA;                  ">航班动态
+                </a>|<a rel="nofollow" title="机场攻略" id="c_ph_airportguides_f" href="&#xD;&#xA;          http://flights.ctrip.com/booking/airport-guides.html&#xD;&#xA;                  ">机场攻略
+                </a>|<a rel="nofollow" title="网上选座" id="c_ph_bookseat_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/BookSeatDemo.aspx&#xD;&#xA;                  ">网上选座
+                </a>|<a rel="nofollow" title="退票改签" id="c_ph_flightorderlist_f" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">退票改签
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                ">机票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_trains"><a title="火车" class="cui_nav_has" id="c_ph_train" href="&#xD;&#xA;          http://trains.ctrip.com"><b></b><span>火车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内火车票" id="c_ph_train_t" href="&#xD;&#xA;          http://trains.ctrip.com">国内火车票
+                </a>|<a title="国际火车票" id="c_ph_traino_t" href="&#xD;&#xA;          http://vacations.ctrip.com/outie&#xD;&#xA;                  ">国际火车票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                ">火车票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination"><a title="汽车" class="cui_nav_non" id="c_ph_bus" href="&#xD;&#xA;          http://Bus.ctrip.com"><span>汽车</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_car"><a href="http://car.ctrip.com/#ctm_ref=chp_var_txt" class="cui_nav_hotel cui_nav_has" id="c_ph_car"><span>用车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="用车首页" id="c_ph_car_c" href="&#xD;&#xA;          http://car.ctrip.com#ctm_ref=chp_var_txt&#xD;&#xA;                  ">用车首页
+                </a>|<a title="接送机/专车" id="c_ph_daijia_c" href="&#xD;&#xA;          http://car.ctrip.com/daijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">接送机/专车
+                </a>|<a title="海外自驾" id="c_ph_hwzj_c" href="&#xD;&#xA;          http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">海外自驾
+                </a>|<a title="国内自驾" id="c_ph_zj_c" href="&#xD;&#xA;          http://car.ctrip.com/zijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">国内自驾
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/CarOrderList.aspx&#xD;&#xA;                ">用车订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_ticket"><a title="门票" class="cui_nav_has" id="c_ph_piao" href="&#xD;&#xA;                http://piao.ctrip.com"><b></b><span>门票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内门票" id="c_ph_piao_p" href="&#xD;&#xA;                    http://piao.ctrip.com/?clear=t&#xD;&#xA;                  ">国内门票
+                </a>|<a title="海外门票" id="c_ph_piaooversea_p" href="&#xD;&#xA;                    http://piao.ctrip.com/oversea&#xD;&#xA;                  ">海外门票
+                </a>|<a title="当地玩乐" id="c_ph_huodong_p" href="http://huodong.ctrip.com">当地玩乐<i class="cui_ico_new" style="left:52px;"></i></a>|<a title="周末游" id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PiaoOrderlist.aspx&#xD;&#xA;                ">门票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_tuan"><a class="cui_nav_has" id="c_ph_tuan" href="&#xD;&#xA;          http://tuan.ctrip.com"><span>团购</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="团购首页" id="c_ph_tuan_tu" href="&#xD;&#xA;          http://tuan.ctrip.com">团购首页
+                </a>|<a title="酒店客房" id="c_ph_tuanhotel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/hotel/&#xD;&#xA;                  ">酒店客房
+                </a>|<a title="餐饮娱乐" id="c_ph_tuanlife_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/life/&#xD;&#xA;                  ">餐饮娱乐
+                </a>|<a title="旅游出行" id="c_ph_tuantravel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/travel/&#xD;&#xA;                  ">旅游出行
+                </a>|<a title="门票" id="c_ph_tuanticket_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/ticket/&#xD;&#xA;                  ">门票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/GroupOrderList.aspx&#xD;&#xA;                ">团购订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01" class="cui_nav_current"><a title="攻略" class="cui_nav_non" id="c_ph_you" href="&#xD;&#xA;          http://you.ctrip.com"><b></b><span>攻略</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01"><a title="全球购" class="cui_nav_non" id="c_ph_go" href="&#xD;&#xA;          http://g.ctrip.com"><b></b><span>全球购</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_lpk"><a class="cui_nav_has" id="c_ph_lipin" href="&#xD;&#xA;          http://lipin.ctrip.com"><span>金融</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="礼品卡" id="c_ph_lipin_l" href="&#xD;&#xA;          http://lipin.ctrip.com">礼品卡
+                </a>|<a title="携程宝" id="c_ph_xcb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/xcb&#xD;&#xA;                  ">携程宝
+                </a>|<a title="程涨宝" id="c_ph_czb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/czb&#xD;&#xA;                  ">程涨宝
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/TicketOrderList.aspx&#xD;&#xA;                ">礼品卡订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination03"><a title="商旅" rel="nofollow" class="cui_nav_non" id="c_ph_crptravel" href="&#xD;&#xA;          http://www.ctrip.com/crptravel/&#xD;&#xA;              "><b></b><span>商旅</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_more"><a rel="nofollow" id="a_moreLink" title="更多" class="cui_nav_more cui_nav_has" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;              "><span>更多</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_more"><a title="积分商城" rel="nofollow" id="c_ph_rewards_m" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;                  ">积分商城
+                </a>|<a title="合作卡" rel="nofollow" id="c_ph_cards_m" href="&#xD;&#xA;          http://cards.ctrip.com">合作卡
+                </a>|<a title="订餐" rel="nofollow" href="http://dining.ctrip.com" id="c_ph_dining_m">
+                  订餐
+                </a></div>
+        </div>
+      </li>
+      <li id="loginDivLi" class="cui_myctrip">
+        <div id="div_LoginShow" style="display:none;"><span class="cui_myctrip_status" id="usernameId"><a rel="nofollow" id="c_ph_myhome" href="&#xD;&#xA;          http://my.ctrip.com/home/myinfo.aspx&#xD;&#xA;                  ">我的携程
+                </a></span><b></b><a href="" class="cui_links_exit" id="c_ph_logout">退出</a></div>
+        <div id="notLogin"></div>
+        <div class="cui_account" id="notLoginDiv" style="display:none;">
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+        <div class="cui_account" id="loginDiv" style="display:none;">
+          <div id="div_user"></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+      </li>
+    </ul>
+  </div><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><script type="text/javascript">
+(function () {
+;window.replace=function(){return ''};(function(){var D=document,$=function(id){return D.getElementById(id)},st=null,st2=null,lazyTime=0,lis=[$("cui_nav_hotel"),$("cui_nav_car"),$("cui_nav_vac"),$("cui_nav_flight"),$("cui_nav_more"),$("cui_nav_trains"),$("cui_nav_tuan"),$("cui_nav_lpk"),$("cui_nav_ticket")],E={onmouseenter:function(o,f){if(D.all){o.onmouseenter=f
+}else{o.onmouseover=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},onmouseout:function(o,f){if(D.all){o.onmouseleave=f}else{o.onmouseout=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},addEvent:function(el,type,handler){if(el.addEventListener){el.addEventListener(type,handler,false)
+}else{if(el.attachEvent){el.attachEvent("on"+type,handler)}else{el["on"+type]=handler}}}},F={setTime:function(){E.onmouseenter($("cui_nav"),function(){setTimeout(function(){lazyTime=150
+},30)});E.onmouseout($("cui_nav"),function(){lazyTime=0})},initEvent:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;E.onmouseenter(lis[j],function(){F.interFn(lis[j])});E.onmouseout(lis[j],function(){F.outerFn(lis[j])
+})})(i)}},reset:function(){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{lis[i].className=""}}},padReset:function(j){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{if(i!==j){lis[i].className=""}}}},interFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st2!=null){clearTimeout(st2);st2=null}st=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){}else{obj.className="cui_nav_o";
+node.className="cui_nav_current cui_nav_unhover"}},lazyTime)},outerFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st!=null){clearTimeout(st);st=null}st2=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){obj.className="cui_nav_current"
+}else{obj.className="";node.className="cui_nav_current"}},250)},initMobile:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;var oneLevel=lis[j].getElementsByTagName("A")[0];oneLevel.href="###";oneLevel.onmousedown=function(){F.padReset(j);
+if(lis[j].className.indexOf("cui_nav_current")===-1){if(lis[j].className.indexOf("cui_nav_o")>-1){lis[j].className="";
+document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";oneLevel.style.visibility="hidden";
+setTimeout(function(){oneLevel.style.visibility="visible"},10)}else{lis[j].className="cui_nav_o";document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";
+document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover"}}}})(i)}},contains:function(target){for(var i=0,len=lis.length;
+i<len;i++){if(lis[i].compareDocumentPosition(target)-19>0){return true}}return false}};if($("headStyleId")){$("headStyleId").parentNode.removeChild($("headStyleId"))
+}if((/ip(hone|od)|ipad/i).test(navigator.userAgent)){F.initMobile();E.addEvent(D.body,"click",function(e){var target=e.target||e.srcElement;
+if(!F.contains(target)){F.reset()}})}else{F.setTime();F.initEvent()}})();
+})();
+</script></div>
+<div class="gs-header cf">
+    <div class="content">
+        <div class="gs-nav">
+            <ul>
+                <li id="gs_nav_0"><a href="/"><i class="icon_home"></i></a>
+                </li>
+                <li id="gs_nav_1"  class="active"> <a href="/place/">目的地</a></li>
+                <li id="gs_nav_3"> <a href="/travels/">游记</a></li>
+                <li id="gs_nav_4" > <a href="/asks/">问答</a></li>
+                <li id="gs_nav_5" > <a href="/events/">结伴</a></li>
+                <li id="gs_nav_7"> <a href="/around/">周末游</a></li>
+                <li id="gs_nav_9"> <a href="http://vacations.ctrip.com/deals">特卖汇</a></li>
+                <li id="gs_nav_8"> <a href="http://top.ctrip.com">口碑榜</a></li>
+                <li id="gs_head_myhomepage" class="last"><a rel="nofollow" href="/members/">我的主页</a></li>
+            </ul>
+        </div>
+        <div class="gs-search-2">
+            <input type="text" placeholder="搜索城市、景点、游记、问答、用户" id="gsSearch" autocomplete="off" class="sgtgray">
+            <button class="btn-search" type="button"></button> 
+            <div id="gsNotice" class="gs-notice">
+                <a class="ico_linkpbox" href="#"></a>
+                <div class="glistbox">
+                    <span class="npoptip-arrow"></span>
+                    <div class="ulouter">
+                        <ul class="populist">
+                            <li>
+                                <a href="/dianping/">写点评</a>
+                            </li>
+                            <li>
+                                <a href="/add-travel/guide.html">写游记</a>
+                            </li>
+                            <li>
+                                <a href="/asks/newquestion.html">提问题</a>
+                            </li>
+                            <li>
+                                <a href="/events/selectindentity">发结伴</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var getHeadOtherInfo = function () {
+        $.ajax({
+            url: '/Destinationsite/Shared/GetHeadeOtherInfo',
+            type: "POST",
+            async: true,
+            data: {},
+            datatype: "json",
+            success: function (responseText) {
+                if (responseText.IsMerchantUser) {
+                    $('#gs_head_myhomepage a').text('商家主页');
+                }
+                $('#gs_head_myhomepage a').attr('href', responseText.MySiteUrl);
+                if (responseText.ShowUserMsgCount != "") {
+                    //var msg = "<span class=\"tipsbox_outer\"><a href=\"/members/message/receivelist.aspx\" class=\"gstips_supcount\" title=\"消息(" + responseText.ShowUserMsgCount + ")\" rel=\"nofollow\">" + responseText.ShowUserMsgCount + "</a></span>";
+                    var msg = "<span class=\"tipsbox_outer\">" + responseText.ShowUserMsgCount + "</span>";
+                    $('#gs_head_myhomepage').append(msg);
+                }
+            },
+            error: function () {
+                
+            }
+        });
+    };
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(getHeadOtherInfo);
+</script>
+
+    </div>
+    
+<div class="content cf">
+    <input type="hidden" id="page_id" value="290546" />
+    <div class="breadbar cf">
+                <a href="/" title="旅游攻略社区">旅游攻略社区</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place" title="目的地">目的地</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/china110000.html" title="中国">中国</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/fujian100038.html" title="福建">福建</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/xiamen21.html" title="厦门">厦门</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                    景点
+    </div>
+
+    <div class="dest_toptitle">
+        <div class="cf">
+            <div class="f_left">
+                <h1><a href="/place/xiamen21.html" title="厦门">厦门</a></h1>
+                <p>Xiamen</p>
+            </div>
+<div class="f_right">
+    <ul>
+        <li id="wentClick" class="des_icon_been"><a id="wentClickID" rel="nofollow" data_type="Place" dataresource-cat="21" data-cat="21" class="a_popup_login"  href="javascript:void(0)"></a>
+            <p>
+                <span class="textcolor" id="spanwentId">去过</span><span><em id="emWentValueID">0</em></span></p>
+        </li>
+        <li id="wantClick" class="des_icon_want">
+            <a id="wantClickID" data_type="Place" class="a_popup_login"  dataresource-cat="21" data-cat="21" rel="nofollow" href="javascript:void(0)" ></a>
+            <p>
+                <span class="textcolor" id="spanwantId">想去</span><span><em id="emWantValueID">0</em></span></p>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    /*
+    *想去的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.wantRequestFn = function (param) {
+        ClickWant();
+    };
+    /**
+    *去过的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.beenRequestFn = function (param) {
+         ClickWent();
+    };
+</script>        </div>
+        <div class="sec_line cf">
+
+    <div class="weather gs_tianqi_mini">
+        <span  id="WeaTher">
+                <i class="ws_icon ws_icon1"></i>25℃/33℃<span class="arrow"></span>
+        </span>
+        <span class="f_line">|</span>
+    </div>
+    <div style="display: none;" class="hoverweather">
+        <ul>
+            <li><span class="daytext">今天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon1"></i>25℃/33℃</div>
+                <span class="arrow"></span></li>
+            <li><span class="daytext">明天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon1"></i>25℃/32℃</div>
+            </li>
+            <li><span class="daytext">后天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon1"></i>26℃/32℃</div>
+            </li>
+        </ul>
+    </div>
+            <p class="ellipsis">漫步琴岛，聆听鼓浪屿的音符，环岛骑行，去厦大感受最美校园的一缕阳光。by游游君</p>
+        </div>
+    </div>
+ <input type="hidden" id="putDistrictId" value="21" /> 
+</div>
+<!--悬顶标题-->
+
+<div class="ttd_topnav_box">
+    <div class="ttd_topnav">
+        <div class="innerbox">
+            <ul class="cf">
+                <li>    <a href="/place/xiamen21.html">主页</a> 
+</li>
+                <li>    <a href="/summary/xiamen21.html">指南</a> 
+</li>
+                <li>    <a href="/traffic/xiamen21.html">交通</a> 
+</li>
+                <li class="current">    <a href="/sight/xiamen21.html">景点</a> 
+</li>
+<li>    <a href="/hotels/xiamen21.html">住宿</a> 
+        <span class="gs_newicon"></span>
+</li>                <li>    <a href="/restaurant/xiamen21.html">美食</a> 
+</li>
+                <li>    <a href="/shopping/xiamen21.html">购物</a> 
+</li>
+                <li>    <a href="/resort/xiamen21.html">娱乐</a> 
+</li>
+                <li>    <a href="/travels/xiamen21.html">游记</a> 
+</li>
+                <li>    <a href="/journeys/xiamen21.html">行程</a> 
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="ttd2_background">
+    <div class="content cf">
+        <div class="des_narrow f_left">
+            <!--排行榜-->
+    <div class="city_xclist">
+        <h3>携程旅行口碑榜2014</h3>
+        <ul>
+                 <li><a target="_blank" href="http://top.ctrip.com/guoneilvyouchengshi/all">最佳国内旅游城市</a>第3名</li>
+                 <li><a target="_blank" href="http://top.ctrip.com/qinziyou/all">最佳亲子游目的地</a>第4名</li>
+                 <li><a target="_blank" href="http://top.ctrip.com/qinglvyou/all">最佳情侣游目的地</a>第10名</li>
+        </ul>
+    </div>
+        
+            <!--侧边下载二维码&攻略轮播-->
+
+
+<div class="app_entrance">
+    <!--APP下载-->
+    <div class="appbox">
+        <h3><a target="_blank" href="http://app.ctrip.com/">下载携程旅行</a><span class="tips">最新</span></h3>
+        <ul>
+            <li>吃喝玩乐住旅行指引</li>
+            <li>口袋中的旅行利器</li>
+        </ul>
+    </div>
+        <div class="carousel t_guide" id="myCarousel">
+            <!--目的地攻略-->
+            <ol class="carousel-indicators" style="margin-left: -37.5px; display: block;">
+                        <li data-target="#myCarousel" data-slide-to=0 class="active"></li>
+            </ol>
+            <!--游友攻略-->
+            <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="style_box1">
+                                    <h4> <a target="_blank" class="f_right" href="/guides/" target="_blank">更多<i class="gs2_more_arror"></i></a> 旅游攻略 </h4>
+                                    <a target="_blank" href="/guides/xiamen21.html" class="guidepic">
+                                        <img src="http://youresource.c-ctrip.com/common/img/1x1.gif" data-original="http://gonglue.c-ctrip.com/district/Xiamen/cover210300.jpg"> 
+                                    </a>
+                                    <dl class="info">
+                                        <dt class="ellipsis"><a target="_blank" href="/guides/xiamen21.html">厦门 攻略</a></dt>
+                                        <dd>更新：2014-07-28</dd>
+                                        <dd>下载：7712647</dd>
+                                        <dd> <a target="_blank" href="/guides/xiamen21.html" class="b_orange_s" target="_blank"><span>免费下载</span></a> </dd>
+                                    </dl>
+                                </div>
+                            </div>
+            </div>
+        </div>
+</div><div class="c_vacation" id="destVacationProductId" style="display: none">
+</div>
+
+<script type="text/javascript">
+    function ShowVacationAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetVacationsAdView',
+            type: "POST",
+            async: true,
+            dataType: 'html',
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText != "") {
+                    $('#destVacationProductId').show();
+                    $('#destVacationProductId').html($('#destVacationProductId').html() + responseText);
+                    ReplaceVacationUrl();
+                }
+            },
+            error: function () {
+                $('#destVacationProductId').hide();
+            }
+        });
+    }
+    //设置特价度假统计链接锚点
+    function ReplaceVacationUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_07_vac_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_vacationl]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script><div class="c_hotel" style="display: none" id="destHotelID">
+</div>
+<script type="text/javascript">
+    function ShowspecialHotelAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetSpecialHotelAdView',
+            type: "POST",
+            async: true,
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "")
+                    $('#destHotelID').hide();
+                else {
+                    $('#destHotelID').show();
+                    $('#destHotelID').html(responseText);
+                    ReplaceHotelUrl();
+                }
+            },
+            error: function () {
+                $('#destHotelID').hide();
+            }
+        });
+    }
+    //设置酒店统计链接锚点
+    function ReplaceHotelUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_08_hod_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_hotel]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+
+            });
+        }
+    }
+</script>
+            <!--侧边特价机票--> 
+     <!--侧边tab表单切换-->
+           <div id="cateSTab" class="catetab_title">
+               <ul>
+                   <li class="active"><a href="#cate_hotel">酒店</a></li>
+                   <li><a href="#cate_flight">机票</a></li>
+                   <li><a href="#cate_travel">旅游</a></li>
+                   <li><a href="#cate_ticket">门票</a></li>
+                   <li class="cate_train"><a href="#cate_train">火车票</a></li>
+               </ul>
+           </div>
+<div class="catetab_content">
+    <div class="tabitem active" id="cate_hotel">
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="hotelTo" value="厦门"  data="Xiamen|厦门|25"/></div>
+    	<div class="sformline"><label>入住日期：</label><input type="text" class="sformtext" id="hotelStartDate" readonly="true"/></div>
+        <div class="sformline"><label>退房日期：</label><input type="text" class="sformtext" id="hotelEndDate" readonly="true"/></div>
+            <div class="sformline"><label>酒店级别：</label><div class="gsn-select sformselect">
+                                                           <div class="select-txt" data-value="0">不限</div>
+                                                           <ul style="display: none;" class="selectlist undis">
+                                                               <li><a data-value="0" href="javascript:;">不限</a></li>
+                                                               <li><a data-value="5" href="javascript:;">五星级/豪华</a></li>
+                                                               <li><a data-value="4" href="javascript:;">四星级/高档</a></li>
+                                                               <li><a data-value="3" href="javascript:;">三星级/舒适</a></li>
+                                                               <li><a data-value="2" href="javascript:;">二星级以下/经济</a></li>
+                                                           </ul>
+                                                           <span class="arrow"></span> </div></div>
+    	<div class="sformline"><label>关键词：</label><input type="text" class="sformtext" id="hotelKeyword" placeholder="酒店名/地标/商圈" /></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索酒店</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_flight">
+    	<div class="sformline"><label>航程类型：</label><span class="radiobox" for="flightOneWay"><input type="radio" id="flightOneWay" checked="checked" value="0" name="flyType"/>单程</span><span class="radiobox"><input type="radio" id="flightBackForth" value="1" name="flyType"/>往返</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="flightFrom" value="上海"  data="|上海|SHA" /></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="flightTo" value="厦门"  data="|厦门|XMN" /></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="flightStartDate" readonly="true"/></div>
+    	<div class="sformline gray"><label>返回日期：</label><input type="text" class="sformtext" id="flightEndDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索机票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+    <div class="tabitem" id="cate_travel">
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext" readonly="readonly" id="travelFrom" value="上海" data="2"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="travelTo" value="厦门" data="25"/></div>
+    	<!--div class="sformline"><label>类型：</label><ul class="checkul">
+    	    <li><span class="radiobox"><input type="radio" checked="checked" value="0"/>团队游</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="1"/>半自助</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="2"/>自由行</span></li>
+    	</ul></div-->
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索旅游</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_ticket">
+    	<div class="sformline"><label>景点名称：</label><input type="text" class="sformtext" placeholder="请输入景点名称" id="ticketText"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索门票</span></a><!--p class="errtext">请输入景点名称报错文字</p--></div>
+      
+    </div>
+    <div class="tabitem" id="cate_train">
+    	<div class="sformline"><label>类型：</label><span class="radiobox"><input type="radio" id="trainOneWay" checked="checked"/>单程</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="trainFrom" value="上海" data="|上海|Shanghai"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="trainTo" value="厦门" data="|厦门|Xiamen"/></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="trainStartDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索火车票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    var district = 21;
+    INTERFACE.isChina = true;
+            //点击搜索酒店 触发的方法
+    INTERFACE.searchHotelFn = function(param) {
+        var cityPY = param.destinationData.split('|')[0];
+        var cityId = param.destinationData.split('|')[2];
+        // var kw = (param.keyword == "" ? "" : ("k1" + param.keyword));
+        var kw = (((!param.hotelLevel) || (param.hotelLevel == "0") || (param.hotelLevel == "")) ? "" : ("star" + param.hotelLevel))
+            + (param.keyword == "" ? "" : (((INTERFACE.isChina) ? "k1" : "k2") + param.keyword));
+        var urlhead = "";
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if(INTERFACE.isChina) {
+            gnw = "hod";
+            urlhead = "http://hotels.ctrip.com/hotel/";
+        }else {
+            gnw = "hoi";
+            urlhead = "http://hotels.ctrip.com/international/";
+        }
+        var url = urlhead + cityPY + cityId
+            + (kw == "" ? "" : ("/" + kw))
+                + "/?checkin=" + param.startDate
+                    + "&checkout=" + param.endDate;
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        window.open(url + ctm, "HotelSearch" + (new Date()).getMilliseconds());
+    };
+            //点击搜索机票 触发的方法
+    INTERFACE.searchFlightFn = function(param) {
+        var type = param.type;
+        var from = param.fromData.split('|')[2];
+        var to = param.destinationData.split('|')[2];
+        var startTime = param.startDate;
+        var endTime = param.endDate;
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if (true) {
+            gnw = "fld";
+        } else {
+            gnw = "fli";
+        }
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        if (from != undefined && from != "" && to != undefined && to != "" && startTime != "" && startTime != null) {
+            if (type == 0) {
+
+                if (true) {
+                    var diff = GetDateDiff(startTime);
+                    var url0 = "http://flights.ctrip.com/booking/" + from + "-" + to + "-day-" + 1 + ".html?SortByPrice=true&ddate=" + startTime;
+                    window.open(url0 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=S&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            } else if (type == 1 && endTime != null && endTime != "") {
+                if (true) {
+                    var url1 = "http://flights.ctrip.com/booking/" + from + "-" + to + "---d-adu-1/?ddate1=" + startTime + "&ddate2=" + endTime;
+                    window.open(url1 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=D&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "&&relrdate=" + endTime + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            }
+        }
+    };
+            //点击搜索旅游 触发的方法
+    INTERFACE.searchTravelFn = function(param) {
+        form = submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: {
+                "searchFrom": "http://you.ctrip.com/",
+                "searchID": "0",
+                "searchText": param.destination,
+                "searchType": "U",
+                "searchValue": param.destination,
+                "startCity": param.fromData
+            }
+        });
+    };
+            //点击搜索门票 触发的方法
+    INTERFACE.searchTicketFn = function(param) {
+        var saleCity = $("#tab_vacationStartCity").val(); //出发城市
+        var param = {
+            "SearchFrom": "http://vacations.ctrip.com/tickets",
+            "SearchID": "0",
+            "SearchText": param.name,
+            "SearchType": "U",
+            "SearchValue": param.name,
+            "StartCity": saleCity
+        };
+
+        submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: param
+        });
+
+    };
+            //点击搜索火车票 触发的方法
+    INTERFACE.searchTrainFn = function(param) {
+        var from = param.fromData.split('|')[2];
+        var fromCn = param.fromData.split('|')[1];
+        var to = param.destinationData.split('|')[2];
+        var toCn = param.destinationData.split('|')[1];
+        var startTime = param.startDate;
+        var pageid = $("#page_id").val();
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_trd_3_" + district + "_undefined";
+        var url = "http://trains.ctrip.com/TrainBooking/Search.aspx?from=" + from
+            + "&to=" + to
+                + "&day=" + (GetDateDiff(startTime) + 1)
+                    + "&fromCn=" + escape(fromCn)
+                        + "&toCn=" + escape(toCn);
+        window.open(url + ctm, "TrainSearch" + (new Date()).getMilliseconds());
+    };
+</script>
+            <!--侧边特价机票-->
+<div id="specialFlightId" class="special_ticket" style="display:none">
+	
+</div>
+<input type="hidden"  id="startCityId" name="startCityId" value="2" />
+<input type="hidden"  id="endCityId" name="endCityId" value="21" />
+<input type="hidden"  id="dCode" name="dCode" value="" />
+<input type="hidden"  id="aCode" name="aCode" value="" />
+<input type="hidden"  id="inChina" name="inChina" value="True" />
+<input type="hidden"  id="ctmInfo" name="ctmInfo" value="#ctm_ref=gs_ttd_{0}_02_fld_2_21_undefined" />
+<script type="text/javascript">
+    var index = 0;
+//下一个标识
+
+    function GetSpecialFlightView   () {
+        var dCode = $("#dCode").val();//出发三字码
+        var aCode = $("#aCode").val(); //到达三字码
+
+        var startCity = $("#startCityId").val();
+        var endCity = $("#endCityId").val(); 
+        
+        var inChina = $("#inChina").val(); //是否国内
+
+        if (startCity != "" && endCity != "") {
+            $.ajax({
+                url: '/Destinationsite/TTDSecond/SharedView/AjaxGetSpecialFlight',
+                type: "POST",
+                async: true,
+                dataType: "text",
+                data: { dCode: dCode, aCode: aCode, inChina: inChina, startCity: startCity, endCity: endCity, index: index, rank: Math.random() },
+                success: function (responseText) {
+
+                    if (responseText == "") {
+                        $('#specialFlightId').hide();
+                    } else {
+                        $('#specialFlightId').show();
+                        $('#specialFlightId').html(responseText);
+                        ReplaceFlightUrl();
+                    }
+                },
+                error: function () {
+                    $('#specialFlightId').hide();
+                }
+            });
+        }
+
+    }
+//下一批7天 
+    function NextSpecialFlight() {
+        index += 1;
+       
+        if (index <= 4) {
+            GetSpecialFlightView();
+      } 
+//        else {
+//            $("#NextRightId").addClass("disable_r");
+//        }
+    }
+
+    function UpSpecialFlight() {
+        index = index - 1;
+        GetSpecialFlightView();
+
+    }
+    //设置国内机票统计链接锚点
+    function ReplaceFlightUrl() {
+        var pageid = $("#page_id").val();
+        if (pageid != "") {
+            var ctmInfo = $("#ctmInfo").val().replace("{0}", pageid);
+            $("a[data-id=ctm_gs_gnjp]").each(function (i) {
+                var str = $(this).attr("href") + ctmInfo;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script>        
+            <!--侧边栏广告位-->
+            <!--侧边结伴活动-->
+    <!--结伴-->
+    <div class="c_event">
+       <div class="narrow_title cf">
+            <h3>结伴活动</h3>
+            <span><a target="_blank" href="/events">我要结伴</a>&nbsp;|&nbsp; <a target="_blank" href="/events/xiamen21c21-p1#suggestCity">更多<i class="gs2_more_arror"></i></a> </span>
+        </div>
+        <ul>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/xiamen21/2294986.html">
+                    
+                    <img width="60" height="60" src=""  data-id="21"  writing="0" title="18岁靠我们自己的力量可以走到哪？" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/xiamen21/2294986.html"  title="18岁靠我们自己的力量可以走到哪？">18岁靠我们自己的力量可以走到哪？</a></dt>
+                        <dd>厦门</dd>
+                        <dd>07-16 - 09-30</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/xiamen21/2384273.html">
+                    
+                    <img width="60" height="60" src=""  data-id="21"  writing="0" title="2014年10月4日 4日游 厦门 求结伴" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/xiamen21/2384273.html"  title="2014年10月4日 4日游 厦门 求结伴">2014年10月4日 4日游 厦门 求结伴</a></dt>
+                        <dd>厦门</dd>
+                        <dd>10-04 - 10-08</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/xiamen21/2376929.html">
+                    
+                    <img width="60" height="60" src=""  data-id="21"  writing="0" title="上海出发  8月20日  厦门  4日游  求结伴  " class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/xiamen21/2376929.html"  title="上海出发  8月20日  厦门  4日游  求结伴  ">上海出发  8月20日  厦门  4日游  求结伴  </a></dt>
+                        <dd>厦门</dd>
+                        <dd>08-20 - 08-24</dd>
+                    </dl>
+                </li>
+        </ul>
+    </div>
+  <script type="text/javascript">
+      function OnloadEventDistrictimg() {
+          var sid = "";
+          var district = "";
+          $("a[name='eventDistrict_img'] img").each(function () {
+              var imgid = $(this).attr("writing");
+              var districtid = $(this).attr("data-id");
+              sid += "," + imgid;
+              district += "," + districtid;
+          });
+          if (sid != "" || district != "") {
+
+              $.ajax({
+                  url: "/destinationsite/SharedPage/GetDistrictPhoto",
+                  type: "post",
+                  async: true,
+                  data: { "writing": sid, "district": district, "width": "60", "height": "60" },
+                  success: function (responseText) {
+                      $.each(responseText, function (i, item) {
+                          if (item && item.ImgageUrl != "") {
+                              if (item.IsDistrict == 1) {
+                                  $("a[name='eventDistrict_img'] img[data-id='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              } else {
+                                  $("a[name='eventDistrict_img'] img[writing='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              }
+
+                          }
+                      });
+                  },
+                  error: function () {
+                  }
+              });
+          }
+      }
+      var asynfunc = window.asynfunc || [];
+      asynfunc.push(OnloadEventDistrictimg);
+    </script>
+
+        
+            <!--侧边问答-->
+    <div class="c_ques">
+        <div class="narrow_title cf">
+            <h3>当地问答</h3>
+            <span><a target="_blank" href="/asks/newquestion.html">我要提问</a>&emsp;|&emsp; <a target="_blank" href="/asks/xiamen21.html">更多<i class="gs2_more_arror"></i></a></span>
+        </div>
+        <ul>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361839.html" target="_blank" class="ellipsis" title="哪个土楼值得一去？跟团一日游多少费？">哪个土楼值得一去？跟团一日游多少费？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361770.html" target="_blank" class="ellipsis" title="大家猜猜看看啊，机票价格问题">大家猜猜看看啊，机票价格问题</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361859.html" target="_blank" class="ellipsis" title="#爱菲儿度假酒店（厦门鼓浪屿蓝屿店）#我想预定的圆床没有了？">#爱菲儿度假酒店（厦门鼓浪屿蓝屿店）#我想预定的圆床没有了？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361876.html" target="_blank" class="ellipsis" title="怪坡具体位置在哪儿？谢谢">怪坡具体位置在哪儿？谢谢</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361842.html" target="_blank" class="ellipsis" title="高崎机场离福州厦门美工学院有多少公里">高崎机场离福州厦门美工学院有多少公里</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361796.html" target="_blank" class="ellipsis" title="#厦门曾厝垵歇歇角个性客栈#房费已经全额预付携程，还需要押金吗？">#厦门曾厝垵歇歇角个性客栈#房费已经全额预付携程，还需要押金吗？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361788.html" target="_blank" class="ellipsis" title="求厦门市内景点推荐在厦门2天鼓浪屿2天">求厦门市内景点推荐在厦门2天鼓浪屿2天</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/xiamen21/1361782.html" target="_blank" class="ellipsis" title="#厦门会展会议旅馆#怎么还没有返现？">#厦门会展会议旅馆#怎么还没有返现？</a>
+                </li>
+        </ul>
+
+            <div class="searchwrap">
+                
+                <p><input type="text" class="s_input" placeholder="输入您的问题" id="textAskSearch"/><a href="javascript:;" class="b_blue_m" id="btnAskSearch"><span>搜索</span></a></p>
+
+                    <p class="ques_tips"><span>热门问答：</span>
+                            <a target="_blank" href="/asks/xiamen21-t2.html">住宿</a>
+                            <a target="_blank" href="/asks/xiamen21-t105341.html">酒店</a>
+                            <a target="_blank" href="/asks/xiamen21-t557.html">孩子</a>
+                            <a target="_blank" href="/asks/xiamen21-gulangyu120058.html">鼓浪屿</a>
+                            <a target="_blank" href="/asks/xiamen21-t546.html">机场</a>
+                            <a target="_blank" href="/asks/xiamen21-t603.html">旅行</a>
+                            <a target="_blank" href="/asks/xiamen21-t508.html">8月</a>
+                            <a target="_blank" href="/asks/xiamen21-t113091.html">电话</a>
+                            <a target="_blank" href="/asks/xiamen21-t590.html">携程</a>
+                            <a target="_blank" href="/asks/xiamen21-t106431.html">时间</a>
+                    </p>
+            </div>
+    </div>
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {}; INTERFACE.askSearchUrl = "http://you.ctrip.com/asks/search/?keywords=";
+    </script>
+        
+            <!--侧边目的地专家-->
+
+<div class="c_expert" id="destexpertId" style="display: none">
+  
+</div>
+
+<input type="hidden"  id="txtDistrictId" value="21" />
+
+<script type="text/javascript">
+    
+    function GetExpertPartialTTDView() {
+     
+        var district = $('#txtDistrictId').val();
+
+        $.ajax({
+            url: '/Destinationsite/TTDSecond/SharedView/PostDistrictExertView',
+            type: "POST",
+            async: true,
+            dataType: "text",
+            data: { district: district, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "") {
+                    $('#destexpertId').hide();
+                }
+                else {
+                    $('#destexpertId').show();
+                    $('#destexpertId').html(responseText);
+                }
+            },
+            error: function () {
+                $('#destexpertId').hide();
+            }
+        });
+
+    }
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(GetExpertPartialTTDView);
+</script>        
+            <!--侧边栏广告位-->
+        </div>
+        <div class="des_wide f_right">
+            
+<div class="normalbox channelspace">
+        <div class="normaltitle cf"><h1>厦门景点速览</h1></div>
+        <div id="infoTextAll" class="channel_info">
+            <div class="textbox"><p><p>厦门的景点大致集中在南普陀旅游区和集美旅游区，来厦门必去的景点，如南普陀寺、厦门大学、集美学村等都集中在这两块旅游区。另外，就是鼓浪屿，这里主要聚集了日光岩、菽庄花园等。</p></p></div>
+        </div>
+</div>
+            <div class="normalbox">
+                    <div class="normaltitle cf" id="sightname">
+                        <h1>厦门<span>景点</span></h1>
+                    </div>
+                <div class="search_wide">
+                        <!--没有筛选时候这里不显示-->
+                            <ul>
+                                    <li>
+                                        <dl>
+                                            <dt>类型：<a class="current" rel="nofollow" href="javascript:void(0);">全部</a>                                            </dt>
+                                            <dd>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(169)">自然景观</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1000)">公园乐园</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1005)">场馆院所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1003)">建筑人文</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1002)">历史遗迹</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1016)">运动活动</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(77)">宗教场所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1017)">健身休闲</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1004)">民风民俗</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1019)">表演赛事</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1018)">夜生活</a>
+                                            </dd>
+                                        </dl>
+                                        <a class="seeline" rel="nofollow" href="javascript:void(0);">更多<span></span></a>
+                                    </li>
+                            </ul>
+                    <!--没有筛选时候这里不显示 END-->
+                    <div class="city_sfind">
+                        <form action="javascript: OnSubmit();">
+                            <span class="f_left">
+                                
+                                <input id="search_sight_dg" type="checkbox" />只看可订购的景点
+                            </span>
+                            <span class="f_right">
+                                <input id="search_sight_name" type="text" placeholder="搜索景点名称" />
+                                <a class="b_blue_s" rel="nofollow" href="javascript:OnSubmit();"><span>查找</span></a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+<!--城市景点-->
+    <div class="list_wide_mod2">
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/57405.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/127/525/837/7aa49126cd304729bac856e89a081a37_C_220_140.jpg" width="220" height="140" img-id="16986635" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/57405.html" title="鼓浪屿">鼓浪屿</a>
+                                <s >第1名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区鼓浪屿岛                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;100</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>90<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/57405.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/57405.html#comment" class="recomment">
+                                (2080条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F645056BC7034351B431296C97B7FB82">_cft010000000306****</a>点评：</span>个人觉得鼓浪屿比较适合闺蜜、三五好友、情侣闲逛的地方，体会下小岛上的小资生活，感受下他们对自家小店的独特设计、吃吃美食，我是当天去的，下午就逛不动返回来了。其实，如果时间允许，可以住一个晚上，个人觉得可以尽量避开高峰期，因为你冬天去和夏天去，应该都差不多，不会错过什么风景，但游客应该会相差比较大吧，人多了，就少了点味道，多了点凑热闹的份。另外，关于门票，个人觉得不要买联票。那是个随便逛的地方，所以你逛到哪看到哪游到哪，没有必要太刻意。我是选择一个景点都没去，纯粹的随便逛，有些人很少的地方，可以感受下他们的生活总之，如果你想放慢心情，可以去逛逛，体会下。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/14050.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/112/978/717/4b196a03628246f481065ffd583784a2_C_220_140.jpg" width="220" height="140" img-id="14637845" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/14050.html" title="厦门大学">厦门大学</a>
+                                <s >第2名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区思明南路422号                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/14050.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/14050.html#comment" class="recomment">
+                                (1206条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/E2CAF33A0663414A8B440853171EA07C">1385753****</a>点评：</span>一个有历史沉淀的学校，美丽的芙蓉湖，张扬的芙蓉隧道，让人穿梭于过去、现代的建筑，值得一去。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/8669.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/312/034/993/a8e735258b3f49b98f666b6eafde8e4e_C_220_140.jpg" width="220" height="140" img-id="15271881" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/8669.html" title="环岛路">环岛路</a>
+                                <s >第3名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区环岛路                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;31</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>16<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/8669.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:100%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/8669.html#comment" class="recomment">
+                                (637条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/BD4F1DB1B7BC4C249CB8909A662A1D9A">1527327****</a>点评：</span>厦门是个浪漫的城市，游环岛路可以和情人一起骑自行车从曾厝垵往文曾路那边骑一直骑到椰风寨，上面写着一国两制，还可以看到台湾的金门岛，一路上景色很好，旁边是海
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/2344.html">
+                        <img src="http://cyjctrip.qiniudn.com/120911/1399656736693p18nh09l8kqa41eeisiguq34c1q.jpg?imageView/1/w/220/h/140" width="220" height="140" img-id="14391750" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/2344.html" title="南普陀寺">南普陀寺</a>
+                                <s class=g_background>第4名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区思明南路515号                        </dd>
+                        <dd>
+                            
+携程价&nbsp;<span class="price"><i>&yen;</i>228<b class="red"></b></span>                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/2344.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/2344.html#comment" class="recomment">
+                                (544条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/2E09D1C0D53C4BCDB1F2677DF23A3BAB">lylbn</a>点评：</span>南普陀寺是厦门著名古刹，居于鹭岛名山五老峰前，背依秀奇群峰，面临碧澄海港，风景绝佳。始建于唐代，为闽南佛教胜地之一。寺内天王殿、大雄宝殿、大悲殿建筑精美，雄伟宏丽，各殿供奉弥勒、三世尊佛等藏经阁珍藏佛教文物丰富多彩，有经典、佛像、宋代铜钟等
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/48767.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/628/888/517/afc4033b81f6403d932d89a2df1b6a75_C_220_140.jpg" width="220" height="140" img-id="15090849" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/48767.html" title="日月谷温泉">日月谷温泉</a>
+                                <s class=g_background>第5名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市海沧区孚莲路1888号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;368</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>1<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/48767.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:100%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/48767.html#comment" class="recomment">
+                                (512条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="xclistcomment ellipsis"><span class="xclisttitle">携程旅行口碑榜2014</span><a target="_blank" href="http://top.ctrip.com/wenquanjingdian/all" title="最佳国内温泉景点" >最佳国内温泉景点</a>第2名</p>
+                    <s class="ico_list"></s>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/109999.html">
+                        <img src="http://cyjctrip.qiniudn.com/1407567937/EBF1B517-DBB2-4849-A8C9-4EC4CC390281.jpg?imageView/1/w/220/h/140" width="220" height="140" img-id="17491809" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/109999.html" title="曾厝垵">曾厝垵</a>
+                                <s class=g_background>第6名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区曾厝垵                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/109999.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/109999.html#comment" class="recomment">
+                                (347条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/90EBEE06986744BF84B385F9F10B7A2F">Micky萌小萌萌萌</a>点评：</span>特别文青的一座小村庄～很多鼓浪屿上面有的店面这里面也有，像什么张三疯奶茶、陈罐西、西小然…等等…像是一个鼓浪屿的缩影一样。这里的人均消费要比岛上低将近一半。厦门小吃在这里应有尽有，走一圈儿下来，一定吃个肚歪～住在这里特别幸福，客栈都是那种特文青风格的主题客栈，每天都被美食环绕着，各种小清新小可爱的精品店铺供你闲逛～这里坐车也很方便，在曾厝垵大门前面的马路边就是公交车站，去各大景点都十分便利。来厦门玩儿，选择住在曾厝垵，一定是个明智之举！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/137032.html">
+                        <img src="http://cyjctrip.qiniudn.com/124517/1400664090374p18of19j5bfck18uq1p15agk14i1l.jpg?imageView/1/w/220/h/140" width="220" height="140" img-id="14723722" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/137032.html" title="中山路步行街">中山路步行街</a>
+                                <s class=g_background>第7名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区中山路                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;70</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>35<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/137032.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/137032.html#comment" class="recomment">
+                                (331条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/A733947A87F749288DC1C0A7A6869D1F">chen_baby</a>点评：</span>厦门繁华的商业街，去厦门必去的，就像上海南京路步行街一样，是每个来上海旅游 参观的外地人必去的地方。其聚集了闽南各色很有特色小吃、闽南特色的骑楼，离渡口也近
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/2342.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/563/472/966/fe84fcfef0cc4d33aa19519fe8fc7d7f_C_220_140.jpg" width="220" height="140" img-id="6010941" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/2342.html" title="胡里山炮台">胡里山炮台</a>
+                                <s class=g_background>第8名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区环岛南路曾厝垵2号                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/2342.html"><strong>3.9</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/2342.html#comment" class="recomment">
+                                (217条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/3F0C3CC7600043D4856194B3C0A2C7FD">亮点liangpoint</a>点评：</span>和环岛路连在一起，沿着环岛路木栈道就可抵达，公交也很方便。里面的德国造克虏伯大炮当时算是很先进的，炮台下面的兵营也值得参观。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/118936.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/440/882/255/0f5627253d694b8288e862589014bb98_C_220_140.jpg" width="220" height="140" img-id="7158978" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/118936.html" title="海上看金门">海上看金门</a>
+                                <s class=g_background>第9名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区鹭江道15号轮渡码头                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;136</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>85<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/118936.html"><strong>3.9</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/118936.html#comment" class="recomment">
+                                (196条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F393E610CD0C42EC85538D1F0CF264D5">1885786****</a>点评：</span>近距离的看了金门岛。船上的解说词也不错。但是附加收费太多。卖那么多票一层不安排位置。二层三层又要收费。一个人给60块上2层，80上3层，就给泡壶茶，一小包鱼皮花生。各种推销，照相，香烟/化妆品什么的。商业味道太浓。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/140141.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/501/785/095/afdd2e79aaf24c5a99998f6e14b39a71_C_220_140.jpg" width="220" height="140" img-id="10497900" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/140141.html" title="方特梦幻王国">方特梦幻王国</a>
+                                <s class=g_background>第10名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市同安区石浔南路1111号（中洲大桥附近）                        </dd>
+                        <dd>
+                            
+携程价&nbsp;<span class="price"><i>&yen;</i>200<b class="red"></b></span>                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/140141.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/140141.html#comment" class="recomment">
+                                (120条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/0769D74712ED42B0A0D18DB595256B8A">lisabunny</a>点评：</span>海西最大的主题乐园。里面有些仿迪斯尼乐园的感觉。但是又有别于它。除了大型娱乐设施外还加了很多情境的活动。比如水漫金山，聊斋等。大人小孩都能乐在其中。园子里很适合拍照。不敢玩刺激活动的MM也可以进来拍照卖萌。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/8625.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/877/250/655/02aaa70d420f43b196714a48b35fe219_C_220_140.jpg" width="220" height="140" img-id="7512769" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/8625.html" title="厦门园林植物园">厦门园林植物园</a>
+                                <s class=g_background>第11名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区虎园路25号                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/8625.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/8625.html#comment" class="recomment">
+                                (161条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/2E09D1C0D53C4BCDB1F2677DF23A3BAB">lylbn</a>点评：</span>厦门园林植物园俗称“万石植物园”，是一座围绕万石岩水库精心设计的植物园林，位于厦门市区东南狮山北面。万石植物园萃集了厦门大小八景的“天界晓钟”、“高读琴洞”、“万石锁云”、“中岩玉笏”、“太平石笑”诸景点，且有百十余处摩岩石刻。园内依次安排了松杉园、玫瑰园、棕榈园、荫棚、引种植物区、药用植物园、大型仙人掌园、百花厅、兰花圃等20多个专类园和种植区，栽培了3000多种热带、亚热带植物，其中有被人称为“活化石”的水杉、银杏。有世界三大观赏树－－中国金钱松、日本金松、南洋杉，以及名贵的仙人掌等奇花异木。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/2343.html">
+                        <img src="http://cyjctrip.qiniudn.com/76197/1383118166029p18843k9gnm95vnredv9t4mtk2d.jpg?imageView/1/w/220/h/140" width="220" height="140" img-id="10046656" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/2343.html" title="集美学村">集美学村</a>
+                                <s class=g_background>第12名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市集美区集美学村                         </dd>
+                        <dd>
+                            
+携程价&nbsp;<span class="price"><i>&yen;</i>80<b class="red"></b></span>                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/2343.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/2343.html#comment" class="recomment">
+                                (147条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/2437B591ED8F4679BDA50E2B62F0EBB0">调个锤子情</a>点评：</span>很漂亮的集美村，如今也慢慢成为了拍婚纱照，写真的取景之地，一圈走下来。看到很多新人，你也会觉得很幸福
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/gulangyu120058/2345.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/522/616/365/11a1e7ff87254ca3beb9a1a35dd15b02_C_220_140.jpg" width="220" height="140" img-id="15241507" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/gulangyu120058/2345.html" title="日光岩">日光岩</a>
+                                <s class=g_background>第13名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区晃岩路62号                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/gulangyu120058/2345.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/gulangyu120058/2345.html#comment" class="recomment">
+                                (390条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/22A292761CE44642BA4DD818D4D93FC5">1514132****</a>点评：</span>蜿蜒而上的阶梯路直达小岛的最高点，中途可以有不同的视野角度看全岛或海对面的厦门岛繁华的鹭江岛，到了最高的岩石顶，视野更全，360度全视角看景色了！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/gulangyu120058/2346.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/255/760/984/9555492451a948eeaadc48d98f3362f2_C_220_140.jpg" width="220" height="140" img-id="7159015" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/gulangyu120058/2346.html" title="菽庄花园">菽庄花园</a>
+                                <s class=g_background>第14名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区鼓浪屿港仔后路7号                        </dd>
+                        <dd>
+                            
+携程价&nbsp;<span class="price"><i>&yen;</i>108<b class="red"></b></span>                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/gulangyu120058/2346.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/gulangyu120058/2346.html#comment" class="recomment">
+                                (245条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/66763C5E7F5448869D683DEE33F597E2">joyice</a>点评：</span>菽庄藏海，很漂亮，四十四桥、十二洞天都不错，就在海边，桥下就是海水，这个角度看日光岩也很好看
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xiamen21/50128.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/351/884/420/a00028e8c6524a43915d134aa832d412_C_220_140.jpg" width="220" height="140" img-id="10624865" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xiamen21/50128.html" title="厦门科技馆">厦门科技馆</a>
+                                <s class=g_background>第15名</s>
+                        </dt>
+                        <dd class="ellipsis">
+厦门市思明区体育路95号厦门文化艺术中心                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;80</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>70<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xiamen21/50128.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xiamen21/50128.html#comment" class="recomment">
+                                (191条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/2E09D1C0D53C4BCDB1F2677DF23A3BAB">lylbn</a>点评：</span>厦门科技馆（前身厦门市青少年科技馆）于2007年3月正式对外开放，她是以提高公众科学文化素质为目的，面向公众开展科普教育活动的科普教育基地，是实施科教兴国战略的基础设施，是厦门科技和科普事业必不可少的重要组成部分。她将秉承“弘扬科学精神，普及科学知识，传播科学思想和科学方法”的建馆宗旨，成为厦门市展示“文化之城、艺术之城、科技之城”的重要窗口之一
+                    </p>
+            </div>
+        <div class="ttd_pager cf"><p>1-15 / 166条</p><div class="pager_v1"><a class="prevpage disabled">上一页</a><a class="current">1</a><a href="/sight/xiamen21/s0-p2.html">2</a><a href="/sight/xiamen21/s0-p3.html">3</a><a href="/sight/xiamen21/s0-p4.html">4</a><a href="/sight/xiamen21/s0-p5.html">5</a><a  class="nextpage" href="/sight/xiamen21/s0-p2.html">下一页</a><span>到 <input id="gopagetext" value="" type="text"> 页 / <b class="numpage">12</b>页</span><a class="gopage" href="javascript:;">确定</a></div></div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div><div class="footerseo"><div class="footerseo_con"><div class="cf seo_title"><h2 class="seotitle1">旅游攻略导航</h2><div class="seo1title_r"><h3>当季热点：</h3><a href="http://you.ctrip.com/place/qingdao5.html" target="_blank">青岛</a><a href="http://you.ctrip.com/place/xiamen21.html" target="_blank">厦门</a><a href="http://you.ctrip.com/place/beidaihe1938.html" target="_blank">北戴河</a><a href="http://you.ctrip.com/place/jiuzhaigou25.html" target="_blank">九寨沟</a><a href="http://you.ctrip.com/place/zhangjiajie23.html" target="_blank">张家界</a><a href="http://you.ctrip.com/place/sanya61.html" target="_blank">三亚</a><a href="http://you.ctrip.com/place/marseilles120370.html" target="_blank">马赛</a><a href="http://you.ctrip.com/place/bali438.html" target="_blank">巴厘岛</a><a href="http://you.ctrip.com/place/phuket364.html" target="_blank">普吉岛</a></div></div><p>厦门旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的厦门自助游、自由行、自驾游、跟团旅线路，海量厦门旅游景点图片、游记、交通、美食、购物、住宿、娱乐、行程、指南等旅游攻略信息，了解更多厦门旅游信息就来携程旅游攻略。</p></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 厦门旅游快速入口</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/place/xiamen21.html" target="_blank">厦门旅游攻略</a></li><li><a href="/summary/xiamen21.html" target="_blank">厦门旅行指南</a></li><li><a href="/guides/xiamen21.html" target="_blank">厦门攻略下载</a></li><li><a href="/sight/xiamen21.html" target="_blank">厦门旅游景点</a></li><li><a href="/restaurant/xiamen21.html" target="_blank">厦门特色美食</a></li><li><a href="/resort/xiamen21.html" target="_blank">厦门娱乐体验</a></li><li><a href="/journeys/xiamen21.html" target="_blank">厦门行程推荐</a></li><li><a href="/asks/xiamen21.html" target="_blank">厦门旅游问答</a></li><li><a href="/map/xiamen21.html" target="_blank">厦门景点地图</a></li><li><a href="/travels/xiamen21.html" target="_blank">厦门游记攻略</a></li><li><a href="/photos/xiamen21/r21.html" target="_blank">厦门旅游图片</a></li><li><a href="/hotels/xiamen21.html" target="_blank">厦门酒店攻略</a></li><li><a href="/shopping/xiamen21.html" target="_blank">厦门购物指南</a></li><li><a href="/traffic/xiamen21.html" target="_blank">厦门旅游交通</a></li><li><a href="/events/xiamen21c21-p1" target="_blank">厦门结伴旅游</a></li><li><a href="http://hotels.ctrip.com/hotel/xiamen25" target="_blank">厦门酒店</a></li><li><a href="http://flights.ctrip.com/booking/xmn-Xiamen-flights.html" target="_blank">厦门机票</a></li><li><a href="http://trains.ctrip.com/TrainBooking/xiamen/" target="_blank">厦门火车票</a></li><li><a href="http://vacations.ctrip.com/dest/d-xiamen-21" target="_blank">厦门旅游</a></li></ul><h4 class="seotitle3">福建旅游攻略导航：</h4><ul class="cf"><li><a href="/place/xiamen21.html" target="_blank">厦门</a></li><li><a href="/place/fuzhou164.html" target="_blank">福州</a></li><li><a href="/place/diaoyudao143859.html" target="_blank">钓鱼岛</a></li><li><a href="/place/sanming620.html" target="_blank">三明</a></li><li><a href="/place/quanzhou243.html" target="_blank">泉州</a></li><li><a href="/place/putian317.html" target="_blank">莆田</a></li><li><a href="/place/longyan366.html" target="_blank">龙岩</a></li><li><a href="/place/nanping827.html" target="_blank">南平</a></li><li><a href="/place/zhangzhou334.html" target="_blank">漳州</a></li><li><a href="/place/ningde490.html" target="_blank">宁德</a></li></ul></div> </div><div class="footerseo_con seojs3line"> <div class="cf seo_title"> <h3 class="seotitle2"> 厦门旅游景点</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/sight/xiamen21/14050.html" target="_blank">厦门大学</a></li><li><a href="/sight/xiamen21/8669.html" target="_blank">环岛路</a></li><li><a href="/sight/xiamen21/2344.html" target="_blank">南普陀寺</a></li><li><a href="/sight/xiamen21/48767.html" target="_blank">日月谷温泉</a></li><li><a href="/sight/xiamen21/109999.html" target="_blank">曾厝垵</a></li><li><a href="/sight/xiamen21/137032.html" target="_blank">中山路步行街</a></li><li><a href="/sight/xiamen21/2342.html" target="_blank">胡里山炮台</a></li><li><a href="/sight/xiamen21/118936.html" target="_blank">海上看金门</a></li><li><a href="/sight/xiamen21/140141.html" target="_blank">方特梦幻王国</a></li><li><a href="/sight/xiamen21/8625.html" target="_blank">厦门园林植物园</a></li><li><a href="/sight/xiamen21/2343.html" target="_blank">集美学村</a></li><li><a href="/sight/gulangyu120058/2345.html" target="_blank">日光岩</a></li><li><a href="/sight/gulangyu120058/2346.html" target="_blank">菽庄花园</a></li><li><a href="/sight/xiamen21/50128.html" target="_blank">厦门科技馆</a></li><li><a href="/sight/xiamen21/48748.html" target="_blank">嘉庚公园</a></li><li><a href="/sight/gulangyu120058/8623.html" target="_blank">鼓浪屿环岛路</a></li><li><a href="/sight/xiamen21/140540.html" target="_blank">观音山梦幻海岸</a></li><li><a href="/sight/xiamen21/139403.html" target="_blank">鹭江夜游</a></li><li><a href="/sight/xiamen21/63494.html" target="_blank">厦门园林博览苑</a></li><li><a href="/sight/gulangyu120058/67695.html" target="_blank">海天堂构</a></li><li><a href="/sight/gulangyu120058/142068.html" target="_blank">红地毯趣味蜡像馆</a></li><li><a href="/sight/xiamen21/48769.html" target="_blank">厦门海沧大桥旅游区</a></li><li><a href="/sight/xiamen21/66009.html" target="_blank">翠丰温泉</a></li><li><a href="/sight/gulangyu120058/48712.html" target="_blank">钢琴博物馆</a></li><li><a href="/sight/xiamen21/57424.html" target="_blank">陈嘉庚纪念胜地</a></li><li><a href="/sight/xiamen21/8645.html" target="_blank">青礁慈济宫</a></li><li><a href="/sight/gulangyu120058/8620.html" target="_blank">万国建筑博览</a></li><li><a href="/sight/xiamen21/48781.html" target="_blank">海湾公园</a></li><li><a href="/sight/xiamen21/48778.html" target="_blank">白鹭洲公园</a></li><li><a href="/sight/xiamen21/8666.html" target="_blank">同安影视城</a></li><li><a href="/sight/gulangyu120058/133087.html" target="_blank">风琴博物馆</a></li><li><a href="/sight/xiamen21/8646.html" target="_blank">天竺山森林公园</a></li><li><a href="/sight/xiamen21/1409304.html" target="_blank">百年鼓浪屿博物馆</a></li><li><a href="/sight/xiamen21/48776.html" target="_blank">五缘湾湿地公园</a></li><li><a href="/sight/gulangyu120058/8621.html" target="_blank">鼓浪屿音乐厅</a></li><li><a href="/sight/xiamen21/119111.html" target="_blank">厦门大学芙蓉湖</a></li><li><a href="/sight/xiamen21/1409303.html" target="_blank">环岛观光巴士</a></li><li><a href="/sight/gulangyu120058/8619.html" target="_blank">海底世界</a></li><li><a href="/sight/xiamen21/8627.html" target="_blank">中山公园</a></li><li><a href="/sight/xiamen21/48747.html" target="_blank">陈嘉庚先生故居</a></li></ul></div> </div><div class="footerseo_con">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游目的地推荐</h3>
+                                        <a class="more" href="http://you.ctrip.com/sitemap/" target="_blank">全部&nbsp;&gt;</a>
+                                    </div><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/zijin2951.html" target="_blank">紫金旅游攻略</a></li><li><a href="http://you.ctrip.com/place/liangping120023.html" target="_blank">梁平旅游攻略</a></li><li><a href="http://you.ctrip.com/place/gongbujiangda120396.html" target="_blank">工布江达旅游攻略</a></li><li><a href="http://you.ctrip.com/place/nanxun80.html" target="_blank">南浔旅游攻略</a></li><li><a href="http://you.ctrip.com/place/kosamed128671.html" target="_blank">沙美岛旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lithuania100122.html" target="_blank">立陶宛旅游攻略</a></li><li><a href="http://you.ctrip.com/place/qujing509.html" target="_blank">曲靖旅游攻略</a></li><li><a href="http://you.ctrip.com/place/shanxian2897.html" target="_blank">单县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/krabitown1444990.html" target="_blank">甲米旅游攻略</a></li><li><a href="http://you.ctrip.com/place/yangcheng2076.html" target="_blank">阳城旅游攻略</a></li><li><a href="http://you.ctrip.com/place/habahe2480.html" target="_blank">哈巴河旅游攻略</a></li><li><a href="http://you.ctrip.com/place/dongji120416.html" target="_blank">东极旅游攻略</a></li><li><a href="http://you.ctrip.com/place/manchester588.html" target="_blank">曼彻斯特旅游攻略</a></li><li><a href="http://you.ctrip.com/place/telukintan128744.html" target="_blank">安顺旅游攻略</a></li><li><a href="http://you.ctrip.com/place/fengcheng1839.html" target="_blank">丰城旅游攻略</a></li><li><a href="http://you.ctrip.com/place/donggang1764.html" target="_blank">东港旅游攻略</a></li><li><a href="http://you.ctrip.com/place/wuzhen508.html" target="_blank">乌镇旅游攻略</a></li><li><a href="http://you.ctrip.com/place/baoting1009.html" target="_blank">保亭旅游攻略</a></li><li><a href="http://you.ctrip.com/place/genoa1042.html" target="_blank">热那亚旅游攻略</a></li><li><a href="http://you.ctrip.com/place/gannan426.html" target="_blank">甘南旅游攻略</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/sight/jiaonan897/107400.html" target="_blank">灵山岛</a></li><li><a href="http://you.ctrip.com/sight/malaysia100022/122838.html" target="_blank">马六甲海峡</a></li><li><a href="http://you.ctrip.com/sight/tongchuan907/55792.html" target="_blank">香山</a></li><li><a href="http://you.ctrip.com/sight/vale34297/122856.html" target="_blank">VALENCIA</a></li><li><a href="http://you.ctrip.com/sight/ninghai689/135820.html" target="_blank">宁海森林温泉</a></li><li><a href="http://you.ctrip.com/sight/washington257/55721.html" target="_blank">最高法院</a></li><li><a href="http://you.ctrip.com/sight/linan88/4129.html" target="_blank">青山湖</a></li><li><a href="http://you.ctrip.com/sight/baiyuxian120485/133463.html" target="_blank">亚青寺</a></li><li><a href="http://you.ctrip.com/sight/chongqing158/132875.html" target="_blank">重庆科技馆</a></li><li><a href="http://you.ctrip.com/sight/lijiang32/3055.html" target="_blank">虎跳峡</a></li><li><a href="http://you.ctrip.com/sight/pingxiang714/141219.html" target="_blank">武功山</a></li><li><a href="http://you.ctrip.com/sight/zhangzhou334/17145.html" target="_blank">百花村</a></li><li><a href="http://you.ctrip.com/sight/wuyishan22/4375.html" target="_blank">大红袍</a></li><li><a href="http://you.ctrip.com/sight/guangzhou152/6794.html" target="_blank">华南植物园</a></li><li><a href="http://you.ctrip.com/sight/hangzhou14/2033.html" target="_blank">雷峰塔</a></li><li><a href="http://you.ctrip.com/sight/hongkong38/132473.html" target="_blank">东方红</a></li><li><a href="http://you.ctrip.com/sight/xian7/52685.html" target="_blank">大明宫国家遗址公园</a></li><li><a href="http://you.ctrip.com/sight/beijing1/18606.html" target="_blank">南山滑雪场</a></li><li><a href="http://you.ctrip.com/sight/chengdu104/49942.html" target="_blank">洛带古镇</a></li><li><a href="http://you.ctrip.com/sight/zhenjiang13/55479.html" target="_blank">金山寺</a></li></ul></div><div class="footerseo_con"> <div class="cf seo_title"> <h3 class="seotitle2"> 地图导航</h3> </div> <div class="linklist cf"><a href="http://you.ctrip.com/place/countrylist.html">世界</a><a href="http://you.ctrip.com/place/china110000.html">中国</a><a href="http://you.ctrip.com/place/asia120001.html">亚洲</a><a href="http://you.ctrip.com/place/europe120002.html">欧洲</a><a href="http://you.ctrip.com/place/africa120006.html">非洲</a><a href="http://you.ctrip.com/place/northamerica120004.html">北美洲</a><a href="http://you.ctrip.com/place/southamerica120005.html">南美洲</a><a href="http://you.ctrip.com/place/oceania120003.html">大洋洲</a><a href="http://You.ctrip.com/sitemap/">目的地大全</a><a href="http://you.ctrip.com/sitemap/places.html">海外目的地</a><a href="http://you.ctrip.com/sitemap/placedis/c110000">国内目的地</a><a href="http://you.ctrip.com/sitemap/spotdis/c0">国内景点</a><a href="http://you.ctrip.com/sitemap/spots.html">海外景点</a><a href="http://you.ctrip.com/sitemap/guides">攻略</a><a href="http://you.ctrip.com/sitemap/travels.html">游记</a><a href="http://you.ctrip.com/sitemap/asks">问答</a><a href="http://you.ctrip.com/sitemap/events">结伴</a><a href="http://you.ctrip.com/sitemap/groups">小组</a><a href="http://you.ctrip.com/sitemap/official.html">认证</a></div> </div><div class="footerseo_con"><div class="cf seo_title"><h3 class="seotitle2">最新游友动态资讯</h3></div><div class="footerseo_con1" id="footerseo_marquee"><ul><li>[16分钟前] 1889** 发布了游记 <a href="/travels/xiamen21/1958392.html" target="_blank">美丽的厦门</a></li><li>[16分钟前] 1341** 发布了游记 <a href="/travels/xiamen21/1958086.html" target="_blank">#旅行摄影大展#</a></li><li>[16分钟前] 1895** 发布了游记 <a href="/travels/xiamen21/1958375.html" target="_blank">遇见厦门</a></li><li>[16分钟前] 1550** 发布了游记 <a href="/travels/xiamen21/1958447.html" target="_blank">今年夏天，我们在Here~浪漫鼓浪屿</a></li><li>[15分钟前] M111** 发表了问题 <a href="/asks/xiamen21/1361839.html" target="_blank">哪个土楼值得一去？跟团一日游多少费？</a></li><li>[15分钟前] m104** 发表了问题 <a href="/asks/xiamen21/1361770.html" target="_blank">大家猜猜看看啊，机票价格问题</a></li><li>[15分钟前] E751** 发表了问题 <a href="/asks/xiamen21/1361859.html" target="_blank">#爱菲儿度假酒店（厦门鼓浪屿蓝屿店）#我想预定的圆床没有了？</a></li><li>[15分钟前] M108** 发表了问题 <a href="/asks/xiamen21/1361876.html" target="_blank">怪坡具体位置在哪儿？谢谢</a></li></ul></div></div></div><div class="footgray"><div class="footinner cf"><dl><dt>社区必读</dt><dd><a href="http://you.ctrip.com/htmlpages/eula.html" target="_blank">用户协议</a></dd><dd><a href="http://you.ctrip.com/htmlpages/guide.html" target="_blank">社区指南</a></dd><dd><a href="http://you.ctrip.com/htmlpages/exp.html" target="_blank">经验与等级</a></dd><dd><a href="http://you.ctrip.com/htmlpages/help.html" target="_blank">新手导航</a></dd></dl><dl><dt>发现你的旅行</dt><dd><a href="http://you.ctrip.com/place" target="_blank">了解目的地</a></dd><dd><a href="http://you.ctrip.com/travels" target="_blank">阅读精彩游记</a></dd><dd><a href="http://you.ctrip.com/guides" target="_blank">下载精品攻略</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">逛逛兴趣小组</a></dd><dd><a href="http://you.ctrip.com/asks" target="_blank">请教旅行达人</a></dd><dd><a href="http://you.ctrip.com/events" target="_blank">发起结伴</a></dd></dl><dl><dt>分享你的旅行</dt><dd><a href="http://you.ctrip.com/add-travel/guide.html" target="_blank">发表游记大作</a></dd><dd><a href="http://you.ctrip.com/dianping/" target="_blank">点评去过的景点</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">去小组讨论</a></dd></dl><dl class="ftabout"><dt>关于我们</dt><dd><a href="http://you.ctrip.com/htmlpages/about.html" target="_blank">社区简介</a></dd><dd><a href="http://you.ctrip.com/htmlpages/contact.html" target="_blank">联系我们</a></dd><dd><a href="http://you.ctrip.com/htmlpages/job.html" target="_blank">加入我们</a></dd></dl><dl class="ftguanzhu"><dt>关注携程攻略社区</dt><dd class="youguanzhu cf"><span class="ftweixin"></span><a rel="nofollow" target="_blank" href="http://weibo.com/ctripyou" class="ftweibo"></a></dd></dl></div></div>
+    <script src="http://webresource.c-ctrip.com/ResCRMOnline/r1/js/float/headFloat.min.js?ws_testp20140729.js"></script><div id="base_ft">
+  <p><a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&#xA0;|&#xA0;<a rel="nofollow" title="免费注册" href="https://accounts.ctrip.com/member/emailregist.aspx">免费注册</a>&#xA0;|&#xA0;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&#xA0;|&#xA0;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&#xA0;|&#xA0;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&#xA0;|&#xA0;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" title="诚聘英才" href="http://job.ctrip.com/">诚聘英才</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201012/other/yp/index.html" title="企业礼品卡采购">企业礼品卡采购</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>&#xA0;|&#xA0;<a rel="nofollow" style="color: #0066CC;" target="_blank" title="我要提建议" href="http://my.ctrip.com/adv/uxp/Community/CommunityAdvice.aspx">我要提建议</a></p>
+  <p><a rel="nofollow" href="http://hotels.ctrip.com/jiameng#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&#xA0;|
+            <a rel="nofollow" href="http://pages.ctrip.com/commerce/promote/201406/destination/mdd/index.html">目的地营销合作</a>&#xA0;|&#xA0;
+            <a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="服务说明">服务说明</a>&#xA0;|&#xA0;
+            <a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/tour/ingroupline_pages.asp?folder=ingroup0904&amp;file=0177" title="旅游度假资质">旅游度假资质</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/Insurance/index.htm">保险代理</a>&#xA0;|&#xA0;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm">Copyright&copy;</a> 1999-2014, <a href="http://www.ctrip.com/"> ctrip.com</a>. All rights reserved.&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a></p>
+  <p id="cui_lang_bottom"><a target="_blank" class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a> <a target="_blank" class="cui_lang_en" rel="nofollow" href="http://english.ctrip.com/">English</a> <a target="_blank" class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a> <a target="_blank" class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a> <a target="_blank" href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a> <a target="_blank" class="cui_lang_de" rel="nofollow" href="http://de.ctrip.com/">Deutsch</a> <a target="_blank" rel="nofollow" href="http://es.ctrip.com/" class="cui_lang_es">Espa&#xF1;ol</a> <a target="_blank" rel="nofollow" class="cui_lang_ru" href="http://ru.ctrip.com/">Русский</a><a target="_blank" rel="nofollow" class="cui_lang_vn" href="http://vn.ctrip.com/">Tiêng Viêt</a></p>
+  <div class="honour_wrap"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=163178864X" title="网信编码：163178864X" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://search.cxwz.org/cert/l/CX20111018000615000623" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="javascript:" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.cnnic.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a></div>
+</div><!-- InstanceEnd name="position" --><script type="text/javascript">var globalConfig={H1:'https',H3:'my.ctrip.com',Lang:'gb2312',AjaxUrl:'accounts.ctrip.com'};</script><script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/js/Ctrip2013JS.js?temp=20140820" charset="utf-8"></script>
+<div class="gs_bottombar cf"><ul><li><a href="http://you.ctrip.com/special/2014bikini.aspx" target="_blank">一张比基尼照换豪宅！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/comments/foretaste" target="_blank">争当免单达人，吃遍全球霸王餐！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/event/zhoumoyou.html" target="_blank">免费趣玩，五星香格里拉！</a></li></ul></div>
+</div>
+<input type="hidden" id="sso_loginprocxyPath" name="sso_loginprocxyPath" value="http://you.ctrip.com/DestinationSite/LoginHelper/loginprocxy.html" />
+                                            <script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/R6/member/common/js/mask_you.js?20140603" charset="gb2312" ></script>
+
+
+    
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/common/js/common.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/fed/js/fed.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/ttd2/js/city_sight.v2.0.js?20140822153037"></script>
+    <script type="text/javascript">
+        function SetImgOriginalUrl() {
+            try {
+                $("img[data-original]").each(function (i) {
+                    var url = $(this).attr("data-original");
+                    if (url != "") {
+                        $(this).attr("src", url);
+                    }
+                });
+            } catch (e) {
+            }
+        }
+        $(function () {
+            ShowVacationAd(); ShowspecialHotelAd(); GetExpertPartialView();
+            OnloadEventDistrictimg(); SetImgOriginalUrl();
+        }); </script>
+    <script type="text/javascript">
+        var IsTheme = 0;
+        //是否是标签列表页（0否，1是）
+        var LabelID = 0;
+        //主题标签
+        var RegionID = 0;
+        //行政区
+        var IsPrice = 0;
+        //是否订购
+        var Keywords = '';
+        //关键字
+        var DistrictID = 21;
+        //目的地ID
+        var PageNow = 1;
+        //当前页码
+        var EName = 'Xiamen';
+        //目的地英文名称
+
+        var OrderType = '0';
+
+        if (PageNow>1) {
+            window.location.hash = 'sightname';
+        }
+       
+        $(function() {
+            if (IsPrice == 1) {
+                $("#search_sight_dg").attr("checked", true);
+            } else {
+                $("#search_sight_dg").attr("checked", false);
+            }
+
+            if (Keywords != "") {
+                $("#search_sight_name").val(Keywords);
+            }
+            
+            $("#search_sight_dg").click(function() {
+                if ($("#search_sight_dg").attr("checked")) {
+                    IsPrice = 1;
+                } else {
+                    IsPrice = 0;
+                }
+                PageNow = 1;
+                OnSearch();
+            });
+             if ($("#inChina").val().toLowerCase() == "true") {
+                GetSpecialFlightView();
+            } else {
+                ShowIntelFlightAd();
+            }
+        });
+
+        function OnLabel(id) {
+            PageNow = 1;
+            LabelID = id;
+            OnSearch();
+        }
+
+        function OnRegion(id) {
+            RegionID = id;
+            PageNow = 1;
+            OnSearch();
+        }
+
+        function ColseKeys() {
+            Keywords = "";
+            PageNow = 1;
+            OnSearch();
+        }
+        function OnOrderBy(id) {
+            OrderType = id;
+            OnSearch();
+        }
+        function OnSubmit() {
+            var strkey = $.trim($("#search_sight_name").val());
+            var pl = $("#search_sight_name").attr('placeholder');
+            if (strkey == "" || strkey==pl)
+            { Keywords = ""; }
+            else
+            { Keywords = strkey; }
+            PageNow = 1;
+            OnSearch();
+        }
+        
+        INTERFACE.pageLinkJump = function (page) {
+            PageNow = page;
+            OnSearch();
+        };
+
+        function OnSearch() {
+            var strUrl = "";
+            var key = "";
+            var type = "";
+            //是否是标签页
+            if (IsTheme == '1') {
+                type = "?type=t";
+            }
+            if (Keywords != "") {
+                if (IsTheme == '1') {
+                    key = "&keywords=" + escape(Keywords);
+                } else {
+                    key = "?keywords=" + escape(Keywords);
+                }
+            }
+//            if (OrderType != "") {
+//                if (Keywords == "" && IsTheme != '1') {
+//                    key += "?ordertype=" + escape(OrderType);
+//                } else {
+//                    key += "&ordertype=" + escape(OrderType);
+//                }
+//            }
+            var params = type + key;
+
+            if ((LabelID == "" || LabelID == 0) && (PageNow == "" || PageNow <= 1) && (IsPrice == "" || IsPrice == 0) && (RegionID == "" || RegionID == 0) &&(OrderType == "" || OrderType ==0))  {
+                strUrl = "/sight/" + EName + DistrictID + ".html" + params;
+            } else {
+                var label = LabelID == "" || LabelID == 0 ? "s0" : "s" + LabelID;
+                var page = PageNow == "" || PageNow <= 1 ? "" : "-p" + PageNow;
+                var label1 = LabelID == "" || LabelID == 0 ? "" : "-l" + LabelID;
+                var isprice = IsPrice == "" || IsPrice == 0 ? "" : "-i1";
+                var region = RegionID == "" || RegionID == 0 ? "" : "-r" + RegionID;
+                var otype = OrderType != "" && OrderType != "0" ? "-o" + OrderType : "";
+                var strparams = label + page + label1+ region + isprice +otype;
+                strUrl = "/sight/" + EName + DistrictID + "/" + strparams + ".html" + params;
+            }
+
+            window.location.href = strUrl;
+        }
+    </script>
+
+<div class="content">
+                                           <div class="gs_operate_right_fix" id="gs_operate_right_fix">
+                                                 <div class="cf">
+                                                        <a href="javascript:;" class="close"></a>
+                                                 </div>
+                    <a href="http://you.ctrip.com/travels/yangzhou12/1950347.html" target="_blank" class="one">发点评赢扬州美食游！ </a></div></div>
+                            <script>
+                                $(function () {
+                                    $('#gs_operate_right_fix a.close').on('click', function ()
+                                    { $(this).parent().parent().hide(); }
+                                        );
+
+                                    }); 
+                            </script>
+    <script type="text/javascript">
+        if (!window.__SSO_submit) {
+            window.__SSO_submit = function(a, t) {
+                $('.a_popup_login').removeClass('a_popup_login');
+                switch (a) {
+                case 'wantClickID':
+                case 'wentClickID':
+                    $("#" + a).trigger('click');
+                    break;
+                case 'writereviewid':
+                    var currentUrl = window.location.href.replace( /#.*$/g , "");
+                    var urlParamsIndex = currentUrl.lastIndexOf("?");
+                    var randomCode = Math.floor(Math.random() * 10000 + 1);
+
+                    if (urlParamsIndex == -1) {
+                        currentUrl += "?RandomCode=" + randomCode;
+                    } else {
+                        var hasParamAlready = currentUrl.match( /RandomCode=[^&]{0,}/ );
+                        if (hasParamAlready != null) {
+                            currentUrl = currentUrl.replace( /RandomCode=[^&]{0,}/ , "RandomCode=" + randomCode);
+                        } else {
+                            currentUrl += "&RandomCode=" + randomCode;
+                        }
+                    }
+                    window.location.href = currentUrl + "#dianPing";
+                    break;
+                case 'comment-submit':
+                    $(".post_review .btn_line .gsn-btn-2").click();
+                    break;
+                }
+            };
+        }
+
+        if (window.$) {
+            $(function () {
+                if (window.ShowGowant) {
+                    ShowGowant();
+                }
+                if (window.ShowWeather) {
+                    ShowWeather();
+                }
+                if (window.asynfunc) {
+                    for (var index in window.asynfunc) {
+                        try {
+                            window.asynfunc[index].call();
+                        } catch (e) {
+                            if (window.console) {
+                                console.log(e);
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

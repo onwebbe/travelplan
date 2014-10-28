@@ -1,0 +1,103 @@
+<div>
+    <script>
+    // Load the widget parser and mobile base
+    require([
+		"dijit/registry",
+		"com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore",
+        "com/onwebbe/dojo/mobile/MobileDynamicViewController",
+        "dojox/mobile/parser",
+        "dojo/dom-geometry",
+        "dojo/on",
+        "dojox/mobile/compat",
+        "dojox/mobile/ScrollableView",
+        "dojox/mobile/Heading",
+        "dojox/mobile/ToolBarButton",
+        "dojox/mobile/TabBar",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/Button",
+        "dojox/mobile/GridLayout",
+        "dojox/mobile/Pane",
+        "dojox/mobile/ContentPane",
+        "dojox/mobile/ScrollablePane",
+        "dojox/mobile/RoundRect",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelPlanGridScrollableView",
+        "com/onwebbe/dojo/mobile/SiderPane",
+        "dojox/mobile/View",
+        "dojox/mobile/RoundRectList",
+        "dojo/domReady!"
+    ], function (registry, dataM, Controller, parser, domGeometry, on) {
+        // Parse the page for widgets
+		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackFromPage();
+		
+       on(registry.byId("mainFunctionBackButton"),"click", function(){
+        	/* if(confirm("请保存现有数据,否则数据可能丢失!")){
+        		
+        	} */
+    	   controller.back();
+        });
+        registry.byId("mainFunctionShowFuns").on("click", function(){
+        	registry.byId("mainFunctionSiderPane")._onClickShowHide();
+        });
+        setTimeout(function(){
+        	registry.byId("mainFunctionSiderPane")._onClickShowHide();
+        },500);
+        //com.onwebbe.dojo.mobile.MobileDynamicViewController.hideOverlay();
+        travelMainFuninit();
+    });
+    </script>
+<script>
+
+function travelMainFuninit(){
+	require(["dijit/registry","dojo/on"], function(registry,on){
+		var replaceContentEle = dojo.query("#mainFunctionView_contentPanel")[0];
+		var replaceContentDijit = registry.byNode(replaceContentEle);
+		var mainElement = dojo.query("mainFunctionSiderPane")[0];
+		var siderPaneListItems = dojo.query("li[data-dojo-type='dojox/mobile/ListItem']");
+		for(i=0;i<siderPaneListItems.length;i++){
+			var sidePaneListItem = siderPaneListItems[i];
+			var sidePaneListItemDijit = registry.byNode(sidePaneListItem);
+			sidePaneListItemDijit.own(sidePaneListItemDijit.on("click", function(){
+				var fid = this.domNode.getAttribute("fid");
+				if(fid=="goin"){
+					replaceContentDijit.destroyDescendants();
+					com.onwebbe.dojo.mobile.MobileDynamicViewController.replaceContent("tranvelPackageDetail.html",replaceContentEle);
+				}
+			}));
+		}	
+	});
+}
+</script>
+</div>
+<div>
+<div id="mainFunctionView" data-dojo-type="dojox/mobile/View" data-dojo-props="selected: true">
+	<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top', label: '旅行计划'">
+		<span id="mainFunctionBackButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'后退', arrow:'left'" style="float:left;"></span>
+		<span id="mainFunctionShowFuns" data-dojo-type="dojox/mobile/ToolBarButton" style="width:20px;background-image: url(../../images/notification-30-normal.png);float:left;margin-left:10px;padding-left:5px;padding-right:5px;"></span>
+		
+		<span id="mainFunctionPath" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/notes-30.png);float:right;width:10px;" data-dojo-props=""></span>
+		<span id="mainFunctionDocuments" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/documents-30.png);float:right;width:10px;"></span>
+		<span id="mainFunctionPackage" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/contacts-30.png);float:right;width:10px;"></span>
+		<span id="mainFunctionSpots" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/photoSpot-30.png);float:right;width:10px;"></span>
+		<span id="mainFunctionAgent" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/shopAgent-30.png);float:right;width:10px;"></span>
+		<span id="mainFunctionQuestion" data-dojo-type="dojox/mobile/ToolBarButton" style="background-image: url(../../images/questions-30.png);float:right;width:10px;"></span>
+	</div>
+	<div data-dojo-type="dojox/mobile/ContentPane" style="height:100%;">
+		<div id="mainFunctionView_contentPanel" data-dojo-type="dojox/mobile/ContentPane" style="margin-left:15px;margin-right:5px;margin-bottom:5px;margin-top:5px;">
+			
+		</div>
+		<div id="mainFunctionSiderPane" data-dojo-type="com/onwebbe/dojo/mobile/SiderPane" data-dojo-props="requireSplitBar:false">
+		<div data-dojo-type="dojox/mobile/ContentPane" data-dojo-props="" style="position:absolute">
+			<div style="padding-top:8px;padding-left:10px;">
+			欢迎回来: 大熊猫
+			</div>
+			<ul data-dojo-type="dojox/mobile/RoundRectList">
+				<li fid="plan" data-dojo-type="dojox/mobile/ListItem" data-dojo-props='moveTo:"#"'><img style="vertical-align:middle;margin-right:8px;" src="../../images/planCalendar-30.png"/>计划</li>
+				<li fid="prep" data-dojo-type="dojox/mobile/ListItem" data-dojo-props='moveTo:"#"'><img style="vertical-align:middle;margin-right:8px;" src="../../images/checklist-30.png"/>准备</li>
+				<li fid="goin" data-dojo-type="dojox/mobile/ListItem" data-dojo-props='moveTo:"#"'><img style="vertical-align:middle;margin-right:8px;" src="../../images/record-30.png"/>旅行进行中</li>
+			</ul>
+		</div>
+		</div>
+	</div>
+</div>
+</div>

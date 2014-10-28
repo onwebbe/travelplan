@@ -1,0 +1,479 @@
+<div>
+    <script>
+    // Load the widget parser and mobile base
+    var TravelMainAddView = {};
+    require([
+		"dijit/registry",
+        "com/onwebbe/dojo/mobile/MobileDynamicViewController",
+        "dojox/mobile/parser",
+        "dojo/store/Memory",
+        "dojo/_base/array",
+        "com/onwebbe/dojo/mobile/ItemSelectTooltip",
+        "dojox/mobile/compat",
+        "dojox/mobile/ScrollableView",
+        "dojox/mobile/Heading",
+        "dojox/mobile/ToolBarButton",
+        "dojox/mobile/TabBar",
+        "dojox/mobile/TabBarButton",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/Button",
+        "dojox/mobile/GridLayout",
+        "dojox/mobile/ContentPane",
+        "dojox/mobile/FixedSplitter",
+        "dojox/mobile/View",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane",
+        "dojox/mobile/ScrollablePane",
+        "dojox/mobile/ValuePicker",
+        "dojox/mobile/ValuePickerSlot",
+        "dojox/mobile/FilteredListMixin",
+        "dojox/mobile/RoundRectList",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/ContentPane",
+        "dojox/mobile/RoundRect",
+        "dojox/mobile/SearchBox",
+        "com/onwebbe/dojo/mobile/travelPlan/TargetListContentPane",
+        "com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane",
+        "dojox/mobile/Switch",
+        "dojo/domReady!"
+    ], function (registry, Controller, parser, MemoryStore, array, ItemToolTip) {
+    	TravelMainAddView.scrollToTarget = function(elementID){
+        	require([
+        	 		"dijit/registry",
+        	         "dojo/domReady!"
+        	     ], function (registry, Controller, parser) {
+        	         // Parse the page for widgets
+        	     	var travelMainTargetSelectListPane = registry.byId("travelMainTargetSelectListPane");
+        	        var element = document.getElementById(elementID);
+        	     	var topY = element.offsetTop;
+        	     	topY = topY-30;
+        	     	travelMainTargetSelectListPane.slideTo({"y":-topY},0.5);
+        	     });
+        }
+    	TravelMainAddView.scrollToTop = function(){
+        	require([
+        	 		"dijit/registry",
+        	         "dojo/domReady!"
+        	     ], function (registry, Controller, parser) {
+        	         // Parse the page for widgets
+        	     	var travelMainTargetSelectListPane = registry.byId("travelMainTargetSelectListPane");
+        	     	travelMainTargetSelectListPane.slideTo({"y":0},0.5);
+        	     });
+        }
+    	
+        TravelMainAddView.onSearch = function(results, query, options){
+        	var searchValue = registry.byId("travelMainAddSearchButton").get("value");
+        	var sortedResult = new Array();
+        	for(i=0;i<results.length;i++){
+        		var resultItem = results[i];
+        		var tempResultID = resultItem.id;
+        		var isExist = array.some(sortedResult, function(it){return it.id==tempResultID;});
+        		if(!isExist){
+        			sortedResult.push(resultItem);
+        		}
+        	}
+        	if(searchValue==""){
+        		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+        		registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+        	}else{
+        		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+            	registry.byId("travelMainAddTargetListContentPane").updateDataBy(sortedResult,"","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+        	}
+        	var travelMainTargetSelectListPane = registry.byId("travelMainTargetSelectListPane");
+	     	travelMainTargetSelectListPane.slideTo({"y":0},0.5);
+        }
+        TravelMainAddView.onSelectFunction = function(data){
+    		var targetTypesStr = data.targetTypes;
+    		
+    		registry.byId("travelMainTargetContentPane").updateData(data, dataModule.getTargetType(), "targetTypes", "add", "targetNameC");
+    	}
+       
+		//Parse the page for widgets
+    	com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackFromPage(false);
+		
+    	travelMainAddViewInit();
+    	
+    	//com.onwebbe.dojo.mobile.MobileDynamicViewController.hideOverlay();
+    });
+    
+    </script>
+<script>
+function travelMainAddViewInitPrepareSearch(MemoryStore, searchEle){
+	var tempData = dataModule.getTravelTarget();
+	var newArray = new Array();
+	
+	for(i=0;i<tempData.length;i++){
+		var tempDat = tempData[i];
+		var tempE ={};
+		dojo.mixin(tempE, tempDat);
+		tempE.searchName=tempE.targetNameE;
+		newArray.push(tempE);
+		
+		var tempC = {};
+		dojo.mixin(tempC, tempDat);
+		tempC.searchName=tempC.targetNameC;
+		newArray.push(tempC);
+		
+		var tempP = {};
+		dojo.mixin(tempP, tempDat);
+		tempP.searchName=tempP.targetNameP;
+		newArray.push(tempP);
+	}
+	TravelMainAddView.store = new MemoryStore({data:newArray});
+	searchEle.set("value","");
+	searchEle.store=TravelMainAddView.store;
+}
+function travelMainAddViewInit(){
+	require([
+  		"dijit/registry",
+          "com/onwebbe/dojo/mobile/travelPlan/TargetListContentPane",
+          "dojo/on",
+          "dojo/_base/array",
+          "dojo/store/Memory",
+          "com/onwebbe/dojo/mobile/GroupDataUtil",
+          "dojo/domReady!"
+      ], function (registry, TargetListContentPane, on, array, memoryStore, GroupUtil) {
+		registry.byId("testestestest").on("click", function(){
+			registry.byId("testestestest1").showTip(this);
+			//registry.byId("testestestest1").show(this, ['above-centered','after','before']);
+		});
+		registry.byId("testestestest1").on("listItemClicked", function(data){
+			alert("test");
+		});
+		travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));
+		registry.byId("travelMainAddBackButton").on("click", function(){
+			controller.back();
+		});
+    	registry.byId("travelMainAddSearchButton").on("search", TravelMainAddView.onSearch);
+    	
+    	registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"province","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+    	registry.byId("travelMainTargetSelectListPane").resize();
+    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+    	
+    	registry.byId("travelMainAddConfirmButton").on("click", function(){
+    		var selectedData = registry.byId("travelMainTargetContentPane")._selectedData;
+    		dataModule.setSelectedTarget(selectedData);
+    		controller.switchView("mainPage.html");
+    	});
+    	
+    	//for international/ national swith
+    	var rootEle = dojo.query("#travelMainAddView")[0];
+    	var switchDijit = registry.byNode(dojo.query("#travelMainAddInternationalNationalSwitch", rootEle)[0]);
+    	switchDijit.on("click", function(event){
+    		var that = this;
+    		com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+    		setTimeout(function(){
+    			var value = that.get("value");
+        		if("on"==value){
+        			dojo.query(".travelMainAddInternationalcontinent")[0].style.display="none";
+        			dataModule.readChinaTarget();
+        			registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+        			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"province","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+        	    	registry.byId("travelMainTargetSelectListPane").resize();
+        	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+        	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+        		}else{
+        			dojo.query(".travelMainAddInternationalcontinent")[0].style.display="block";
+        			dataModule.readInternationalTarget();
+        			registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+        			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"province","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+        	    	registry.byId("travelMainTargetSelectListPane").resize();
+        	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+        	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+        		}
+        		travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));
+        		com.onwebbe.dojo.mobile.MobileDynamicViewController.hideOverlay();
+    		},100);
+    		
+    	});
+    	var tablewidth = dojo.query(".travelMainAddTopPanelTable", rootEle)[0].clientWidth;
+    	dojo.query("#travelMainAddGroupData", rootEle)[0].style.width=tablewidth+"px";
+    	//prepare Continent
+    	 TravelMainAddView.onContinentChange = function(continenttext){
+    		//com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+         	dataModule.readInternationalTargetByContinent(continenttext);
+     		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+ 			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+ 			registry.byId("travelMainTargetSelectListPane").resize();
+ 	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+ 	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+ 	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));
+ 	    	TravelMainAddView.scrollToTop();
+ 	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.hideOverlay();
+         }
+    	 TravelMainAddView.onContinentChangeEur = function(data){
+    		 com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+    		 if(TravelMainAddView.europeData==null){
+ 	    		dataModule.readInternationalTargetByContinent("Europ");
+ 	    		TravelMainAddView.europeData=dataModule.getTravelTarget();
+ 	    	}
+     		
+ 	    	var groupUtil = new GroupUtil();
+ 	    	groupUtil.setFunction("GLocation");
+ 	    	groupUtil.addItems(TravelMainAddView.europeData);
+ 	    	var tmpData = groupUtil.getGroupItems(data);
+ 	    	console.log(tmpData);
+ 	    	var jsonValue = dataModule.getTravelTarget();
+      		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+  			registry.byId("travelMainAddTargetListContentPane").updateDataBy(tmpData,"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+  			registry.byId("travelMainTargetSelectListPane").resize();
+  	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+  	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+  	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));
+  	    	TravelMainAddView.scrollToTop();
+  	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.hideOverlay();
+          }
+    	on(dojo.query(".asiaContinent", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Asia";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Asia");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChange("Asia");
+	    	},100);
+	    	
+    	});
+    	on(dojo.query(".europContinentN", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Europe";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Europe");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChangeEur("北欧");
+	    	},100);
+    		
+    	});
+    	on(dojo.query(".europContinentS", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Europe";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Europe");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChangeEur("南欧");
+	    	},100);
+    		
+    	});
+    	on(dojo.query(".europContinentW", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Europe";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Europe");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChangeEur("西欧");
+	    	},100);
+    		
+    	});
+    	on(dojo.query(".europContinentE", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Europe";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Europe");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChangeEur("东欧");
+	    	},100);
+    		
+    	});
+    	on(dojo.query(".europContinentC", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Europe";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Europe");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+    		
+    		com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChangeEur("中欧");
+	    	},100);
+    	});
+    	on(dojo.query(".oceaniaContinent", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Oceania";
+    		});
+    		dataModule.readInternationalTargetByContinent("Oceania");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton")); */
+    		
+    		com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChange("Oceania");
+	    	},100);
+    	});
+    	on(dojo.query(".northAmeriaContinent", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="North America";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("North America");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;
+	    	travelMainAddViewInitPrepareSearch(memoryStore, registry.byId("travelMainAddSearchButton"));*/
+	    	
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChange("North America");
+	    	},100);
+    	});
+    	on(dojo.query(".southAmeriaContinent", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="South America";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("South America");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;*/
+	    	
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChange("South America");
+	    	},100);
+    	});
+    	on(dojo.query(".africaContinent", rootEle)[0], "click", function(){
+    		/* var travelTargets = dataModule.getTravelTarget();
+    		var sortedTravelTargets = array.filter(travelTargets, function(item){
+    			return item.continentE=="Africa";
+    		}); 
+    		dataModule.readInternationalTargetByContinent("Africa");
+    		registry.byId("travelMainAddTargetListContentPane").removeAllGroups();
+			registry.byId("travelMainAddTargetListContentPane").updateDataBy(dataModule.getTravelTarget(),"country","targetNameC", document.getElementById("travelMainAddGroupData"), document.getElementById("travelMainTargetSelectListContent"),TravelMainAddView.onSelectFunction);
+			registry.byId("travelMainTargetSelectListPane").resize();
+	    	var height = (parseInt(registry.byId("travelMainTargetSelectListPane").domNode.style.height)-10)+"px";
+	    	registry.byId("travelMainTargetSelectListPane").domNode.style.height = height;*/
+	    	
+	    	com.onwebbe.dojo.mobile.MobileDynamicViewController.showOverlay();
+	    	setTimeout(function(){
+	    		TravelMainAddView.onContinentChange("Africa");
+	    	},100);
+    	});
+      });
+}
+
+</script>    
+</div>
+<div>
+<div id="travelMainAddView" data-dojo-type="dojox/mobile/View" data-dojo-props="">
+	<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top'">
+		<span id="travelMainAddBackButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'后退', arrow:'left'" style="float:left;"></span>
+		<span id="travelMainAddConfirmButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'创建', arrow:'right'" style="float:right;"></span>
+	</div>
+	<div id="travelMainAddTargetListContentPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TargetListContentPane">
+		<table style="width:100%;">
+			<tr style="width:100%;">
+				<td colspan="2">
+					<div data-dojo-type="dojox/mobile/RoundRect">
+						<table style="width:100%;display:inline-block;" class="travelMainAddTopPanelTable">
+							<tr>
+								<td style="">
+									<span id="travelMainAddInternationalNationalSwitch" data-dojo-type="dojox/mobile/Switch" value="on" leftLabel="国内" rightLabel="国际" style="float:left;"></span>
+									<span class="travelMainAddInternationalcontinent" style="padding-left:200px;display:none;">
+										<a class="asiaContinent" href="#" style="margin-left:5px;">亚洲</a>
+										<a class="europContinentE" href="#" style="margin-lft:5px;">东欧</a>
+										<a class="europContinentS" href="#" style="margin-left:5px;">南欧</a>
+										<a class="europContinentW" href="#" style="margin-left:5px;">西欧</a>
+										<a class="europContinentN" href="#" style="margin-left:5px;">北欧</a>
+										<a class="europContinentC" href="#" style="margin-left:5px;">中欧</a>
+										<a class="oceaniaContinent" href="#" style="margin-left:5px;">大洋洲</a>
+										<a class="northAmeriaContinent" href="#" style="margin-left:5px;">北美</a>
+										<a class="southAmeriaContinent" href="#" style="margin-left:5px;">南美</a>
+										<a class="africaContinent" href="#" style="margin-left:5px;">非洲</a>
+									</span>
+								</td>
+								<td style="text-align:right;">
+									<span style="align:right;display:inline-block;">
+										搜索	:&nbsp;<input id="travelMainAddSearchButton" style="width:160px;" type="search" data-dojo-type="dojox/mobile/SearchBox" placeHolder="搜索目标" data-dojo-props='store: TravelMainAddView.store, searchAttr: "searchName", ignoreCase: true'>
+									</span>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2" style="width:100%;">
+									<span id="travelMainAddGroupData" style="display:inline-block;">
+									</span>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td style="width:35%">
+					<span id="travelMainTargetSelectListPane" data-dojo-type="dojox/mobile/ScrollablePane" data-dojo-props='' style="width:100%;display:inline-block;border-right:1px solid black;">
+						<div id="travelMainTargetSelectListContent">
+						</div>
+					</span>
+				</td>
+				<td style="width:65%;" valign="top">
+					<span id="travelMainTargetContentPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane" data-dojo-props='' style="width:100%;display:inline-block;">
+						<span id="testestestest" data-dojo-type="dojox/mobile/RoundRect">test+++
+							<span id="testestestest1" data-dojo-type="com/onwebbe/dojo/mobile/ItemSelectTooltip"></span>
+						</span>
+					</span>
+				</td>
+			</tr>
+		</table>
+	</div>
+</div>
+</div>
+<!-- span>国内</span>
+			<ul data-dojo-type="dojox/mobile/RoundRectList" id="travelMainTargetSelectListItemA">
+				<li data-dojo-type="dojox/mobile/ListItem" data-dojo-props='moveTo:"#", transition:"slide"' onclick=""></li>
+				<li data-dojo-type="dojox/mobile/ListItem">b</li>
+				<li data-dojo-type="dojox/mobile/ListItem">c</li>
+				<li data-dojo-type="dojox/mobile/ListItem">d</li>
+				<li data-dojo-type="dojox/mobile/ListItem">e</li>
+			</ul -->

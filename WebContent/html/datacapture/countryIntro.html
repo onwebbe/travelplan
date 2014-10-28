@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Travel Plan</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../../js/dojo/dojox/mobile/deviceTheme.js"></script>
+<style type="text/css">
+.blueBackground {
+	background-image: #96b6df;
+	background-color: #96b6df;
+}
+</style>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../../js/dojo/dojo/dojo.js"></script>
+    <!-- dojo application code -->
+</head>
+<body style="visibility:hidden;">
+<script>
+var eurs = $("#Europelist div ul li a");
+var array = new Array();
+for(i=0;i<eurs.length;i++){
+    var eur = eurs[i];
+    var eurFullName = $(eur).text();
+    var eurNameInd = eurFullName.indexOf(" ");
+    var targetName = eurFullName.substring(0,eurNameInd);
+    var targetNameE = eurFullName.substring(eurNameInd+1);
+    var continent="欧洲";
+    var id=targetNameE+"_"+i;
+    var targetInfoURL=$(eur).attr("href");
+    var continentE = "Europ";
+    var countryIntroInfoURL = targetInfoURL+"ctyprofile/";
+    var obj={"adviceLength":"3","continent":"","country":"","id":"","introduction":"","province":"","targetInfoURL":"","targetNameC":"","targetNameE":"","targetNameP":"","targetTypes":"","continentE":"","countryIntroInfoURL":""}
+    obj.targetName = targetName;
+    obj.targetNameE = targetNameE;
+    obj.continent=continent;
+    obj.id = id;
+    obj.targetInfoURL = targetInfoURL;
+    obj.continentE = continentE;
+    obj.country = targetName;
+    obj.countryIntroInfoURL = countryIntroInfoURL;
+    array.push(obj);
+}
+console.log(JSON.stringify(array));
+</script>
+<script>
+var targets = [{"adviceLength":"3","continent":"亚洲","country":"阿富汗","id":"Afghanistan0","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/afghanistan/","targetNameC":"阿富汗","targetNameE":"Afghanistan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"阿联酋","id":"United Arab Emirates1","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/united-arab-emirates/","targetNameC":"阿联酋","targetNameE":"United Arab Emirates","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"阿曼","id":"Oman2","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/oman/","targetNameC":"阿曼","targetNameE":"Oman","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"巴基斯坦","id":"Pakistan3","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/pakistan/","targetNameC":"巴基斯坦","targetNameE":"Pakistan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"巴勒斯坦","id":"Palestine4","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/palestine/","targetNameC":"巴勒斯坦","targetNameE":"Palestine","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"巴林","id":"Bahrain5","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/bahrain/","targetNameC":"巴林","targetNameE":"Bahrain","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"不丹","id":"Bhutan6","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/bhutan/","targetNameC":"不丹","targetNameE":"Bhutan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"朝鲜","id":"North Korea7","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/north-korea/","targetNameC":"朝鲜","targetNameE":"North Korea","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"东帝汶","id":"East Timor8","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/east-timor/","targetNameC":"东帝汶","targetNameE":"East Timor","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"菲律宾","id":"Philippines9","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/philippines/","targetNameC":"菲律宾","targetNameE":"Philippines","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"韩国","id":"South Korea10","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/south-korea/","targetNameC":"韩国","targetNameE":"South Korea","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"哈萨克斯坦","id":"Kazakhstan11","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/kazakhstan/","targetNameC":"哈萨克斯坦","targetNameE":"Kazakhstan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"柬埔寨","id":"Cambodia12","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/cambodia/","targetNameC":"柬埔寨","targetNameE":"Cambodia","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"吉尔吉斯斯坦","id":"Kyrgyzstan13","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/kyrgyzstan/","targetNameC":"吉尔吉斯斯坦","targetNameE":"Kyrgyzstan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"卡塔尔","id":"Qatar14","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/qatar/","targetNameC":"卡塔尔","targetNameE":"Qatar","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"文莱","id":"Brunei15","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/brunei/","targetNameC":"文莱","targetNameE":"Brunei","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"乌兹别克斯坦","id":"Uzbekistan16","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/uzbekistan/","targetNameC":"乌兹别克斯坦","targetNameE":"Uzbekistan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"新加坡","id":"Singapore17","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/singapore/","targetNameC":"新加坡","targetNameE":"Singapore","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"叙利亚","id":"Syria18","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/syria/","targetNameC":"叙利亚","targetNameE":"Syria","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"也门","id":"Yemen19","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/yemen/","targetNameC":"也门","targetNameE":"Yemen","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"伊拉克","id":"Iraq20","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/iraq/","targetNameC":"伊拉克","targetNameE":"Iraq","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"伊朗","id":"Iran21","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/iran/","targetNameC":"伊朗","targetNameE":"Iran","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"印度","id":"India22","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/india/","targetNameC":"印度","targetNameE":"India","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"印度尼西亚","id":"Indonesia23","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/indonesia/","targetNameC":"印度尼西亚","targetNameE":"Indonesia","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"英属印度洋领地","id":"British Indian Ocean Territory24","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/british-indian-ocean-territory/","targetNameC":"英属印度洋领地","targetNameE":"British Indian Ocean Territory","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"以色列","id":"Israel25","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/israel/","targetNameC":"以色列","targetNameE":"Israel","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"约旦","id":"Jordan26","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/jordan/","targetNameC":"约旦","targetNameE":"Jordan","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"越南","id":"Vietnam27","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/vietnam/","targetNameC":"越南","targetNameE":"Vietnam","targetNameP":"","targetTypes":"","continentE":"Asia"},{"adviceLength":"3","continent":"亚洲","country":"中国","id":"China28","introduction":"","province":"","targetInfoURL":"http://place.qyer.com/china/","targetNameC":"中国","targetNameE":"China","targetNameP":"","targetTypes":"","continentE":"Asia"}];
+
+
+var test = 0;
+for(i=0;i<targets.length;i++){
+    var target = targets[i];
+    var url = target.targetInfoURL+"/ctyprofile/";
+    $( ".pla_gdpage_user:eq(0)" ).load(url+" .pla_main2:eq(0) .pla_txtquote:eq(0) p ", function(){
+        var targettemp = targets[test];
+    	var cityintroduction = $( ".pla_gdpage_user:eq(0)" ).text();
+    	targettemp.introduction=cityintroduction;
+		targettemp.countryInfoURL = url;
+		targettemp.targetInfoURL="";
+		test++;
+		if(test==targets.length){
+		  console.log(JSON.stringify(targets));
+		}
+    });
+}
+
+</script>
+</body>
+</html>

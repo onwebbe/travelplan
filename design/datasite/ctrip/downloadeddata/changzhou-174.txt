@@ -1,0 +1,1747 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=1024">
+<title>常州景点推荐,旅游景点排行,常州景点大全【携程攻略】 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="常州景点,常州景点介绍,常州旅游景点,常州景点推荐,常州著名景点,常州必游景点,常州景点排行" /><meta name="description" content="常州旅游景点大全，携程攻略社区! 告诉您常州有哪些旅游景点，提供常州周边旅游景点介绍、图片、点评、热门景点推荐，了解更多著名旅游景点排行信息就来携程旅游攻略。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.ctrip.com/you/sight/Changzhou206.html" >
+<link rel="canonical" href="http://you.ctrip.com/sight/changzhou206.html?keywords=" />        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/common/css/common.v2.0.css?t=20140822153037" />
+        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/fed/css/fed.v2.0.css?t=20140822153037" />
+        
+    <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/ttd2/css/city_sight.v2.0.css?t=20140822153037" />
+
+        <!--[if lt IE 9]>      
+            <script type="text/javascript">        
+                if(screen.width >= 1200) {     
+                    var link = document.createElement('link');     
+                    link.rel = "stylesheet";       
+                    link.type="text/css";  
+                    link.href="http://youresource.c-ctrip.com/ttd2/css/media_ttd2.css"; 
+                    document.getElementsByTagName('head')[0].appendChild(link);    
+                }      
+            </script>      
+        <![endif]-->   
+    </head>
+<body>
+    <div>
+<div><input type="hidden" id="CorrelationId" name="CorrelationId" value="1447751791350557085"/><link href="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/css/pageheader.css?temp=20140820" rel="stylesheet" />
+
+    
+    <div class="cui_hd_cont">
+  <div id="cui_hd" class="cui_hd">
+    <div class="ctriplogo"><a href="http://www.ctrip.com" title="携程旅行网">携程旅行网</a></div>
+    <div class="cui_toolkit"><a id="cui_lang_en" class="cui_lang_en" href="http://english.ctrip.com/" rel="nofollow">English</a>
+        |
+        <a class="cui_help" target="_blank" rel="nofollow" href="&#xD;&#xA;          http://kefu.ctrip.com">客服中心
+          </a> |
+        <div class="cui_lang" onmouseover="this.className='cui_lang cui_lang_hover'" onmouseout="this.className='cui_lang'"><b></b><div id="cui_lang_list" class="cui_lang_list"><a class="cui_lang_gb" href="http://www.ctrip.com">简体版</a><a class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a><a class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a><a class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a><a href="http://de.ctrip.com/" rel="nofollow" class="cui_lang_de">Deutsch</a><a href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a><a href="http://es.ctrip.com/" rel="nofollow" class="cui_lang_es">Espa&#xF1;ol</a><a href="http://ru.ctrip.com/" rel="nofollow" class="cui_lang_ru">Русский</a><a href="http://vn.ctrip.com/" rel="nofollow" class="cui_lang_vn">Tiêng Viêt</a></div>
+      </div>
+    </div>
+    <div onmouseover="this.className='cui_tel cui_tel_hover'" onmouseout="this.className='cui_tel'" onclick="this.className='cui_tel cui_tel_hover'" class="cui_tel"><b></b><span class="cui_tel_in" title="免境内长话费">
+              国内：<i>1010-6666</i></span><div class="cui_tel_more"><span class="cui_tel_in">
+                国内（座机拨打）：<i>800-820-6666</i></span><span class="cui_tel_in">
+                香港：<i>852-3610-6666</i></span><span class="cui_tel_in">
+                海外：<i>+86-21-3406-4888</i></span></div>
+    </div>
+    <div id="head_float_level" class="cui_wireless"><a class="cui_wireless_pic">
+                  携程无线<i></i></a></div>
+    <div class="cui_pagehead_pic"></div><i class="cui_ico_new" style="left:622px;"></i></div>
+</div>
+<div id="cui_nav" class="cui_nav_single">
+  <div class="base_nav">
+    <ul id="cui_nav_ul" class="cui_nav">
+      <li id="cui_nav_home"><a title="首页" class="cui_nav_non" id="c_ph_hp" href="&#xD;&#xA;          http://www.ctrip.com"><span>首页</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_hotel"><a id="a_hotelLink" title="酒店" class="cui_nav_hotel cui_nav_has" href="&#xD;&#xA;          http://hotels.ctrip.com"><span>酒店</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_hotel"><a title="国内酒店" id="c_ph_hotel_h" href="&#xD;&#xA;          http://hotels.ctrip.com">国内酒店
+                </a>|<a title="海外酒店" id="c_ph_hoteli_h" href="&#xD;&#xA;          http://hotels.ctrip.com/international/&#xD;&#xA;                  ">海外酒店
+                </a>|<a title="团购" id="c_ph_tuan_h" href="&#xD;&#xA;          http://tuan.ctrip.com">团购
+                </a>|<a title="惠选" id="c_ph_huixuan_h" href="&#xD;&#xA;          http://huixuan.ctrip.com">惠选
+                </a>|<a title="特价超市" id="c_ph_hotsale_h" href="&#xD;&#xA;          http://hotels.ctrip.com/hotsale&#xD;&#xA;        ">特价超市
+                </a>|<a title="机+酒" id="c_ph_taocan_h" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a rel="nofollow" title="途家公寓" id="c_ph_tujia_h" href="&#xD;&#xA;          http://hotels.ctrip.com/tujia/&#xD;&#xA;                  ">途家公寓
+                </a>|<a title="客栈民宿" i="c_ph_inn_h" href="&#xD;&#xA;          http://hotels.ctrip.com/inn/&#xD;&#xA;                  ">客栈民宿<i class="cui_ico_new" style="left:52px;"></i></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                ">酒店订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_vac"><a id="a_vacationLink" title="旅游" class="cui_nav_vac cui_nav_has" href="&#xD;&#xA;          http://vacations.ctrip.com"><span>旅游</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_vacation"><a title="旅游首页" id="c_ph_vacations_v" href="&#xD;&#xA;          http://vacations.ctrip.com">旅游首页
+                </a>|<a title="周末游" id="c_ph_around_v" href="http://you.ctrip.com/around/">周末游
+                </a>|<a title="国内旅游" id="c_ph_vacationsd_v" href="&#xD;&#xA;          http://vacations.ctrip.com/domestic/&#xD;&#xA;                  ">国内旅游
+                </a>|<a title="出境旅游" id="c_ph_ vacationsdi_v" href="&#xD;&#xA;          http://vacations.ctrip.com/international/&#xD;&#xA;                  ">出境旅游
+                </a>|<a title="邮轮" id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮
+                </a>|<a title="自由行" id="c_ph_taocan_v" href="http://taocan.ctrip.com/fh/">自由行
+                </a>|<a title="自驾游" id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">自驾游
+                </a>|<a title="当地玩乐" id="c_ph_huodong_v" href="http://huodong.ctrip.com/">当地玩乐
+                </a>|<a title="游学" id="c_ph_youxue_v" href="&#xD;&#xA;          http://vacations.ctrip.com/youxue&#xD;&#xA;                  ">游学
+                </a>|<a title="签证" id="c_ph_visa_v" href="&#xD;&#xA;          http://vacations.ctrip.com/visa&#xD;&#xA;                  ">签证
+                </a>|<a title="公司旅游" id="c_ph_mice_v" href="&#xD;&#xA;          http://vacations.ctrip.com/mice/abouts&#xD;&#xA;                  ">公司旅游
+                </a>|<a title="顶级游" href="http://www.hhtravel.com/" target="_blank" rel="nofollow" id="c_ph_hh_v">
+                  顶级游
+                </a>|<a title="高尔夫" id="c_ph_golf_v" href="http://fun.ctrip.com/golf/">高尔夫
+                </a>|<a title="保险" id="c_ph_insurance_v" href="&#xD;&#xA;          http://vacations.ctrip.com/insurance&#xD;&#xA;                  ">保险
+                </a>|<a title="特卖汇" id="c_ph_deals_v" href="&#xD;&#xA;          http://vacations.ctrip.com/deals&#xD;&#xA;                  ">特卖汇<span class="cui_ico_hot" style="left:35px;"></span></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                ">旅游订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_flight"><a id="a_flightLink" title="机票" class="cui_nav_flight cui_nav_has" href="&#xD;&#xA;          http://flights.ctrip.com"><span>机票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div id="div_flight" class="cui_sub_nav"><a title="国内机票" id="c_ph_flights_f" href="&#xD;&#xA;          http://flights.ctrip.com">国内机票
+                </a>|<a title="国际机票" id="c_ph_flightsi_f" href="&#xD;&#xA;          http://flights.ctrip.com/international/&#xD;&#xA;                  ">国际机票
+                </a>|<a title="机+酒" id="c_ph_taocan_f" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a title="航班动态" id="c_ph_flightstoolbox_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/Default.aspx&#xD;&#xA;                  ">航班动态
+                </a>|<a rel="nofollow" title="机场攻略" id="c_ph_airportguides_f" href="&#xD;&#xA;          http://flights.ctrip.com/booking/airport-guides.html&#xD;&#xA;                  ">机场攻略
+                </a>|<a rel="nofollow" title="网上选座" id="c_ph_bookseat_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/BookSeatDemo.aspx&#xD;&#xA;                  ">网上选座
+                </a>|<a rel="nofollow" title="退票改签" id="c_ph_flightorderlist_f" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">退票改签
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                ">机票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_trains"><a title="火车" class="cui_nav_has" id="c_ph_train" href="&#xD;&#xA;          http://trains.ctrip.com"><b></b><span>火车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内火车票" id="c_ph_train_t" href="&#xD;&#xA;          http://trains.ctrip.com">国内火车票
+                </a>|<a title="国际火车票" id="c_ph_traino_t" href="&#xD;&#xA;          http://vacations.ctrip.com/outie&#xD;&#xA;                  ">国际火车票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                ">火车票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination"><a title="汽车" class="cui_nav_non" id="c_ph_bus" href="&#xD;&#xA;          http://Bus.ctrip.com"><span>汽车</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_car"><a href="http://car.ctrip.com/#ctm_ref=chp_var_txt" class="cui_nav_hotel cui_nav_has" id="c_ph_car"><span>用车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="用车首页" id="c_ph_car_c" href="&#xD;&#xA;          http://car.ctrip.com#ctm_ref=chp_var_txt&#xD;&#xA;                  ">用车首页
+                </a>|<a title="接送机/专车" id="c_ph_daijia_c" href="&#xD;&#xA;          http://car.ctrip.com/daijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">接送机/专车
+                </a>|<a title="海外自驾" id="c_ph_hwzj_c" href="&#xD;&#xA;          http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">海外自驾
+                </a>|<a title="国内自驾" id="c_ph_zj_c" href="&#xD;&#xA;          http://car.ctrip.com/zijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">国内自驾
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/CarOrderList.aspx&#xD;&#xA;                ">用车订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_ticket"><a title="门票" class="cui_nav_has" id="c_ph_piao" href="&#xD;&#xA;                http://piao.ctrip.com"><b></b><span>门票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内门票" id="c_ph_piao_p" href="&#xD;&#xA;                    http://piao.ctrip.com/?clear=t&#xD;&#xA;                  ">国内门票
+                </a>|<a title="海外门票" id="c_ph_piaooversea_p" href="&#xD;&#xA;                    http://piao.ctrip.com/oversea&#xD;&#xA;                  ">海外门票
+                </a>|<a title="当地玩乐" id="c_ph_huodong_p" href="http://huodong.ctrip.com">当地玩乐<i class="cui_ico_new" style="left:52px;"></i></a>|<a title="周末游" id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PiaoOrderlist.aspx&#xD;&#xA;                ">门票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_tuan"><a class="cui_nav_has" id="c_ph_tuan" href="&#xD;&#xA;          http://tuan.ctrip.com"><span>团购</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="团购首页" id="c_ph_tuan_tu" href="&#xD;&#xA;          http://tuan.ctrip.com">团购首页
+                </a>|<a title="酒店客房" id="c_ph_tuanhotel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/hotel/&#xD;&#xA;                  ">酒店客房
+                </a>|<a title="餐饮娱乐" id="c_ph_tuanlife_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/life/&#xD;&#xA;                  ">餐饮娱乐
+                </a>|<a title="旅游出行" id="c_ph_tuantravel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/travel/&#xD;&#xA;                  ">旅游出行
+                </a>|<a title="门票" id="c_ph_tuanticket_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/ticket/&#xD;&#xA;                  ">门票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/GroupOrderList.aspx&#xD;&#xA;                ">团购订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01" class="cui_nav_current"><a title="攻略" class="cui_nav_non" id="c_ph_you" href="&#xD;&#xA;          http://you.ctrip.com"><b></b><span>攻略</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01"><a title="全球购" class="cui_nav_non" id="c_ph_go" href="&#xD;&#xA;          http://g.ctrip.com"><b></b><span>全球购</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_lpk"><a class="cui_nav_has" id="c_ph_lipin" href="&#xD;&#xA;          http://lipin.ctrip.com"><span>金融</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="礼品卡" id="c_ph_lipin_l" href="&#xD;&#xA;          http://lipin.ctrip.com">礼品卡
+                </a>|<a title="携程宝" id="c_ph_xcb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/xcb&#xD;&#xA;                  ">携程宝
+                </a>|<a title="程涨宝" id="c_ph_czb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/czb&#xD;&#xA;                  ">程涨宝
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/TicketOrderList.aspx&#xD;&#xA;                ">礼品卡订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination03"><a title="商旅" rel="nofollow" class="cui_nav_non" id="c_ph_crptravel" href="&#xD;&#xA;          http://www.ctrip.com/crptravel/&#xD;&#xA;              "><b></b><span>商旅</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_more"><a rel="nofollow" id="a_moreLink" title="更多" class="cui_nav_more cui_nav_has" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;              "><span>更多</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_more"><a title="积分商城" rel="nofollow" id="c_ph_rewards_m" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;                  ">积分商城
+                </a>|<a title="合作卡" rel="nofollow" id="c_ph_cards_m" href="&#xD;&#xA;          http://cards.ctrip.com">合作卡
+                </a>|<a title="订餐" rel="nofollow" href="http://dining.ctrip.com" id="c_ph_dining_m">
+                  订餐
+                </a></div>
+        </div>
+      </li>
+      <li id="loginDivLi" class="cui_myctrip">
+        <div id="div_LoginShow" style="display:none;"><span class="cui_myctrip_status" id="usernameId"><a rel="nofollow" id="c_ph_myhome" href="&#xD;&#xA;          http://my.ctrip.com/home/myinfo.aspx&#xD;&#xA;                  ">我的携程
+                </a></span><b></b><a href="" class="cui_links_exit" id="c_ph_logout">退出</a></div>
+        <div id="notLogin"></div>
+        <div class="cui_account" id="notLoginDiv" style="display:none;">
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+        <div class="cui_account" id="loginDiv" style="display:none;">
+          <div id="div_user"></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+      </li>
+    </ul>
+  </div><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><script type="text/javascript">
+(function () {
+;window.replace=function(){return ''};(function(){var D=document,$=function(id){return D.getElementById(id)},st=null,st2=null,lazyTime=0,lis=[$("cui_nav_hotel"),$("cui_nav_car"),$("cui_nav_vac"),$("cui_nav_flight"),$("cui_nav_more"),$("cui_nav_trains"),$("cui_nav_tuan"),$("cui_nav_lpk"),$("cui_nav_ticket")],E={onmouseenter:function(o,f){if(D.all){o.onmouseenter=f
+}else{o.onmouseover=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},onmouseout:function(o,f){if(D.all){o.onmouseleave=f}else{o.onmouseout=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},addEvent:function(el,type,handler){if(el.addEventListener){el.addEventListener(type,handler,false)
+}else{if(el.attachEvent){el.attachEvent("on"+type,handler)}else{el["on"+type]=handler}}}},F={setTime:function(){E.onmouseenter($("cui_nav"),function(){setTimeout(function(){lazyTime=150
+},30)});E.onmouseout($("cui_nav"),function(){lazyTime=0})},initEvent:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;E.onmouseenter(lis[j],function(){F.interFn(lis[j])});E.onmouseout(lis[j],function(){F.outerFn(lis[j])
+})})(i)}},reset:function(){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{lis[i].className=""}}},padReset:function(j){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{if(i!==j){lis[i].className=""}}}},interFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st2!=null){clearTimeout(st2);st2=null}st=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){}else{obj.className="cui_nav_o";
+node.className="cui_nav_current cui_nav_unhover"}},lazyTime)},outerFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st!=null){clearTimeout(st);st=null}st2=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){obj.className="cui_nav_current"
+}else{obj.className="";node.className="cui_nav_current"}},250)},initMobile:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;var oneLevel=lis[j].getElementsByTagName("A")[0];oneLevel.href="###";oneLevel.onmousedown=function(){F.padReset(j);
+if(lis[j].className.indexOf("cui_nav_current")===-1){if(lis[j].className.indexOf("cui_nav_o")>-1){lis[j].className="";
+document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";oneLevel.style.visibility="hidden";
+setTimeout(function(){oneLevel.style.visibility="visible"},10)}else{lis[j].className="cui_nav_o";document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";
+document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover"}}}})(i)}},contains:function(target){for(var i=0,len=lis.length;
+i<len;i++){if(lis[i].compareDocumentPosition(target)-19>0){return true}}return false}};if($("headStyleId")){$("headStyleId").parentNode.removeChild($("headStyleId"))
+}if((/ip(hone|od)|ipad/i).test(navigator.userAgent)){F.initMobile();E.addEvent(D.body,"click",function(e){var target=e.target||e.srcElement;
+if(!F.contains(target)){F.reset()}})}else{F.setTime();F.initEvent()}})();
+})();
+</script></div>
+<div class="gs-header cf">
+    <div class="content">
+        <div class="gs-nav">
+            <ul>
+                <li id="gs_nav_0"><a href="/"><i class="icon_home"></i></a>
+                </li>
+                <li id="gs_nav_1"  class="active"> <a href="/place/">目的地</a></li>
+                <li id="gs_nav_3"> <a href="/travels/">游记</a></li>
+                <li id="gs_nav_4" > <a href="/asks/">问答</a></li>
+                <li id="gs_nav_5" > <a href="/events/">结伴</a></li>
+                <li id="gs_nav_7"> <a href="/around/">周末游</a></li>
+                <li id="gs_nav_9"> <a href="http://vacations.ctrip.com/deals">特卖汇</a></li>
+                <li id="gs_nav_8"> <a href="http://top.ctrip.com">口碑榜</a></li>
+                <li id="gs_head_myhomepage" class="last"><a rel="nofollow" href="/members/">我的主页</a></li>
+            </ul>
+        </div>
+        <div class="gs-search-2">
+            <input type="text" placeholder="搜索城市、景点、游记、问答、用户" id="gsSearch" autocomplete="off" class="sgtgray">
+            <button class="btn-search" type="button"></button> 
+            <div id="gsNotice" class="gs-notice">
+                <a class="ico_linkpbox" href="#"></a>
+                <div class="glistbox">
+                    <span class="npoptip-arrow"></span>
+                    <div class="ulouter">
+                        <ul class="populist">
+                            <li>
+                                <a href="/dianping/">写点评</a>
+                            </li>
+                            <li>
+                                <a href="/add-travel/guide.html">写游记</a>
+                            </li>
+                            <li>
+                                <a href="/asks/newquestion.html">提问题</a>
+                            </li>
+                            <li>
+                                <a href="/events/selectindentity">发结伴</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var getHeadOtherInfo = function () {
+        $.ajax({
+            url: '/Destinationsite/Shared/GetHeadeOtherInfo',
+            type: "POST",
+            async: true,
+            data: {},
+            datatype: "json",
+            success: function (responseText) {
+                if (responseText.IsMerchantUser) {
+                    $('#gs_head_myhomepage a').text('商家主页');
+                }
+                $('#gs_head_myhomepage a').attr('href', responseText.MySiteUrl);
+                if (responseText.ShowUserMsgCount != "") {
+                    //var msg = "<span class=\"tipsbox_outer\"><a href=\"/members/message/receivelist.aspx\" class=\"gstips_supcount\" title=\"消息(" + responseText.ShowUserMsgCount + ")\" rel=\"nofollow\">" + responseText.ShowUserMsgCount + "</a></span>";
+                    var msg = "<span class=\"tipsbox_outer\">" + responseText.ShowUserMsgCount + "</span>";
+                    $('#gs_head_myhomepage').append(msg);
+                }
+            },
+            error: function () {
+                
+            }
+        });
+    };
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(getHeadOtherInfo);
+</script>
+
+    </div>
+    
+<div class="content cf">
+    <input type="hidden" id="page_id" value="290546" />
+    <div class="breadbar cf">
+                <a href="/" title="旅游攻略社区">旅游攻略社区</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place" title="目的地">目的地</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/china110000.html" title="中国">中国</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/jiangsu100066.html" title="江苏">江苏</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/changzhou206.html" title="常州">常州</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                    景点
+    </div>
+
+    <div class="dest_toptitle">
+        <div class="cf">
+            <div class="f_left">
+                <h1><a href="/place/changzhou206.html" title="常州">常州</a></h1>
+                <p>Changzhou</p>
+            </div>
+<div class="f_right">
+    <ul>
+        <li id="wentClick" class="des_icon_been"><a id="wentClickID" rel="nofollow" data_type="Place" dataresource-cat="206" data-cat="206" class="a_popup_login"  href="javascript:void(0)"></a>
+            <p>
+                <span class="textcolor" id="spanwentId">去过</span><span><em id="emWentValueID">0</em></span></p>
+        </li>
+        <li id="wantClick" class="des_icon_want">
+            <a id="wantClickID" data_type="Place" class="a_popup_login"  dataresource-cat="206" data-cat="206" rel="nofollow" href="javascript:void(0)" ></a>
+            <p>
+                <span class="textcolor" id="spanwantId">想去</span><span><em id="emWantValueID">0</em></span></p>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    /*
+    *想去的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.wantRequestFn = function (param) {
+        ClickWant();
+    };
+    /**
+    *去过的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.beenRequestFn = function (param) {
+         ClickWent();
+    };
+</script>        </div>
+        <div class="sec_line cf">
+
+    <div class="weather gs_tianqi_mini">
+        <span  id="WeaTher">
+                <i class="ws_icon ws_icon8"></i>24℃/29℃<span class="arrow"></span>
+        </span>
+        <span class="f_line">|</span>
+    </div>
+    <div style="display: none;" class="hoverweather">
+        <ul>
+            <li><span class="daytext">今天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon8"></i>24℃/29℃</div>
+                <span class="arrow"></span></li>
+            <li><span class="daytext">明天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon2"></i>24℃/31℃</div>
+            </li>
+            <li><span class="daytext">后天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon2"></i>24℃/31℃</div>
+            </li>
+        </ul>
+    </div>
+            <p class="ellipsis">京杭大运河从城中穿过，天宁寺传出阵阵钟声，可以去篦箕巷怀旧，可以去恐龙园狂欢。</p>
+        </div>
+    </div>
+ <input type="hidden" id="putDistrictId" value="206" /> 
+</div>
+<!--悬顶标题-->
+
+<div class="ttd_topnav_box">
+    <div class="ttd_topnav">
+        <div class="innerbox">
+            <ul class="cf">
+                <li>    <a href="/place/changzhou206.html">主页</a> 
+</li>
+                <li>    <a href="/summary/changzhou206.html">指南</a> 
+</li>
+                <li>    <a href="/traffic/changzhou206.html">交通</a> 
+</li>
+                <li class="current">    <a href="/sight/changzhou206.html">景点</a> 
+</li>
+<li>    <a href="/hotels/changzhou206.html">住宿</a> 
+        <span class="gs_newicon"></span>
+</li>                <li>    <a href="/restaurant/changzhou206.html">美食</a> 
+</li>
+                <li>    <a href="/shopping/changzhou206.html">购物</a> 
+</li>
+                <li>    <a href="/resort/changzhou206.html">娱乐</a> 
+</li>
+                <li>    <a href="/travels/changzhou206.html">游记</a> 
+</li>
+                <li>    <a href="/journeys/changzhou206.html">行程</a> 
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="ttd2_background">
+    <div class="content cf">
+        <div class="des_narrow f_left">
+            <!--排行榜-->
+        
+            <!--侧边下载二维码&攻略轮播-->
+
+
+<div class="app_entrance">
+    <!--APP下载-->
+    <div class="appbox">
+        <h3><a target="_blank" href="http://app.ctrip.com/">下载携程旅行</a><span class="tips">最新</span></h3>
+        <ul>
+            <li>吃喝玩乐住旅行指引</li>
+            <li>口袋中的旅行利器</li>
+        </ul>
+    </div>
+</div><div class="c_vacation" id="destVacationProductId" style="display: none">
+</div>
+
+<script type="text/javascript">
+    function ShowVacationAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetVacationsAdView',
+            type: "POST",
+            async: true,
+            dataType: 'html',
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText != "") {
+                    $('#destVacationProductId').show();
+                    $('#destVacationProductId').html($('#destVacationProductId').html() + responseText);
+                    ReplaceVacationUrl();
+                }
+            },
+            error: function () {
+                $('#destVacationProductId').hide();
+            }
+        });
+    }
+    //设置特价度假统计链接锚点
+    function ReplaceVacationUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_07_vac_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_vacationl]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script><div class="c_hotel" style="display: none" id="destHotelID">
+</div>
+<script type="text/javascript">
+    function ShowspecialHotelAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetSpecialHotelAdView',
+            type: "POST",
+            async: true,
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "")
+                    $('#destHotelID').hide();
+                else {
+                    $('#destHotelID').show();
+                    $('#destHotelID').html(responseText);
+                    ReplaceHotelUrl();
+                }
+            },
+            error: function () {
+                $('#destHotelID').hide();
+            }
+        });
+    }
+    //设置酒店统计链接锚点
+    function ReplaceHotelUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_08_hod_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_hotel]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+
+            });
+        }
+    }
+</script>
+            <!--侧边特价机票--> 
+     <!--侧边tab表单切换-->
+           <div id="cateSTab" class="catetab_title">
+               <ul>
+                   <li class="active"><a href="#cate_hotel">酒店</a></li>
+                   <li><a href="#cate_flight">机票</a></li>
+                   <li><a href="#cate_travel">旅游</a></li>
+                   <li><a href="#cate_ticket">门票</a></li>
+                   <li class="cate_train"><a href="#cate_train">火车票</a></li>
+               </ul>
+           </div>
+<div class="catetab_content">
+    <div class="tabitem active" id="cate_hotel">
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="hotelTo" value="常州"  data="Changzhou|常州|213"/></div>
+    	<div class="sformline"><label>入住日期：</label><input type="text" class="sformtext" id="hotelStartDate" readonly="true"/></div>
+        <div class="sformline"><label>退房日期：</label><input type="text" class="sformtext" id="hotelEndDate" readonly="true"/></div>
+            <div class="sformline"><label>酒店级别：</label><div class="gsn-select sformselect">
+                                                           <div class="select-txt" data-value="0">不限</div>
+                                                           <ul style="display: none;" class="selectlist undis">
+                                                               <li><a data-value="0" href="javascript:;">不限</a></li>
+                                                               <li><a data-value="5" href="javascript:;">五星级/豪华</a></li>
+                                                               <li><a data-value="4" href="javascript:;">四星级/高档</a></li>
+                                                               <li><a data-value="3" href="javascript:;">三星级/舒适</a></li>
+                                                               <li><a data-value="2" href="javascript:;">二星级以下/经济</a></li>
+                                                           </ul>
+                                                           <span class="arrow"></span> </div></div>
+    	<div class="sformline"><label>关键词：</label><input type="text" class="sformtext" id="hotelKeyword" placeholder="酒店名/地标/商圈" /></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索酒店</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_flight">
+    	<div class="sformline"><label>航程类型：</label><span class="radiobox" for="flightOneWay"><input type="radio" id="flightOneWay" checked="checked" value="0" name="flyType"/>单程</span><span class="radiobox"><input type="radio" id="flightBackForth" value="1" name="flyType"/>往返</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="flightFrom" value="上海"  data="|上海|SHA" /></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="flightTo" value="常州"  data="|常州|CZX" /></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="flightStartDate" readonly="true"/></div>
+    	<div class="sformline gray"><label>返回日期：</label><input type="text" class="sformtext" id="flightEndDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索机票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+    <div class="tabitem" id="cate_travel">
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext" readonly="readonly" id="travelFrom" value="上海" data="2"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="travelTo" value="常州" data="213"/></div>
+    	<!--div class="sformline"><label>类型：</label><ul class="checkul">
+    	    <li><span class="radiobox"><input type="radio" checked="checked" value="0"/>团队游</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="1"/>半自助</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="2"/>自由行</span></li>
+    	</ul></div-->
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索旅游</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_ticket">
+    	<div class="sformline"><label>景点名称：</label><input type="text" class="sformtext" placeholder="请输入景点名称" id="ticketText"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索门票</span></a><!--p class="errtext">请输入景点名称报错文字</p--></div>
+      
+    </div>
+    <div class="tabitem" id="cate_train">
+    	<div class="sformline"><label>类型：</label><span class="radiobox"><input type="radio" id="trainOneWay" checked="checked"/>单程</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="trainFrom" value="上海" data="|上海|Shanghai"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="trainTo" value="常州" data="|常州|Changzhou"/></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="trainStartDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索火车票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    var district = 206;
+    INTERFACE.isChina = true;
+            //点击搜索酒店 触发的方法
+    INTERFACE.searchHotelFn = function(param) {
+        var cityPY = param.destinationData.split('|')[0];
+        var cityId = param.destinationData.split('|')[2];
+        // var kw = (param.keyword == "" ? "" : ("k1" + param.keyword));
+        var kw = (((!param.hotelLevel) || (param.hotelLevel == "0") || (param.hotelLevel == "")) ? "" : ("star" + param.hotelLevel))
+            + (param.keyword == "" ? "" : (((INTERFACE.isChina) ? "k1" : "k2") + param.keyword));
+        var urlhead = "";
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if(INTERFACE.isChina) {
+            gnw = "hod";
+            urlhead = "http://hotels.ctrip.com/hotel/";
+        }else {
+            gnw = "hoi";
+            urlhead = "http://hotels.ctrip.com/international/";
+        }
+        var url = urlhead + cityPY + cityId
+            + (kw == "" ? "" : ("/" + kw))
+                + "/?checkin=" + param.startDate
+                    + "&checkout=" + param.endDate;
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        window.open(url + ctm, "HotelSearch" + (new Date()).getMilliseconds());
+    };
+            //点击搜索机票 触发的方法
+    INTERFACE.searchFlightFn = function(param) {
+        var type = param.type;
+        var from = param.fromData.split('|')[2];
+        var to = param.destinationData.split('|')[2];
+        var startTime = param.startDate;
+        var endTime = param.endDate;
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if (true) {
+            gnw = "fld";
+        } else {
+            gnw = "fli";
+        }
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        if (from != undefined && from != "" && to != undefined && to != "" && startTime != "" && startTime != null) {
+            if (type == 0) {
+
+                if (true) {
+                    var diff = GetDateDiff(startTime);
+                    var url0 = "http://flights.ctrip.com/booking/" + from + "-" + to + "-day-" + 1 + ".html?SortByPrice=true&ddate=" + startTime;
+                    window.open(url0 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=S&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            } else if (type == 1 && endTime != null && endTime != "") {
+                if (true) {
+                    var url1 = "http://flights.ctrip.com/booking/" + from + "-" + to + "---d-adu-1/?ddate1=" + startTime + "&ddate2=" + endTime;
+                    window.open(url1 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=D&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "&&relrdate=" + endTime + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            }
+        }
+    };
+            //点击搜索旅游 触发的方法
+    INTERFACE.searchTravelFn = function(param) {
+        form = submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: {
+                "searchFrom": "http://you.ctrip.com/",
+                "searchID": "0",
+                "searchText": param.destination,
+                "searchType": "U",
+                "searchValue": param.destination,
+                "startCity": param.fromData
+            }
+        });
+    };
+            //点击搜索门票 触发的方法
+    INTERFACE.searchTicketFn = function(param) {
+        var saleCity = $("#tab_vacationStartCity").val(); //出发城市
+        var param = {
+            "SearchFrom": "http://vacations.ctrip.com/tickets",
+            "SearchID": "0",
+            "SearchText": param.name,
+            "SearchType": "U",
+            "SearchValue": param.name,
+            "StartCity": saleCity
+        };
+
+        submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: param
+        });
+
+    };
+            //点击搜索火车票 触发的方法
+    INTERFACE.searchTrainFn = function(param) {
+        var from = param.fromData.split('|')[2];
+        var fromCn = param.fromData.split('|')[1];
+        var to = param.destinationData.split('|')[2];
+        var toCn = param.destinationData.split('|')[1];
+        var startTime = param.startDate;
+        var pageid = $("#page_id").val();
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_trd_3_" + district + "_undefined";
+        var url = "http://trains.ctrip.com/TrainBooking/Search.aspx?from=" + from
+            + "&to=" + to
+                + "&day=" + (GetDateDiff(startTime) + 1)
+                    + "&fromCn=" + escape(fromCn)
+                        + "&toCn=" + escape(toCn);
+        window.open(url + ctm, "TrainSearch" + (new Date()).getMilliseconds());
+    };
+</script>
+            <!--侧边特价机票-->
+<div id="specialFlightId" class="special_ticket" style="display:none">
+	
+</div>
+<input type="hidden"  id="startCityId" name="startCityId" value="2" />
+<input type="hidden"  id="endCityId" name="endCityId" value="206" />
+<input type="hidden"  id="dCode" name="dCode" value="" />
+<input type="hidden"  id="aCode" name="aCode" value="" />
+<input type="hidden"  id="inChina" name="inChina" value="True" />
+<input type="hidden"  id="ctmInfo" name="ctmInfo" value="#ctm_ref=gs_ttd_{0}_02_fld_2_206_undefined" />
+<script type="text/javascript">
+    var index = 0;
+//下一个标识
+
+    function GetSpecialFlightView   () {
+        var dCode = $("#dCode").val();//出发三字码
+        var aCode = $("#aCode").val(); //到达三字码
+
+        var startCity = $("#startCityId").val();
+        var endCity = $("#endCityId").val(); 
+        
+        var inChina = $("#inChina").val(); //是否国内
+
+        if (startCity != "" && endCity != "") {
+            $.ajax({
+                url: '/Destinationsite/TTDSecond/SharedView/AjaxGetSpecialFlight',
+                type: "POST",
+                async: true,
+                dataType: "text",
+                data: { dCode: dCode, aCode: aCode, inChina: inChina, startCity: startCity, endCity: endCity, index: index, rank: Math.random() },
+                success: function (responseText) {
+
+                    if (responseText == "") {
+                        $('#specialFlightId').hide();
+                    } else {
+                        $('#specialFlightId').show();
+                        $('#specialFlightId').html(responseText);
+                        ReplaceFlightUrl();
+                    }
+                },
+                error: function () {
+                    $('#specialFlightId').hide();
+                }
+            });
+        }
+
+    }
+//下一批7天 
+    function NextSpecialFlight() {
+        index += 1;
+       
+        if (index <= 4) {
+            GetSpecialFlightView();
+      } 
+//        else {
+//            $("#NextRightId").addClass("disable_r");
+//        }
+    }
+
+    function UpSpecialFlight() {
+        index = index - 1;
+        GetSpecialFlightView();
+
+    }
+    //设置国内机票统计链接锚点
+    function ReplaceFlightUrl() {
+        var pageid = $("#page_id").val();
+        if (pageid != "") {
+            var ctmInfo = $("#ctmInfo").val().replace("{0}", pageid);
+            $("a[data-id=ctm_gs_gnjp]").each(function (i) {
+                var str = $(this).attr("href") + ctmInfo;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script>        
+            <!--侧边栏广告位-->
+            <!--侧边结伴活动-->
+    <!--结伴-->
+    <div class="c_event">
+       <div class="narrow_title cf">
+            <h3>结伴活动</h3>
+            <span><a target="_blank" href="/events">我要结伴</a>&nbsp;|&nbsp; <a target="_blank" href="/events/changzhou206c206-p1#suggestCity">更多<i class="gs2_more_arror"></i></a> </span>
+        </div>
+        <ul>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/changzhou206/2377129.html">
+                    
+                    <img width="60" height="60" src=""  data-id="206"  writing="0" title="2014年8月25日 2日游 常州 求结伴" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/changzhou206/2377129.html"  title="2014年8月25日 2日游 常州 求结伴">2014年8月25日 2日游 常州 求结伴</a></dt>
+                        <dd>常州</dd>
+                        <dd>08-25 - 08-27</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/changzhou206/2383818.html">
+                    
+                    <img width="60" height="60" src=""  data-id="206"  writing="0" title="2014年8月26日 1日游 常州 求结伴" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/changzhou206/2383818.html"  title="2014年8月26日 1日游 常州 求结伴">2014年8月26日 1日游 常州 求结伴</a></dt>
+                        <dd>常州</dd>
+                        <dd>08-26 - 08-27</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/changzhou206/2377128.html">
+                    
+                    <img width="60" height="60" src=""  data-id="206"  writing="0" title="2014年8月25日 2日游 常州 求结伴" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/changzhou206/2377128.html"  title="2014年8月25日 2日游 常州 求结伴">2014年8月25日 2日游 常州 求结伴</a></dt>
+                        <dd>常州</dd>
+                        <dd>08-25 - 08-27</dd>
+                    </dl>
+                </li>
+        </ul>
+    </div>
+  <script type="text/javascript">
+      function OnloadEventDistrictimg() {
+          var sid = "";
+          var district = "";
+          $("a[name='eventDistrict_img'] img").each(function () {
+              var imgid = $(this).attr("writing");
+              var districtid = $(this).attr("data-id");
+              sid += "," + imgid;
+              district += "," + districtid;
+          });
+          if (sid != "" || district != "") {
+
+              $.ajax({
+                  url: "/destinationsite/SharedPage/GetDistrictPhoto",
+                  type: "post",
+                  async: true,
+                  data: { "writing": sid, "district": district, "width": "60", "height": "60" },
+                  success: function (responseText) {
+                      $.each(responseText, function (i, item) {
+                          if (item && item.ImgageUrl != "") {
+                              if (item.IsDistrict == 1) {
+                                  $("a[name='eventDistrict_img'] img[data-id='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              } else {
+                                  $("a[name='eventDistrict_img'] img[writing='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              }
+
+                          }
+                      });
+                  },
+                  error: function () {
+                  }
+              });
+          }
+      }
+      var asynfunc = window.asynfunc || [];
+      asynfunc.push(OnloadEventDistrictimg);
+    </script>
+
+        
+            <!--侧边问答-->
+    <div class="c_ques">
+        <div class="narrow_title cf">
+            <h3>当地问答</h3>
+            <span><a target="_blank" href="/asks/newquestion.html">我要提问</a>&emsp;|&emsp; <a target="_blank" href="/asks/changzhou206.html">更多<i class="gs2_more_arror"></i></a></span>
+        </div>
+        <ul>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1361807.html" target="_blank" class="ellipsis" title="还有怎么关闭错误的那个？">还有怎么关闭错误的那个？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1361104.html" target="_blank" class="ellipsis" title="常州嬉戏谷的一些问题">常州嬉戏谷的一些问题</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360805.html" target="_blank" class="ellipsis" title="关于酒店 预定的问题">关于酒店 预定的问题</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360857.html" target="_blank" class="ellipsis" title="#常州环球恐龙城维景国际大酒店#海鲜自助美食套餐 是中午还是晚上使用">#常州环球恐龙城维景国际大酒店#海鲜自助美食套餐 是中午还是晚上使用</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360714.html" target="_blank" class="ellipsis" title="在常州哪里适合游玩的">在常州哪里适合游玩的</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360342.html" target="_blank" class="ellipsis" title="大概下午一点左右到常州恐龙园 是直接去玩呢 还是等到夜场再去">大概下午一点左右到常州恐龙园 是直接去玩呢 还是等到夜场再去</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360274.html" target="_blank" class="ellipsis" title="有去常州恐龙园景点现付拿到返现的吗？几天拿到的？">有去常州恐龙园景点现付拿到返现的吗？几天拿到的？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/changzhou206/1360263.html" target="_blank" class="ellipsis" title="#常州福记逸高酒店#我和妹妹、老妈再有我儿子10岁想住标间，可以不加床吗、">#常州福记逸高酒店#我和妹妹、老妈再有我儿子10岁想住标间，可以不加床吗、</a>
+                </li>
+        </ul>
+
+            <div class="searchwrap">
+                
+                <p><input type="text" class="s_input" placeholder="输入您的问题" id="textAskSearch"/><a href="javascript:;" class="b_blue_m" id="btnAskSearch"><span>搜索</span></a></p>
+
+                    <p class="ques_tips"><span>热门问答：</span>
+                            <a target="_blank" href="/asks/changzhou206-t2.html">住宿</a>
+                            <a target="_blank" href="/asks/changzhou206-j50590.html">龙园</a>
+                            <a target="_blank" href="/asks/changzhou206-t105341.html">酒店</a>
+                            <a target="_blank" href="/asks/changzhou206-t595.html">门票</a>
+                            <a target="_blank" href="/asks/changzhou206-t590.html">携程</a>
+                            <a target="_blank" href="/asks/changzhou206-t557.html">孩子</a>
+                            <a target="_blank" href="/asks/changzhou206-j89659.html">嬉戏谷</a>
+                            <a target="_blank" href="/asks/changzhou206-z438120.html">常州环球恐龙城香树湾花园酒店</a>
+                            <a target="_blank" href="/asks/changzhou206-t553.html">火车</a>
+                            <a target="_blank" href="/asks/changzhou206-t605.html">景点</a>
+                    </p>
+            </div>
+    </div>
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {}; INTERFACE.askSearchUrl = "http://you.ctrip.com/asks/search/?keywords=";
+    </script>
+        
+            <!--侧边目的地专家-->
+
+<div class="c_expert" id="destexpertId" style="display: none">
+  
+</div>
+
+<input type="hidden"  id="txtDistrictId" value="206" />
+
+<script type="text/javascript">
+    
+    function GetExpertPartialTTDView() {
+     
+        var district = $('#txtDistrictId').val();
+
+        $.ajax({
+            url: '/Destinationsite/TTDSecond/SharedView/PostDistrictExertView',
+            type: "POST",
+            async: true,
+            dataType: "text",
+            data: { district: district, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "") {
+                    $('#destexpertId').hide();
+                }
+                else {
+                    $('#destexpertId').show();
+                    $('#destexpertId').html(responseText);
+                }
+            },
+            error: function () {
+                $('#destexpertId').hide();
+            }
+        });
+
+    }
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(GetExpertPartialTTDView);
+</script>        
+            <!--侧边栏广告位-->
+        </div>
+        <div class="des_wide f_right">
+            
+<div class="normalbox channelspace">
+        <div class="normaltitle cf"><h1>常州景点速览</h1></div>
+        <div class="channel_info" id="infoTextLittle">
+            <div class="textbox"><p><p>大多数人来常州度假，都是冲着两大主题乐园而来，一是位于市区北面的环球恐龙城，中华恐龙园这一片，二是为了南面的春秋淹城，这两处景点都很适合花上周末2日慢慢游玩，是全家亲子的好去处。常州市区内的景点，例如天宁寺和东坡公园，都是很有人文气息的地方，对于了解常州这座千年文明的古城有着一定的帮助哦。除了市区一带，还可以去溧阳的南山竹海、天目湖过休闲假期，这里的温泉和竹林让人陶醉难忘，清新的空气是喧嚣城市所比不...</p></p></div>
+              <a class="togglemore" id="seeAllLink"><i>+</i>更多</a>
+        </div>
+        <div id="infoTextAll" class="channel_info undis">
+            <div class="textbox"><p><p>大多数人来常州度假，都是冲着两大主题乐园而来，一是位于市区北面的环球恐龙城，中华恐龙园这一片，二是为了南面的春秋淹城，这两处景点都很适合花上周末<span>2</span>日慢慢游玩，是全家亲子的好去处。常州市区内的景点，例如天宁寺和东坡公园，都是很有人文气息的地方，对于了解常州这座千年文明的古城有着一定的帮助哦。除了市区一带，还可以去溧阳的南山竹海、天目湖过休闲假期，这里的温泉和竹林让人陶醉难忘，清新的空气是喧嚣城市所比不上的。</p></p></div>
+            <a class="togglemore" id="packUpLink"><i>-</i>收起</a>
+        </div>
+</div>
+            <div class="normalbox">
+                    <div class="normaltitle cf" id="sightname">
+                        <h1>常州<span>景点</span></h1>
+                    </div>
+                <div class="search_wide">
+                        <!--没有筛选时候这里不显示-->
+                            <ul>
+                                    <li>
+                                        <dl>
+                                            <dt>类型：<a class="current" rel="nofollow" href="javascript:void(0);">全部</a>                                            </dt>
+                                            <dd>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1000)">公园乐园</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(169)">自然景观</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1002)">历史遗迹</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1003)">建筑人文</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1005)">场馆院所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1004)">民风民俗</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(77)">宗教场所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1016)">运动活动</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1017)">健身休闲</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1019)">表演赛事</a>
+                                            </dd>
+                                        </dl>
+                                        <a class="seeline" rel="nofollow" href="javascript:void(0);">更多<span></span></a>
+                                    </li>
+                            </ul>
+                    <!--没有筛选时候这里不显示 END-->
+                    <div class="city_sfind">
+                        <form action="javascript: OnSubmit();">
+                            <span class="f_left">
+                                
+                                <input id="search_sight_dg" type="checkbox" />只看可订购的景点
+                            </span>
+                            <span class="f_right">
+                                <input id="search_sight_name" type="text" placeholder="搜索景点名称" />
+                                <a class="b_blue_s" rel="nofollow" href="javascript:OnSubmit();"><span>查找</span></a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+<!--城市景点-->
+    <div class="list_wide_mod2">
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16588.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/376/380/710/dacb0ed5c9ad4a9ca1afac8e0ac06ba1_C_220_140.jpg" width="220" height="140" img-id="7742495" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16588.html" title="中华恐龙园">中华恐龙园</a>
+                                <s >第1名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市新北区汉江路1号                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+携程价&nbsp;<span class="price"><i>&yen;</i>150<b class="red"></b></span>                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16588.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16588.html#comment" class="recomment">
+                                (993条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="xclistcomment ellipsis"><span class="xclisttitle">携程旅行口碑榜2014</span><a target="_blank" href="http://top.ctrip.com/zhutigongyuan/all" title="最佳国内主题公园" >最佳国内主题公园</a>第4名</p>
+                    <s class="ico_list"></s>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/tianmuhu1437/78785.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/297/687/461/43e59a7f46c4498491ed42c2a1ec52af_C_220_140.jpg" width="220" height="140" img-id="7272052" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/tianmuhu1437/78785.html" title="南山竹海">南山竹海</a>
+                                <s >第2名</s>
+                        </dt>
+                        <dd class="ellipsis">
+溧阳市戴埠镇李家园村下场园10号                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;218</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>158<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/tianmuhu1437/78785.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/tianmuhu1437/78785.html#comment" class="recomment">
+                                (392条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/42BF0D01D0EA4B859000D8A2BD87C378">m61706397</a>点评：</span>特别满意的的一个旅游景点，漫山遍野的竹林，空气弥漫着负离子。我们是爬到吴越弟一峰之后再坐缆车下来的。在竹林中登山，汗水都留的很舒服。值~！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16584.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/287/422/948/fad2ec45e07249618c12e5001d743488_C_220_140.jpg" width="220" height="140" img-id="11363403" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16584.html" title="天宁寺">天宁寺</a>
+                                <s >第3名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市天宁区延陵中路636号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;80</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>1<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16584.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16584.html#comment" class="recomment">
+                                (106条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/E8EAF04C57B64ECEA6F8C0B497CA4D8B">D02809899</a>点评：</span>天宁寺很不错，景色很美，历史悠久，比起一般的寺庙，直接传递佛文化，没有商业化气息。讲解很细心，有很多石碑上刻有募捐者的名字。史上极少的祈福圣地。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/tianmuhu1437/78786.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/525/360/175/ccac085537bd4cad8b9fd7b3db1673da_C_220_140.jpg" width="220" height="140" img-id="6005667" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/tianmuhu1437/78786.html" title="天目湖御水温泉">天目湖御水温泉</a>
+                                <s class=g_background>第4名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市溧阳市天目湖旅游度假区内                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;218</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>158<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/tianmuhu1437/78786.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/tianmuhu1437/78786.html#comment" class="recomment">
+                                (233条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="xclistcomment ellipsis"><span class="xclisttitle">携程旅行口碑榜2014</span><a target="_blank" href="http://top.ctrip.com/wenquanjingdian/all" title="最佳国内温泉景点" >最佳国内温泉景点</a>第1名</p>
+                    <s class="ico_list"></s>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16590.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/193/070/857/2790075229c14813b8c5cf5f5082510a_C_220_140.jpg" width="220" height="140" img-id="1231842" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16590.html" title="淹城春秋乐园">淹城春秋乐园</a>
+                                <s class=g_background>第5名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市武进区武宜中路197号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;240</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>135<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16590.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16590.html#comment" class="recomment">
+                                (316条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/9BE38BCEE4924E89AF3F0480C607F8F6">紫雨小格斗</a>点评：</span>以春秋淹城为主题的乐园，相对其他乐园来说很有主体性，具有古代气息，喜欢古代历史文化的人是个好选择，有几个项目还是很不错的，几乎在其他乐园都体会不到
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16585.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/021/742/564/f2293c11786145b1b8f6afc8584a269d_C_220_140.jpg" width="220" height="140" img-id="7171641" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16585.html" title="红梅公园">红梅公园</a>
+                                <s class=g_background>第6名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市天宁区罗汉路1号                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16585.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16585.html#comment" class="recomment">
+                                (101条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/91F9AA2BFF614CB79672D8649A7B7A1D">大侠V5</a>点评：</span>常州城内最大的公园，会有定期的主题花卉展，像是春天，有桃花，梅花，樱花，游客很多，的确也是春游的好去处。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16586.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/716/424/207/a647db3149224f548eb9da3b95259dd9_C_220_140.jpg" width="220" height="140" img-id="11219928" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16586.html" title="舣舟亭">舣舟亭</a>
+                                <s class=g_background>第7名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市天宁区延陵中路东坡公园内                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16586.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16586.html#comment" class="recomment">
+                                (24条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/904CA2E983F5404393DA71C303ECECBC">神灵剑</a>点评：</span>舣舟亭就像用石头砌成一个小周，更加像是一个依山傍水的私家园林，在旁边随便走走，感觉这个建筑很有特色，反正免费的所以去了，到了以后人真的不是很多的，可以在亭子里面休息休息
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/73332.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/427/891/358/aa3f15f2fe8d4b518de76949bcec2214_C_220_140.jpg" width="220" height="140" img-id="7171643" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/73332.html" title="恐龙谷温泉">恐龙谷温泉</a>
+                                <s class=g_background>第8名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市新北区河海东路58号                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;308</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>128<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/73332.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/73332.html#comment" class="recomment">
+                                (253条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="xclistcomment ellipsis"><span class="xclisttitle">携程旅行口碑榜2014</span><a target="_blank" href="http://top.ctrip.com/wenquanjingdian/all" title="最佳国内温泉景点" >最佳国内温泉景点</a>第3名</p>
+                    <s class="ico_list"></s>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/62154.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/649/585/302/682a6bda79074e6689a082017d28c4bf_C_220_140.jpg" width="220" height="140" img-id="7171699" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/62154.html" title="瞿秋白纪念馆">瞿秋白纪念馆</a>
+                                <s class=g_background>第9名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市钟楼区延陵西路188号                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/62154.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/62154.html#comment" class="recomment">
+                                (30条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/D1BA237FCED446968A23CAA9B2C68898">糨糊的小R</a>点评：</span>因为瞿秋白是常州人，所以在常州我们可以看到瞿秋白纪念馆，在里面对于瞿秋白的一生的变迁和瞿秋白的生活中的点滴都有细致的描述，并且物品陈列的品种丰富多样
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/tianmuhu1437/48723.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/214/593/233/a070d6ef65da485db1e43c81f401d155_C_220_140.jpg" width="220" height="140" img-id="7171205" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/tianmuhu1437/48723.html" title="天目湖山水园">天目湖山水园</a>
+                                <s class=g_background>第10名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州溧阳市环湖东路1号                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;218</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>158<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/tianmuhu1437/48723.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/tianmuhu1437/48723.html#comment" class="recomment">
+                                (272条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/C86757D8C9F5488EAD7BACEA01C807B5">3004176103</a>点评：</span>一路高速去的,还是很快就到达了。就是快下高速的时候有点堵车。景区里的人很多，不过里面供游客休息的地方还是挺多的。总体感觉不错。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/89659.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/676/730/663/e9e1bc591bcb40e79dbb2daa9199e078_C_220_140.jpg" width="220" height="140" img-id="14198053" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/89659.html" title="嬉戏谷">嬉戏谷</a>
+                                <s class=g_background>第11名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市武进区太湖湾嬉戏谷大道1号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;230</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>200<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/89659.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/89659.html#comment" class="recomment">
+                                (243条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/5DD646D158684CC99BA347E4F1CC5A51">猪头修炼成的猫</a>点评：</span>更喜欢常州恐龙园，嬉戏谷虽然主打的也是动漫主题，但人气貌似不如恐龙园，毕竟建园时间短，很多项目有待开发啊，最近一次去的时候听说马上就要开二期了，可玩性会大大提高。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/16587.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/327/395/661/43a2da4bfeae49edb61ee29a27c75f6f_C_220_140.jpg" width="220" height="140" img-id="10613150" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/16587.html" title="篦箕巷">篦箕巷</a>
+                                <s class=g_background>第12名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市钟楼区篦箕巷                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/16587.html"><strong>3.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:70%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/16587.html#comment" class="recomment">
+                                (44条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/0305E4E49B9B4467AA3BBA0F20E9835B">2026262720</a>点评：</span>在中心位置，所以去的话还是很方便的哦，主要是去看篦箕巷里面的一些古建筑，挺古色古香的感觉，蛮有味道的
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/63565.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/763/769/539/4aac5f6fc666421aa9e268df7ffc564f_C_220_140.jpg" width="220" height="140" img-id="3127180" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/63565.html" title="常州博物馆">常州博物馆</a>
+                                <s class=g_background>第13名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市新北区龙城大道1288号                        </dd>
+                        <dd>
+                            AAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/63565.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/63565.html#comment" class="recomment">
+                                (46条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/E91D599CF1CD4D059E470DF6F5E50103">不务正业书呆子</a>点评：</span>展馆新建的,与常州这个城市一样,很干净.有时间可以去看看的,作为一个苏南中等城市的博物馆,还是不错的.
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/tianmuhu1437/137269.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/336/622/776/e87a3839c39e4a0db0aa53cb2d20c563_C_220_140.jpg" width="220" height="140" img-id="9344795" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/tianmuhu1437/137269.html" title="天目湖涵田半山温泉">天目湖涵田半山温泉</a>
+                                <s class=g_background>第14名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市溧阳天目湖旅游度假区东园路88号                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;258</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>158<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/tianmuhu1437/137269.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/tianmuhu1437/137269.html#comment" class="recomment">
+                                (125条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/E05587B4489F45F593E26826576826D4">E10531678</a>点评：</span>朋友推荐的，天目湖涵田半山温泉确实蛮不错的，设施和服务都不错。环境绝对没话说，温泉旁边就是湖很舒服。清洁方面做的也不错，休闲的好去处。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/changzhou206/107405.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/635/450/212/d26a2dcac1484e36b41aaa7d8a6bfecc_C_220_140.jpg" width="220" height="140" img-id="3807927" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/changzhou206/107405.html" title="淹城野生动物园">淹城野生动物园</a>
+                                <s class=g_background>第15名</s>
+                        </dt>
+                        <dd class="ellipsis">
+常州市武进区武宜南路588号                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;150</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>110<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/changzhou206/107405.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/changzhou206/107405.html#comment" class="recomment">
+                                (84条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/0305E4E49B9B4467AA3BBA0F20E9835B">2026262720</a>点评：</span>是以野生动物生态散养为特色，所以还是挺特别的，里面有比较多种类的野生动物，自驾进去里面的野生动物区近距离接触的感觉还是不错的
+                    </p>
+            </div>
+        <div class="ttd_pager cf"><p>1-15 / 126条</p><div class="pager_v1"><a class="prevpage disabled">上一页</a><a class="current">1</a><a href="/sight/changzhou206/s0-p2.html">2</a><a href="/sight/changzhou206/s0-p3.html">3</a><a href="/sight/changzhou206/s0-p4.html">4</a><a href="/sight/changzhou206/s0-p5.html">5</a><a  class="nextpage" href="/sight/changzhou206/s0-p2.html">下一页</a><span>到 <input id="gopagetext" value="" type="text"> 页 / <b class="numpage">9</b>页</span><a class="gopage" href="javascript:;">确定</a></div></div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div><div class="footerseo"><div class="footerseo_con"><div class="cf seo_title"><h2 class="seotitle1">旅游攻略导航</h2><div class="seo1title_r"><h3>当季热点：</h3><a href="http://you.ctrip.com/place/qingdao5.html" target="_blank">青岛</a><a href="http://you.ctrip.com/place/xiamen21.html" target="_blank">厦门</a><a href="http://you.ctrip.com/place/beidaihe1938.html" target="_blank">北戴河</a><a href="http://you.ctrip.com/place/jiuzhaigou25.html" target="_blank">九寨沟</a><a href="http://you.ctrip.com/place/zhangjiajie23.html" target="_blank">张家界</a><a href="http://you.ctrip.com/place/sanya61.html" target="_blank">三亚</a><a href="http://you.ctrip.com/place/marseilles120370.html" target="_blank">马赛</a><a href="http://you.ctrip.com/place/bali438.html" target="_blank">巴厘岛</a><a href="http://you.ctrip.com/place/phuket364.html" target="_blank">普吉岛</a></div></div><p>常州旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的常州自助游、自由行、自驾游、跟团旅线路，海量常州旅游景点图片、游记、交通、美食、购物、住宿、娱乐、行程、指南等旅游攻略信息，了解更多常州旅游信息就来携程旅游攻略。</p></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 常州旅游快速入口</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/place/changzhou206.html" target="_blank">常州旅游攻略</a></li><li><a href="/summary/changzhou206.html" target="_blank">常州旅行指南</a></li><li><a href="/guides/changzhou206.html" target="_blank">常州攻略下载</a></li><li><a href="/sight/changzhou206.html" target="_blank">常州旅游景点</a></li><li><a href="/restaurant/changzhou206.html" target="_blank">常州特色美食</a></li><li><a href="/resort/changzhou206.html" target="_blank">常州娱乐体验</a></li><li><a href="/journeys/changzhou206.html" target="_blank">常州行程推荐</a></li><li><a href="/asks/changzhou206.html" target="_blank">常州旅游问答</a></li><li><a href="/map/changzhou206.html" target="_blank">常州景点地图</a></li><li><a href="/travels/changzhou206.html" target="_blank">常州游记攻略</a></li><li><a href="/photos/changzhou206/r206.html" target="_blank">常州旅游图片</a></li><li><a href="/hotels/changzhou206.html" target="_blank">常州酒店攻略</a></li><li><a href="/shopping/changzhou206.html" target="_blank">常州购物指南</a></li><li><a href="/traffic/changzhou206.html" target="_blank">常州旅游交通</a></li><li><a href="/events/changzhou206c206-p1" target="_blank">常州结伴旅游</a></li><li><a href="http://hotels.ctrip.com/hotel/changzhou213" target="_blank">常州酒店</a></li><li><a href="http://flights.ctrip.com/booking/czx-Changzhou-flights.html" target="_blank">常州机票</a></li><li><a href="http://trains.ctrip.com/TrainBooking/changzhou/" target="_blank">常州火车票</a></li><li><a href="http://vacations.ctrip.com/dest/d-changzhou-206" target="_blank">常州旅游</a></li></ul><h4 class="seotitle3">江苏旅游攻略导航：</h4><ul class="cf"><li><a href="/place/suqian492.html" target="_blank">宿迁</a></li><li><a href="/place/huaian351.html" target="_blank">淮安</a></li><li><a href="/place/tongzhou774.html" target="_blank">通州</a></li><li><a href="/place/taihu2603.html" target="_blank">太湖</a></li><li><a href="/place/wuxi10.html" target="_blank">无锡</a></li><li><a href="/place/suzhou11.html" target="_blank">苏州</a></li><li><a href="/place/nantong85.html" target="_blank">南通</a></li><li><a href="/place/yangzhou12.html" target="_blank">扬州</a></li><li><a href="/place/xuzhou230.html" target="_blank">徐州</a></li><li><a href="/place/yancheng493.html" target="_blank">盐城</a></li><li><a href="/place/taizhou494.html" target="_blank">泰州</a></li><li><a href="/place/lianyungang238.html" target="_blank">连云港</a></li><li><a href="/place/nanjing9.html" target="_blank">南京</a></li><li><a href="/place/zhenjiang13.html" target="_blank">镇江</a></li><li><a href="/place/changzhou206.html" target="_blank">常州</a></li></ul></div> </div><div class="footerseo_con seojs3line"> <div class="cf seo_title"> <h3 class="seotitle2"> 常州旅游景点</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/sight/tianmuhu1437/78785.html" target="_blank">南山竹海</a></li><li><a href="/sight/changzhou206/16584.html" target="_blank">天宁寺</a></li><li><a href="/sight/tianmuhu1437/78786.html" target="_blank">天目湖御水温泉</a></li><li><a href="/sight/changzhou206/16590.html" target="_blank">淹城春秋乐园</a></li><li><a href="/sight/changzhou206/16585.html" target="_blank">红梅公园</a></li><li><a href="/sight/changzhou206/16586.html" target="_blank">舣舟亭</a></li><li><a href="/sight/changzhou206/73332.html" target="_blank">恐龙谷温泉</a></li><li><a href="/sight/changzhou206/62154.html" target="_blank">瞿秋白纪念馆</a></li><li><a href="/sight/tianmuhu1437/48723.html" target="_blank">天目湖山水园</a></li><li><a href="/sight/changzhou206/89659.html" target="_blank">嬉戏谷</a></li><li><a href="/sight/changzhou206/16587.html" target="_blank">篦箕巷</a></li><li><a href="/sight/changzhou206/63565.html" target="_blank">常州博物馆</a></li><li><a href="/sight/tianmuhu1437/137269.html" target="_blank">天目湖涵田半山温泉</a></li><li><a href="/sight/changzhou206/107405.html" target="_blank">淹城野生动物园</a></li><li><a href="/sight/liyang598/116470.html" target="_blank">天目湖水世界</a></li><li><a href="/sight/changzhou206/62153.html" target="_blank">荆川公园</a></li><li><a href="/sight/changzhou206/140869.html" target="_blank">未来星儿童职业体验馆</a></li><li><a href="/sight/changzhou206/62152.html" target="_blank">华罗庚纪念馆</a></li><li><a href="/sight/changzhou206/140875.html" target="_blank">乐当家儿童职业体验馆</a></li><li><a href="/sight/changzhou206/116555.html" target="_blank">新北中心公园</a></li><li><a href="/sight/changzhou206/1409302.html" target="_blank">常州3d画展馆</a></li><li><a href="/sight/changzhou206/133741.html" target="_blank">中华孝道园</a></li><li><a href="/sight/changzhou206/142007.html" target="_blank">MEWE城堡儿童职业体验馆</a></li><li><a href="/sight/changzhou206/136104.html" target="_blank">常州古运河</a></li><li><a href="/sight/changzhou206/116525.html" target="_blank">瞿秋白故居</a></li><li><a href="/sight/changzhou206/62142.html" target="_blank">横山桥</a></li><li><a href="/sight/liyang598/48752.html" target="_blank">高静园</a></li><li><a href="/sight/changzhou206/109920.html" target="_blank">东坡公园</a></li><li><a href="/sight/changzhou206/1408355.html" target="_blank">常州金鹰海洋世界</a></li><li><a href="/sight/changzhou206/18628.html" target="_blank">圩墩遗址公园</a></li><li><a href="/sight/changzhou206/18629.html" target="_blank">文笔塔</a></li><li><a href="/sight/liyang598/70460.html" target="_blank">铭汤温泉度假村</a></li><li><a href="/sight/changzhou206/116469.html" target="_blank">青枫公园</a></li><li><a href="/sight/changzhou206/62146.html" target="_blank">青果巷</a></li><li><a href="/sight/changzhou206/62175.html" target="_blank">顾龙山</a></li><li><a href="/sight/liyang598/1408942.html" target="_blank">天目湖高尔夫</a></li><li><a href="/sight/changzhou206/62170.html" target="_blank">太平天国戴王府</a></li><li><a href="/sight/tianmuhu1437/133668.html" target="_blank">太公山</a></li><li><a href="/sight/tianmuhu1437/133679.html" target="_blank">平桥石坝</a></li><li><a href="/sight/liyang598/116331.html" target="_blank">吴楚农耕文化园</a></li></ul></div> </div><div class="footerseo_con">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游目的地推荐</h3>
+                                        <a class="more" href="http://you.ctrip.com/sitemap/" target="_blank">全部&nbsp;&gt;</a>
+                                    </div><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/granada379.html" target="_blank">格拉纳达旅游攻略</a></li><li><a href="http://you.ctrip.com/place/casablanca1693.html" target="_blank">卡萨布兰卡旅游攻略</a></li><li><a href="http://you.ctrip.com/place/xinji2541.html" target="_blank">辛集旅游攻略</a></li><li><a href="http://you.ctrip.com/place/fengxin2413.html" target="_blank">奉新旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lufeng2952.html" target="_blank">陆丰旅游攻略</a></li><li><a href="http://you.ctrip.com/place/suining605.html" target="_blank">遂宁旅游攻略</a></li><li><a href="http://you.ctrip.com/place/cookislands20426.html" target="_blank">库克群岛旅游攻略</a></li><li><a href="http://you.ctrip.com/place/patong14984.html" target="_blank">芭东旅游攻略</a></li><li><a href="http://you.ctrip.com/place/innsbruck143861.html" target="_blank">茵斯布鲁克旅游攻略</a></li><li><a href="http://you.ctrip.com/place/meixian2916.html" target="_blank">梅县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/sanqingshan159.html" target="_blank">三清山旅游攻略</a></li><li><a href="http://you.ctrip.com/place/wenchang1007.html" target="_blank">文昌旅游攻略</a></li><li><a href="http://you.ctrip.com/place/chaoyang143885.html" target="_blank">朝阳旅游攻略</a></li><li><a href="http://you.ctrip.com/place/unitedarademirates100099.html" target="_blank">阿联酋旅游攻略</a></li><li><a href="http://you.ctrip.com/place/rongxian3144.html" target="_blank">荣县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/wufeng2712.html" target="_blank">五峰旅游攻略</a></li><li><a href="http://you.ctrip.com/place/yaoli120130.html" target="_blank">瑶里旅游攻略</a></li><li><a href="http://you.ctrip.com/place/xinjin3124.html" target="_blank">新津旅游攻略</a></li><li><a href="http://you.ctrip.com/place/fuyang1513.html" target="_blank">富阳旅游攻略</a></li><li><a href="http://you.ctrip.com/place/haimen1935.html" target="_blank">海门旅游攻略</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/sight/xian7/1446.html" target="_blank">陕西历史博物馆</a></li><li><a href="http://you.ctrip.com/sight/colombo753/139943.html" target="_blank">科伦坡</a></li><li><a href="http://you.ctrip.com/sight/avignon1100/132109.html" target="_blank">石头城</a></li><li><a href="http://you.ctrip.com/sight/chongqing158/10428.html" target="_blank">长寿湖</a></li><li><a href="http://you.ctrip.com/sight/shaoguan222/11562.html" target="_blank">南华寺</a></li><li><a href="http://you.ctrip.com/sight/liuan502/65771.html" target="_blank">大别山</a></li><li><a href="http://you.ctrip.com/sight/salzburg440/13341.html" target="_blank">水晶宫</a></li><li><a href="http://you.ctrip.com/sight/chongqing158/10391.html" target="_blank">林园</a></li><li><a href="http://you.ctrip.com/sight/gannan426/52043.html" target="_blank">虎头山</a></li><li><a href="http://you.ctrip.com/sight/beijing1/5284.html" target="_blank">中华民族园</a></li><li><a href="http://you.ctrip.com/sight/beijing1/5173.html" target="_blank">北京动物园</a></li><li><a href="http://you.ctrip.com/sight/pyongyang314/61027.html" target="_blank">板门店</a></li><li><a href="http://you.ctrip.com/sight/stuttgart1039/138249.html" target="_blank">斯图加特</a></li><li><a href="http://you.ctrip.com/sight/changsha148/9011.html" target="_blank">岳麓山</a></li><li><a href="http://you.ctrip.com/sight/hefei196/10953.html" target="_blank">巢湖</a></li><li><a href="http://you.ctrip.com/sight/macau39/132455.html" target="_blank">新濠天地</a></li><li><a href="http://you.ctrip.com/sight/hongkong38/109597.html" target="_blank">女人街</a></li><li><a href="http://you.ctrip.com/sight/beijing1/107634.html" target="_blank">前门大街</a></li><li><a href="http://you.ctrip.com/sight/paris308/12954.html" target="_blank">塞纳河</a></li><li><a href="http://you.ctrip.com/sight/bath718/22390.html" target="_blank">罗马浴场</a></li></ul></div><div class="footerseo_con"> <div class="cf seo_title"> <h3 class="seotitle2"> 地图导航</h3> </div> <div class="linklist cf"><a href="http://you.ctrip.com/place/countrylist.html">世界</a><a href="http://you.ctrip.com/place/china110000.html">中国</a><a href="http://you.ctrip.com/place/asia120001.html">亚洲</a><a href="http://you.ctrip.com/place/europe120002.html">欧洲</a><a href="http://you.ctrip.com/place/africa120006.html">非洲</a><a href="http://you.ctrip.com/place/northamerica120004.html">北美洲</a><a href="http://you.ctrip.com/place/southamerica120005.html">南美洲</a><a href="http://you.ctrip.com/place/oceania120003.html">大洋洲</a><a href="http://You.ctrip.com/sitemap/">目的地大全</a><a href="http://you.ctrip.com/sitemap/places.html">海外目的地</a><a href="http://you.ctrip.com/sitemap/placedis/c110000">国内目的地</a><a href="http://you.ctrip.com/sitemap/spotdis/c0">国内景点</a><a href="http://you.ctrip.com/sitemap/spots.html">海外景点</a><a href="http://you.ctrip.com/sitemap/guides">攻略</a><a href="http://you.ctrip.com/sitemap/travels.html">游记</a><a href="http://you.ctrip.com/sitemap/asks">问答</a><a href="http://you.ctrip.com/sitemap/events">结伴</a><a href="http://you.ctrip.com/sitemap/groups">小组</a><a href="http://you.ctrip.com/sitemap/official.html">认证</a></div> </div><div class="footerseo_con"><div class="cf seo_title"><h3 class="seotitle2">最新游友动态资讯</h3></div><div class="footerseo_con1" id="footerseo_marquee"><ul><li>[5分钟前] e797** 发布了游记 <a href="/travels/changzhou206/1959058.html" target="_blank">不为目的！一个人、一处景、</a></li><li>[5分钟前] 1376** 发布了游记 <a href="/travels/changzhou206/1957038.html" target="_blank">天天看世界「未完待续」</a></li><li>[5分钟前] E087** 发布了游记 <a href="/travels/changzhou206/1950470.html" target="_blank">常州恐龙园+温泉2日亲子游</a></li><li>[5分钟前] 2038** 发布了游记 <a href="/travels/changzhou206/1947167.html" target="_blank">【写意山水慢生活】- 南浔.安吉.南山.天目湖自驾游</a></li><li>[4分钟前] 1505** 发表了问题 <a href="/asks/changzhou206/1361807.html" target="_blank">还有怎么关闭错误的那个？</a></li><li>[4分钟前] 1505** 发表了问题 <a href="/asks/changzhou206/1361715.html" target="_blank">你好，我定了两个订单，第一个卡号资料填错了，我又定了一个，会...</a></li><li>[4分钟前] 1597** 发表了问题 <a href="/asks/changzhou206/1361454.html" target="_blank">现在订高铁票？怎么直接订不了?还要在哪里下载12360帐号？</a></li><li>[4分钟前] 1597** 发表了问题 <a href="/asks/changzhou206/1361453.html" target="_blank">关于携程会员问题？？？？</a></li></ul></div></div></div><div class="footgray"><div class="footinner cf"><dl><dt>社区必读</dt><dd><a href="http://you.ctrip.com/htmlpages/eula.html" target="_blank">用户协议</a></dd><dd><a href="http://you.ctrip.com/htmlpages/guide.html" target="_blank">社区指南</a></dd><dd><a href="http://you.ctrip.com/htmlpages/exp.html" target="_blank">经验与等级</a></dd><dd><a href="http://you.ctrip.com/htmlpages/help.html" target="_blank">新手导航</a></dd></dl><dl><dt>发现你的旅行</dt><dd><a href="http://you.ctrip.com/place" target="_blank">了解目的地</a></dd><dd><a href="http://you.ctrip.com/travels" target="_blank">阅读精彩游记</a></dd><dd><a href="http://you.ctrip.com/guides" target="_blank">下载精品攻略</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">逛逛兴趣小组</a></dd><dd><a href="http://you.ctrip.com/asks" target="_blank">请教旅行达人</a></dd><dd><a href="http://you.ctrip.com/events" target="_blank">发起结伴</a></dd></dl><dl><dt>分享你的旅行</dt><dd><a href="http://you.ctrip.com/add-travel/guide.html" target="_blank">发表游记大作</a></dd><dd><a href="http://you.ctrip.com/dianping/" target="_blank">点评去过的景点</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">去小组讨论</a></dd></dl><dl class="ftabout"><dt>关于我们</dt><dd><a href="http://you.ctrip.com/htmlpages/about.html" target="_blank">社区简介</a></dd><dd><a href="http://you.ctrip.com/htmlpages/contact.html" target="_blank">联系我们</a></dd><dd><a href="http://you.ctrip.com/htmlpages/job.html" target="_blank">加入我们</a></dd></dl><dl class="ftguanzhu"><dt>关注携程攻略社区</dt><dd class="youguanzhu cf"><span class="ftweixin"></span><a rel="nofollow" target="_blank" href="http://weibo.com/ctripyou" class="ftweibo"></a></dd></dl></div></div>
+    <script src="http://webresource.c-ctrip.com/ResCRMOnline/r1/js/float/headFloat.min.js?ws_testp20140729.js"></script><div id="base_ft">
+  <p><a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&#xA0;|&#xA0;<a rel="nofollow" title="免费注册" href="https://accounts.ctrip.com/member/emailregist.aspx">免费注册</a>&#xA0;|&#xA0;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&#xA0;|&#xA0;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&#xA0;|&#xA0;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&#xA0;|&#xA0;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" title="诚聘英才" href="http://job.ctrip.com/">诚聘英才</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201012/other/yp/index.html" title="企业礼品卡采购">企业礼品卡采购</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>&#xA0;|&#xA0;<a rel="nofollow" style="color: #0066CC;" target="_blank" title="我要提建议" href="http://my.ctrip.com/adv/uxp/Community/CommunityAdvice.aspx">我要提建议</a></p>
+  <p><a rel="nofollow" href="http://hotels.ctrip.com/jiameng#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&#xA0;|
+            <a rel="nofollow" href="http://pages.ctrip.com/commerce/promote/201406/destination/mdd/index.html">目的地营销合作</a>&#xA0;|&#xA0;
+            <a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="服务说明">服务说明</a>&#xA0;|&#xA0;
+            <a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/tour/ingroupline_pages.asp?folder=ingroup0904&amp;file=0177" title="旅游度假资质">旅游度假资质</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/Insurance/index.htm">保险代理</a>&#xA0;|&#xA0;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm">Copyright&copy;</a> 1999-2014, <a href="http://www.ctrip.com/"> ctrip.com</a>. All rights reserved.&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a></p>
+  <p id="cui_lang_bottom"><a target="_blank" class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a> <a target="_blank" class="cui_lang_en" rel="nofollow" href="http://english.ctrip.com/">English</a> <a target="_blank" class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a> <a target="_blank" class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a> <a target="_blank" href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a> <a target="_blank" class="cui_lang_de" rel="nofollow" href="http://de.ctrip.com/">Deutsch</a> <a target="_blank" rel="nofollow" href="http://es.ctrip.com/" class="cui_lang_es">Espa&#xF1;ol</a> <a target="_blank" rel="nofollow" class="cui_lang_ru" href="http://ru.ctrip.com/">Русский</a><a target="_blank" rel="nofollow" class="cui_lang_vn" href="http://vn.ctrip.com/">Tiêng Viêt</a></p>
+  <div class="honour_wrap"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=163178864X" title="网信编码：163178864X" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://search.cxwz.org/cert/l/CX20111018000615000623" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="javascript:" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.cnnic.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a></div>
+</div><!-- InstanceEnd name="position" --><script type="text/javascript">var globalConfig={H1:'https',H3:'my.ctrip.com',Lang:'gb2312',AjaxUrl:'accounts.ctrip.com'};</script><script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/js/Ctrip2013JS.js?temp=20140820" charset="utf-8"></script>
+<div class="gs_bottombar cf"><ul><li><a href="http://you.ctrip.com/special/2014bikini.aspx" target="_blank">一张比基尼照换豪宅！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/comments/foretaste" target="_blank">争当免单达人，吃遍全球霸王餐！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/event/zhoumoyou.html" target="_blank">免费趣玩，五星香格里拉！</a></li></ul></div>
+</div>
+<input type="hidden" id="sso_loginprocxyPath" name="sso_loginprocxyPath" value="http://you.ctrip.com/DestinationSite/LoginHelper/loginprocxy.html" />
+                                            <script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/R6/member/common/js/mask_you.js?20140603" charset="gb2312" ></script>
+
+
+    
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/common/js/common.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/fed/js/fed.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/ttd2/js/city_sight.v2.0.js?20140822153037"></script>
+    <script type="text/javascript">
+        function SetImgOriginalUrl() {
+            try {
+                $("img[data-original]").each(function (i) {
+                    var url = $(this).attr("data-original");
+                    if (url != "") {
+                        $(this).attr("src", url);
+                    }
+                });
+            } catch (e) {
+            }
+        }
+        $(function () {
+            ShowVacationAd(); ShowspecialHotelAd(); GetExpertPartialView();
+            OnloadEventDistrictimg(); SetImgOriginalUrl();
+        }); </script>
+    <script type="text/javascript">
+        var IsTheme = 0;
+        //是否是标签列表页（0否，1是）
+        var LabelID = 0;
+        //主题标签
+        var RegionID = 0;
+        //行政区
+        var IsPrice = 0;
+        //是否订购
+        var Keywords = '';
+        //关键字
+        var DistrictID = 206;
+        //目的地ID
+        var PageNow = 1;
+        //当前页码
+        var EName = 'Changzhou';
+        //目的地英文名称
+
+        var OrderType = '0';
+
+        if (PageNow>1) {
+            window.location.hash = 'sightname';
+        }
+       
+        $(function() {
+            if (IsPrice == 1) {
+                $("#search_sight_dg").attr("checked", true);
+            } else {
+                $("#search_sight_dg").attr("checked", false);
+            }
+
+            if (Keywords != "") {
+                $("#search_sight_name").val(Keywords);
+            }
+            
+            $("#search_sight_dg").click(function() {
+                if ($("#search_sight_dg").attr("checked")) {
+                    IsPrice = 1;
+                } else {
+                    IsPrice = 0;
+                }
+                PageNow = 1;
+                OnSearch();
+            });
+             if ($("#inChina").val().toLowerCase() == "true") {
+                GetSpecialFlightView();
+            } else {
+                ShowIntelFlightAd();
+            }
+        });
+
+        function OnLabel(id) {
+            PageNow = 1;
+            LabelID = id;
+            OnSearch();
+        }
+
+        function OnRegion(id) {
+            RegionID = id;
+            PageNow = 1;
+            OnSearch();
+        }
+
+        function ColseKeys() {
+            Keywords = "";
+            PageNow = 1;
+            OnSearch();
+        }
+        function OnOrderBy(id) {
+            OrderType = id;
+            OnSearch();
+        }
+        function OnSubmit() {
+            var strkey = $.trim($("#search_sight_name").val());
+            var pl = $("#search_sight_name").attr('placeholder');
+            if (strkey == "" || strkey==pl)
+            { Keywords = ""; }
+            else
+            { Keywords = strkey; }
+            PageNow = 1;
+            OnSearch();
+        }
+        
+        INTERFACE.pageLinkJump = function (page) {
+            PageNow = page;
+            OnSearch();
+        };
+
+        function OnSearch() {
+            var strUrl = "";
+            var key = "";
+            var type = "";
+            //是否是标签页
+            if (IsTheme == '1') {
+                type = "?type=t";
+            }
+            if (Keywords != "") {
+                if (IsTheme == '1') {
+                    key = "&keywords=" + escape(Keywords);
+                } else {
+                    key = "?keywords=" + escape(Keywords);
+                }
+            }
+//            if (OrderType != "") {
+//                if (Keywords == "" && IsTheme != '1') {
+//                    key += "?ordertype=" + escape(OrderType);
+//                } else {
+//                    key += "&ordertype=" + escape(OrderType);
+//                }
+//            }
+            var params = type + key;
+
+            if ((LabelID == "" || LabelID == 0) && (PageNow == "" || PageNow <= 1) && (IsPrice == "" || IsPrice == 0) && (RegionID == "" || RegionID == 0) &&(OrderType == "" || OrderType ==0))  {
+                strUrl = "/sight/" + EName + DistrictID + ".html" + params;
+            } else {
+                var label = LabelID == "" || LabelID == 0 ? "s0" : "s" + LabelID;
+                var page = PageNow == "" || PageNow <= 1 ? "" : "-p" + PageNow;
+                var label1 = LabelID == "" || LabelID == 0 ? "" : "-l" + LabelID;
+                var isprice = IsPrice == "" || IsPrice == 0 ? "" : "-i1";
+                var region = RegionID == "" || RegionID == 0 ? "" : "-r" + RegionID;
+                var otype = OrderType != "" && OrderType != "0" ? "-o" + OrderType : "";
+                var strparams = label + page + label1+ region + isprice +otype;
+                strUrl = "/sight/" + EName + DistrictID + "/" + strparams + ".html" + params;
+            }
+
+            window.location.href = strUrl;
+        }
+    </script>
+
+<div class="content">
+                                           <div class="gs_operate_right_fix" id="gs_operate_right_fix">
+                                                 <div class="cf">
+                                                        <a href="javascript:;" class="close"></a>
+                                                 </div>
+                    <a href="http://you.ctrip.com/travels/yangzhou12/1950347.html" target="_blank" class="one">发点评赢扬州美食游！ </a></div></div>
+                            <script>
+                                $(function () {
+                                    $('#gs_operate_right_fix a.close').on('click', function ()
+                                    { $(this).parent().parent().hide(); }
+                                        );
+
+                                    }); 
+                            </script>
+    <script type="text/javascript">
+        if (!window.__SSO_submit) {
+            window.__SSO_submit = function(a, t) {
+                $('.a_popup_login').removeClass('a_popup_login');
+                switch (a) {
+                case 'wantClickID':
+                case 'wentClickID':
+                    $("#" + a).trigger('click');
+                    break;
+                case 'writereviewid':
+                    var currentUrl = window.location.href.replace( /#.*$/g , "");
+                    var urlParamsIndex = currentUrl.lastIndexOf("?");
+                    var randomCode = Math.floor(Math.random() * 10000 + 1);
+
+                    if (urlParamsIndex == -1) {
+                        currentUrl += "?RandomCode=" + randomCode;
+                    } else {
+                        var hasParamAlready = currentUrl.match( /RandomCode=[^&]{0,}/ );
+                        if (hasParamAlready != null) {
+                            currentUrl = currentUrl.replace( /RandomCode=[^&]{0,}/ , "RandomCode=" + randomCode);
+                        } else {
+                            currentUrl += "&RandomCode=" + randomCode;
+                        }
+                    }
+                    window.location.href = currentUrl + "#dianPing";
+                    break;
+                case 'comment-submit':
+                    $(".post_review .btn_line .gsn-btn-2").click();
+                    break;
+                }
+            };
+        }
+
+        if (window.$) {
+            $(function () {
+                if (window.ShowGowant) {
+                    ShowGowant();
+                }
+                if (window.ShowWeather) {
+                    ShowWeather();
+                }
+                if (window.asynfunc) {
+                    for (var index in window.asynfunc) {
+                        try {
+                            window.asynfunc[index].call();
+                        } catch (e) {
+                            if (window.console) {
+                                console.log(e);
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

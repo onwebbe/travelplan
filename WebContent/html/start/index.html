@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Mobile Application 1</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../../js/dojo/dojox/mobile/deviceTheme.js"></script>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../../js/dojo/dojo/dojo.js" djConfig="parseOnLoad: false, modulePaths:{com:'../com'}"></script>
+    <!-- dojo application code -->
+    <script>
+    	var controller = null;
+        // Load the widget parser and mobile base
+        require([
+			"com/onwebbe/dojo/mobile/MobileDynamicViewController",
+            "dojox/mobile/parser",
+            "dojox/mobile/compat",
+            "dojox/mobile/ScrollableView",
+            "dojox/mobile/Heading",
+            "dojox/mobile/ToolBarButton",
+            "dojox/mobile/TabBar",
+            "dojox/mobile/TabBarButton",
+            "dojox/mobile/RoundRect",
+            "dojox/mobile/ListItem",
+            "dojo/domReady!"
+        ], function (Controller, parser) {
+            // Parse the page for widgets
+            parser.parse();
+            controller = new Controller(true,true);
+			controller.setCurrentView(registry.byId("mainFunction"));
+        });
+    </script>
+</head>
+<body style="visibility:hidden;">
+<div id="mainFunction" data-dojo-type="dojox/mobile/ScrollableView" data-dojo-props="selected: true">
+<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top', label: '车辆出入管理'">
+      <span id="helpButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'Help', moveTo:'help', transition:'none', icon: '../../images/help.png'" style="float:right;"></span>
+      <img id="addNewFormButton" src="../../images/add.png" style="float:left;margin-left:10px;margin-top:5px;"></img>
+</div>
+<div>
+	<div id="welcomePageLoginInfoDisplay" style="text-align:center;margin-top:15px;">
+		欢迎回来: <div id="welcomePageLoginInfoDisplayName">xxx</div>
+	</div>
+	<div id="welcomePageCalculations">	
+		<div data-dojo-type="dojox/mobile/RoundRect">
+			今天您已经登录车辆: 5 辆
+		</div>
+		<div data-dojo-type="dojox/mobile/RoundRect">
+			今天总登录车辆: 35 辆
+		</div>
+		<div data-dojo-type="dojox/mobile/RoundRect">
+			昨天您登录车辆: 15 辆
+		</div>
+		<div data-dojo-type="dojox/mobile/RoundRect">
+			昨天您登录车辆: 55 辆
+		</div>
+	</div>
+</div>
+<ul data-dojo-type="dojox/mobile/TabBar" data-dojo-props="center:true" single="true" fixed="bottom">
+	<li data-dojo-type="dojox/mobile/TabBarButton" selected="true" icon="../../images/listing.png">列表</li>
+	<li data-dojo-type="dojox/mobile/TabBarButton" icon="../../images/history.png">历史</li>
+	<li data-dojo-type="dojox/mobile/TabBarButton" icon="../../images/settings.png">配置</li>
+</ul>
+</div>
+</body>
+</html>

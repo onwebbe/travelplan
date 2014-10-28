@@ -1,0 +1,228 @@
+<div>
+<script>
+require([
+ 		"dijit/registry",
+ 		"dojo/dom-geometry",
+ 		"dojo/window",
+ 		"dojox/mobile/RoundRectList",
+ 		"dojox/mobile/ListItem",
+ 		"dojox/mobile/ScrollablePane",
+ 		"dojox/mobile/ContentPane",
+ 		"dojox/mobile/RoundRect",
+ 		"dojox/mobile/Accordion",
+ 		"dojox/mobile/Button",
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane"
+ 		], 
+ 	function(registry, domgeo, win){
+		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
+		var totalWindowSize = win.getBox();
+		var eachPaneWidth = (totalWindowSize.w-24*2-14*2-20*3)/3;
+		
+		
+		var mainPagePackageInfoTargetInfosPane = dojo.query(".mainPagePackageInfoTargetInfosPane",controller.getCurrentView().domNode)[0];
+		mainPagePackageInfoTargetInfosPane.style.width = eachPaneWidth - 62 +20 +10 +"px";
+		var headerHeight = domgeo.getContentBox(dojo.query("div[data-dojo-type='dojox/mobile/Heading']",controller.getCurrentView().domNode)[0]);
+		var actualHeight = totalWindowSize.h - headerHeight.h - 82+20;
+		var targetListHeight = Math.round(actualHeight*0.6);
+		//console.log("totalHeight:"+totalHeight.h+":headerHeight:"+headerHeight.h+":actualHeight:"+actualHeight);
+		var scrollPane = dojo.query(".packageTargetListScrollPane", controller.getCurrentView().domNode)[0];
+		var box = domgeo.getContentBox(scrollPane);
+		box.h=targetListHeight;
+		domgeo.setContentSize(scrollPane, box);
+		
+		var targetTypeListHeight = actualHeight-targetListHeight-30;
+		var targetTypeScrollPane = dojo.query(".packageTargetTypesScrollPane", controller.getCurrentView().domNode)[0];
+		var targetTypeBox = domgeo.getContentBox(targetTypeScrollPane);
+		targetTypeBox.h=targetTypeListHeight;
+		domgeo.setContentSize(targetTypeScrollPane, targetTypeBox);
+		
+		
+		
+		var mainPagePackageInfoPackageItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
+		mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-40+"px";
+		/* var mainPagePackageInfoPackageItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
+		mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-20+"px";
+		var packageListScrollPane = dojo.query(".packageListScrollPane", controller.getCurrentView().domNode)[0];
+		var pakcageListBox = domgeo.getContentBox(packageListScrollPane);
+		pakcageListBox.h=actualHeight-4-36;
+		domgeo.setContentSize(packageListScrollPane, pakcageListBox); 
+		
+		
+		var packageItemDelIcons = dojo.query("img.mblListItemDeleteIcon", packageListScrollPane);
+		for(i=0;i<packageItemDelIcons.length;i++){
+			var packageItemDelIcon = packageItemDelIcons[i];
+			packageItemDelIcon.style.backgroundColor="#f9a4b1";
+			packageItemDelIcon.style.borderRadius="5px";
+			packageItemDelIcon.style.cursor="pointer";
+		}
+		
+		*/
+		
+		
+		
+		
+		var rightFinalPaneWidth = eachPaneWidth-73 + 30;
+		var investoryPane = dojo.query(".mainPagePackageInfoPackageItemInvestoryPane", controller.getCurrentView().domNode)[0];
+		investoryPane.style.width=rightFinalPaneWidth+"px";
+		
+		var packageInvestoryListScrollPane = dojo.query(".packageInvestoryListScrollPane", controller.getCurrentView().domNode)[0];
+		var packageInvestoryScrollBox = domgeo.getContentBox(packageInvestoryListScrollPane);
+		packageInvestoryScrollBox.h=actualHeight-4-36;;
+		domgeo.setContentSize(packageInvestoryListScrollPane, packageInvestoryScrollBox);
+		
+		initPackagePage();
+	}
+)
+</script>
+<script>
+function initPackagePage(){
+	require([
+	  		"dijit/registry",
+	  		"dojo/dom-geometry",
+	  		"dojo/window",
+	  		"com/onwebbe/dojo/mobile/ItemSelectTooltip",
+	  		"dojox/mobile/RoundRectList",
+	  		"dojox/mobile/ListItem",
+	  		"dojox/mobile/ScrollablePane",
+	  		"dojox/mobile/ContentPane",
+	  		"dojox/mobile/RoundRect",
+	  		"dojox/mobile/Accordion"
+	  		], 
+	  	function(registry, domgeo, win, ItemSelectTooltip){
+			var itemCategorys = dataModule.getPackageItemCategory();
+			var selectedPackageItems = dojo.clone(dataModule.getPackageItemList());
+			var packageListItemCategorys = dojo.clone(itemCategorys);
+			for(i=0;i<packageListItemCategorys.length;i++){
+				var itemCategory = packageListItemCategorys[i];
+				itemCategory.id="PACKAGE-ITEM-"+itemCategory.id;
+			}
+			for(i=0;i<selectedPackageItems.length;i++){
+				var item = selectedPackageItems[i];
+				item.category="PACKAGE-ITEM-"+item.category;
+			}
+			var packageInfoItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
+			var packageInfoItemPaneDijit = registry.byNode(packageInfoItemPane);
+			packageInfoItemPaneDijit.updateData(selectedPackageItems,packageListItemCategorys);
+			
+			
+			/* 
+			
+			var tooltip = new ItemSelectTooltip();
+			tooltip.on("listItemClicked",function(itemData){
+				
+			});
+			//[{"id":"CN","label":"中国","labelE":"China","labelP":"ZhongGuo"}]
+			
+			
+			packageInfoItemPaneDijit.addChild(tooltip);
+			tooltip.updateData(packageListItemCategorys);
+			tooltip.createList();
+			var packageItemSearchEle = dojo.query(".mainPagePackageInfoPackageItemSearch", controller.getCurrentView().domNode)[0];
+			var packageItemSearchDijit = registry.byNode(packageItemSearchEle);
+			packageItemSearchDijit.on("click", function(){
+				tooltip.showTip(packageItemSearchEle);
+			}); */
+			
+		}
+	);
+}
+</script>
+</div>
+<div>
+	<div style="width:100%;height:100%;" data-dojo-type="dojox/mobile/ContentPane" id="travelInformationTravelPackageDetailPane">
+		<div class="mainPagePackageInfoTargetInfosPane" data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;width:33%;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;">
+			Target List
+			<div class="packageTargetListScrollPane" data-dojo-type="dojox/mobile/ScrollablePane" style="margin-top:5px;">
+				<div data-dojo-type="dojox/mobile/RoundRectList" style="margin-top:5px;margin-left: 10px; margin-right: 10px;">
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+					<div data-dojo-type="dojox/mobile/ListItem">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem">b</div>
+				</div>
+			</div>
+			<div data-dojo-type="dojox/mobile/ContentPane" style="margin-top:5px;border-top:1px solid black;">
+			Target Types
+				<div class="packageTargetTypesScrollPane" data-dojo-type="dojox/mobile/ScrollablePane">
+					<div data-dojo-type="dojox/mobile/GridLayout" data-dojo-props='cols:2'>
+						<div data-dojo-type='dojox/mobile/ContentPane'>
+							<div data-dojo-type='dojox/mobile/RoundRect' style="margin-left:10px;margin-right:10px;">
+							asdfasdf</br>asdfasdfasdf
+							</div>
+						</div>
+						
+						<div data-dojo-type='dojox/mobile/ContentPane'>
+							<div data-dojo-type='dojox/mobile/RoundRect' style="margin-left:10px;margin-right:10px;">
+							asdfasdf</br>asdfasdfasdf
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="mainPagePackageInfoPackageItemPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;">
+			<!-- Packages<br/>
+			<div style="margin-top:5px;">
+				<div class="mainPagePackageInfoPackageItemSearch" data-dojo-type="dojox/mobile/Button" style="text-align:center;display:inline-block;width:200px;">分类查询</div>
+				<div data-dojo-type="dojox/mobile/Button" style="text-align:center;display:inline-block;;float:right;">编辑</div>
+			</div>
+			<div class="packageListScrollPane" data-dojo-type="dojox/mobile/ScrollablePane" style="margin-top:5px;">
+				<div>衣物</div>
+				<div data-dojo-type='dojox/mobile/RoundRectList' style="margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;">
+					<div data-dojo-type="dojox/mobile/ListItem" style="background-color:green" data-dojo-props="deleteIcon:'../../images/delete-trash-30.png', rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/notes-30.png'">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem" data-dojo-props="deleteIcon:'../../images/delete-trash-30.png', rightIcon:'../../images/notes-30.png'">b</div>
+				</div>
+				<div>文档</div>
+				<div data-dojo-type='dojox/mobile/RoundRectList' style="margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;">
+					<div data-dojo-type="dojox/mobile/ListItem" style="background-color:green" data-dojo-props="deleteIcon:'../../images/delete-trash-30.png', rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/notes-30.png'">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem" data-dojo-props="deleteIcon:'../../images/delete-trash-30.png', rightIcon:'../../images/notes-30.png'">b</div>
+				</div>
+			</div> -->
+		</div>
+		<div class="mainPagePackageInfoPackageItemInvestoryPane" data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;width:33%;background-color:#e8e8e8;margin-left:5px;margin-right:-10px;margin-bottom:5px;">
+			<div>Packages Investory</div>
+			<div style="margin-top:5px;">
+				<div data-dojo-type="dojox/mobile/Button" style="text-align:center;">分类查询</div>
+			</div>
+			<div class="packageInvestoryListScrollPane" data-dojo-type="dojox/mobile/ScrollablePane" style="margin-top:5px;">
+				<div>衣物</div>
+				<div data-dojo-type='dojox/mobile/RoundRectList' style="margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;">
+					<div data-dojo-type="dojox/mobile/ListItem" style="" data-dojo-props="deleteIcon:'../../images/add.png', rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/questions-30.png'">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem" data-dojo-props="rightIcon:'../../images/questions-30.png'">b</div>
+				</div>
+				<div>文档</div>
+				<div data-dojo-type='dojox/mobile/RoundRectList' style="margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;">
+					<div data-dojo-type="dojox/mobile/ListItem" style="" data-dojo-props="rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/questions-30.png'">a</div>
+					<div data-dojo-type="dojox/mobile/ListItem" data-dojo-props="rightIcon:'../../images/questions-30.png'">b</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

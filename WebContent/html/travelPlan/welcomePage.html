@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Travel Plan</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../../js/dojo/dojox/mobile/deviceTheme.js" data-dojo-config="mblUserAgent: 'iPad'"></script>
+    <!-- http://your.server.com/yourapp.html // automatic detection
+http://your.server.com/yourapp.html?theme=Android // forces android theme
+http://your.server.com/yourapp.html?theme=Holodark // forces holodark theme
+http://your.server.com/yourapp.html?theme=BlackBerry // forces blackberry theme
+http://your.server.com/yourapp.html?theme=Custom // forces custom theme
+http://your.server.com/yourapp.html?theme=iPhone // forces iphone theme
+http://your.server.com/yourapp.html?theme=iPad // forces ipad theme
+http://your.server.com/yourapp.html?theme=WindowsPhone // forces ipad theme -->
+<style type="text/css">
+.blueBackground {
+	background-image: #96b6df;
+	background-color: #96b6df;
+}
+</style>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../../js/dojo/dojo/dojo.js"></script>
+    <!-- dojo application code -->
+    <script>
+    var controller = null;
+    var dataModule = null;
+    // Load the widget parser and mobile base
+    require([
+		"dijit/registry",
+		"com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore",
+        "com/onwebbe/dojo/mobile/MobileDynamicViewController",
+        "dojox/mobile/parser",
+        "dojox/mobile/compat",
+        "dojox/mobile/ScrollableView",
+        "dojox/mobile/Heading",
+        "dojox/mobile/ToolBarButton",
+        "dojox/mobile/TabBar",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/Button",
+        "dojox/mobile/GridLayout",
+        "dojox/mobile/ContentPane",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelPlanGridScrollableView",
+        "dojo/domReady!"
+    ], function (registry, dataM, Controller, parser) {
+        // Parse the page for widgets
+        parser.parse();
+        var welcomePage = registry.byId("welcomePageView");
+        dataModule = dataM;
+        dataModule.retriveData();
+		controller = new Controller(true,true);
+		
+		controller.setCurrentView(welcomePage);
+		registry.byId("welcomePageEditButton").on("click",function(){
+			test(this);
+		});
+		registry.byId("welcomePageHelpButton").on("click",function(){
+			addANewDoc();
+			welcomePage.resize();
+		});
+		registry.byId("testadd").on("click",function(){
+			 //controller.switchView("testTooltipDialog.html");
+			 //controller.switchView("travelMainAdd.html");
+			 controller.switchView("mainPage.html");
+		});
+		backupClassName = dojo.query("[role='heading']",welcomePage.domNode)[0].className;
+		
+		
+		
+    });
+   function switchView(url){
+	   controller.switchView(url);
+   }
+   function addANewDoc(){
+	   var data = {tid:"t1",name:"Singapore",img:"",lastModifyDate:"2014-08-02 11:00:00",createDate:"2014-05-03 11:00:00",stage:"plan",planDate:"2014-10-03",color:"yellow"};
+	   require(["dijit/registry"],function(registry){
+		   var welcomePage = registry.byId("welcomePageView");
+		   welcomePage.addDocument({"data":data});
+	   });
+   }
+    </script>
+</head>
+<body style="visibility:hidden;">
+<script>
+function test(element){
+	if(this.isEdit){
+		this.isEdit = false;
+	}else{
+		this.isEdit = true;
+	}
+	var that = this;
+	require(["dijit/registry"],function(registry){
+		var welcomePage = registry.byId("welcomePageView");
+		var gridElement = dojo.query("[data-dojo-type='dojox/mobile/GridLayout']",welcomePage.domNode)[0];
+		var elements = registry.findWidgets(gridElement);
+		
+		for(i=0;i<elements.length;i++){
+			var tmpElement = registry.byId(elements[i].id);
+			tmpElement.enterEditMode(that.isEdit);
+		}
+		var buttonElement=registry.byId(element.id);
+		if(this.isEdit){
+			buttonElement.set("label","完成");
+			dojo.query("[role='heading']")[0].className = backupClassName+" blueBackground";
+		}else{
+			buttonElement.set("label","编辑");
+			dojo.query("[role='heading']")[0].className = backupClassName;
+		}
+	});
+	
+}
+</script>
+<div id="welcomePageView" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPlanGridScrollableView" data-dojo-props="selected: true">
+	<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top', label: ''">
+		旅行计划
+		<span id="welcomePageEditButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'编辑', moveTo:'help', transition:'none', icon: '../../images/edit30.png'" style="float:right;"></span>
+		<span id="welcomePageHelpButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'帮助', moveTo:'help', transition:'none', icon: '../../images/help.png'" style="float:right;"></span>
+		
+		<span id="welcomePageSettingButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'设置', transition:'none', icon: '../../images/settings30.png'" style="float:left;"></span>
+	</div>
+	<div data-dojo-type="dojox/mobile/GridLayout" data-dojo-props='cols:3' style="">
+		<div id="testadd" data='{"type":"add"}' data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+		</div>
+		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+		</div>
+		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

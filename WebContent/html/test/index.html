@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Mobile Application 1</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../../js/dojo/dojox/mobile/deviceTheme.js"></script>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../../js/dojo/dojo/dojo.js"></script>
+    <!-- dojo application code -->
+    <script>
+        // Load the widget parser and mobile base
+        require([
+            "dojox/mobile/parser",
+            "dojox/mobile/compat",
+            "dojox/mobile/ScrollableView",
+            "dojox/mobile/Heading",
+            "dojox/mobile/ToolBarButton",
+            "dojox/mobile/TabBar",
+            "dojox/mobile/TabBarButton",
+            "dojox/mobile/RoundRect",
+            "dojox/mobile/ListItem",
+            "dojox/mobile/Button",
+            "dojox/mobile/ContentPane",
+            "dojox/mobile/RadioButton",
+            "dojo/domReady!"
+        ], function (parser) {
+            // Parse the page for widgets
+            parser.parse();
+        });
+        /* var loadHTMLFun1 = function(){
+        	require(["dojo/request","dijit/registry","dojox/mobile/parser","dojo/_base/connect"], function(request, registry, parser, connect){
+        		var pane1 = registry.byId("mainScreenContent");
+        		var pane2 = registry.byId("mainScreenContent2");
+                if(!pane2.domNode.innerHTML){ // nothing has been loaded yet
+                    connect.connect(pane2, "onLoad", this, function(){
+                        // onLoad fires when the content is ready
+                        pane1.transitionTo("mainScreenContent2");
+                    });
+                    pane2.set("href", "t1.html");
+                }else{
+                    pane1.transitionTo("mainScreenContent2");
+                }
+        	});
+            
+        } */
+        var loadHTMLFun = function(){
+        	console.log(this);
+        	require(["dojo/request","dijit/registry","dojox/mobile/parser"], function(request, registry, parser){
+        		var pane1 = registry.byId("mainScreenContent");
+        		var bu1 = registry.byId("helpButton");
+        		pane1.destroyDescendants();
+                request("t1.html").then(
+                    function(text){
+                    	 var pane1 = registry.byId("mainScreenContent");
+                    	 var containNode = pane1.containerNode;
+                    	 text = pane1.execScript(text);
+                    	 containNode.innerHTML=text;
+                    	 bu1.transitionTo("t1Function");
+                    },
+                    function(error){
+                        alert("error:"+error);
+                    }
+                );
+            });
+        }
+        
+        
+        var addNewView = function(sourceObj, name){
+        	
+        	require(["dojo/query","dojo/request","dijit/registry","dojox/mobile/parser","dojox/mobile/_ExecScriptMixin","dojox/mobile/ProgressIndicator","dojo/dom-construct","dojox/mobile/common"], function(query, request, registry, parser, ScriptExecutor, progress,domCon,common){
+        		var bu1 = sourceObj;
+        		var pro = progress.getInstance();
+        		pro.start();
+                request("t1.html").then(
+                    function(text){
+                    	
+                    	var importDom = domCon.toDom(text);
+                    	
+                    	var firstScriptNode = query("div",importDom)[0];
+                    	var secondScriptNode = query("div",importDom)[1];
+                    	dojo.body().appendChild(secondScriptNode);
+                    	
+                    	parser.parse(secondScriptNode);
+                    	var innerChild = secondScriptNode.children[0];
+                    	dojo.body().removeChild(secondScriptNode);
+                    	dojo.body().appendChild(innerChild);
+                    	var newAddID = secondScriptNode.id;
+                    	//secondScriptNode.style.display="none";
+                    	var outPanel = dojo.body();
+                    	
+                    	
+                    	new ScriptExecutor().execScript(firstScriptNode.innerHTML);
+                    	
+                    	var currentView = registry.byId("mainFunction");
+                    	currentView.performTransition('#t1Function',1,"slide",null);
+                    	pro.stop();
+                    	
+                    	//
+                    	
+                    },
+                    function(error){
+                        alert("error:"+error);
+                    }
+                );
+            });
+        }
+    </script>
+</head>
+<body style="visibility:hidden;">
+<div id="mainFunction" data-dojo-type="dojox/mobile/ScrollableView" data-dojo-props="selected: true">
+<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top', label: ''">
+      <span id="helpButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'Help', moveTo:'help', transition:'none', icon: '../../images/help.png'" style="float:right;"></span>
+      <img id="addNewFormButton" src="../../images/add.png" style="float:left;margin-left:10px;margin-top:5px;"></img>
+</div>
+
+<div data-dojo-type="dojox/mobile/ContentPane" id="mainScreenContent"></div>
+<li data-dojo-type="dojox/mobile/ListItem" data-dojo-props='moveTo:"#", transition:"slide"' onclick="addNewView(this,'t1Function')">
+   Update View
+</li>
+
+<ul data-dojo-type="dojox/mobile/TabBar" data-dojo-props="center:true" single="false" fixed="bottom">
+	<li data-dojo-type="dojox/mobile/TabBarButton" selected="true" icon="../../images/listing.png"></li>
+	<li data-dojo-type="dojox/mobile/TabBarButton" icon="../../images/history.png"></li>
+	<li data-dojo-type="dojox/mobile/TabBarButton" icon="../../images/settings.png"></li>
+</ul>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+Database for travel Target/Type
+create table TravelTarget(
+targetID varchar(50),
+targetName varchar(100),
+targetTypes varchar(500),
+primary key (targetID)
+)
+
+create table TargetType(
+TargetTypeID varchar(50),
+TargetTypeName varchar(100),
+TargetTypeDescription varchar(500)
+primary key (TargetTypeID)
+)

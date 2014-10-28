@@ -1,0 +1,57 @@
+<div>
+    <script>
+    // Load the widget parser and mobile base
+    require([
+		"dijit/registry",
+        "com/onwebbe/dojo/mobile/MobileDynamicViewController",
+        "dojox/mobile/parser",
+        "dojox/mobile/compat",
+        "dojox/mobile/ScrollableView",
+        "dojox/mobile/Heading",
+        "dojox/mobile/ToolBarButton",
+        "dojox/mobile/TabBar",
+        "dojox/mobile/TabBarButton",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/Button",
+        "dojox/mobile/GridLayout",
+        "dojox/mobile/ContentPane",
+        "dojox/mobile/FixedSplitter",
+        "dojox/mobile/View",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane",
+        "dojox/mobile/ScrollablePane",
+        "dojo/domReady!"
+    ], function (registry, Controller, parser) {
+        // Parse the page for widgets
+    	com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackFromPage();
+        registry.byId("travelMainBackButton").on("click", function(){
+        	controller.back();
+        });
+       
+    });
+   
+    </script>
+</div>
+<div>
+<div id="travelMainAddView" data-dojo-type="dojox/mobile/View" data-dojo-props="">
+	<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top'">
+		<span id="travelMainBackButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'后退', arrow:'left'" style="float:left;"></span>
+		<span id="travelMainConfirmButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'创建', arrow:'right'" style="float:right;"></span>
+	</div>
+	<div data-dojo-type="dojox/mobile/ScrollablePane" data-dojo-props='' style="height:100%;width:70%;display:inline-block;border-right:1px solid black;">
+		<div data-dojo-type="dojox/mobile/GridLayout" data-dojo-props='cols:3'>
+			<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+			</div>
+			<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+			</div>
+		</div>
+	</div>
+	<div data-dojo-type="dojox/mobile/ScrollablePane" style="display:inline-block;float:right;width:29%;">
+		<div data-dojo-type="dojox/mobile/GridLayout" data-dojo-props='cols:1'>
+			<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+			</div>
+			<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane">
+			</div>
+		</div>
+	</div>
+</div>
+</div>

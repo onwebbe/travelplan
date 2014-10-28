@@ -1,0 +1,11 @@
+<project name="dojoMobileWemSample" default="copyfiles" basedir="/">
+  <property name="from" value="/home/cvsinternal/dojoMobileWebSample/"/>
+  <property name="to" value="/home/phonegapapps/dojo1/"/>
+  <target name="copyfiles" description="Copy file to phonegap folder">
+      <copy todir="${to}/www">
+          <fileset dir="${from}/WebContent">
+              <exclude name="**/CVS/**"/>
+          </fileset>
+      </copy>
+  </target>
+</project>

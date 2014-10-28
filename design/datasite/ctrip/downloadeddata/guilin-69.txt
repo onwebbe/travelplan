@@ -1,0 +1,1790 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=1024">
+<title>桂林景点推荐,旅游景点排行,桂林景点大全【携程攻略】 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="桂林景点,桂林景点介绍,桂林旅游景点,桂林景点推荐,桂林著名景点,桂林必游景点,桂林景点排行" /><meta name="description" content="桂林旅游景点大全，携程攻略社区! 告诉您桂林有哪些旅游景点，提供桂林周边旅游景点介绍、图片、点评、热门景点推荐，了解更多著名旅游景点排行信息就来携程旅游攻略。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.ctrip.com/you/sight/Guilin28.html" >
+<link rel="canonical" href="http://you.ctrip.com/sight/guilin28.html?keywords=" />        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/common/css/common.v2.0.css?t=20140822153037" />
+        <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/fed/css/fed.v2.0.css?t=20140822153037" />
+        
+    <link charset="utf-8" type="text/css" rel="stylesheet" href="http://youresource.c-ctrip.com/ttd2/css/city_sight.v2.0.css?t=20140822153037" />
+
+        <!--[if lt IE 9]>      
+            <script type="text/javascript">        
+                if(screen.width >= 1200) {     
+                    var link = document.createElement('link');     
+                    link.rel = "stylesheet";       
+                    link.type="text/css";  
+                    link.href="http://youresource.c-ctrip.com/ttd2/css/media_ttd2.css"; 
+                    document.getElementsByTagName('head')[0].appendChild(link);    
+                }      
+            </script>      
+        <![endif]-->   
+    </head>
+<body>
+    <div>
+<div><input type="hidden" id="CorrelationId" name="CorrelationId" value="2759088746099262392"/><link href="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/css/pageheader.css?temp=20140820" rel="stylesheet" />
+
+    
+    <div class="cui_hd_cont">
+  <div id="cui_hd" class="cui_hd">
+    <div class="ctriplogo"><a href="http://www.ctrip.com" title="携程旅行网">携程旅行网</a></div>
+    <div class="cui_toolkit"><a id="cui_lang_en" class="cui_lang_en" href="http://english.ctrip.com/" rel="nofollow">English</a>
+        |
+        <a class="cui_help" target="_blank" rel="nofollow" href="&#xD;&#xA;          http://kefu.ctrip.com">客服中心
+          </a> |
+        <div class="cui_lang" onmouseover="this.className='cui_lang cui_lang_hover'" onmouseout="this.className='cui_lang'"><b></b><div id="cui_lang_list" class="cui_lang_list"><a class="cui_lang_gb" href="http://www.ctrip.com">简体版</a><a class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a><a class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a><a class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a><a href="http://de.ctrip.com/" rel="nofollow" class="cui_lang_de">Deutsch</a><a href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a><a href="http://es.ctrip.com/" rel="nofollow" class="cui_lang_es">Espa&#xF1;ol</a><a href="http://ru.ctrip.com/" rel="nofollow" class="cui_lang_ru">Русский</a><a href="http://vn.ctrip.com/" rel="nofollow" class="cui_lang_vn">Tiêng Viêt</a></div>
+      </div>
+    </div>
+    <div onmouseover="this.className='cui_tel cui_tel_hover'" onmouseout="this.className='cui_tel'" onclick="this.className='cui_tel cui_tel_hover'" class="cui_tel"><b></b><span class="cui_tel_in" title="免境内长话费">
+              国内：<i>1010-6666</i></span><div class="cui_tel_more"><span class="cui_tel_in">
+                国内（座机拨打）：<i>800-820-6666</i></span><span class="cui_tel_in">
+                香港：<i>852-3610-6666</i></span><span class="cui_tel_in">
+                海外：<i>+86-21-3406-4888</i></span></div>
+    </div>
+    <div id="head_float_level" class="cui_wireless"><a class="cui_wireless_pic">
+                  携程无线<i></i></a></div>
+    <div class="cui_pagehead_pic"></div><i class="cui_ico_new" style="left:622px;"></i></div>
+</div>
+<div id="cui_nav" class="cui_nav_single">
+  <div class="base_nav">
+    <ul id="cui_nav_ul" class="cui_nav">
+      <li id="cui_nav_home"><a title="首页" class="cui_nav_non" id="c_ph_hp" href="&#xD;&#xA;          http://www.ctrip.com"><span>首页</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_hotel"><a id="a_hotelLink" title="酒店" class="cui_nav_hotel cui_nav_has" href="&#xD;&#xA;          http://hotels.ctrip.com"><span>酒店</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_hotel"><a title="国内酒店" id="c_ph_hotel_h" href="&#xD;&#xA;          http://hotels.ctrip.com">国内酒店
+                </a>|<a title="海外酒店" id="c_ph_hoteli_h" href="&#xD;&#xA;          http://hotels.ctrip.com/international/&#xD;&#xA;                  ">海外酒店
+                </a>|<a title="团购" id="c_ph_tuan_h" href="&#xD;&#xA;          http://tuan.ctrip.com">团购
+                </a>|<a title="惠选" id="c_ph_huixuan_h" href="&#xD;&#xA;          http://huixuan.ctrip.com">惠选
+                </a>|<a title="特价超市" id="c_ph_hotsale_h" href="&#xD;&#xA;          http://hotels.ctrip.com/hotsale&#xD;&#xA;        ">特价超市
+                </a>|<a title="机+酒" id="c_ph_taocan_h" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a rel="nofollow" title="途家公寓" id="c_ph_tujia_h" href="&#xD;&#xA;          http://hotels.ctrip.com/tujia/&#xD;&#xA;                  ">途家公寓
+                </a>|<a title="客栈民宿" i="c_ph_inn_h" href="&#xD;&#xA;          http://hotels.ctrip.com/inn/&#xD;&#xA;                  ">客栈民宿<i class="cui_ico_new" style="left:52px;"></i></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                ">酒店订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_vac"><a id="a_vacationLink" title="旅游" class="cui_nav_vac cui_nav_has" href="&#xD;&#xA;          http://vacations.ctrip.com"><span>旅游</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_vacation"><a title="旅游首页" id="c_ph_vacations_v" href="&#xD;&#xA;          http://vacations.ctrip.com">旅游首页
+                </a>|<a title="周末游" id="c_ph_around_v" href="http://you.ctrip.com/around/">周末游
+                </a>|<a title="国内旅游" id="c_ph_vacationsd_v" href="&#xD;&#xA;          http://vacations.ctrip.com/domestic/&#xD;&#xA;                  ">国内旅游
+                </a>|<a title="出境旅游" id="c_ph_ vacationsdi_v" href="&#xD;&#xA;          http://vacations.ctrip.com/international/&#xD;&#xA;                  ">出境旅游
+                </a>|<a title="邮轮" id="c_ph_cruise_v" href="http://cruise.ctrip.com/">邮轮
+                </a>|<a title="自由行" id="c_ph_taocan_v" href="http://taocan.ctrip.com/fh/">自由行
+                </a>|<a title="自驾游" id="c_ph_taocanj_v" href="http://taocan.ctrip.com/sh/">自驾游
+                </a>|<a title="当地玩乐" id="c_ph_huodong_v" href="http://huodong.ctrip.com/">当地玩乐
+                </a>|<a title="游学" id="c_ph_youxue_v" href="&#xD;&#xA;          http://vacations.ctrip.com/youxue&#xD;&#xA;                  ">游学
+                </a>|<a title="签证" id="c_ph_visa_v" href="&#xD;&#xA;          http://vacations.ctrip.com/visa&#xD;&#xA;                  ">签证
+                </a>|<a title="公司旅游" id="c_ph_mice_v" href="&#xD;&#xA;          http://vacations.ctrip.com/mice/abouts&#xD;&#xA;                  ">公司旅游
+                </a>|<a title="顶级游" href="http://www.hhtravel.com/" target="_blank" rel="nofollow" id="c_ph_hh_v">
+                  顶级游
+                </a>|<a title="高尔夫" id="c_ph_golf_v" href="http://fun.ctrip.com/golf/">高尔夫
+                </a>|<a title="保险" id="c_ph_insurance_v" href="&#xD;&#xA;          http://vacations.ctrip.com/insurance&#xD;&#xA;                  ">保险
+                </a>|<a title="特卖汇" id="c_ph_deals_v" href="&#xD;&#xA;          http://vacations.ctrip.com/deals&#xD;&#xA;                  ">特卖汇<span class="cui_ico_hot" style="left:35px;"></span></a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                ">旅游订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_flight"><a id="a_flightLink" title="机票" class="cui_nav_flight cui_nav_has" href="&#xD;&#xA;          http://flights.ctrip.com"><span>机票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div id="div_flight" class="cui_sub_nav"><a title="国内机票" id="c_ph_flights_f" href="&#xD;&#xA;          http://flights.ctrip.com">国内机票
+                </a>|<a title="国际机票" id="c_ph_flightsi_f" href="&#xD;&#xA;          http://flights.ctrip.com/international/&#xD;&#xA;                  ">国际机票
+                </a>|<a title="机+酒" id="c_ph_taocan_f" href="http://taocan.ctrip.com/fh/">机+酒
+                </a>|<a title="航班动态" id="c_ph_flightstoolbox_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/Default.aspx&#xD;&#xA;                  ">航班动态
+                </a>|<a rel="nofollow" title="机场攻略" id="c_ph_airportguides_f" href="&#xD;&#xA;          http://flights.ctrip.com/booking/airport-guides.html&#xD;&#xA;                  ">机场攻略
+                </a>|<a rel="nofollow" title="网上选座" id="c_ph_bookseat_f" href="&#xD;&#xA;          http://flights.ctrip.com/domestic/MyToolBox/BookSeatDemo.aspx&#xD;&#xA;                  ">网上选座
+                </a>|<a rel="nofollow" title="退票改签" id="c_ph_flightorderlist_f" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">退票改签
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                ">机票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_trains"><a title="火车" class="cui_nav_has" id="c_ph_train" href="&#xD;&#xA;          http://trains.ctrip.com"><b></b><span>火车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内火车票" id="c_ph_train_t" href="&#xD;&#xA;          http://trains.ctrip.com">国内火车票
+                </a>|<a title="国际火车票" id="c_ph_traino_t" href="&#xD;&#xA;          http://vacations.ctrip.com/outie&#xD;&#xA;                  ">国际火车票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                ">火车票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination"><a title="汽车" class="cui_nav_non" id="c_ph_bus" href="&#xD;&#xA;          http://Bus.ctrip.com"><span>汽车</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_car"><a href="http://car.ctrip.com/#ctm_ref=chp_var_txt" class="cui_nav_hotel cui_nav_has" id="c_ph_car"><span>用车</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="用车首页" id="c_ph_car_c" href="&#xD;&#xA;          http://car.ctrip.com#ctm_ref=chp_var_txt&#xD;&#xA;                  ">用车首页
+                </a>|<a title="接送机/专车" id="c_ph_daijia_c" href="&#xD;&#xA;          http://car.ctrip.com/daijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">接送机/专车
+                </a>|<a title="海外自驾" id="c_ph_hwzj_c" href="&#xD;&#xA;          http://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">海外自驾
+                </a>|<a title="国内自驾" id="c_ph_zj_c" href="&#xD;&#xA;          http://car.ctrip.com/zijia#ctm_ref=chp_var_txt&#xD;&#xA;                  ">国内自驾
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/CarOrderList.aspx&#xD;&#xA;                ">用车订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_ticket"><a title="门票" class="cui_nav_has" id="c_ph_piao" href="&#xD;&#xA;                http://piao.ctrip.com"><b></b><span>门票</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="国内门票" id="c_ph_piao_p" href="&#xD;&#xA;                    http://piao.ctrip.com/?clear=t&#xD;&#xA;                  ">国内门票
+                </a>|<a title="海外门票" id="c_ph_piaooversea_p" href="&#xD;&#xA;                    http://piao.ctrip.com/oversea&#xD;&#xA;                  ">海外门票
+                </a>|<a title="当地玩乐" id="c_ph_huodong_p" href="http://huodong.ctrip.com">当地玩乐<i class="cui_ico_new" style="left:52px;"></i></a>|<a title="周末游" id="c_ph_around_p" href="http://you.ctrip.com/around#ctm_ref=gs-990123-290801-0-02-M001|0|0">周末游
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/PiaoOrderlist.aspx&#xD;&#xA;                ">门票订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_tuan"><a class="cui_nav_has" id="c_ph_tuan" href="&#xD;&#xA;          http://tuan.ctrip.com"><span>团购</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="团购首页" id="c_ph_tuan_tu" href="&#xD;&#xA;          http://tuan.ctrip.com">团购首页
+                </a>|<a title="酒店客房" id="c_ph_tuanhotel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/hotel/&#xD;&#xA;                  ">酒店客房
+                </a>|<a title="餐饮娱乐" id="c_ph_tuanlife_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/life/&#xD;&#xA;                  ">餐饮娱乐
+                </a>|<a title="旅游出行" id="c_ph_tuantravel_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/travel/&#xD;&#xA;                  ">旅游出行
+                </a>|<a title="门票" id="c_ph_tuanticket_tu" href="&#xD;&#xA;          http://tuan.ctrip.com/ticket/&#xD;&#xA;                  ">门票
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/GroupOrderList.aspx&#xD;&#xA;                ">团购订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01" class="cui_nav_current"><a title="攻略" class="cui_nav_non" id="c_ph_you" href="&#xD;&#xA;          http://you.ctrip.com"><b></b><span>攻略</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination01"><a title="全球购" class="cui_nav_non" id="c_ph_go" href="&#xD;&#xA;          http://g.ctrip.com"><b></b><span>全球购</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_lpk"><a class="cui_nav_has" id="c_ph_lipin" href="&#xD;&#xA;          http://lipin.ctrip.com"><span>金融</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav"><a title="礼品卡" id="c_ph_lipin_l" href="&#xD;&#xA;          http://lipin.ctrip.com">礼品卡
+                </a>|<a title="携程宝" id="c_ph_xcb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/xcb&#xD;&#xA;                  ">携程宝
+                </a>|<a title="程涨宝" id="c_ph_czb_l" href="&#xD;&#xA;          http://lipin.ctrip.com/czb&#xD;&#xA;                  ">程涨宝
+                </a></div><a class="cui_ico_order" rel="nofollow" href="&#xD;&#xA;                  http://my.ctrip.com/Home/Order/TicketOrderList.aspx&#xD;&#xA;                ">礼品卡订单 &gt;
+              </a></div>
+      </li>
+      <li class="sep"></li>
+      <li id="cui_nav_destination03"><a title="商旅" rel="nofollow" class="cui_nav_non" id="c_ph_crptravel" href="&#xD;&#xA;          http://www.ctrip.com/crptravel/&#xD;&#xA;              "><b></b><span>商旅</span></a></li>
+      <li class="sep"></li>
+      <li id="cui_nav_more"><a rel="nofollow" id="a_moreLink" title="更多" class="cui_nav_more cui_nav_has" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;              "><span>更多</span><i class="cui_ico_triangle"></i></a><div class="cui_subnav_wrap">
+          <div class="cui_sub_nav" id="div_more"><a title="积分商城" rel="nofollow" id="c_ph_rewards_m" href="&#xD;&#xA;          http://jifen.ctrip.com/rewards&#xD;&#xA;                  ">积分商城
+                </a>|<a title="合作卡" rel="nofollow" id="c_ph_cards_m" href="&#xD;&#xA;          http://cards.ctrip.com">合作卡
+                </a>|<a title="订餐" rel="nofollow" href="http://dining.ctrip.com" id="c_ph_dining_m">
+                  订餐
+                </a></div>
+        </div>
+      </li>
+      <li id="loginDivLi" class="cui_myctrip">
+        <div id="div_LoginShow" style="display:none;"><span class="cui_myctrip_status" id="usernameId"><a rel="nofollow" id="c_ph_myhome" href="&#xD;&#xA;          http://my.ctrip.com/home/myinfo.aspx&#xD;&#xA;                  ">我的携程
+                </a></span><b></b><a href="" class="cui_links_exit" id="c_ph_logout">退出</a></div>
+        <div id="notLogin"></div>
+        <div class="cui_account" id="notLoginDiv" style="display:none;">
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+        <div class="cui_account" id="loginDiv" style="display:none;">
+          <div id="div_user"></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/FlightOrderList.aspx&#xD;&#xA;                  ">机票订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/HotelOrderList.aspx&#xD;&#xA;                  ">酒店订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/PkgOrderList.aspx&#xD;&#xA;                  ">旅游订单
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Order/RailwayOrderList.aspx&#xD;&#xA;                  ">火车票订单
+                </a><a rel="nofollow" class="gray" href="&#xD;&#xA;          http://my.ctrip.com/home/FastOrder/OrderSearch.aspx&#xD;&#xA;                  ">非会员订单
+                </a></div>
+          <div class="cui_account_info"><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Payment-Base-PaymentPwd/Wallet/View/MyWalletIndex.aspx&#xD;&#xA;                  ">携程钱包
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx&#xD;&#xA;                  ">个人中心
+                </a><a rel="nofollow" href="&#xD;&#xA;          https://sinfo.ctrip.com/Balance/zh-cn/Promocode.aspx&#xD;&#xA;                  ">票券与积分
+                </a><a rel="nofollow" href="&#xD;&#xA;          http://my.ctrip.com/Home/Passenger/PassengerList.aspx&#xD;&#xA;                  ">常用信息
+                </a></div>
+        </div>
+      </li>
+    </ul>
+  </div><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><script type="text/javascript">
+(function () {
+;window.replace=function(){return ''};(function(){var D=document,$=function(id){return D.getElementById(id)},st=null,st2=null,lazyTime=0,lis=[$("cui_nav_hotel"),$("cui_nav_car"),$("cui_nav_vac"),$("cui_nav_flight"),$("cui_nav_more"),$("cui_nav_trains"),$("cui_nav_tuan"),$("cui_nav_lpk"),$("cui_nav_ticket")],E={onmouseenter:function(o,f){if(D.all){o.onmouseenter=f
+}else{o.onmouseover=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},onmouseout:function(o,f){if(D.all){o.onmouseleave=f}else{o.onmouseout=function(e){(e.relatedTarget==null?f():(!(this===e.relatedTarget||this.compareDocumentPosition(e.relatedTarget)==20)&&f()))
+}}},addEvent:function(el,type,handler){if(el.addEventListener){el.addEventListener(type,handler,false)
+}else{if(el.attachEvent){el.attachEvent("on"+type,handler)}else{el["on"+type]=handler}}}},F={setTime:function(){E.onmouseenter($("cui_nav"),function(){setTimeout(function(){lazyTime=150
+},30)});E.onmouseout($("cui_nav"),function(){lazyTime=0})},initEvent:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;E.onmouseenter(lis[j],function(){F.interFn(lis[j])});E.onmouseout(lis[j],function(){F.outerFn(lis[j])
+})})(i)}},reset:function(){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{lis[i].className=""}}},padReset:function(j){for(var i=0,len=lis.length;i<len;i++){if(lis[i].className.indexOf("cui_nav_current")>-1){lis[i].className="cui_nav_current"
+}else{if(i!==j){lis[i].className=""}}}},interFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st2!=null){clearTimeout(st2);st2=null}st=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){}else{obj.className="cui_nav_o";
+node.className="cui_nav_current cui_nav_unhover"}},lazyTime)},outerFn:function(obj){var nodes=document.getElementById("cui_nav").getElementsByTagName("li");
+var node="";for(var i=0;i<nodes.length;i++){if(nodes[i].className.match((/cui_nav_current/))){var node=nodes[i]
+}}if(st!=null){clearTimeout(st);st=null}st2=setTimeout(function(){F.reset();if(obj.className.indexOf("cui_nav_current")>-1){obj.className="cui_nav_current"
+}else{obj.className="";node.className="cui_nav_current"}},250)},initMobile:function(){for(var i=0,len=lis.length;
+i<len;i++){(function(){var j=i;var oneLevel=lis[j].getElementsByTagName("A")[0];oneLevel.href="###";oneLevel.onmousedown=function(){F.padReset(j);
+if(lis[j].className.indexOf("cui_nav_current")===-1){if(lis[j].className.indexOf("cui_nav_o")>-1){lis[j].className="";
+document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";oneLevel.style.visibility="hidden";
+setTimeout(function(){oneLevel.style.visibility="visible"},10)}else{lis[j].className="cui_nav_o";document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current";
+document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover"}}}})(i)}},contains:function(target){for(var i=0,len=lis.length;
+i<len;i++){if(lis[i].compareDocumentPosition(target)-19>0){return true}}return false}};if($("headStyleId")){$("headStyleId").parentNode.removeChild($("headStyleId"))
+}if((/ip(hone|od)|ipad/i).test(navigator.userAgent)){F.initMobile();E.addEvent(D.body,"click",function(e){var target=e.target||e.srcElement;
+if(!F.contains(target)){F.reset()}})}else{F.setTime();F.initEvent()}})();
+})();
+</script></div>
+<div class="gs-header cf">
+    <div class="content">
+        <div class="gs-nav">
+            <ul>
+                <li id="gs_nav_0"><a href="/"><i class="icon_home"></i></a>
+                </li>
+                <li id="gs_nav_1"  class="active"> <a href="/place/">目的地</a></li>
+                <li id="gs_nav_3"> <a href="/travels/">游记</a></li>
+                <li id="gs_nav_4" > <a href="/asks/">问答</a></li>
+                <li id="gs_nav_5" > <a href="/events/">结伴</a></li>
+                <li id="gs_nav_7"> <a href="/around/">周末游</a></li>
+                <li id="gs_nav_9"> <a href="http://vacations.ctrip.com/deals">特卖汇</a></li>
+                <li id="gs_nav_8"> <a href="http://top.ctrip.com">口碑榜</a></li>
+                <li id="gs_head_myhomepage" class="last"><a rel="nofollow" href="/members/">我的主页</a></li>
+            </ul>
+        </div>
+        <div class="gs-search-2">
+            <input type="text" placeholder="搜索城市、景点、游记、问答、用户" id="gsSearch" autocomplete="off" class="sgtgray">
+            <button class="btn-search" type="button"></button> 
+            <div id="gsNotice" class="gs-notice">
+                <a class="ico_linkpbox" href="#"></a>
+                <div class="glistbox">
+                    <span class="npoptip-arrow"></span>
+                    <div class="ulouter">
+                        <ul class="populist">
+                            <li>
+                                <a href="/dianping/">写点评</a>
+                            </li>
+                            <li>
+                                <a href="/add-travel/guide.html">写游记</a>
+                            </li>
+                            <li>
+                                <a href="/asks/newquestion.html">提问题</a>
+                            </li>
+                            <li>
+                                <a href="/events/selectindentity">发结伴</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var getHeadOtherInfo = function () {
+        $.ajax({
+            url: '/Destinationsite/Shared/GetHeadeOtherInfo',
+            type: "POST",
+            async: true,
+            data: {},
+            datatype: "json",
+            success: function (responseText) {
+                if (responseText.IsMerchantUser) {
+                    $('#gs_head_myhomepage a').text('商家主页');
+                }
+                $('#gs_head_myhomepage a').attr('href', responseText.MySiteUrl);
+                if (responseText.ShowUserMsgCount != "") {
+                    //var msg = "<span class=\"tipsbox_outer\"><a href=\"/members/message/receivelist.aspx\" class=\"gstips_supcount\" title=\"消息(" + responseText.ShowUserMsgCount + ")\" rel=\"nofollow\">" + responseText.ShowUserMsgCount + "</a></span>";
+                    var msg = "<span class=\"tipsbox_outer\">" + responseText.ShowUserMsgCount + "</span>";
+                    $('#gs_head_myhomepage').append(msg);
+                }
+            },
+            error: function () {
+                
+            }
+        });
+    };
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(getHeadOtherInfo);
+</script>
+
+    </div>
+    
+<div class="content cf">
+    <input type="hidden" id="page_id" value="290546" />
+    <div class="breadbar cf">
+                <a href="/" title="旅游攻略社区">旅游攻略社区</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place" title="目的地">目的地</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/china110000.html" title="中国">中国</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/guangxi100052.html" title="广西">广西</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                <a href="/place/guilin28.html" title="桂林">桂林</a>
+                <i>&nbsp;&gt;&nbsp;</i>
+                    景点
+    </div>
+
+    <div class="dest_toptitle">
+        <div class="cf">
+            <div class="f_left">
+                <h1><a href="/place/guilin28.html" title="桂林">桂林</a></h1>
+                <p>Guilin</p>
+            </div>
+<div class="f_right">
+    <ul>
+        <li id="wentClick" class="des_icon_been"><a id="wentClickID" rel="nofollow" data_type="Place" dataresource-cat="28" data-cat="28" class="a_popup_login"  href="javascript:void(0)"></a>
+            <p>
+                <span class="textcolor" id="spanwentId">去过</span><span><em id="emWentValueID">0</em></span></p>
+        </li>
+        <li id="wantClick" class="des_icon_want">
+            <a id="wantClickID" data_type="Place" class="a_popup_login"  dataresource-cat="28" data-cat="28" rel="nofollow" href="javascript:void(0)" ></a>
+            <p>
+                <span class="textcolor" id="spanwantId">想去</span><span><em id="emWantValueID">0</em></span></p>
+        </li>
+    </ul>
+</div>
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    /*
+    *想去的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.wantRequestFn = function (param) {
+        ClickWant();
+    };
+    /**
+    *去过的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+    INTERFACE.beenRequestFn = function (param) {
+         ClickWent();
+    };
+</script>        </div>
+        <div class="sec_line cf">
+
+    <div class="weather gs_tianqi_mini">
+        <span  id="WeaTher">
+                <i class="ws_icon ws_icon3"></i>25℃/32℃<span class="arrow"></span>
+        </span>
+        <span class="f_line">|</span>
+    </div>
+    <div style="display: none;" class="hoverweather">
+        <ul>
+            <li><span class="daytext">今天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon3"></i>25℃/32℃</div>
+                <span class="arrow"></span></li>
+            <li><span class="daytext">明天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon1"></i>25℃/31℃</div>
+            </li>
+            <li><span class="daytext">后天</span>
+                <div class="weather gs_tianqi_mini">    <i class="ws_icon ws_icon1"></i>25℃/34℃</div>
+            </li>
+        </ul>
+    </div>
+            <p class="ellipsis">奇峰、奇洞、美石，泛舟漓江上，骑游十里画廊，走进桂林，无异于走进一幅秀丽的山水画卷。</p>
+        </div>
+    </div>
+ <input type="hidden" id="putDistrictId" value="28" /> 
+</div>
+<!--悬顶标题-->
+
+<div class="ttd_topnav_box">
+    <div class="ttd_topnav">
+        <div class="innerbox">
+            <ul class="cf">
+                <li>    <a href="/place/guilin28.html">主页</a> 
+</li>
+                <li>    <a href="/summary/guilin28.html">指南</a> 
+</li>
+                <li>    <a href="/traffic/guilin28.html">交通</a> 
+</li>
+                <li class="current">    <a href="/sight/guilin28.html">景点</a> 
+</li>
+<li>    <a href="/hotels/guilin28.html">住宿</a> 
+        <span class="gs_newicon"></span>
+</li>                <li>    <a href="/restaurant/guilin28.html">美食</a> 
+</li>
+                <li>    <a href="/shopping/guilin28.html">购物</a> 
+</li>
+                <li>    <a href="/resort/guilin28.html">娱乐</a> 
+</li>
+                <li>    <a href="/travels/guilin28.html">游记</a> 
+</li>
+                <li>    <a href="/journeys/guilin28.html">行程</a> 
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="ttd2_background">
+    <div class="content cf">
+        <div class="des_narrow f_left">
+            <!--排行榜-->
+    <div class="city_xclist">
+        <h3>携程旅行口碑榜2014</h3>
+        <ul>
+                 <li><a target="_blank" href="http://top.ctrip.com/qinziyou/all">最佳亲子游目的地</a>第9名</li>
+        </ul>
+    </div>
+        
+            <!--侧边下载二维码&攻略轮播-->
+
+
+<div class="app_entrance">
+    <!--APP下载-->
+    <div class="appbox">
+        <h3><a target="_blank" href="http://app.ctrip.com/">下载携程旅行</a><span class="tips">最新</span></h3>
+        <ul>
+            <li>吃喝玩乐住旅行指引</li>
+            <li>口袋中的旅行利器</li>
+        </ul>
+    </div>
+        <div class="carousel t_guide" id="myCarousel">
+            <!--目的地攻略-->
+            <ol class="carousel-indicators" style="margin-left: -37.5px; display: block;">
+                        <li data-target="#myCarousel" data-slide-to=0 class="active"></li>
+            </ol>
+            <!--游友攻略-->
+            <div class="carousel-inner">
+                            <div class="item active">
+                                <div class="style_box1">
+                                    <h4> <a target="_blank" class="f_right" href="/guides/" target="_blank">更多<i class="gs2_more_arror"></i></a> 旅游攻略 </h4>
+                                    <a target="_blank" href="/guides/guilin28.html" class="guidepic">
+                                        <img src="http://youresource.c-ctrip.com/common/img/1x1.gif" data-original="http://gonglue.c-ctrip.com/district/Guilin/cover210300.jpg"> 
+                                    </a>
+                                    <dl class="info">
+                                        <dt class="ellipsis"><a target="_blank" href="/guides/guilin28.html">桂林 攻略</a></dt>
+                                        <dd>更新：2014-07-28</dd>
+                                        <dd>下载：2458599</dd>
+                                        <dd> <a target="_blank" href="/guides/guilin28.html" class="b_orange_s" target="_blank"><span>免费下载</span></a> </dd>
+                                    </dl>
+                                </div>
+                            </div>
+            </div>
+        </div>
+</div><div class="c_vacation" id="destVacationProductId" style="display: none">
+</div>
+
+<script type="text/javascript">
+    function ShowVacationAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetVacationsAdView',
+            type: "POST",
+            async: true,
+            dataType: 'html',
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText != "") {
+                    $('#destVacationProductId').show();
+                    $('#destVacationProductId').html($('#destVacationProductId').html() + responseText);
+                    ReplaceVacationUrl();
+                }
+            },
+            error: function () {
+                $('#destVacationProductId').hide();
+            }
+        });
+    }
+    //设置特价度假统计链接锚点
+    function ReplaceVacationUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_07_vac_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_vacationl]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script><div class="c_hotel" style="display: none" id="destHotelID">
+</div>
+<script type="text/javascript">
+    function ShowspecialHotelAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetSpecialHotelAdView',
+            type: "POST",
+            async: true,
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "")
+                    $('#destHotelID').hide();
+                else {
+                    $('#destHotelID').show();
+                    $('#destHotelID').html(responseText);
+                    ReplaceHotelUrl();
+                }
+            },
+            error: function () {
+                $('#destHotelID').hide();
+            }
+        });
+    }
+    //设置酒店统计链接锚点
+    function ReplaceHotelUrl() {
+        var pageid = $("#page_id").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_ttd_" + pageid + "_08_hod_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_hotel]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+
+            });
+        }
+    }
+</script>
+            <!--侧边特价机票--> 
+     <!--侧边tab表单切换-->
+           <div id="cateSTab" class="catetab_title">
+               <ul>
+                   <li class="active"><a href="#cate_hotel">酒店</a></li>
+                   <li><a href="#cate_flight">机票</a></li>
+                   <li><a href="#cate_travel">旅游</a></li>
+                   <li><a href="#cate_ticket">门票</a></li>
+                   <li class="cate_train"><a href="#cate_train">火车票</a></li>
+               </ul>
+           </div>
+<div class="catetab_content">
+    <div class="tabitem active" id="cate_hotel">
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="hotelTo" value="桂林"  data="Guilin|桂林|33"/></div>
+    	<div class="sformline"><label>入住日期：</label><input type="text" class="sformtext" id="hotelStartDate" readonly="true"/></div>
+        <div class="sformline"><label>退房日期：</label><input type="text" class="sformtext" id="hotelEndDate" readonly="true"/></div>
+            <div class="sformline"><label>酒店级别：</label><div class="gsn-select sformselect">
+                                                           <div class="select-txt" data-value="0">不限</div>
+                                                           <ul style="display: none;" class="selectlist undis">
+                                                               <li><a data-value="0" href="javascript:;">不限</a></li>
+                                                               <li><a data-value="5" href="javascript:;">五星级/豪华</a></li>
+                                                               <li><a data-value="4" href="javascript:;">四星级/高档</a></li>
+                                                               <li><a data-value="3" href="javascript:;">三星级/舒适</a></li>
+                                                               <li><a data-value="2" href="javascript:;">二星级以下/经济</a></li>
+                                                           </ul>
+                                                           <span class="arrow"></span> </div></div>
+    	<div class="sformline"><label>关键词：</label><input type="text" class="sformtext" id="hotelKeyword" placeholder="酒店名/地标/商圈" /></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索酒店</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_flight">
+    	<div class="sformline"><label>航程类型：</label><span class="radiobox" for="flightOneWay"><input type="radio" id="flightOneWay" checked="checked" value="0" name="flyType"/>单程</span><span class="radiobox"><input type="radio" id="flightBackForth" value="1" name="flyType"/>往返</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="flightFrom" value="上海"  data="|上海|SHA" /></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="flightTo" value="桂林"  data="|桂林|KWL" /></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="flightStartDate" readonly="true"/></div>
+    	<div class="sformline gray"><label>返回日期：</label><input type="text" class="sformtext" id="flightEndDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索机票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+    <div class="tabitem" id="cate_travel">
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext" readonly="readonly" id="travelFrom" value="上海" data="2"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="travelTo" value="桂林" data="33"/></div>
+    	<!--div class="sformline"><label>类型：</label><ul class="checkul">
+    	    <li><span class="radiobox"><input type="radio" checked="checked" value="0"/>团队游</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="1"/>半自助</span></li>
+    	    <li><span class="radiobox"><input type="radio" value="2"/>自由行</span></li>
+    	</ul></div-->
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索旅游</span></a></div>
+    </div>
+    <div class="tabitem" id="cate_ticket">
+    	<div class="sformline"><label>景点名称：</label><input type="text" class="sformtext" placeholder="请输入景点名称" id="ticketText"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索门票</span></a><!--p class="errtext">请输入景点名称报错文字</p--></div>
+      
+    </div>
+    <div class="tabitem" id="cate_train">
+    	<div class="sformline"><label>类型：</label><span class="radiobox"><input type="radio" id="trainOneWay" checked="checked"/>单程</span></div>
+    	<div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="trainFrom" value="上海" data="|上海|Shanghai"/></div>
+    	<div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="trainTo" value="桂林" data="|桂林|Guilin"/></div>
+    	<div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="trainStartDate" readonly="true"/></div>
+    	<div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索火车票</span></a></div>
+        <div class="changeinput">
+        	<a href="javascript:;">换</a>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    var INTERFACE = window.INTERFACE || {};
+    var district = 28;
+    INTERFACE.isChina = true;
+            //点击搜索酒店 触发的方法
+    INTERFACE.searchHotelFn = function(param) {
+        var cityPY = param.destinationData.split('|')[0];
+        var cityId = param.destinationData.split('|')[2];
+        // var kw = (param.keyword == "" ? "" : ("k1" + param.keyword));
+        var kw = (((!param.hotelLevel) || (param.hotelLevel == "0") || (param.hotelLevel == "")) ? "" : ("star" + param.hotelLevel))
+            + (param.keyword == "" ? "" : (((INTERFACE.isChina) ? "k1" : "k2") + param.keyword));
+        var urlhead = "";
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if(INTERFACE.isChina) {
+            gnw = "hod";
+            urlhead = "http://hotels.ctrip.com/hotel/";
+        }else {
+            gnw = "hoi";
+            urlhead = "http://hotels.ctrip.com/international/";
+        }
+        var url = urlhead + cityPY + cityId
+            + (kw == "" ? "" : ("/" + kw))
+                + "/?checkin=" + param.startDate
+                    + "&checkout=" + param.endDate;
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        window.open(url + ctm, "HotelSearch" + (new Date()).getMilliseconds());
+    };
+            //点击搜索机票 触发的方法
+    INTERFACE.searchFlightFn = function(param) {
+        var type = param.type;
+        var from = param.fromData.split('|')[2];
+        var to = param.destinationData.split('|')[2];
+        var startTime = param.startDate;
+        var endTime = param.endDate;
+        var pageid = $("#page_id").val();
+        var gnw = "";
+        if (true) {
+            gnw = "fld";
+        } else {
+            gnw = "fli";
+        }
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+        if (from != undefined && from != "" && to != undefined && to != "" && startTime != "" && startTime != null) {
+            if (type == 0) {
+
+                if (true) {
+                    var diff = GetDateDiff(startTime);
+                    var url0 = "http://flights.ctrip.com/booking/" + from + "-" + to + "-day-" + 1 + ".html?SortByPrice=true&ddate=" + startTime;
+                    window.open(url0 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=S&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            } else if (type == 1 && endTime != null && endTime != "") {
+                if (true) {
+                    var url1 = "http://flights.ctrip.com/booking/" + from + "-" + to + "---d-adu-1/?ddate1=" + startTime + "&ddate2=" + endTime;
+                    window.open(url1 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                } else {
+                    var url00 = "http://flights.ctrip.com/international/FlightResult.aspx?flighttype=D&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "&&relrdate=" + endTime + "";
+                    window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                }
+            }
+        }
+    };
+            //点击搜索旅游 触发的方法
+    INTERFACE.searchTravelFn = function(param) {
+        form = submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: {
+                "searchFrom": "http://you.ctrip.com/",
+                "searchID": "0",
+                "searchText": param.destination,
+                "searchType": "U",
+                "searchValue": param.destination,
+                "startCity": param.fromData
+            }
+        });
+    };
+            //点击搜索门票 触发的方法
+    INTERFACE.searchTicketFn = function(param) {
+        var saleCity = $("#tab_vacationStartCity").val(); //出发城市
+        var param = {
+            "SearchFrom": "http://vacations.ctrip.com/tickets",
+            "SearchID": "0",
+            "SearchText": param.name,
+            "SearchType": "U",
+            "SearchValue": param.name,
+            "StartCity": saleCity
+        };
+
+        submitForm({
+            action: "http://vacations.ctrip.com/booking/IndexSearch.ashx",
+            method: "post",
+            target: "_blank",
+            charset: "gb2312",
+            param: param
+        });
+
+    };
+            //点击搜索火车票 触发的方法
+    INTERFACE.searchTrainFn = function(param) {
+        var from = param.fromData.split('|')[2];
+        var fromCn = param.fromData.split('|')[1];
+        var to = param.destinationData.split('|')[2];
+        var toCn = param.destinationData.split('|')[1];
+        var startTime = param.startDate;
+        var pageid = $("#page_id").val();
+        var ctm = "#ctm_ref=gs_ttd_" + pageid + "_01_trd_3_" + district + "_undefined";
+        var url = "http://trains.ctrip.com/TrainBooking/Search.aspx?from=" + from
+            + "&to=" + to
+                + "&day=" + (GetDateDiff(startTime) + 1)
+                    + "&fromCn=" + escape(fromCn)
+                        + "&toCn=" + escape(toCn);
+        window.open(url + ctm, "TrainSearch" + (new Date()).getMilliseconds());
+    };
+</script>
+            <!--侧边特价机票-->
+<div id="specialFlightId" class="special_ticket" style="display:none">
+	
+</div>
+<input type="hidden"  id="startCityId" name="startCityId" value="2" />
+<input type="hidden"  id="endCityId" name="endCityId" value="28" />
+<input type="hidden"  id="dCode" name="dCode" value="" />
+<input type="hidden"  id="aCode" name="aCode" value="" />
+<input type="hidden"  id="inChina" name="inChina" value="True" />
+<input type="hidden"  id="ctmInfo" name="ctmInfo" value="#ctm_ref=gs_ttd_{0}_02_fld_2_28_undefined" />
+<script type="text/javascript">
+    var index = 0;
+//下一个标识
+
+    function GetSpecialFlightView   () {
+        var dCode = $("#dCode").val();//出发三字码
+        var aCode = $("#aCode").val(); //到达三字码
+
+        var startCity = $("#startCityId").val();
+        var endCity = $("#endCityId").val(); 
+        
+        var inChina = $("#inChina").val(); //是否国内
+
+        if (startCity != "" && endCity != "") {
+            $.ajax({
+                url: '/Destinationsite/TTDSecond/SharedView/AjaxGetSpecialFlight',
+                type: "POST",
+                async: true,
+                dataType: "text",
+                data: { dCode: dCode, aCode: aCode, inChina: inChina, startCity: startCity, endCity: endCity, index: index, rank: Math.random() },
+                success: function (responseText) {
+
+                    if (responseText == "") {
+                        $('#specialFlightId').hide();
+                    } else {
+                        $('#specialFlightId').show();
+                        $('#specialFlightId').html(responseText);
+                        ReplaceFlightUrl();
+                    }
+                },
+                error: function () {
+                    $('#specialFlightId').hide();
+                }
+            });
+        }
+
+    }
+//下一批7天 
+    function NextSpecialFlight() {
+        index += 1;
+       
+        if (index <= 4) {
+            GetSpecialFlightView();
+      } 
+//        else {
+//            $("#NextRightId").addClass("disable_r");
+//        }
+    }
+
+    function UpSpecialFlight() {
+        index = index - 1;
+        GetSpecialFlightView();
+
+    }
+    //设置国内机票统计链接锚点
+    function ReplaceFlightUrl() {
+        var pageid = $("#page_id").val();
+        if (pageid != "") {
+            var ctmInfo = $("#ctmInfo").val().replace("{0}", pageid);
+            $("a[data-id=ctm_gs_gnjp]").each(function (i) {
+                var str = $(this).attr("href") + ctmInfo;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script>        
+            <!--侧边栏广告位-->
+            <!--侧边结伴活动-->
+    <!--结伴-->
+    <div class="c_event">
+       <div class="narrow_title cf">
+            <h3>结伴活动</h3>
+            <span><a target="_blank" href="/events">我要结伴</a>&nbsp;|&nbsp; <a target="_blank" href="/events/guilin28c28-p1#suggestCity">更多<i class="gs2_more_arror"></i></a> </span>
+        </div>
+        <ul>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/guilin28/2306799.html">
+                    
+                    <img width="60" height="60" src=""  data-id="28"  writing="6081941" title="桂林冠岩、杨堤至兴坪游山玩水漓江竹筏漂流拼团大本营" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/guilin28/2306799.html"  title="桂林冠岩、杨堤至兴坪游山玩水漓江竹筏漂流拼团大本营">桂林冠岩、杨堤至兴坪游山玩水漓江竹筏漂流拼团大本营</a></dt>
+                        <dd>桂林</dd>
+                        <dd>09-03 - 12-31</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/guilin28/2384172.html">
+                    
+                    <img width="60" height="60" src=""  data-id="28"  writing="0" title="2014年8月30日 3日游 桂林 求结伴" class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/guilin28/2384172.html"  title="2014年8月30日 3日游 桂林 求结伴">2014年8月30日 3日游 桂林 求结伴</a></dt>
+                        <dd>桂林</dd>
+                        <dd>08-30 - 09-02</dd>
+                    </dl>
+                </li>
+                <li>
+                    <a class="eventpic" name="eventDistrict_img" target="_blank" href="/events/guilin28/2379969.html">
+                    
+                    <img width="60" height="60" src=""  data-id="28"  writing="0" title="8月19日  5日游  求结伴  " class="f_left" alt="" />
+                    </a>
+                    <dl>
+                        <dt class="ellipsis"><a target="_blank" href="/events/guilin28/2379969.html"  title="8月19日  5日游  求结伴  ">8月19日  5日游  求结伴  </a></dt>
+                        <dd>桂林</dd>
+                        <dd>08-19 - 08-24</dd>
+                    </dl>
+                </li>
+        </ul>
+    </div>
+  <script type="text/javascript">
+      function OnloadEventDistrictimg() {
+          var sid = "";
+          var district = "";
+          $("a[name='eventDistrict_img'] img").each(function () {
+              var imgid = $(this).attr("writing");
+              var districtid = $(this).attr("data-id");
+              sid += "," + imgid;
+              district += "," + districtid;
+          });
+          if (sid != "" || district != "") {
+
+              $.ajax({
+                  url: "/destinationsite/SharedPage/GetDistrictPhoto",
+                  type: "post",
+                  async: true,
+                  data: { "writing": sid, "district": district, "width": "60", "height": "60" },
+                  success: function (responseText) {
+                      $.each(responseText, function (i, item) {
+                          if (item && item.ImgageUrl != "") {
+                              if (item.IsDistrict == 1) {
+                                  $("a[name='eventDistrict_img'] img[data-id='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              } else {
+                                  $("a[name='eventDistrict_img'] img[writing='" + item.ImageId + "']").attr("src", item.ImgageUrl);
+                              }
+
+                          }
+                      });
+                  },
+                  error: function () {
+                  }
+              });
+          }
+      }
+      var asynfunc = window.asynfunc || [];
+      asynfunc.push(OnloadEventDistrictimg);
+    </script>
+
+        
+            <!--侧边问答-->
+    <div class="c_ques">
+        <div class="narrow_title cf">
+            <h3>当地问答</h3>
+            <span><a target="_blank" href="/asks/newquestion.html">我要提问</a>&emsp;|&emsp; <a target="_blank" href="/asks/guilin28.html">更多<i class="gs2_more_arror"></i></a></span>
+        </div>
+        <ul>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361786.html" target="_blank" class="ellipsis" title="银子岩旅游的着装要求">银子岩旅游的着装要求</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361726.html" target="_blank" class="ellipsis" title="#桂林老地方国际青年旅舍#请问从桂林火车南站到你们那儿怎么走">#桂林老地方国际青年旅舍#请问从桂林火车南站到你们那儿怎么走</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361696.html" target="_blank" class="ellipsis" title="#桂林有间客栈#离漓江多远呢？">#桂林有间客栈#离漓江多远呢？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361295.html" target="_blank" class="ellipsis" title="#阳朔菩提花喆啡酒店#请问是铂涛酒店集团的品牌和管理吗？">#阳朔菩提花喆啡酒店#请问是铂涛酒店集团的品牌和管理吗？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361248.html" target="_blank" class="ellipsis" title="四天假这样安排合理吗？day1桂林市day2龙脊梯田day3阳朔，路线不想太奔波友友们给点宝贵意见">四天假这样安排合理吗？day1桂林市day2龙脊梯田day3阳朔，路线不想太奔波友友们给点宝贵意见</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361198.html" target="_blank" class="ellipsis" title="#阳朔陶然庭主题客栈#网络信号不好解决了吗？">#阳朔陶然庭主题客栈#网络信号不好解决了吗？</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361118.html" target="_blank" class="ellipsis" title="#晶鑫商务宾馆（桂林中山店）#房间有WIFI吗">#晶鑫商务宾馆（桂林中山店）#房间有WIFI吗</a>
+                </li>
+                <li>
+                    <i class="comment_12"></i><a href="/asks/guilin28/1361043.html" target="_blank" class="ellipsis" title="#阳朔当当客栈#两个大人可以带一个12岁的小孩入住标间么？请速回复">#阳朔当当客栈#两个大人可以带一个12岁的小孩入住标间么？请速回复</a>
+                </li>
+        </ul>
+
+            <div class="searchwrap">
+                
+                <p><input type="text" class="s_input" placeholder="输入您的问题" id="textAskSearch"/><a href="javascript:;" class="b_blue_m" id="btnAskSearch"><span>搜索</span></a></p>
+
+                    <p class="ques_tips"><span>热门问答：</span>
+                            <a target="_blank" href="/asks/guilin28-t2.html">住宿</a>
+                            <a target="_blank" href="/asks/guilin28-t105341.html">酒店</a>
+                            <a target="_blank" href="/asks/guilin28-yangshuo702.html">阳朔</a>
+                            <a target="_blank" href="/asks/guilin28-t557.html">孩子</a>
+                            <a target="_blank" href="/asks/guilin28-t597.html">免费</a>
+                            <a target="_blank" href="/asks/guilin28-t106410.html">服务</a>
+                            <a target="_blank" href="/asks/guilin28-t603.html">旅行</a>
+                            <a target="_blank" href="/asks/guilin28-t7.html">自驾</a>
+                            <a target="_blank" href="/asks/guilin28-j2888.html">漓江</a>
+                            <a target="_blank" href="/asks/guilin28-t525.html">行程</a>
+                    </p>
+            </div>
+    </div>
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {}; INTERFACE.askSearchUrl = "http://you.ctrip.com/asks/search/?keywords=";
+    </script>
+        
+            <!--侧边目的地专家-->
+
+<div class="c_expert" id="destexpertId" style="display: none">
+  
+</div>
+
+<input type="hidden"  id="txtDistrictId" value="28" />
+
+<script type="text/javascript">
+    
+    function GetExpertPartialTTDView() {
+     
+        var district = $('#txtDistrictId').val();
+
+        $.ajax({
+            url: '/Destinationsite/TTDSecond/SharedView/PostDistrictExertView',
+            type: "POST",
+            async: true,
+            dataType: "text",
+            data: { district: district, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "") {
+                    $('#destexpertId').hide();
+                }
+                else {
+                    $('#destexpertId').show();
+                    $('#destexpertId').html(responseText);
+                }
+            },
+            error: function () {
+                $('#destexpertId').hide();
+            }
+        });
+
+    }
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(GetExpertPartialTTDView);
+</script>        
+            <!--侧边栏广告位-->
+        </div>
+        <div class="des_wide f_right">
+            
+<div class="normalbox channelspace">
+        <div class="normaltitle cf"><h1>桂林景点速览</h1></div>
+        <div id="infoTextAll" class="channel_info">
+            <div class="textbox"><p><p>桂林属典型的&ldquo;喀斯特&rdquo;岩溶地貌，遍布全境的石灰岩经亿万年的风化浸蚀，形成了千峰环立、一水抱城、洞奇石美的独特景观，世人赞誉其&ldquo;桂林山水甲天下&rdquo;。其中最具有代表性的景点有：象鼻山、伏波山、南溪山、尧山、独秀峰、七星岩、芦笛岩、甑皮岩、冠岩、明代王城、靖江皇陵、榕湖、杉湖、木龙湖等。其他县区也有数不胜数的美景，龙脊梯田、兴安灵渠、猫儿山、银子岩、八角寨、宝鼎瀑布等都让人乐不思蜀。</p></p></div>
+        </div>
+</div>
+            <div class="normalbox">
+                    <div class="normaltitle cf" id="sightname">
+                        <h1>桂林<span>景点</span></h1>
+                    </div>
+                <div class="search_wide">
+                        <!--没有筛选时候这里不显示-->
+                            <ul>
+                                    <li>
+                                        <dl>
+                                            <dt>类型：<a class="current" rel="nofollow" href="javascript:void(0);">全部</a>                                            </dt>
+                                            <dd>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(169)">自然景观</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1002)">历史遗迹</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1000)">公园乐园</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1004)">民风民俗</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1003)">建筑人文</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1019)">表演赛事</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1016)">运动活动</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1005)">场馆院所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1017)">健身休闲</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(77)">宗教场所</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(130)">购物</a>
+                                                        <a rel="nofollow" href="javascript:void(0);" onclick="   OnLabel(1018)">夜生活</a>
+                                            </dd>
+                                        </dl>
+                                        <a class="seeline" rel="nofollow" href="javascript:void(0);">更多<span></span></a>
+                                    </li>
+                            </ul>
+                    <!--没有筛选时候这里不显示 END-->
+                    <div class="city_sfind">
+                        <form action="javascript: OnSubmit();">
+                            <span class="f_left">
+                                
+                                <input id="search_sight_dg" type="checkbox" />只看可订购的景点
+                            </span>
+                            <span class="f_right">
+                                <input id="search_sight_name" type="text" placeholder="搜索景点名称" />
+                                <a class="b_blue_s" rel="nofollow" href="javascript:OnSubmit();"><span>查找</span></a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+<!--城市景点-->
+    <div class="list_wide_mod2">
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/2888.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/215/668/502/ca25acdd21804861aaf41e8d89fdfc75_C_220_140.jpg" width="220" height="140" img-id="6010984" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/2888.html" title="漓江">漓江</a>
+                                <s >第1名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市漓江（一般最常规游览路线是从桂林磨盘山码头或竹江码头到阳朔段航线）                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;680</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>530<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/2888.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/2888.html#comment" class="recomment">
+                                (682条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/A77A2AB0548C45929BA91CD39EF24CE0">唐旋看世界</a>点评：</span>当夕阳的余晖印在漓江上，我打开微信更新着这一路的收获，除了感到惬意与凉爽，更多的我在思考:旅行能带给我们什么，造物主为什么能造就这一番天地并供给我们欣赏？
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/5925.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/105/699/296/cd5eae73022d46db83776b412563026c_C_220_140.jpg" width="220" height="140" img-id="10819944" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/5925.html" title="两江四湖">两江四湖</a>
+                                <s >第2名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市漓江、桃花江、榕湖、杉湖、桂湖、木龙湖组成的环城水系（市中心地段）                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;515</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>380<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/5925.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/5925.html#comment" class="recomment">
+                                (464条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/FA98A71C19EC47C19D21272CEFF8DD7F">keaia</a>点评：</span>其实就是结合桂林市内山水特色、利用灯光夜景照明打造的一条桂林城市旅游线路。 白天是一江四湖，乘船看桂林城市景观、湖光山色，可以远看伏波山、独秀峰、日月双塔、象鼻山等。 晚上是两江四湖，乘船看桂林的城市夜景，以湖边景色、小桥、文化演出什么的，少了象鼻山，多了桃花江（好象是）。 但是个人感觉价格太贵了。游船排着队，一条接一条，性价比很低。 桂林城市不大，如果有时间，晚上沿湖边散散步，自行观赏城市夜景照明，感受桂林的城市风情还是不错的。比坐船走马灯似的乱糟糟的看灯好多了。 相比之下，白天的一江四湖感觉好点。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/14892.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/691/716/707/e5bf7a148b464efc860e43a5dda9fd88_C_220_140.jpg" width="220" height="140" img-id="869612" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/14892.html" title="龙脊梯田">龙脊梯田</a>
+                                <s >第3名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市龙胜各族自治县和平乡平安村                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;80</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>75<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/14892.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/14892.html#comment" class="recomment">
+                                (326条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/4344627D961E4C1A9728DB5AC7149F70">猫猫爪印</a>点评：</span>嫩绿的秧苗随着那几百年如链似带的梯田一层层地蔓延开来，身着红衣的耕种者吆喝着耕牛行走在白云围绕的蜿蜒曲折间，高低错落，小山如螺，大山似塔，梯田里住着两个古老的寨子——平安寨、大寨，龙脊梯田在平安寨，属于壮族。金坑梯田在大寨，属于红瑶族。红瑶族的姑娘以艳丽的粉红色衣裳和长至脚边的瀑布似的长发而闻名，壮族人家自酿的米酒和野生葡萄酒也是不能错过的，酒的度数不高，淡淡清香，丝丝香甜
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/18147.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/318/437/281/53c622b4f9d449cf9af97e71b336e8e3_C_220_140.jpg" width="220" height="140" img-id="7168047" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/18147.html" title="银子岩">银子岩</a>
+                                <s class=g_background>第4名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市荔浦县马岭镇银子岩景区                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;65</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>55<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/18147.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/18147.html#comment" class="recomment">
+                                (245条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/44DD1A25EBD54DCB97C41355AFE55F7A">FLYER2008</a>点评：</span>游历地球上下，地下曲折漫步2公里欣赏到的银子岩钟乳石，最让人叹为观止！典型的喀斯特地貌，贯穿十二座山峰，属层楼式溶洞，洞内汇集了不同地质年代发育生长的钟乳石（含结晶体），晶莹剔透，洁白无瑕，宛如夜空的银河倾斜而下，闪烁出像银子、似钻石的光芒，故名“银子岩”。洞内特色看点数十处，最为著名的景观有三绝：雪山飞瀑、音乐石屏和瑶池仙境；三宝：佛祖论经、混元珍珠伞和独柱擎天。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/2886.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/408/086/048/2c701afc7d404b108b1c0fa6df537167_C_220_140.jpg" width="220" height="140" img-id="6010983" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/2886.html" title="独秀峰">独秀峰</a>
+                                <s class=g_background>第5名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市秀峰区东华路，靖江王城（桂林市秀峰区王城路1号）景区内。                        </dd>
+                        <dd>
+                            AAAAA级景区
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/2886.html"><strong>3.7</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/2886.html#comment" class="recomment">
+                                (97条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/95A3ACCC11A44394819DC40B8B4B0FFB">haruxu</a>点评：</span>独秀峰在靖江王府内，上面刻着“桂林山水甲天下”之来由的摩崖石刻真迹，所以吸引了不少游客去找，但其实景色一般，属于人文意义胜于自然风光的那种。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/2880.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/702/602/186/74c372ffdd004f24a72e730eb6bf8715_C_220_140.jpg" width="220" height="140" img-id="14924853" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/2880.html" title="芦笛岩">芦笛岩</a>
+                                <s class=g_background>第6名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市秀峰区芦笛路1号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;99</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>89<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/2880.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/2880.html#comment" class="recomment">
+                                (194条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/B205EABFDAE641EC8F33A00D0C81BA0B">苏醒的魂</a>点评：</span>去之前朋友说这样景点一辈子去一次就够了，单独去芦笛岩没太多感觉，去了其他地方有比较感觉还是这里好看，很满意。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/2879.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/635/276/328/d0193613014040559fa68f1f21c67ff5_C_220_140.jpg" width="220" height="140" img-id="7166780" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/2879.html" title="叠彩山">叠彩山</a>
+                                <s class=g_background>第7名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市叠彩区龙珠路2号                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;35</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>31<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/2879.html"><strong>3.8</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/2879.html#comment" class="recomment">
+                                (72条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/827B9BB2681B48D38CE84F29EADB05B0">sunshine小小酥</a>点评：</span>在叠彩山顶俯瞰桂林全景，城中有山，山环抱着城，漓江水在城中穿流而过，诗情画意。.。。。。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/107501.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/696/687/164/27492b46635c4f0c82bba19618895731_C_220_140.jpg" width="220" height="140" img-id="14924986" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/107501.html" title="独秀峰王城景区">独秀峰王城景区</a>
+                                <s class=g_background>第8名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市秀峰区王城路一号                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;130</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>69<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/107501.html"><strong>3.9</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/107501.html#comment" class="recomment">
+                                (127条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/95A3ACCC11A44394819DC40B8B4B0FFB">haruxu</a>点评：</span>靖江王府是个很有味道的地方，独秀峰上刻着“桂林山水甲天下”之来由的摩崖石刻真迹，说清朝唯一的汉人格格（据说就是“还珠格格”）的家，就在这王府的深宫禁地里，当年孙中山先生，在此设立北伐大本营，运筹北伐大计，如今它成了广西师范大学的校园，着实羡慕这里的学生，在昔日的王府里上课，怕是一打盹，就会穿越到明朝去吧。王府内一些人文景观也很有趣，有条王道，说以前只有王爷王妃才能走，大家当然是乐意去踩，一群大学生在王道上拍毕业照，青春四溢，风华正茂。最好玩的是贡院里一场模拟科举考试，像模像样的走近仿真的考试间，里面备有纸墨，一身锣鼓声下，大家开始答题，然后交卷等揭榜.还有个太岁洞穴，可以去找到自己的本命太岁拜一拜
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/2882.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/160/891/194/aed8b9bd08c5479c9c3380805f03447b_C_220_140.jpg" width="220" height="140" img-id="14616468" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/2882.html" title="七星景区">七星景区</a>
+                                <s class=g_background>第9名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市七星区七星路1号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;75</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>65<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/2882.html"><strong>3.8</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/2882.html#comment" class="recomment">
+                                (114条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F2AD662792A14A539D570E37700491D3">飞飞牛</a>点评：</span>在桂林的几个公园里七星公园最漂亮了～骆驼峰就在入口处～里面还有七星岩这个溶洞景观～对体力要求也不高～适合悠闲逛逛～
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/107505.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/335/662/927/d3f66ce16a614a0c8a403892b05be889_C_220_140.jpg" width="220" height="140" img-id="6005899" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/107505.html" title="象山景区">象山景区</a>
+                                <s class=g_background>第10名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市象山区南环路22号                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;75</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>65<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/107505.html"><strong>3.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/107505.html#comment" class="recomment">
+                                (346条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/58E9EB24086942E4866F18FDBE1ED166">周小二</a>点评：</span>象鼻山是桂林一个很有特色的景点，因为它的形状很像大象的鼻子所以叫象鼻山，河边有很多鹭鹚，还给我们表演怎样又快又准地捕鱼，我们还走到山洞那边去欣赏了一下，别有一番风味，去桂林，这个景点真的可以去看看
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/yangshuo702/22081.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/361/038/802/2b116f93730d4a67bff9cf6aeb25209c_C_220_140.jpg" width="220" height="140" img-id="3560461" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/yangshuo702/22081.html" title="遇龙河">遇龙河</a>
+                                <s class=g_background>第11名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市阳朔县境内                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;380</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>350<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/yangshuo702/22081.html"><strong>4.3</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/yangshuo702/22081.html#comment" class="recomment">
+                                (331条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/A77A2AB0548C45929BA91CD39EF24CE0">唐旋看世界</a>点评：</span>遇龙河漂流是非常有意思的，精华段大概可以漂两个小时左右，属于非常缓慢的休闲漂。两岸景色极佳，河水很清澈，坐在竹筏上才知“人在画中游”是什么意思了。如果你有性质，可以偷偷的下河游泳，跟着竹筏一起漂。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/yangshuo702/22077.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/855/556/775/2c0025fddaf543638eb06e08bfbb0aca_C_220_140.jpg" width="220" height="140" img-id="7168113" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/yangshuo702/22077.html" title="印象刘三姐">印象刘三姐</a>
+                                <s class=g_background>第12名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市阳朔县田园路1号                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;198</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>168<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/yangshuo702/22077.html"><strong>4.0</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/yangshuo702/22077.html#comment" class="recomment">
+                                (278条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/796EA4E6E3A9409CB23C1EEFA0DD1817">1391380****</a>点评：</span>刚开场还是蛮震撼的，山水间便是舞台。但是苦于听不懂方言...实在不懂后面唱的什么意思，舞蹈是什么意义。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/yangshuo702/137485.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/362/345/625/a68814052e224a6d80e80dae6ad21af8_C_220_140.jpg" width="220" height="140" img-id="3996276" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/yangshuo702/137485.html" title="遇龙河漂流">遇龙河漂流</a>
+                                <s class=g_background>第13名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市阳朔县遇龙河                        </dd>
+                        <dd>
+                            
+市场价<del>&yen;150</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>70<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/yangshuo702/137485.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/yangshuo702/137485.html#comment" class="recomment">
+                                (151条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/ABB9022E33C74B71AEC9AB88721B0EE9">微辣</a>点评：</span>遇龙河的水要比漓江的水清澈，仙境一般，手工摇的竹筏更有特色，别具一番风味。强烈推荐，与漓江是两种美，两种感觉。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/xingan722/140489.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/649/132/062/8388d0be76404e658181d4802b92d3e5_C_220_140.jpg" width="220" height="140" img-id="7049840" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/xingan722/140489.html" title="桂林乐满地主题乐园">桂林乐满地主题乐园</a>
+                                <s class=g_background>第14名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市兴安县志玲路                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;150</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>75<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/xingan722/140489.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/xingan722/140489.html#comment" class="recomment">
+                                (75条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F2AD662792A14A539D570E37700491D3">飞飞牛</a>点评：</span>主题乐园游乐设施很多～比较刺激的如大转盘～海盗船～过山车等项目不少～周末人比较多～建议错峰来玩要不排队时间太长～
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/guilin28/140483.html">
+                        <img src="http://dimg02.c-ctrip.com/images/tg/227/487/821/25b0617695ab488abad03b31b81bd676_C_220_140.jpg" width="220" height="140" img-id="7744993" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/guilin28/140483.html" title="广西桂林两江四湖游船">广西桂林两江四湖游船</a>
+                                <s class=g_background>第15名</s>
+                        </dt>
+                        <dd class="ellipsis">
+桂林市漓江、桃花江、榕湖、杉湖、桂湖、木龙湖组成的环城水系（市中心地段）                        </dd>
+                        <dd>
+                            AAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+市场价<del>&yen;1666</del>                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>1200<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/guilin28/140483.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/guilin28/140483.html#comment" class="recomment">
+                                (68条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/CC7153FB4C9E4F2D9D647A13B5420362">1820746****</a>点评：</span>象山传奇第一和第二个环节一般般，但第三个环节就比较有特点了，特别是第四个环节，场面太壮观了，令人惊呀！夜游四湖，夜景很飘亮，两岸的风景和演出太有创意了！赞一个。
+                    </p>
+            </div>
+        <div class="ttd_pager cf"><p>1-15 / 181条</p><div class="pager_v1"><a class="prevpage disabled">上一页</a><a class="current">1</a><a href="/sight/guilin28/s0-p2.html">2</a><a href="/sight/guilin28/s0-p3.html">3</a><a href="/sight/guilin28/s0-p4.html">4</a><a href="/sight/guilin28/s0-p5.html">5</a><a  class="nextpage" href="/sight/guilin28/s0-p2.html">下一页</a><span>到 <input id="gopagetext" value="" type="text"> 页 / <b class="numpage">13</b>页</span><a class="gopage" href="javascript:;">确定</a></div></div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div><div class="footerseo"><div class="footerseo_con"><div class="cf seo_title"><h2 class="seotitle1">旅游攻略导航</h2><div class="seo1title_r"><h3>当季热点：</h3><a href="http://you.ctrip.com/place/qingdao5.html" target="_blank">青岛</a><a href="http://you.ctrip.com/place/xiamen21.html" target="_blank">厦门</a><a href="http://you.ctrip.com/place/beidaihe1938.html" target="_blank">北戴河</a><a href="http://you.ctrip.com/place/jiuzhaigou25.html" target="_blank">九寨沟</a><a href="http://you.ctrip.com/place/zhangjiajie23.html" target="_blank">张家界</a><a href="http://you.ctrip.com/place/sanya61.html" target="_blank">三亚</a><a href="http://you.ctrip.com/place/marseilles120370.html" target="_blank">马赛</a><a href="http://you.ctrip.com/place/bali438.html" target="_blank">巴厘岛</a><a href="http://you.ctrip.com/place/phuket364.html" target="_blank">普吉岛</a></div></div><p>桂林旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的桂林自助游、自由行、自驾游、跟团旅线路，海量桂林旅游景点图片、游记、交通、美食、购物、住宿、娱乐、行程、指南等旅游攻略信息，了解更多桂林旅游信息就来携程旅游攻略。</p></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 桂林旅游快速入口</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/place/guilin28.html" target="_blank">桂林旅游攻略</a></li><li><a href="/summary/guilin28.html" target="_blank">桂林旅行指南</a></li><li><a href="/guides/guilin28.html" target="_blank">桂林攻略下载</a></li><li><a href="/sight/guilin28.html" target="_blank">桂林旅游景点</a></li><li><a href="/restaurant/guilin28.html" target="_blank">桂林特色美食</a></li><li><a href="/resort/guilin28.html" target="_blank">桂林娱乐体验</a></li><li><a href="/journeys/guilin28.html" target="_blank">桂林行程推荐</a></li><li><a href="/asks/guilin28.html" target="_blank">桂林旅游问答</a></li><li><a href="/map/guilin28.html" target="_blank">桂林景点地图</a></li><li><a href="/travels/guilin28.html" target="_blank">桂林游记攻略</a></li><li><a href="/photos/guilin28/r28.html" target="_blank">桂林旅游图片</a></li><li><a href="/hotels/guilin28.html" target="_blank">桂林酒店攻略</a></li><li><a href="/shopping/guilin28.html" target="_blank">桂林购物指南</a></li><li><a href="/traffic/guilin28.html" target="_blank">桂林旅游交通</a></li><li><a href="/events/guilin28c28-p1" target="_blank">桂林结伴旅游</a></li><li><a href="http://hotels.ctrip.com/hotel/guilin33" target="_blank">桂林酒店</a></li><li><a href="http://flights.ctrip.com/booking/kwl-Guilin-flights.html" target="_blank">桂林机票</a></li><li><a href="http://trains.ctrip.com/TrainBooking/guilin/" target="_blank">桂林火车票</a></li><li><a href="http://vacations.ctrip.com/dest/d-guilin-28" target="_blank">桂林旅游</a></li></ul><h4 class="seotitle3">广西旅游攻略导航：</h4><ul class="cf"><li><a href="/place/nanning166.html" target="_blank">南宁</a></li><li><a href="/place/chongzuo837.html" target="_blank">崇左</a></li><li><a href="/place/beihai140.html" target="_blank">北海</a></li><li><a href="/place/hechi838.html" target="_blank">河池</a></li><li><a href="/place/guilin28.html" target="_blank">桂林</a></li><li><a href="/place/guigang711.html" target="_blank">贵港</a></li><li><a href="/place/laibin839.html" target="_blank">来宾</a></li><li><a href="/place/qinzhou697.html" target="_blank">钦州</a></li><li><a href="/place/fangchenggang698.html" target="_blank">防城港</a></li><li><a href="/place/hezhou707.html" target="_blank">贺州</a></li><li><a href="/place/liuzhou143.html" target="_blank">柳州</a></li><li><a href="/place/baise524.html" target="_blank">百色</a></li><li><a href="/place/wuzhou142.html" target="_blank">梧州</a></li><li><a href="/place/yulin141.html" target="_blank">玉林</a></li></ul></div> </div><div class="footerseo_con seojs3line"> <div class="cf seo_title"> <h3 class="seotitle2"> 桂林旅游景点</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/sight/guilin28/5925.html" target="_blank">两江四湖</a></li><li><a href="/sight/guilin28/14892.html" target="_blank">龙脊梯田</a></li><li><a href="/sight/guilin28/18147.html" target="_blank">银子岩</a></li><li><a href="/sight/guilin28/2886.html" target="_blank">独秀峰</a></li><li><a href="/sight/guilin28/2880.html" target="_blank">芦笛岩</a></li><li><a href="/sight/guilin28/2879.html" target="_blank">叠彩山</a></li><li><a href="/sight/guilin28/107501.html" target="_blank">独秀峰王城景区</a></li><li><a href="/sight/guilin28/2882.html" target="_blank">七星景区</a></li><li><a href="/sight/guilin28/107505.html" target="_blank">象山景区</a></li><li><a href="/sight/yangshuo702/22081.html" target="_blank">遇龙河</a></li><li><a href="/sight/yangshuo702/22077.html" target="_blank">印象刘三姐</a></li><li><a href="/sight/yangshuo702/137485.html" target="_blank">遇龙河漂流</a></li><li><a href="/sight/xingan722/140489.html" target="_blank">桂林乐满地主题乐园</a></li><li><a href="/sight/guilin28/140483.html" target="_blank">广西桂林两江四湖游船</a></li><li><a href="/sight/yangshuo702/140484.html" target="_blank">世外桃源</a></li><li><a href="/sight/longjititian970/18143.html" target="_blank">龙胜温泉</a></li><li><a href="/sight/lipu2020/18148.html" target="_blank">丰鱼岩</a></li><li><a href="/sight/guilin28/141374.html" target="_blank">桂林西山景区</a></li><li><a href="/sight/guilin28/6030.html" target="_blank">冠岩</a></li><li><a href="/sight/xingan722/2884.html" target="_blank">灵渠</a></li><li><a href="/sight/yangshuo702/48899.html" target="_blank">聚龙潭</a></li><li><a href="/sight/guilin28/50478.html" target="_blank">刘三姐大观园</a></li><li><a href="/sight/yangshuo702/22079.html" target="_blank">西街</a></li><li><a href="/sight/yangshuo702/52551.html" target="_blank">十里画廊</a></li><li><a href="/sight/yangshuo702/52584.html" target="_blank">杨堤</a></li><li><a href="/sight/guilin28/50286.html" target="_blank">南溪山公园</a></li><li><a href="/sight/lipu2020/50486.html" target="_blank">桂林荔蒲荔江湾</a></li><li><a href="/sight/guilin28/50457.html" target="_blank">穿山公园</a></li><li><a href="/sight/guilin28/50474.html" target="_blank">秦城水街</a></li><li><a href="/sight/guilin28/2887.html" target="_blank">尧山</a></li><li><a href="/sight/yangshuo702/26887.html" target="_blank">兴坪古镇</a></li><li><a href="/sight/yangshuo702/52594.html" target="_blank">九马画山</a></li><li><a href="/sight/guilin28/141697.html" target="_blank">雁山园</a></li><li><a href="/sight/guilin28/140486.html" target="_blank">广西桂林义江缘</a></li><li><a href="/sight/guilin28/50487.html" target="_blank">日月双塔</a></li><li><a href="/sight/guilin28/2883.html" target="_blank">伏波山</a></li><li><a href="/sight/yangshuo702/50088.html" target="_blank">黄布倒影</a></li><li><a href="/sight/guilin28/26793.html" target="_blank">八角寨</a></li><li><a href="/sight/longjititian970/137435.html" target="_blank">七星伴月</a></li><li><a href="/sight/yangshuo702/48898.html" target="_blank">天籁·蝴蝶泉</a></li></ul></div> </div><div class="footerseo_con">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游目的地推荐</h3>
+                                        <a class="more" href="http://you.ctrip.com/sitemap/" target="_blank">全部&nbsp;&gt;</a>
+                                    </div><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/yosemitenationalpark35159.html" target="_blank">优胜美地国家公园旅游攻略</a></li><li><a href="http://you.ctrip.com/place/furen3023.html" target="_blank">怀仁旅游攻略</a></li><li><a href="http://you.ctrip.com/place/yuxi477.html" target="_blank">玉溪旅游攻略</a></li><li><a href="http://you.ctrip.com/place/yibin278.html" target="_blank">宜宾旅游攻略</a></li><li><a href="http://you.ctrip.com/place/malaysia100022.html" target="_blank">马来西亚旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lijiang32.html" target="_blank">丽江旅游攻略</a></li><li><a href="http://you.ctrip.com/place/liaocheng635.html" target="_blank">聊城旅游攻略</a></li><li><a href="http://you.ctrip.com/place/dalian4.html" target="_blank">大连旅游攻略</a></li><li><a href="http://you.ctrip.com/place/huolinguole2962.html" target="_blank">霍林郭勒旅游攻略</a></li><li><a href="http://you.ctrip.com/place/shijiazhuang199.html" target="_blank">石家庄旅游攻略</a></li><li><a href="http://you.ctrip.com/place/jimusaer2498.html" target="_blank">吉木萨尔旅游攻略</a></li><li><a href="http://you.ctrip.com/place/istanbul258.html" target="_blank">伊斯坦布尔旅游攻略</a></li><li><a href="http://you.ctrip.com/place/taizhong1369.html" target="_blank">台中旅游攻略</a></li><li><a href="http://you.ctrip.com/place/beitou120539.html" target="_blank">北投旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hague385.html" target="_blank">海牙旅游攻略</a></li><li><a href="http://you.ctrip.com/place/ruyuan2937.html" target="_blank">乳源旅游攻略</a></li><li><a href="http://you.ctrip.com/place/munich572.html" target="_blank">慕尼黑旅游攻略</a></li><li><a href="http://you.ctrip.com/place/nabu3104.html" target="_blank">南部旅游攻略</a></li><li><a href="http://you.ctrip.com/place/huanglong905.html" target="_blank">黄龙旅游攻略</a></li><li><a href="http://you.ctrip.com/place/shanwei624.html" target="_blank">汕尾旅游攻略</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/sight/zibo536/125333.html" target="_blank">大染坊</a></li><li><a href="http://you.ctrip.com/sight/shanghai2/758.html" target="_blank">上海野生动物园</a></li><li><a href="http://you.ctrip.com/sight/hanzhong486/136695.html" target="_blank">汉中</a></li><li><a href="http://you.ctrip.com/sight/changshu101/62691.html" target="_blank">芦苇荡</a></li><li><a href="http://you.ctrip.com/sight/hangzhou14/16052.html" target="_blank">山里人家</a></li><li><a href="http://you.ctrip.com/sight/beijing1/51183.html" target="_blank">法源寺</a></li><li><a href="http://you.ctrip.com/sight/madrid378/52289.html" target="_blank">大都会</a></li><li><a href="http://you.ctrip.com/sight/guangzhou152/110464.html" target="_blank">珠江夜游</a></li><li><a href="http://you.ctrip.com/sight/emeishan24/110282.html" target="_blank">峨眉山</a></li><li><a href="http://you.ctrip.com/sight/xian7/5419.html" target="_blank">阿房宫</a></li><li><a href="http://you.ctrip.com/sight/eerduosi600/61708.html" target="_blank">响沙湾</a></li><li><a href="http://you.ctrip.com/sight/beijing1/54294.html" target="_blank">人民英雄纪念碑</a></li><li><a href="http://you.ctrip.com/sight/zhengzhou157/9593.html" target="_blank">河南博物院</a></li><li><a href="http://you.ctrip.com/sight/xian7/1446.html" target="_blank">陕西历史博物馆</a></li><li><a href="http://you.ctrip.com/sight/andalusia4438/132398.html" target="_blank">弗拉明戈</a></li><li><a href="http://you.ctrip.com/sight/wudangshan146/51123.html" target="_blank">回龙观</a></li><li><a href="http://you.ctrip.com/sight/shanghai2/111265.html" target="_blank">佘山国家森林公园</a></li><li><a href="http://you.ctrip.com/sight/foshan207/23211.html" target="_blank">南海影视城</a></li><li><a href="http://you.ctrip.com/sight/zengcheng532/51277.html" target="_blank">白水寨</a></li><li><a href="http://you.ctrip.com/sight/hanoi181/137310.html" target="_blank">河内</a></li></ul></div><div class="footerseo_con"> <div class="cf seo_title"> <h3 class="seotitle2"> 地图导航</h3> </div> <div class="linklist cf"><a href="http://you.ctrip.com/place/countrylist.html">世界</a><a href="http://you.ctrip.com/place/china110000.html">中国</a><a href="http://you.ctrip.com/place/asia120001.html">亚洲</a><a href="http://you.ctrip.com/place/europe120002.html">欧洲</a><a href="http://you.ctrip.com/place/africa120006.html">非洲</a><a href="http://you.ctrip.com/place/northamerica120004.html">北美洲</a><a href="http://you.ctrip.com/place/southamerica120005.html">南美洲</a><a href="http://you.ctrip.com/place/oceania120003.html">大洋洲</a><a href="http://You.ctrip.com/sitemap/">目的地大全</a><a href="http://you.ctrip.com/sitemap/places.html">海外目的地</a><a href="http://you.ctrip.com/sitemap/placedis/c110000">国内目的地</a><a href="http://you.ctrip.com/sitemap/spotdis/c0">国内景点</a><a href="http://you.ctrip.com/sitemap/spots.html">海外景点</a><a href="http://you.ctrip.com/sitemap/guides">攻略</a><a href="http://you.ctrip.com/sitemap/travels.html">游记</a><a href="http://you.ctrip.com/sitemap/asks">问答</a><a href="http://you.ctrip.com/sitemap/events">结伴</a><a href="http://you.ctrip.com/sitemap/groups">小组</a><a href="http://you.ctrip.com/sitemap/official.html">认证</a></div> </div><div class="footerseo_con"><div class="cf seo_title"><h3 class="seotitle2">最新游友动态资讯</h3></div><div class="footerseo_con1" id="footerseo_marquee"><ul><li>[22分钟前] 1315** 发布了游记 <a href="/travels/guilin28/1958638.html" target="_blank">兴坪到杨堤逆流而上</a></li><li>[22分钟前] 1381** 发布了游记 <a href="/travels/guilin28/1958934.html" target="_blank">桂林阳朔龙脊亲子游</a></li><li>[22分钟前] 2007** 发布了游记 <a href="/travels/guilin28/1956902.html" target="_blank">广西桂林</a></li><li>[22分钟前] m581** 发布了游记 <a href="/travels/guilin28/1946917.html" target="_blank">徜徉于桂林山水间，尽享大自然的馈赠</a></li><li>[22分钟前] M100** 发表了问题 <a href="/asks/guilin28/1361786.html" target="_blank">银子岩旅游的着装要求</a></li><li>[22分钟前] e323** 发表了问题 <a href="/asks/guilin28/1361726.html" target="_blank">#桂林老地方国际青年旅舍#请问从桂林火车南站到你们那儿怎么走</a></li><li>[22分钟前] E327** 发表了问题 <a href="/asks/guilin28/1361696.html" target="_blank">#桂林有间客栈#离漓江多远呢？</a></li><li>[22分钟前] _CFT** 发表了问题 <a href="/asks/guilin28/1361295.html" target="_blank">#阳朔菩提花喆啡酒店#请问是铂涛酒店集团的品牌和管理吗？</a></li></ul></div></div></div><div class="footgray"><div class="footinner cf"><dl><dt>社区必读</dt><dd><a href="http://you.ctrip.com/htmlpages/eula.html" target="_blank">用户协议</a></dd><dd><a href="http://you.ctrip.com/htmlpages/guide.html" target="_blank">社区指南</a></dd><dd><a href="http://you.ctrip.com/htmlpages/exp.html" target="_blank">经验与等级</a></dd><dd><a href="http://you.ctrip.com/htmlpages/help.html" target="_blank">新手导航</a></dd></dl><dl><dt>发现你的旅行</dt><dd><a href="http://you.ctrip.com/place" target="_blank">了解目的地</a></dd><dd><a href="http://you.ctrip.com/travels" target="_blank">阅读精彩游记</a></dd><dd><a href="http://you.ctrip.com/guides" target="_blank">下载精品攻略</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">逛逛兴趣小组</a></dd><dd><a href="http://you.ctrip.com/asks" target="_blank">请教旅行达人</a></dd><dd><a href="http://you.ctrip.com/events" target="_blank">发起结伴</a></dd></dl><dl><dt>分享你的旅行</dt><dd><a href="http://you.ctrip.com/add-travel/guide.html" target="_blank">发表游记大作</a></dd><dd><a href="http://you.ctrip.com/dianping/" target="_blank">点评去过的景点</a></dd><dd><a href="http://you.ctrip.com/groups" target="_blank">去小组讨论</a></dd></dl><dl class="ftabout"><dt>关于我们</dt><dd><a href="http://you.ctrip.com/htmlpages/about.html" target="_blank">社区简介</a></dd><dd><a href="http://you.ctrip.com/htmlpages/contact.html" target="_blank">联系我们</a></dd><dd><a href="http://you.ctrip.com/htmlpages/job.html" target="_blank">加入我们</a></dd></dl><dl class="ftguanzhu"><dt>关注携程攻略社区</dt><dd class="youguanzhu cf"><span class="ftweixin"></span><a rel="nofollow" target="_blank" href="http://weibo.com/ctripyou" class="ftweibo"></a></dd></dl></div></div>
+    <script src="http://webresource.c-ctrip.com/ResCRMOnline/r1/js/float/headFloat.min.js?ws_testp20140729.js"></script><div id="base_ft">
+  <p><a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&#xA0;|&#xA0;<a rel="nofollow" title="免费注册" href="https://accounts.ctrip.com/member/emailregist.aspx">免费注册</a>&#xA0;|&#xA0;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&#xA0;|&#xA0;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&#xA0;|&#xA0;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&#xA0;|&#xA0;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" title="诚聘英才" href="http://job.ctrip.com/">诚聘英才</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201012/other/yp/index.html" title="企业礼品卡采购">企业礼品卡采购</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>&#xA0;|&#xA0;<a rel="nofollow" style="color: #0066CC;" target="_blank" title="我要提建议" href="http://my.ctrip.com/adv/uxp/Community/CommunityAdvice.aspx">我要提建议</a></p>
+  <p><a rel="nofollow" href="http://hotels.ctrip.com/jiameng#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&#xA0;|
+            <a rel="nofollow" href="http://pages.ctrip.com/commerce/promote/201406/destination/mdd/index.html">目的地营销合作</a>&#xA0;|&#xA0;
+            <a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="服务说明">服务说明</a>&#xA0;|&#xA0;
+            <a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/tour/ingroupline_pages.asp?folder=ingroup0904&amp;file=0177" title="旅游度假资质">旅游度假资质</a>&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/Insurance/index.htm">保险代理</a>&#xA0;|&#xA0;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&#xA0;|&#xA0;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm">Copyright&copy;</a> 1999-2014, <a href="http://www.ctrip.com/"> ctrip.com</a>. All rights reserved.&#xA0;|&#xA0;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a></p>
+  <p id="cui_lang_bottom"><a target="_blank" class="cui_lang_big5" rel="nofollow" href="http://www.ctrip.com.hk/">繁体版</a> <a target="_blank" class="cui_lang_en" rel="nofollow" href="http://english.ctrip.com/">English</a> <a target="_blank" class="cui_lang_jap" rel="nofollow" href="http://jp.ctrip.com/">日语版</a> <a target="_blank" class="cui_lang_korea" rel="nofollow" href="http://www.ctrip.co.kr/">韩语版</a> <a target="_blank" href="http://fr.ctrip.com/" rel="nofollow" class="cui_lang_fr">Fran&#xE7;ais</a> <a target="_blank" class="cui_lang_de" rel="nofollow" href="http://de.ctrip.com/">Deutsch</a> <a target="_blank" rel="nofollow" href="http://es.ctrip.com/" class="cui_lang_es">Espa&#xF1;ol</a> <a target="_blank" rel="nofollow" class="cui_lang_ru" href="http://ru.ctrip.com/">Русский</a><a target="_blank" rel="nofollow" class="cui_lang_vn" href="http://vn.ctrip.com/">Tiêng Viêt</a></p>
+  <div class="honour_wrap"><a href="http://www.itrust.org.cn/yz/pjwx.asp?wm=163178864X" title="网信编码：163178864X" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="http://search.cxwz.org/cert/l/CX20111018000615000623" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="javascript:" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.cnnic.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a></div>
+</div><!-- InstanceEnd name="position" --><script type="text/javascript">var globalConfig={H1:'https',H3:'my.ctrip.com',Lang:'gb2312',AjaxUrl:'accounts.ctrip.com'};</script><script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/r1/pageheader/js/Ctrip2013JS.js?temp=20140820" charset="utf-8"></script>
+<div class="gs_bottombar cf"><ul><li><a href="http://you.ctrip.com/special/2014bikini.aspx" target="_blank">一张比基尼照换豪宅！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/comments/foretaste" target="_blank">争当免单达人，吃遍全球霸王餐！</a><span></span></li><li><a href="http://you.ctrip.com/thematic/event/zhoumoyou.html" target="_blank">免费趣玩，五星香格里拉！</a></li></ul></div>
+</div>
+<input type="hidden" id="sso_loginprocxyPath" name="sso_loginprocxyPath" value="http://you.ctrip.com/DestinationSite/LoginHelper/loginprocxy.html" />
+                                            <script type="text/javascript" src="http://webresource.c-ctrip.com/ResCRMOnline/R6/member/common/js/mask_you.js?20140603" charset="gb2312" ></script>
+
+
+    
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/common/js/common.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/fed/js/fed.v2.0.js?20140822153037"></script>
+    <script charset="utf-8" type="text/javascript" src="http://youresource.c-ctrip.com/ttd2/js/city_sight.v2.0.js?20140822153037"></script>
+    <script type="text/javascript">
+        function SetImgOriginalUrl() {
+            try {
+                $("img[data-original]").each(function (i) {
+                    var url = $(this).attr("data-original");
+                    if (url != "") {
+                        $(this).attr("src", url);
+                    }
+                });
+            } catch (e) {
+            }
+        }
+        $(function () {
+            ShowVacationAd(); ShowspecialHotelAd(); GetExpertPartialView();
+            OnloadEventDistrictimg(); SetImgOriginalUrl();
+        }); </script>
+    <script type="text/javascript">
+        var IsTheme = 0;
+        //是否是标签列表页（0否，1是）
+        var LabelID = 0;
+        //主题标签
+        var RegionID = 0;
+        //行政区
+        var IsPrice = 0;
+        //是否订购
+        var Keywords = '';
+        //关键字
+        var DistrictID = 28;
+        //目的地ID
+        var PageNow = 1;
+        //当前页码
+        var EName = 'Guilin';
+        //目的地英文名称
+
+        var OrderType = '0';
+
+        if (PageNow>1) {
+            window.location.hash = 'sightname';
+        }
+       
+        $(function() {
+            if (IsPrice == 1) {
+                $("#search_sight_dg").attr("checked", true);
+            } else {
+                $("#search_sight_dg").attr("checked", false);
+            }
+
+            if (Keywords != "") {
+                $("#search_sight_name").val(Keywords);
+            }
+            
+            $("#search_sight_dg").click(function() {
+                if ($("#search_sight_dg").attr("checked")) {
+                    IsPrice = 1;
+                } else {
+                    IsPrice = 0;
+                }
+                PageNow = 1;
+                OnSearch();
+            });
+             if ($("#inChina").val().toLowerCase() == "true") {
+                GetSpecialFlightView();
+            } else {
+                ShowIntelFlightAd();
+            }
+        });
+
+        function OnLabel(id) {
+            PageNow = 1;
+            LabelID = id;
+            OnSearch();
+        }
+
+        function OnRegion(id) {
+            RegionID = id;
+            PageNow = 1;
+            OnSearch();
+        }
+
+        function ColseKeys() {
+            Keywords = "";
+            PageNow = 1;
+            OnSearch();
+        }
+        function OnOrderBy(id) {
+            OrderType = id;
+            OnSearch();
+        }
+        function OnSubmit() {
+            var strkey = $.trim($("#search_sight_name").val());
+            var pl = $("#search_sight_name").attr('placeholder');
+            if (strkey == "" || strkey==pl)
+            { Keywords = ""; }
+            else
+            { Keywords = strkey; }
+            PageNow = 1;
+            OnSearch();
+        }
+        
+        INTERFACE.pageLinkJump = function (page) {
+            PageNow = page;
+            OnSearch();
+        };
+
+        function OnSearch() {
+            var strUrl = "";
+            var key = "";
+            var type = "";
+            //是否是标签页
+            if (IsTheme == '1') {
+                type = "?type=t";
+            }
+            if (Keywords != "") {
+                if (IsTheme == '1') {
+                    key = "&keywords=" + escape(Keywords);
+                } else {
+                    key = "?keywords=" + escape(Keywords);
+                }
+            }
+//            if (OrderType != "") {
+//                if (Keywords == "" && IsTheme != '1') {
+//                    key += "?ordertype=" + escape(OrderType);
+//                } else {
+//                    key += "&ordertype=" + escape(OrderType);
+//                }
+//            }
+            var params = type + key;
+
+            if ((LabelID == "" || LabelID == 0) && (PageNow == "" || PageNow <= 1) && (IsPrice == "" || IsPrice == 0) && (RegionID == "" || RegionID == 0) &&(OrderType == "" || OrderType ==0))  {
+                strUrl = "/sight/" + EName + DistrictID + ".html" + params;
+            } else {
+                var label = LabelID == "" || LabelID == 0 ? "s0" : "s" + LabelID;
+                var page = PageNow == "" || PageNow <= 1 ? "" : "-p" + PageNow;
+                var label1 = LabelID == "" || LabelID == 0 ? "" : "-l" + LabelID;
+                var isprice = IsPrice == "" || IsPrice == 0 ? "" : "-i1";
+                var region = RegionID == "" || RegionID == 0 ? "" : "-r" + RegionID;
+                var otype = OrderType != "" && OrderType != "0" ? "-o" + OrderType : "";
+                var strparams = label + page + label1+ region + isprice +otype;
+                strUrl = "/sight/" + EName + DistrictID + "/" + strparams + ".html" + params;
+            }
+
+            window.location.href = strUrl;
+        }
+    </script>
+
+<div class="content">
+                                           <div class="gs_operate_right_fix" id="gs_operate_right_fix">
+                                                 <div class="cf">
+                                                        <a href="javascript:;" class="close"></a>
+                                                 </div>
+                    <a href="http://you.ctrip.com/travels/yangzhou12/1950347.html" target="_blank" class="one">发点评赢扬州美食游！ </a></div></div>
+                            <script>
+                                $(function () {
+                                    $('#gs_operate_right_fix a.close').on('click', function ()
+                                    { $(this).parent().parent().hide(); }
+                                        );
+
+                                    }); 
+                            </script>
+    <script type="text/javascript">
+        if (!window.__SSO_submit) {
+            window.__SSO_submit = function(a, t) {
+                $('.a_popup_login').removeClass('a_popup_login');
+                switch (a) {
+                case 'wantClickID':
+                case 'wentClickID':
+                    $("#" + a).trigger('click');
+                    break;
+                case 'writereviewid':
+                    var currentUrl = window.location.href.replace( /#.*$/g , "");
+                    var urlParamsIndex = currentUrl.lastIndexOf("?");
+                    var randomCode = Math.floor(Math.random() * 10000 + 1);
+
+                    if (urlParamsIndex == -1) {
+                        currentUrl += "?RandomCode=" + randomCode;
+                    } else {
+                        var hasParamAlready = currentUrl.match( /RandomCode=[^&]{0,}/ );
+                        if (hasParamAlready != null) {
+                            currentUrl = currentUrl.replace( /RandomCode=[^&]{0,}/ , "RandomCode=" + randomCode);
+                        } else {
+                            currentUrl += "&RandomCode=" + randomCode;
+                        }
+                    }
+                    window.location.href = currentUrl + "#dianPing";
+                    break;
+                case 'comment-submit':
+                    $(".post_review .btn_line .gsn-btn-2").click();
+                    break;
+                }
+            };
+        }
+
+        if (window.$) {
+            $(function () {
+                if (window.ShowGowant) {
+                    ShowGowant();
+                }
+                if (window.ShowWeather) {
+                    ShowWeather();
+                }
+                if (window.asynfunc) {
+                    for (var index in window.asynfunc) {
+                        try {
+                            window.asynfunc[index].call();
+                        } catch (e) {
+                            if (window.console) {
+                                console.log(e);
+                            }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <!-- prevent cache -->
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Travel Plan</title>
+    <!-- dynamically apply native visual theme according to the browser user agent -->
+    <script type="text/javascript" src="../../js/dojo/dojox/mobile/deviceTheme.js"></script>
+<style type="text/css">
+.blueBackground {
+	background-image: #96b6df;
+	background-color: #96b6df;
+}
+</style>
+    <!-- dojo configuration options -->
+    <script type="text/javascript">
+        dojoConfig = {
+            async: true,
+            parseOnLoad: false
+        };
+    </script>
+    <!-- dojo bootstrap -->
+    <script type="text/javascript" src="../../js/dojo/dojo/dojo.js"></script>
+    <!-- dojo application code -->
+    <script>
+    var controller = null;
+    var dataModule = null;
+    // Load the widget parser and mobile base
+    require([
+		"dijit/registry",
+		"com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore",
+        "com/onwebbe/dojo/mobile/MobileDynamicViewController",
+        "dojox/mobile/parser",
+        "dojo/dom-geometry",
+        "dojo/on",
+        "dojox/mobile/compat",
+        "dojox/mobile/ScrollableView",
+        "dojox/mobile/Heading",
+        "dojox/mobile/ToolBarButton",
+        "dojox/mobile/TabBar",
+        "dojox/mobile/ListItem",
+        "dojox/mobile/Button",
+        "dojox/mobile/GridLayout",
+        "dojox/mobile/Pane",
+        "dojox/mobile/ContentPane",
+        "dojox/mobile/ScrollablePane",
+        "dojox/mobile/RoundRect",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelDraftInfoPane",
+        "com/onwebbe/dojo/mobile/travelPlan/TravelPlanGridScrollableView",
+        "dojo/domReady!"
+    ], function (registry, dataM, Controller, parser, domGeometry, on) {
+        // Parse the page for widgets
+        parser.parse();
+        var welcomePage = registry.byId("mainFunctionView");
+        dataModule = dataM;
+        dataModule.retriveData();
+		controller = new Controller(true,true);
+		controller.setCurrentView(welcomePage);
+
+
+		
+		var height = document.documentElement.clientHeight;
+		document.getElementById("scrollbar").style.top="44px";
+		document.getElementById("scrollbar").style.left="0px";
+		document.getElementById("scrollbar").style.width="300px";
+		document.getElementById("scrollbar").style.display="block";
+		document.getElementById("scrollbar").style.height=(height-44)+"px";
+		document.getElementById("scrollbar").style.backgroundColor="red";
+		document.getElementById("scrollbar").style.borderTopRightRadius="10px";
+		document.getElementById("scrollbar").style.borderBottomRightRadius="10px";
+		
+		document.getElementById("scrollbarsplitter").style.top=44+"px";
+		document.getElementById("scrollbarsplitter").style.left=300-20+"px";
+		document.getElementById("scrollbarsplitter").style.width="20px";
+		document.getElementById("scrollbarsplitter").style.display="block";
+		document.getElementById("scrollbarsplitter").style.height=(height-44)+"px";
+		document.getElementById("scrollbarsplitter").style.backgroundColor="yellow";
+		document.getElementById("scrollbarsplitter").style.borderTopRightRadius="10px";
+		document.getElementById("scrollbarsplitter").style.borderBottomRightRadius="10px";
+		document.getElementById("scrollbarsplitter").style.verticalAlign="middle";
+		
+		document.getElementById("test4").style.top=10+"px";
+		document.getElementById("test5").style.top=(height-44)/2+"px";
+		document.getElementById("test6").style.top=(height-44-44)-50+"px";
+		
+		on(document.getElementById("scrollbarsplitter"), "click", function(){
+			if(document.getElementById("scrollbar").style.display!="none"){
+				document.getElementById("scrollbar").style.display="none";
+				document.getElementById("scrollbarsplitter").style.left="0px";
+				document.getElementById("test4").src="../../images/right-arrow-min.png";
+				document.getElementById("test5").src="../../images/right-arrow-min.png";
+				document.getElementById("test6").src="../../images/right-arrow-min.png";
+			}else{
+				document.getElementById("scrollbar").style.display="block";
+				document.getElementById("scrollbarsplitter").style.left=300-20+"px";
+				document.getElementById("test4").src="../../images/left-arrow-min.png";
+				document.getElementById("test5").src="../../images/left-arrow-min.png";
+				document.getElementById("test6").src="../../images/left-arrow-min.png";
+			}
+			
+		});
+    });
+   
+    </script>
+</head>
+<body style="visibility:hidden;">
+<script>
+
+</script>
+<div id="mainFunctionView" data-dojo-type="dojox/mobile/View" data-dojo-props="selected: true">
+	<div data-dojo-type="dojox/mobile/Heading" data-dojo-props="fixed: 'top', label: ''">
+		旅行计划
+		<span id="welcomePageEditButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'编辑', moveTo:'help', transition:'none', icon: '../../images/edit30.png'" style="float:right;"></span>
+		<span id="welcomePageHelpButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'帮助', moveTo:'help', transition:'none', icon: '../../images/help.png'" style="float:right;"></span>
+		
+		<span id="welcomePageSettingButton" data-dojo-type="dojox/mobile/ToolBarButton" data-dojo-props="label:'设置', transition:'none', icon: '../../images/settings30.png'" style="float:left;"></span>
+	</div>
+	<div data-dojo-type="dojox/mobile/ContentPane">
+		<div data-dojo-type="dojox/mobile/ScrollablePane" data-dojo-props="" style="margin-left:24px;" id="test123">
+			<div data-dojo-type="dojox/mobile/RoundRect" id="test2">
+				right
+			</div>
+		</div>
+		<div  data-dojo-type="dojox/mobile/Pane">
+			<div data-dojo-type="dojox/mobile/ScrollablePane" data-dojo-props="" style="position:absolute" id="scrollbar">
+				fun
+			</div>
+			<div id="scrollbarsplitter" style="position:absolute;">
+				<img style='position:relative;vertical-align:middle;' src='../../images/left-arrow-min.png' width="15px" id="test4">
+				<img style='position:relative;vertical-align:middle;' src='../../images/left-arrow-min.png' width="15px" id="test5">
+				<img style='position:relative;vertical-align:middle;' src='../../images/left-arrow-min.png' width="15px" id="test6">
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>
