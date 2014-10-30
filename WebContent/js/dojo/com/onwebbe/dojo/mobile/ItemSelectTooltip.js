@@ -72,7 +72,10 @@ define("com/onwebbe/dojo/mobile/ItemSelectTooltip", ["dojo/_base/declare",
 		updateData : function(data){
 			this.theData = data;
 		},
-		createList : function(){
+		createList : function(data){
+			if(typeof data!="undefined"){
+				this.theData = data;
+			}
 			var that = this;
 			var roundRectList = this.contentEle;
 			this.contentEle.destroyDescendants();
@@ -107,7 +110,7 @@ define("com/onwebbe/dojo/mobile/ItemSelectTooltip", ["dojo/_base/declare",
 						that.emit("listItemClicked",this.listData);
 						setTimeout(function(){
 							that.hide();
-							that.createList();
+							//that.createList(that.theData);
 						},300);
 					}));
 				}

@@ -67,6 +67,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 				console.log(that._data);
 				that._updateTargetType(itemData.id, "targetTypes", "add");
 				that._addTargetType(itemData);
+				setTimeout(function(){tooltip.createList(tooltipData);},500);
+				
 			});
 			this._tooltip = tooltip;
 			this.addChild(tooltip);

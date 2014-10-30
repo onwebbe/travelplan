@@ -209,6 +209,8 @@
 /mobile-all.js.uncompressed.js/1.1/Tue Jul  8 14:48:42 2014//
 /pageTurningUtils.js/1.1/Tue Jul  8 14:48:59 2014//
 /pageTurningUtils.js.uncompressed.js/1.1/Tue Jul  8 14:48:57 2014//
+/parser.js/1.2/Sat Jul 26 07:27:13 2014//
+/parser.js.comparessed/1.1/Sat Jul 26 07:27:12 2014//
 /scrollable.js/1.1/Tue Jul  8 14:48:54 2014//
 /scrollable.js.uncompressed.js/1.1/Tue Jul  8 14:48:57 2014//
 /sniff.js/1.1/Tue Jul  8 14:49:01 2014//
@@ -225,5 +227,3 @@ D/build////
 D/dh////
 D/nls////
 D/themes////
-/parser.js/1.2/Sat Jul 26 07:35:24 2014//
-/parser.js.comparessed/1.1/Sat Jul 26 07:27:12 2014//

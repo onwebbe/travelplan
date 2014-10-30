@@ -1,4 +1,4 @@
-define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane", 
+define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane", 
 	[
 	 	"dojo/_base/declare",
 	 	"dojo/Evented",
@@ -13,6 +13,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
  		"dojox/mobile/parser",
  		"dojox/mobile/CheckBox",
  		"dojo/on",
+ 		"dojox/mobile/SimpleDialog",
  		"dojox/mobile/RoundRectList",
  		"dojox/mobile/ListItem",
  		"dojox/mobile/ScrollablePane",
@@ -20,39 +21,42 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
  		"dojox/mobile/Accordion",
  		"dojox/mobile/Button",
  		"dojox/mobile/ScrollablePane",
- 		"dojox/mobile/ListItem"
+ 		"dojox/mobile/ListItem",
+ 		"dojox/mobile/TextArea",
+ 		"dojox/mobile/RadioButton"
  		], 
- 	function(declare, Evented, registry, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, on){
+ 	function(declare, Evented, registry, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, on, SimpleDialog){
 	/* Module:
-	 * com.onwebbe.dojo.mobile.travelPlan.TravelPackageItemListPane
-	 * com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane
-	 * noteMarkClicked
+	 * com.onwebbe.dojo.mobile.travelPlan.TravelPackageItemInvestoryListPane
+	 * com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane
+	 * 
+	 * Event:
+	 * itemAddClicked
+	 * questionMarkClicked
 	 * 
 	 * Summary:
 	*/
-	var getGroupData = function(groupData, searchid, labelName){
-		if(typeof labelName=="undefined"||labelName==null||labelName==""){
+	var getGroupLabel = function(groupData, searchid, labelName){
+		if(typeof labelName=="undefinpackageListItemInvestoryCategorysed"||labelName==null||labelName==""){
 			labelName = "label";
 		}
 		var foundDataLabel = null;
 		for(i=0;i<groupData.length;i++){
 			var data = groupData[i];
 			if(data.id==searchid){
-				foundDataLabel = data;
+				foundDataLabel = data[labelName];
 				break;
 			}
 		}
 		return foundDataLabel;
 	}
-	var travelPackageItemListPane =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelPackageItemListPane", [RoundRect, Evented], {
+	var travelPackageItemListPane =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelPackageItemListPane", [RoundRect,Evented], {
 		_theData : null,
 		_groupData : null,
 		_listScrollPane : null,
 		_tooltip : null,
-		_itemIndex : 0,
-		getItemIndex : function(){
-			return this._itemIndex++;
-		},
+		_addNewItemDialog : null,
+		_noteDialog : null,
 		postCreate: function(){
 			this.inherited(arguments);
 			var that = this;
@@ -60,15 +64,20 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			//this.domNode.className="mainPagePackageInfoPackageItemPane";
 			//add for title
 			var titleDIVEle = domCon.create("div", titleDIVEle);
-			titleDIVEle.innerHTML="打包列表";
+			titleDIVEle.innerHTML="打包仓库";
 			this.domNode.appendChild(titleDIVEle);
 			
 			//add for function buttons
 			var functionP = domCon.create("div", {style:"margin-top:5px;"});
-			var cateSearchDijit = new dojox.mobile.Button({label:"分类查询", style:"text-align:center;display:inline-block;width:200px;"});
+			var cateSearchDijit = new dojox.mobile.Button({label:"分类查询", style:"text-align:center;display:inline-block;width:150px;"});
 			functionP.appendChild(cateSearchDijit.domNode);
-			var listEditDijit = new dojox.mobile.Button({label:"编辑", style:"text-align:center;display:inline-block;;float:right;"});
-			functionP.appendChild(listEditDijit.domNode);
+			
+			var addNewItemInInvestory = new dojox.mobile.Button({label:"添加新项", style:"float:right;"});
+			functionP.appendChild(addNewItemInInvestory.domNode);
+			addNewItemInInvestory.on("click", function(){
+				that._addNewItemDialog.show();
+			});
+			
 			
 			this.domNode.appendChild(functionP);
 			
@@ -82,13 +91,16 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			var totalWindowSize = win.getBox();
 			var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",dojo.query("#mainFunctionView")[0])[0];
 			var headerHeight = domgeo.getContentBox(headerEle);
-			var actualHeight = totalWindowSize.h - headerHeight.h - 82+20;
-			var eachPaneWidth = (totalWindowSize.w-24*2-14*2-20*3)/3;
+			var actualHeight = totalWindowSize.h - headerHeight.h - 82+21;
+			
+			
+			var theHeight =actualHeight-4-36;
+			
 			var mainPagePackageInfoPackageItemPane = this.domNode;
 			//mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-20+"px";
 			var packageListScrollPane = listOuterScrollPane.domNode;
 			var packageListBox = domgeo.getContentBox(packageListScrollPane);
-			packageListBox.h=actualHeight-4-34;
+			packageListBox.h=theHeight;
 			packageListBox.w=mainPagePackageInfoPackageItemPane.style.width;
 			domgeo.setContentSize(packageListScrollPane, packageListBox); 
 			
@@ -110,66 +122,33 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 					//console.log(groupSelectEle);
 					//that._listScrollPane.scrollTo(groupSelectEle);
 				}
-				
 			}));
 			this.addChild(tooltip);
 			this._tooltip = tooltip;
 			this.own(cateSearchDijit.on("click", function(){
 				tooltip.showTip(cateSearchDijit.domNode);
 			}));
-			listEditDijit.isDelStatus = false;
-			this.own(listEditDijit.on("click", function(){
-				if(this.isDelStatus==false){
-					var delIcons = dojo.query(".mblListItemDeleteIcon", that.domNode);
-					for(delIconIndex = 0;delIconIndex<delIcons.length;delIconIndex++){
-						var delIcon = delIcons[delIconIndex];
-						delIcon.style.display="block";
-					}
-				}
-				if(this.isDelStatus==true){
-					var delIcons = dojo.query(".mblListItemDeleteIcon", that.domNode);
-					for(delIconIndex = 0;delIconIndex<delIcons.length;delIconIndex++){
-						var delIcon = delIcons[delIconIndex];
-						delIcon.style.display="none";
-					}
-				}
-				this.isDelStatus = !this.isDelStatus;
-			}));
+			this.prepareAddItemDialog();
 		},
 		createItem : function(itemData){
 			var that = this;
 			var cateItemLabel = itemData.label;
-			var itemIndex = this.getItemIndex();
-			var itemID = "TravelPackageItemListPaneItemList_"+itemData.id+"_"+itemIndex;
-			var itemCategoryID = itemData.backupCategory;
+			var itemID = "TravelPackageItemInvestoryListPaneItemList_"+itemData.id;
 			var existItemDijit = registry.byId(itemID);
 			if(existItemDijit!=null){
 				existItemDijit.destroyRecursive();
 			}
-			var listItemText = '<div><div id="'+itemID+'" category="'+itemCategoryID+'" data-dojo-type="dojox/mobile/ListItem" style="" data-dojo-props="deleteIcon:\'../../images/delete-trash-30.png\', rightText:\'<div style=margin-right:15px; class=mainPagePackageListNotReady></div>\', rightIcon:\'../../images/notes-30.png\'">'+cateItemLabel+'</div></div>';
+			var listItemText = '<div><div id='+itemID+' data-dojo-type="dojox/mobile/ListItem" style="" data-dojo-props="deleteIcon:\'../../images/add.png\', rightText:\'<div style=margin-right:15px; class=mainPagePackageListNotReady></div>\', rightIcon:\'../../images/questions-30.png\'">'+cateItemLabel+'</div></div>';
 			var listItemEle = domCon.toDom(listItemText);
 			var categoryItemListItem = parser.parse(listItemEle)[0];
-			categoryItemListItem.category = itemCategoryID;
+			categoryItemListItem.itemData = itemData;
 			var categoryItemListItemEle = dojo.query(".mblListItemDeleteIcon", categoryItemListItem.domNode)[0];
 			categoryItemListItemEle.itemData = itemData;
-			categoryItemListItemEle.style.backgroundColor="#f9a4b1";
+			/*categoryItemListItemEle.style.backgroundColor="#f9a4b1";
 			categoryItemListItemEle.style.display="none";
-			/*var categoryItemListItem = new dojox.mobile.ListItem({label:cateItemLabel, icon:'../../images/delete-trash-30.png', rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/notes-30.png'});
+			var categoryItemListItem = new dojox.mobile.ListItem({label:cateItemLabel, icon:'../../images/delete-trash-30.png', rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/notes-30.png'});
 			categoryItemListItem.set("icon", '../../images/delete-trash-30.png');
 			categoryItemListItem.set("deleteIcon", '../../images/delete-trash-30.png');*/
-			var checkBoxItemID = "CheckBox_TravelPackageItemListPaneItemList_"+itemData.id+"_"+itemIndex;
-			var checkBox = new dojox.mobile.CheckBox({id:checkBoxItemID, style:""});
-			this.own(checkBox.on("click", function(){
-				var checkboxValue = this.get("value"); //on or false
-				if("on"==checkboxValue){
-					categoryItemListItem.set("style", "background-color:#beffa3;");
-				}else{
-					categoryItemListItem.set("style", "background-color:#ffffff;")
-				}
-			}));
-			var mainPagePackageListNotReadyEle = dojo.query(".mainPagePackageListNotReady", categoryItemListItem.domNode)[0];
-			mainPagePackageListNotReadyEle.appendChild(checkBox.domNode);
-			mainPagePackageListNotReadyEle.appendChild(domCon.create("label",{"for":checkBoxItemID, innerHTML:"已备好"}))
 			
 			
 			var delIcon = dojo.query(".mblListItemDeleteIcon", categoryItemListItem.domNode)[0];
@@ -177,22 +156,21 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			delIcon.style.cursor="pointer";
 			delIcon.parentItemDijit = categoryItemListItem;
 			this.own(on(delIcon, "click", function(){
-				//console.log(this.parentItemDijit.domNode);
-				this.parentItemDijit.destroyRecursive();
+				that.emit("itemAddClicked",categoryItemListItem);
 			}));
 			
-			
-			//prepare edit note
 			var noteIcon = dojo.query(".mblListItemRightIcon", categoryItemListItem.domNode)[0];
 			noteIcon.style.cursor="pointer";
-			this.own(on(noteIcon, "click", function(){
-				that.emit("noteMarkClicked", itemData);
-			}));
+			
+			var questionIconEle = dojo.query(".mblListItemRightIcon", categoryItemListItem.domNode)[0];
+			questionIconEle.itemData = itemData;
+			on(questionIconEle, "click", function(){
+				that.emit("questionMarkClicked", itemData);
+			});
 			return categoryItemListItem;
 		},
 		updateData: function(theData, groupData){
 			var that = this;
-			
 			
 			//prepare Data
 			var packageListItemCategorys = dojo.clone(groupData);
@@ -215,27 +193,23 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			var listP = this._listScrollPane;
 			var listPEle = dojo.query("div:eq(0)",this._listScrollPane.domNode)[0];
 			listP.destroyDescendants();
-			var groupData = new GroupDataUtil();
-			groupData.setFunction("category");
-			groupData.setItems(this._theData);
-			var groups = groupData.getGroups();
-			//console.log(groups);
+			var groupInvestoryData = new GroupDataUtil();
+			groupInvestoryData.setFunction("category");
+			groupInvestoryData.setItems(this._theData);
+			var groups = groupInvestoryData.getGroups();
+			console.log(groups);
 			for(var groupCountIndex=0;groupCountIndex<groups.length;groupCountIndex++){
 				var groupID = groups[groupCountIndex];
-				//console.log(groupCountIndex+":"+groupID);
-				var groupObj = getGroupData(this._groupData, groupID);
-				var groupLabel = groupObj.label;
-				var groupBackupID = groupObj.backupID;
+				console.log(groupCountIndex+":"+groupID);
+				var groupLabel = getGroupLabel(this._groupData, groupID);
 				//insert category title
 				var groupTitleEle = domCon.create("div");
 				groupTitleEle.innerHTML=groupLabel;
 				groupTitleEle.className=groupID;
 				listPEle.appendChild(groupTitleEle);
 				//insert category items
-				var categoryItems = groupData.getGroupItems(groupID);
-				console.log(groupID);
-				var categoryItemsRoundedList = new dojox.mobile.RoundRectList({id:"mainPageTravelPackage_packageList_"+groupID, style:"margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;"});
-				categoryItemsRoundedList.set("backupID", groupBackupID);
+				var categoryItems = groupInvestoryData.getGroupItems(groupID);
+				var categoryItemsRoundedList = new dojox.mobile.RoundRectList({style:"margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;"});
 				for(var groupItemIndex=0;groupItemIndex<categoryItems.length;groupItemIndex++){
 					var categoryItem = categoryItems[groupItemIndex];
 					var categoryItemListItem = this.createItem(categoryItem);
@@ -248,30 +222,63 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			var tooltip = this._tooltip;
 			tooltip.updateData(this._groupData);
 			tooltip.createList();
+			//prepare selection for the diaplog
+			var dialogRadioText = "";
+			var gds = this._groupData;
+			for(var i=0;i<gds.length;i++){
+				var gdItem = gds[i];
+				dialogRadioText = dialogRadioText + "<input type='radio' value='"+gdItem.id+"' name='addItemCategorySelector' data-dojo-type='dojox/mobile/RadioButton' style='display:inline-block;'/><label style='position:relative;top:8px;padding-left:8px;'>"+gdItem.label+"</label><br/>";
+			}
+			var dialogCategorySelectorEle = dojo.query("td.dialogCategorySelector", this._addNewItemDialog.domNode)[0];
+			dialogCategorySelectorEle.innerHTML = dialogRadioText;
+			parser.parse(dialogCategorySelectorEle);
+		},
+		prepareAddItemDialog : function(){
+			var simpleDialog = new SimpleDialog({closeButton:true});
+			this.domNode.appendChild(simpleDialog.domNode);
+			var theElementHTML = "<div><div data-dojo-type='dojox/mobile/ContentPane'><table>"+
+			"	<tr>"+
+			"		<td colspan='2' class='dlgTitle' style='width:100%;text-align:center;border-bottom:1px solid grey;font-size:20pt;'><label>新建打包物品</label></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td width='50px'><label>名字</label></td>"+
+			"		<td><input data-dojo-type='dojox/mobile/TextBox'/></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td><label><label>分类</label></label></td>"+
+			"		<td class='dialogCategorySelector' style='text-align:left;'>"+
+			"			<label>aaaaaa</label><div data-dojo-type='dojox/mobile/RadioButton' style='display:inline-block;'></div>"+
+			"			<label>bbbbbb</label><div data-dojo-type='dojox/mobile/RadioButton' style='display:inline-block;'></div>"+
+			"			<label>cccccc</label><div data-dojo-type='dojox/mobile/RadioButton' style='display:inline-block;'></div>"+
+			"		</td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td><label>简介</label></td>"+
+			"		<td><textarea data-dojo-type='dojox/mobile/TextArea'>123123123123</textarea></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td colspan='2'>"+
+			"			<div class='addItemConfirmButton' data-dojo-type='dojox/mobile/Button' style='background-color:#beffa3;margin-left:25px;text-align:center;'>确定</div>"+
+			"		</td>"+
+			"	</tr>"+
+			"</table><div><div>";
+			var theElementHTMLEle = domCon.toDom(theElementHTML);
+			
+			var container = dojo.query(".mblSimpleDialogContainer", simpleDialog.domNode)[0];
+			container.appendChild(theElementHTMLEle);
+			var contentElement = parser.parse(theElementHTMLEle)[0];
+			
+			var addButtonEle = dojo.query(".addItemConfirmButton", simpleDialog.domNode)[0];
+			var addButtonDijit = registry.byNode(addButtonEle);
+			addButtonDijit.on("click", function(){
+				simpleDialog.hide();
+			});
+			
+			this._addNewItemDialog = simpleDialog;
 		},
 		destory : function(){
 			var listP = this._listScrollPane;
 			listP.destroyDescendants();
-		},
-		addListItem : function(itemData){
-			var that = this;
-			var listItem = this.createItem(itemData);
-			var theCategory = listItem.get("category");
-			var groupElements = dojo.query("ul", this.domNode);
-			var itemDataCategory = itemData.backupCategory;
-			for(var i=0;i<groupElements.length;i++){
-				var groupElement = groupElements[i];
-				var groupDijit = registry.byNode(groupElement);
-				var groupElementCategory = groupDijit.get("backupID");
-				if(groupElementCategory==itemDataCategory){
-					groupDijit.addChild(listItem);
-					break;
-				}
-			}
-			
-			var topY = listItem.domNode.offsetTop;
-	     	topY = topY;
-			that._listScrollPane.slideTo({"y":-topY},0.5);
 		}
 	});
 	return travelPackageItemListPane;

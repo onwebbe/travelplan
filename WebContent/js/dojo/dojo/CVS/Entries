@@ -44,6 +44,8 @@
 /date.js.uncompressed.js/1.1/Tue Jul  8 14:50:44 2014//
 /debounce.js/1.1/Tue Jul  8 14:50:53 2014//
 /debounce.js.uncompressed.js/1.1/Tue Jul  8 14:50:41 2014//
+/dojo.js/1.2/Sat Jul 26 07:27:11 2014//
+/dojo.js.compressed/1.1/Sat Jul 26 07:27:11 2014//
 /dojo.profile.js/1.1/Tue Jul  8 14:50:43 2014//
 /dom-attr.js/1.1/Tue Jul  8 14:50:48 2014//
 /dom-attr.js.uncompressed.js/1.1/Tue Jul  8 14:50:52 2014//
@@ -146,5 +148,3 @@ D/router////
 D/rpc////
 D/selector////
 D/store////
-/dojo.js/1.2/Sat Jul 26 07:35:03 2014//
-/dojo.js.compressed/1.1/Sat Jul 26 07:27:11 2014//

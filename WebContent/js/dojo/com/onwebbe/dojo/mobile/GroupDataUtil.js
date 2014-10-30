@@ -62,6 +62,10 @@ define("com/onwebbe/dojo/mobile/GroupDataUtil", ["dojo/_base/declare"
 		addItems: function(items){
 			this.initialData(items);
 		},
+		setItems: function(items){
+			this.clearAllData();
+			this.addItems(items)
+		},
 		setGroupRule: function(fn){
 			this._groupFunction = fn;
 		},

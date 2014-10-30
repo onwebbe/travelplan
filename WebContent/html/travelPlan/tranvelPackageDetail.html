@@ -11,7 +11,8 @@ require([
  		"dojox/mobile/RoundRect",
  		"dojox/mobile/Accordion",
  		"dojox/mobile/Button",
- 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane"
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane"
  		], 
  	function(registry, domgeo, win){
 		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
@@ -39,7 +40,7 @@ require([
 		
 		
 		var mainPagePackageInfoPackageItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
-		mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-40+"px";
+		mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-40-15+"px";
 		/* var mainPagePackageInfoPackageItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
 		mainPagePackageInfoPackageItemPane.style.width = eachPaneWidth + 73*2-20+"px";
 		var packageListScrollPane = dojo.query(".packageListScrollPane", controller.getCurrentView().domNode)[0];
@@ -61,20 +62,62 @@ require([
 		
 		
 		
-		var rightFinalPaneWidth = eachPaneWidth-73 + 30;
+		var rightFinalPaneWidth = eachPaneWidth-73 + 30+15;
 		var investoryPane = dojo.query(".mainPagePackageInfoPackageItemInvestoryPane", controller.getCurrentView().domNode)[0];
 		investoryPane.style.width=rightFinalPaneWidth+"px";
 		
-		var packageInvestoryListScrollPane = dojo.query(".packageInvestoryListScrollPane", controller.getCurrentView().domNode)[0];
+		/* var packageInvestoryListScrollPane = dojo.query(".packageInvestoryListScrollPane", controller.getCurrentView().domNode)[0];
 		var packageInvestoryScrollBox = domgeo.getContentBox(packageInvestoryListScrollPane);
 		packageInvestoryScrollBox.h=actualHeight-4-36;;
-		domgeo.setContentSize(packageInvestoryListScrollPane, packageInvestoryScrollBox);
+		domgeo.setContentSize(packageInvestoryListScrollPane, packageInvestoryScrollBox); */
 		
 		initPackagePage();
 	}
 )
 </script>
 <script>
+function initNoteDialog(){
+	require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojox/mobile/SimpleDialog","dojox/mobile/TextArea","dojox/mobile/ContentPane"], function(parser, domCon, registry, SimpleDialog){
+		var travelInformationTravelPackageDetailPaneDijit = registry.byId("travelInformationTravelPackageDetailPane");
+		var prepareEditNoteDialog = function(){
+			var noteSimpleDialog = new SimpleDialog({closeButton:true});
+			travelInformationTravelPackageDetailPaneDijit.domNode.appendChild(noteSimpleDialog.domNode);
+			var theElementHTML = "<div><div data-dojo-type='dojox/mobile/ContentPane'><table>"+
+			"	<tr>"+
+			"		<td colspan='2' class='dlgTitle' style='width:100%;text-align:center;border-bottom:1px solid grey;font-size:16pt;'><label class='noteSimpleDialogTitle'></label></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td colspan='2' class='dlgItemName' style='width:100%;text-align:center;border-bottom:1px solid grey;font-size:13pt;'><label class='noteSimpleDialogTitle'></label></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td><label>简介</label></td>"+
+			"		<td><textarea class='noteSimpleDialogDescription' data-dojo-type='dojox/mobile/TextArea'></textarea></td>"+
+			"	</tr>"+
+			"</table><div><div>";
+			var theElementHTMLEle = domCon.toDom(theElementHTML);
+			
+			var container = dojo.query(".mblSimpleDialogContainer", noteSimpleDialog.domNode)[0];
+			container.appendChild(theElementHTMLEle);
+			var contentElement = parser.parse(theElementHTMLEle)[0];
+			
+			
+			noteSimpleDialog.on("closeButtonClick", function(){
+				if(this.canEdit==true){
+					var descriptionEle = dojo.query(".noteSimpleDialogDescription",this.domNode)[0];
+					this.itemData.description = descriptionEle.value;
+					console.log(this.itemData.description);
+				}
+				
+			});
+			return noteSimpleDialog;
+		};
+		var noteDia  = prepareEditNoteDialog();
+		travelInformationTravelPackageDetailPaneDijit.noteDialog = noteDia;
+	});
+	
+	
+	
+}
 function initPackagePage(){
 	require([
 	  		"dijit/registry",
@@ -89,22 +132,101 @@ function initPackagePage(){
 	  		"dojox/mobile/Accordion"
 	  		], 
 	  	function(registry, domgeo, win, ItemSelectTooltip){
+			var travelInformationTravelPackageDetailPaneDijit = registry.byId("travelInformationTravelPackageDetailPane");
 			var itemCategorys = dataModule.getPackageItemCategory();
-			var selectedPackageItems = dojo.clone(dataModule.getPackageItemList());
-			var packageListItemCategorys = dojo.clone(itemCategorys);
-			for(i=0;i<packageListItemCategorys.length;i++){
+			var selectedPackageItems = dataModule.getPackageItemList();
+			/* for(i=0;i<packageListItemCategorys.length;i++){
 				var itemCategory = packageListItemCategorys[i];
-				itemCategory.id="PACKAGE-ITEM-"+itemCategory.id;
+				var backupID = itemCategory.id;
+				itemCategory.id="PACKAGE-ITEM-"+backupID;
+				itemCategory.backupID = backupID;
 			}
 			for(i=0;i<selectedPackageItems.length;i++){
 				var item = selectedPackageItems[i];
+				var backupCategory = item.category;
 				item.category="PACKAGE-ITEM-"+item.category;
-			}
+				item.backupCategory = backupCategory;
+			} */
 			var packageInfoItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
 			var packageInfoItemPaneDijit = registry.byNode(packageInfoItemPane);
-			packageInfoItemPaneDijit.updateData(selectedPackageItems,packageListItemCategorys);
+			packageInfoItemPaneDijit.updateData(selectedPackageItems,itemCategorys);
 			
 			
+			
+			var itemCategorysInvestory = dataModule.getPackageItemCategory();
+			var packageInvestoryItems = dataModule.getPackageItemList();
+			/* for(i=0;i<packageListItemInvestoryCategorys.length;i++){
+				var itemInvestoryCategory = packageListItemInvestoryCategorys[i];
+				var backupInvestoryID = itemInvestoryCategory.id;
+				itemInvestoryCategory.id="PACKAGE-ITEM-INVESTORY-"+backupInvestoryID;
+				itemInvestoryCategory.backupID = backupInvestoryID;
+			}
+			for(i=0;i<packageInvestoryItems.length;i++){
+				var itemInvestory = packageInvestoryItems[i];
+				var backupInvestoryCategory = itemInvestory.category;
+				itemInvestory.category="PACKAGE-ITEM-INVESTORY-"+backupInvestoryCategory;
+				itemInvestory.backupCategory = backupInvestoryCategory;
+			} */
+			var packageInfoInvestoryItemPane = dojo.query(".mainPagePackageInfoPackageItemInvestoryPane",controller.getCurrentView().domNode)[0];
+			var packageInfoItemInvestoryPaneDijit = registry.byNode(packageInfoInvestoryItemPane);
+			packageInfoItemInvestoryPaneDijit.updateData(packageInvestoryItems,itemCategorysInvestory);
+			packageInfoItemInvestoryPaneDijit.on("itemAddClicked", function(item){
+				console.log("add clicked:");
+				console.log(item.itemData);
+				packageInfoItemPaneDijit.addListItem(item.itemData);
+			});
+			
+			initNoteDialog();
+			var showEditNote = function(canEdit, itemData){
+				var dialogDijit = travelInformationTravelPackageDetailPaneDijit.noteDialog;
+				var title = "查看简介";
+				if(canEdit==true){
+					title = "编辑简介";
+				}
+				var titleEle = dojo.query(".noteSimpleDialogTitle",dialogDijit.domNode)[0];
+				titleEle.innerHTML=title;
+				
+				var itemDesc = "";
+				var itemName = "";
+				if(typeof itemData!="undefined"){
+					itemDesc = itemData.description;
+					if(typeof itemDesc=="undefined"||itemDesc==null){
+						itemDesc="";
+					}
+					
+					itemName = itemData.label;
+					if(typeof itemName=="undefined"||itemName==null){
+						itemName="";
+					}
+				}else{
+					itemDesc="";
+					itemName="";
+				}
+				
+				var descriptionEle = dojo.query(".noteSimpleDialogDescription",dialogDijit.domNode)[0];
+				descriptionEle.value=itemDesc;
+				if(canEdit==false){
+					descriptionEle.readOnly="readonly";
+				}else{
+					descriptionEle.readOnly=false
+				}
+				
+				var itemNameEle = dojo.query(".dlgItemName",dialogDijit.domNode)[0];
+				itemNameEle.innerHTML=itemName;
+				dialogDijit.itemData = itemData;
+				dialogDijit.canEdit = canEdit;
+				dialogDijit.show();
+			};
+			packageInfoItemInvestoryPaneDijit.on("questionMarkClicked", function(data){
+				var isEdit = false;
+				showEditNote(isEdit,data);
+			});
+			
+			
+			packageInfoItemPaneDijit.on("noteMarkClicked", function(data){
+				var isEdit = true;
+				showEditNote(isEdit,data);
+			});
 			/* 
 			
 			var tooltip = new ItemSelectTooltip();
@@ -206,8 +328,8 @@ function initPackagePage(){
 				</div>
 			</div> -->
 		</div>
-		<div class="mainPagePackageInfoPackageItemInvestoryPane" data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;width:33%;background-color:#e8e8e8;margin-left:5px;margin-right:-10px;margin-bottom:5px;">
-			<div>Packages Investory</div>
+		<div class="mainPagePackageInfoPackageItemInvestoryPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane" style="float:left;display:inline-block;width:33%;background-color:#e8e8e8;margin-left:5px;margin-right:-10px;margin-bottom:5px;">
+			<!-- <div>Packages Investory</div>
 			<div style="margin-top:5px;">
 				<div data-dojo-type="dojox/mobile/Button" style="text-align:center;">分类查询</div>
 			</div>
@@ -222,7 +344,7 @@ function initPackagePage(){
 					<div data-dojo-type="dojox/mobile/ListItem" style="" data-dojo-props="rightText:'<div class=mainPagePackageListNotReady></div>', rightIcon:'../../images/questions-30.png'">a</div>
 					<div data-dojo-type="dojox/mobile/ListItem" data-dojo-props="rightIcon:'../../images/questions-30.png'">b</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>
