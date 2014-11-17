@@ -12,7 +12,8 @@ require([
  		"dojox/mobile/Accordion",
  		"dojox/mobile/Button",
  		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
- 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane"
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane",
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane"
  		], 
  	function(registry, domgeo, win){
 		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
@@ -22,20 +23,20 @@ require([
 		
 		var mainPagePackageInfoTargetInfosPane = dojo.query(".mainPagePackageInfoTargetInfosPane",controller.getCurrentView().domNode)[0];
 		mainPagePackageInfoTargetInfosPane.style.width = eachPaneWidth - 62 +20 +10 +"px";
-		var headerHeight = domgeo.getContentBox(dojo.query("div[data-dojo-type='dojox/mobile/Heading']",controller.getCurrentView().domNode)[0]);
-		var actualHeight = totalWindowSize.h - headerHeight.h - 82+20;
+		/* var headerHeight = domgeo.getContentBox(dojo.query("div[data-dojo-type='dojox/mobile/Heading']",controller.getCurrentView().domNode)[0]);
+		
 		var targetListHeight = Math.round(actualHeight*0.6);
 		//console.log("totalHeight:"+totalHeight.h+":headerHeight:"+headerHeight.h+":actualHeight:"+actualHeight);
 		var scrollPane = dojo.query(".packageTargetListScrollPane", controller.getCurrentView().domNode)[0];
 		var box = domgeo.getContentBox(scrollPane);
 		box.h=targetListHeight;
-		domgeo.setContentSize(scrollPane, box);
-		
+		domgeo.setContentSize(scrollPane, box); 
+		var actualHeight = totalWindowSize.h - headerHeight.h - 82+20;
 		var targetTypeListHeight = actualHeight-targetListHeight-30;
 		var targetTypeScrollPane = dojo.query(".packageTargetTypesScrollPane", controller.getCurrentView().domNode)[0];
 		var targetTypeBox = domgeo.getContentBox(targetTypeScrollPane);
 		targetTypeBox.h=targetTypeListHeight;
-		domgeo.setContentSize(targetTypeScrollPane, targetTypeBox);
+		domgeo.setContentSize(targetTypeScrollPane, targetTypeBox);*/
 		
 		
 		
@@ -91,7 +92,19 @@ function initNoteDialog(){
 			"	</tr>"+
 			"	<tr>"+
 			"		<td><label>简介</label></td>"+
-			"		<td><textarea class='noteSimpleDialogDescription' data-dojo-type='dojox/mobile/TextArea'></textarea></td>"+
+			"		<td><textarea class='noteSimpleDialogDescription' data-dojo-type='dojox/mobile/TextArea' style='background-color:#E8E8E8;'></textarea></td>"+
+			"	</tr>"+
+			"	<tr>"+
+			"		<td>"+
+			"		<div style='display:none;' class='noteSimpleDialogCommentsTR'>"+
+			"			<label>备注</label>"+
+			"		</div>"+
+			"		</td>"+
+			"		<td>"+
+			"		<div style='display:none;' class='noteSimpleDialogCommentsTR'>"+
+			"			<textarea class='noteSimpleDialogComments' data-dojo-type='dojox/mobile/TextArea'></textarea>"+
+			"		</td>"+
+			"		</div>"+
 			"	</tr>"+
 			"</table><div><div>";
 			var theElementHTMLEle = domCon.toDom(theElementHTML);
@@ -132,9 +145,10 @@ function initPackagePage(){
 	  		"dojox/mobile/Accordion"
 	  		], 
 	  	function(registry, domgeo, win, ItemSelectTooltip){
+		
+			
 			var travelInformationTravelPackageDetailPaneDijit = registry.byId("travelInformationTravelPackageDetailPane");
-			var itemCategorys = dataModule.getPackageItemCategory();
-			var selectedPackageItems = dataModule.getPackageItemList();
+			
 			/* for(i=0;i<packageListItemCategorys.length;i++){
 				var itemCategory = packageListItemCategorys[i];
 				var backupID = itemCategory.id;
@@ -147,6 +161,16 @@ function initPackagePage(){
 				item.category="PACKAGE-ITEM-"+item.category;
 				item.backupCategory = backupCategory;
 			} */
+			
+			var targetList = dataModule.getSelectedTarget();
+			var targetTypeCate = dataModule.getTargetType();
+			var targetListItemPane = dojo.query(".mainPagePackageInfoTargetInfosPane",controller.getCurrentView().domNode)[0];
+			var targetListItemPaneDijit = registry.byNode(targetListItemPane);
+			targetListItemPaneDijit.updateData(targetList,targetTypeCate);
+			
+			
+			var itemCategorys = dataModule.getPackageItemCategory();
+			var selectedPackageItems = dataModule.getPackageItemList();
 			var packageInfoItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
 			var packageInfoItemPaneDijit = registry.byNode(packageInfoItemPane);
 			packageInfoItemPaneDijit.updateData(selectedPackageItems,itemCategorys);
@@ -188,6 +212,7 @@ function initPackagePage(){
 				
 				var itemDesc = "";
 				var itemName = "";
+				var itemComments = "";
 				if(typeof itemData!="undefined"){
 					itemDesc = itemData.description;
 					if(typeof itemDesc=="undefined"||itemDesc==null){
@@ -198,17 +223,30 @@ function initPackagePage(){
 					if(typeof itemName=="undefined"||itemName==null){
 						itemName="";
 					}
+					
+					itemComments = itemData.comments;
+					if(typeof itemComments=="undefined"||itemComments==null){
+						itemComments="";
+					}
 				}else{
 					itemDesc="";
 					itemName="";
+					itemComments="";
 				}
 				
 				var descriptionEle = dojo.query(".noteSimpleDialogDescription",dialogDijit.domNode)[0];
 				descriptionEle.value=itemDesc;
-				if(canEdit==false){
-					descriptionEle.readOnly="readonly";
-				}else{
-					descriptionEle.readOnly=false
+				descriptionEle.readOnly="readonly";
+				
+				
+				var descriptionEle = dojo.query(".noteSimpleDialogCommentsTR",dialogDijit.domNode);
+				descriptionEle.value=itemComments;
+				for(i=0;i<descriptionEle.length;i++){
+					if(canEdit==false){
+						descriptionEle[i].style.display="none";
+					}else{
+						descriptionEle[i].style.display="block";
+					}
 				}
 				
 				var itemNameEle = dojo.query(".dlgItemName",dialogDijit.domNode)[0];
@@ -252,8 +290,8 @@ function initPackagePage(){
 </div>
 <div>
 	<div style="width:100%;height:100%;" data-dojo-type="dojox/mobile/ContentPane" id="travelInformationTravelPackageDetailPane">
-		<div class="mainPagePackageInfoTargetInfosPane" data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;width:33%;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;">
-			Target List
+		<div class="mainPagePackageInfoTargetInfosPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;">
+			<!-- Target List
 			<div class="packageTargetListScrollPane" data-dojo-type="dojox/mobile/ScrollablePane" style="margin-top:5px;">
 				<div data-dojo-type="dojox/mobile/RoundRectList" style="margin-top:5px;margin-left: 10px; margin-right: 10px;">
 					<div data-dojo-type="dojox/mobile/ListItem">a</div>
@@ -290,9 +328,9 @@ function initPackagePage(){
 					<div data-dojo-type="dojox/mobile/ListItem">b</div>
 				</div>
 			</div>
-			<div data-dojo-type="dojox/mobile/ContentPane" style="margin-top:5px;border-top:1px solid black;">
-			Target Types
-				<div class="packageTargetTypesScrollPane" data-dojo-type="dojox/mobile/ScrollablePane">
+			
+			<div>Target Types</div>
+				<div class="packageTargetTypesScrollPane" data-dojo-type="dojox/mobile/ScrollablePane" style="margin-top:5px;">
 					<div data-dojo-type="dojox/mobile/GridLayout" data-dojo-props='cols:2'>
 						<div data-dojo-type='dojox/mobile/ContentPane'>
 							<div data-dojo-type='dojox/mobile/RoundRect' style="margin-left:10px;margin-right:10px;">
@@ -306,8 +344,7 @@ function initPackagePage(){
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
+				</div> -->
 		</div>
 		<div class="mainPagePackageInfoPackageItemPane" data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;">
 			<!-- Packages<br/>

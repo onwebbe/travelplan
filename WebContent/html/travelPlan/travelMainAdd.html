@@ -145,6 +145,9 @@ function travelMainAddViewInit(){
     	registry.byId("travelMainAddConfirmButton").on("click", function(){
     		var selectedData = registry.byId("travelMainTargetContentPane")._selectedData;
     		dataModule.setSelectedTarget(selectedData);
+    		console.log("---------------------selected item as below-----------------------------");
+    		console.log(selectedData);
+    		console.log("------------------------------------------------------------------------");
     		controller.switchView("mainPage.html");
     	});
     	

@@ -138,7 +138,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 				descriptionEle.innerHTML=introduction;
 				outerScrollableEle.appendChild(descriptionEle);
 				
-				var innerElementText = "<div data-dojo-type='dojox/mobile/GridLayout' data-dojo-props='cols:2'></div>";
+				var innerElementText = "<div data-dojo-type='dojox/mobile/ContentPane' data-dojo-props='cols:2'></div>";
 				var innerElement = domCon.toDom(innerElementText);
 				this._targetTypeInnerElement = innerElement;
 				outerScrollableEle.appendChild(innerElement);
@@ -166,8 +166,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 				console.log(targetTypes);
 				for(i=0;i<targetTypes.length;i++){
 					var tmpTargetTypes = targetTypes[i];
-					var targetTypeElementText = "<div data-dojo-type='dojox/mobile/ContentPane'>"
-													+"<div class='deleteElement' style='margin-right:10px;margin-top:8px;float:right;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;cursor:pointer;valign:middle;vertical-align:middle;background-color:#f9a4b1;'><img style='vertical-align:middle;' src='../../images/delete-trash-30.png'></div>"
+					var targetTypeElementText = "<div data-dojo-type='dojox/mobile/ContentPane' style='display:inline-block;' class='gridContentPaneTargetTypes'>"
+													+"<div class='deleteElement' style='margin-right:30px;margin-top:8px;float:right;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;cursor:pointer;valign:middle;vertical-align:middle;background-color:#f9a4b1;'><img style='vertical-align:middle;' src='../../images/delete-trash-30.png'></div>"
 													+"<div data-dojo-type='dojox/mobile/RoundRect'>"
 													+tmpTargetTypes.label
 													+"<br/>"
@@ -192,13 +192,28 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 					}));
 					
 					innerElement.appendChild(targetTypeElement);
+					
+					
 				}
 				parser.parse(outerElement);
 				
 				this._pane3Element.appendChild(outerElement);
 				
 				
+				
+				var innerElementSize = domgeo.getContentBox(innerElement);
+				var innerElement2ColWidth = innerElementSize.w/2-10;
+				var gridContentPaneTargetTypes = dojo.query(".gridContentPaneTargetTypes",outerElement);
+				for(i=0;i<gridContentPaneTargetTypes.length;i++){
+					var gridContentPaneTargetType = gridContentPaneTargetTypes[i];
+					var gridContentPaneTargetTypeSize = domgeo.getContentBox(gridContentPaneTargetType);
+					gridContentPaneTargetTypeSize.w = innerElement2ColWidth;
+					domgeo.setContentSize(gridContentPaneTargetType, gridContentPaneTargetTypeSize);
+				}
+				
+				
 				//create pane1 content (title)
+
 				var titleText = "<div><div style='border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;text-align:center;background-color:#89e789'>"
 								+"<div class='deleteElement' style='display:none;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;float:left;cursor:pointer;valign:middle;vertical-align:middle;background-color:#f9a4b1;'><img style='vertical-align:middle;' src='../../images/delete-trash-30.png'></div>"
 								+that._data[nameDisplayElement]
@@ -236,6 +251,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 				this._pane1Element.style.lineHeight="40px";
 				this._pane1Element.style.marginTop="5px";
 				this._pane1Element.appendChild(titleObj);
+				var titleObjSize = domgeo.getContentBox(titleObj);
+				titleObjSize.w = titleObjSize.w-60;
+				domgeo.setContentSize(titleObj, titleObjSize);
+				titleObj.style.marginLeft="30px";
 				
 				//advice length Pane
 				var titleObjWidth = titleObj.clientWidth;
@@ -296,8 +315,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 			var innerElement = this._targetTypeInnerElement;
 			var tmpTargetTypes = targetTypeObj;
 			var outerDummyElement = document.createElement("div");
-			var targetTypeElementText = "<div data-dojo-type='dojox/mobile/ContentPane'>"
-											+"<div class='deleteElement' style='margin-right:10px;margin-top:8px;float:right;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;cursor:pointer;valign:middle;vertical-align:middle;background-color:#f9a4b1;'><img style='vertical-align:middle;' src='../../images/delete-trash-30.png'></div>"
+			var targetTypeElementText = "<div data-dojo-type='dojox/mobile/ContentPane' class='gridContentPaneTargetTypes' style='display:inline-block;'>"
+											+"<div class='deleteElement' style='margin-right:30px;margin-top:8px;float:right;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;cursor:pointer;valign:middle;vertical-align:middle;background-color:#f9a4b1;'><img style='vertical-align:middle;' src='../../images/delete-trash-30.png'></div>"
 											+"<div data-dojo-type='dojox/mobile/RoundRect'>"
 											+tmpTargetTypes.label
 											+"<br/>"
@@ -324,6 +343,15 @@ define("com/onwebbe/dojo/mobile/travelPlan/TargetContentInfoPane", [
 			var innerDijit = parser.parse(outerDummyElement)[0];
 			console.log(innerDijit);
 			var gridDijit = registry.byNode(innerElement);
+			
+			
+			var innerElementSize = domgeo.getContentBox(innerElement);
+			var innerElement2ColWidth = innerElementSize.w/2-10;
+			var gridContentPaneTargetType = targetTypeElement;
+			var gridContentPaneTargetTypeSize = domgeo.getContentBox(gridContentPaneTargetType);
+			gridContentPaneTargetTypeSize.w = innerElement2ColWidth;
+			domgeo.setContentSize(gridContentPaneTargetType, gridContentPaneTargetTypeSize);
+			
 			gridDijit.addChild(innerDijit);
 		},
 		_updateSummaryPane : function(data, mode, displayPropertyName, targetTypes, targetTypeName){
