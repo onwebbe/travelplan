@@ -65,6 +65,9 @@ function travelMainFuninit(){
 				}else if(fid=="plan"){
 					replaceContentDijit.destroyDescendants();
 					controller.switchView("travelMainAdd.html");
+				}else if(fid=="prep"){
+					replaceContentDijit.destroyDescendants();
+					com.onwebbe.dojo.mobile.MobileDynamicViewController.replaceContent("mainPageContent.html",replaceContentEle);
 				}
 			}));
 		}	

@@ -1,0 +1,95 @@
+<div>
+<script>
+require([
+ 		"dijit/registry",
+ 		"dojo/dom-geometry",
+ 		"dojo/window",
+ 		"dojox/mobile/TextBox",
+ 		"dojox/mobile/TextArea"
+ 		], 
+ 	function(registry, domgeo, win){
+		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
+		initMainPage();
+	}
+);
+
+function initMainPage(){
+require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-geometry","dojo/window"], 
+	function(parser, domCon, registry, domgeo, win){
+		var mainElement = dojo.query("#travelPlanMainPageMainContentPane")[0];
+		var leftEle = dojo.query(".mainContentLeftPane", mainElement)[0];
+		var midEle = dojo.query(".mainContentMidPane", mainElement)[0];
+		var rightEle = dojo.query(".mainContentRightPane", mainElement)[0];
+		var mainElementBox = domgeo.getContentBox(mainElement);
+		var mainElementWidth = mainElementBox.w;
+		var leftEleWidth = mainElementWidth/3-28;
+		var midEleWidth = mainElementWidth/3-28;
+		var rightEleWidth = mainElementWidth/3-28;
+		var totalWindowSize = win.getBox();
+		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",dojo.query("#mainFunctionView")[0])[0];
+		var headerHeight = domgeo.getContentBox(headerEle);
+		var actualHeight = totalWindowSize.h - headerHeight.h - 82+40;
+		
+		var leftEleBox = domgeo.getContentBox(leftEle);
+		var midEleBox = domgeo.getContentBox(midEle);
+		var rightEleBox = domgeo.getContentBox(rightEle);
+		leftEleBox.w = leftEleWidth;
+		midEleBox.w = midEleWidth;
+		rightEleBox.w = rightEleWidth;
+		leftEleBox.h = actualHeight;
+		midEleBox.h = actualHeight;
+		rightEleBox.h = actualHeight;
+		domgeo.setContentSize(leftEle, leftEleBox);
+		domgeo.setContentSize(midEle, midEleBox);
+		domgeo.setContentSize(rightEle, rightEleBox);
+	});
+
+}
+
+</script>
+</div>
+<div>
+	<div data-dojo-type="dojox/mobile/ContentPane" id="travelPlanMainPageMainContentPane">
+		<div data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentLeftPane">
+			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;">
+				<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'Enter Travel Plan Name'" style="width:200px;"/>
+			</div>
+			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;">
+				<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'Please Enter Introduction here.'"></textarea>
+			</div>
+			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+				2014-6-3<br/>2014-7-10<br/>(3 Days)
+			</div>
+			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+				Children(0-3): 3 <br/>
+				Children(>3): 3 <br/>
+				Audlt: 3
+			</div>
+			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					Place a
+				</div>
+				->
+				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					Place a
+				</div>
+				->
+				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					Place a
+				</div>
+				->
+				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					Place a
+				</div>
+				->
+				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					Place a
+				</div>
+			</div>
+		</div>
+		<div data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentMidPane">
+		</div>
+		<div data-dojo-type="dojox/mobile/RoundRect" style=float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentRightPane">
+		</div>
+	</div>
+</div>
