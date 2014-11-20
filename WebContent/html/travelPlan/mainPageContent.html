@@ -1,5 +1,6 @@
 <div>
 <script>
+
 require([
  		"dijit/registry",
  		"dojo/dom-geometry",
@@ -14,6 +15,14 @@ require([
 		initMainPage();
 	}
 );
+function getDateObject(dateStr){
+	var dateStrs = dateStr.split("-");
+	var year = dateStrs[0];
+	var month = dateStrs[1];
+	var day = dateStrs[2];
+	var returnDate = new Date(year,month-1,day);
+	return returnDate;
+}
 function prepareTypeTooltips(ItemSelectTooltip, mainDijit, parentEle, on){
 	var tooltip = new ItemSelectTooltip();
 	mainDijit.addChild(tooltip);
@@ -110,7 +119,7 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		introTextAreaElement.style.height = 57+"px";
 		
 		var travelTimeRangeElemnet = dojo.query("[name='travelPlanMainPageMainContentTravelDateTimeRange']",mainElement)[0];
-		travelTimeRangeElemnet.style.height = 65+"px";
+		travelTimeRangeElemnet.style.height = 75+"px";
 		
 		//set borders
 		var computedInputBoxStyle = DomStyle.getComputedStyle(nameInputBoxElement);
@@ -146,13 +155,13 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 			var fromDateStr = dojo.query("[name='travelFromDate']",mainElement)[0].value;
 			var toDateStr = dojo.query("[name='travelToDate']",mainElement)[0].value;
 			if(fromDateStr==""||toDateStr==""){
-				this.innerHTML="- 天";
+				this.innerHTML="共  - 天";
 				return;
 			}
-			var fromDateObj = new Date(fromDateStr);
-			var toDateObj = new Date(toDateStr);
+			var fromDateObj = getDateObject(fromDateStr);
+			var toDateObj = getDateObject(toDateStr);
 			var gap = (toDateObj.getTime()-fromDateObj.getTime())/86400000;
-			this.innerHTML=gap+" 天";
+			this.innerHTML="共 "+gap+" 天";
 		}
 		prepareTypeTooltips(ItemSelectTooltip, registry.byNode(mainElement), travelTypeElement, on);
 		prepareDateSelectionTooltips(Tooltip,SpinWheelDatePicker, Button, registry.byNode(mainElement), dojo.query("[name='travelFromDate']",mainElement)[0], dojo.query("[name='travelFromDateSelector']",mainElement)[0], travelFromToDateGapEle, on, domCon);
@@ -177,7 +186,7 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 					<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'旅行计划介绍'" name="travelPlanMainPageMainContentIntroTextArea" style="resize:none;"></textarea>
 				</div>
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;" name="travelPlanMainPageMainContentTravelDateTimeRange">
-					<table align="center">
+					<table align="left">
 						<tr valign="middle">
 							<td valign="middle">
 								<div name="travelFromDateSelector"><img src="../../images/calendar-icon-30.png"/>&nbsp;</div>
@@ -185,15 +194,16 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 							<td valign="middle">
 								<input name="travelFromDate" readonly style="border:0px;width:90px;height:30px;font-size:12pt;" value="">
 							</td>
-							<td style="width:50px;" valign="middle">
-								<img src="../../images/travelcase-30.png"/><br/>
-								<div name="travelFromToDateGap" style="font-size:11pt;">- 天</div>
+							<td rowspan="2" valign="middle" align="right">
+								<div name="travelFromToDateGap" style="font-size:11pt;text-align:right;float:right;padding-left:10px;">共  - 天</div>
+							</td>
+						</tr>
+						<tr valign="middle">
+							<td valign="middle">
+								<div name="travelToDateSelector"><img src="../../images/calendar-icon-30.png"/>&nbsp;</div>
 							</td>
 							<td valign="middle">
 								<input name="travelToDate" readonly style="border:0px;width:90px;height:30px;font-size:12pt;" value="">
-							</td>
-							<td valign="middle">
-								<div name="travelToDateSelector"><img src="../../images/calendar-icon-30.png"/>&nbsp;</div>
 							</td>
 						</tr>
 					</table>
