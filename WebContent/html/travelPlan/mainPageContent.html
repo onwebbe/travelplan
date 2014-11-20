@@ -112,7 +112,7 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		nameInputBoxElement.style.width = leftEleWidth-32-85+"px";
 		
 		var travelTypeElement = dojo.query("[name='travelPlanMainPageMainContentTypeTextBox']",mainElement)[0];
-		travelTypeElement.style.width = 70+"px";
+		travelTypeElement.style.width = 50+"px";
 		
 		var introTextAreaElement = dojo.query("[name='travelPlanMainPageMainContentIntroTextArea']",mainElement)[0];
 		introTextAreaElement.style.width = leftEleWidth-32+"px";
@@ -178,9 +178,9 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		<div data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentLeftPane">
 			<div data-dojo-type="dojox/mobile/ScrollablePane" class="mainContentLeftPane">
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:30px;">
-					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'旅行计划名称'" style="width:200px;" name="travelPlanMainPageMainContentNameTextBox"/>
+					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'旅行计划名称'" style="width:120px;" name="travelPlanMainPageMainContentNameTextBox"/>
 					:
-					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'类型'" readonly style="width:200px;" name="travelPlanMainPageMainContentTypeTextBox"/>
+					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'类型'" readonly style="width:8=50px;" name="travelPlanMainPageMainContentTypeTextBox"/>
 				</div>
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:70px;">
 					<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'旅行计划介绍'" name="travelPlanMainPageMainContentIntroTextArea" style="resize:none;"></textarea>
