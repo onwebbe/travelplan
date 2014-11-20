@@ -5,25 +5,74 @@ require([
  		"dojo/dom-geometry",
  		"dojo/window",
  		"dojox/mobile/TextBox",
- 		"dojox/mobile/TextArea"
+ 		"dojox/mobile/TextArea",
+ 		"dojox/mobile/SpinWheelDatePicker",
+ 		"dojox/mobile/ScrollablePane"
  		], 
  	function(registry, domgeo, win){
 		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
 		initMainPage();
 	}
 );
-
+function prepareTypeTooltips(ItemSelectTooltip, mainDijit, parentEle, on){
+	var tooltip = new ItemSelectTooltip();
+	mainDijit.addChild(tooltip);
+	tooltip.parentRootElement = parentEle;
+	var theTypeData = dataModule.getTravelPlanType();
+	tooltip.updateData(theTypeData);
+	tooltip.createList();
+	on(parentEle, "click", function(){
+		tooltip.showTip(parentEle);
+	});
+	tooltip.on("listItemClicked",function(itemData){
+		parentEle.value=itemData.label;
+		parentEle.selectedTypeID = itemData.id;
+	});
+}
+function prepareDateSelectionTooltips(ToolTip,SpinWheelDatePicker, Button, mainDijit, parentEle, parentEleSelector, fromToDateGapEle, on, domCon){
+	var tooltip = new ToolTip();
+	var typeTipText = "<div><span style='float:left' class='okb'></span><span style='float:right' class='cancelb'></span></div><br/><br/><div class='dateSelectorWeel'></div>";
+	var typeTipEle = domCon.toDom(typeTipText);
+	tooltip.domNode.appendChild(typeTipEle);
+	var dateWeel = new SpinWheelDatePicker();
+	dojo.query(".dateSelectorWeel", tooltip.domNode)[0].appendChild(dateWeel.domNode);
+	var OKButton = new Button({label:"OK"});
+	dojo.query(".okb", tooltip.domNode)[0].appendChild(OKButton.domNode);
+	var CancelButton = new Button({label:"Cancel"});
+	dojo.query(".cancelb", tooltip.domNode)[0].appendChild(CancelButton.domNode);
+	mainDijit.addChild(tooltip);
+	
+	
+	dateWeel.startup();
+	OKButton.startup();
+	CancelButton.startup();
+	tooltip.startup();
+	OKButton.on("click", function(){
+		var dateStr = dateWeel.get("value");
+		parentEle.value = dateStr;
+		fromToDateGapEle.calculateDate();
+		tooltip.hide();
+	});
+	CancelButton.on("click", function(){
+		tooltip.hide();
+	});
+	on(parentEleSelector, "click", function(){
+		tooltip.show(parentEleSelector);
+	});
+	
+}
 function initMainPage(){
-require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-geometry","dojo/window"], 
-	function(parser, domCon, registry, domgeo, win){
+require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-geometry","dojo/window", "dojo/on", "dojo/dom-style", "com/onwebbe/dojo/mobile/ItemSelectTooltip", "dojox/mobile/Tooltip", "dojox/mobile/SpinWheelDatePicker", "dojox/mobile/Button", "dojo/dom-construct"], 
+	function(parser, domCon, registry, domgeo, win, on, DomStyle, ItemSelectTooltip, Tooltip, SpinWheelDatePicker, Button, domCon){
 		var mainElement = dojo.query("#travelPlanMainPageMainContentPane")[0];
 		var leftEle = dojo.query(".mainContentLeftPane", mainElement)[0];
+		var leftEle1 = dojo.query(".mainContentLeftPane", mainElement)[1];
 		var midEle = dojo.query(".mainContentMidPane", mainElement)[0];
 		var rightEle = dojo.query(".mainContentRightPane", mainElement)[0];
 		var mainElementBox = domgeo.getContentBox(mainElement);
 		var mainElementWidth = mainElementBox.w;
-		var leftEleWidth = mainElementWidth/3-28;
-		var midEleWidth = mainElementWidth/3-28;
+		var leftEleWidth = mainElementWidth/3-28-50;
+		var midEleWidth = mainElementWidth/3-28+50;
 		var rightEleWidth = mainElementWidth/3-28;
 		var totalWindowSize = win.getBox();
 		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",dojo.query("#mainFunctionView")[0])[0];
@@ -40,8 +89,75 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		midEleBox.h = actualHeight;
 		rightEleBox.h = actualHeight;
 		domgeo.setContentSize(leftEle, leftEleBox);
+		domgeo.setContentSize(leftEle1, leftEleBox);
 		domgeo.setContentSize(midEle, midEleBox);
 		domgeo.setContentSize(rightEle, rightEleBox);
+		
+		
+		
+		
+		
+		
+		//init left panel
+		var nameInputBoxElement = dojo.query("[name='travelPlanMainPageMainContentNameTextBox']",mainElement)[0];
+		nameInputBoxElement.style.width = leftEleWidth-32-85+"px";
+		
+		var travelTypeElement = dojo.query("[name='travelPlanMainPageMainContentTypeTextBox']",mainElement)[0];
+		travelTypeElement.style.width = 70+"px";
+		
+		var introTextAreaElement = dojo.query("[name='travelPlanMainPageMainContentIntroTextArea']",mainElement)[0];
+		introTextAreaElement.style.width = leftEleWidth-32+"px";
+		introTextAreaElement.style.height = 57+"px";
+		
+		var travelTimeRangeElemnet = dojo.query("[name='travelPlanMainPageMainContentTravelDateTimeRange']",mainElement)[0];
+		travelTimeRangeElemnet.style.height = 65+"px";
+		
+		//set borders
+		var computedInputBoxStyle = DomStyle.getComputedStyle(nameInputBoxElement);
+		nameInputBoxElement.style.border="0px";
+		
+		var computedTextAreaStyle = DomStyle.getComputedStyle(introTextAreaElement);
+		introTextAreaElement.style.border="0px";
+		
+		travelTypeElement.style.border="0px";
+		
+		on(nameInputBoxElement, "click", function(){
+			DomStyle.set(nameInputBoxElement,computedInputBoxStyle);
+			nameInputBoxElement.style.width = leftEleWidth-32-85+"px";
+		});
+		on(introTextAreaElement, "click", function(){
+			DomStyle.set(introTextAreaElement,computedTextAreaStyle);
+			introTextAreaElement.style.width = leftEleWidth-32+"px";
+			introTextAreaElement.style.height = 57+"px";
+		});
+		
+		on(mainElement, "click", function(event){
+			if(event.target!=nameInputBoxElement){
+				nameInputBoxElement.style.border="0px";
+			}
+			if(event.target!=introTextAreaElement){
+				introTextAreaElement.style.border="0px";
+			}
+		});
+		
+		
+		var travelFromToDateGapEle = dojo.query("[name='travelFromToDateGap']", mainElement)[0];
+		travelFromToDateGapEle.calculateDate = function(){
+			var fromDateStr = dojo.query("[name='travelFromDate']",mainElement)[0].value;
+			var toDateStr = dojo.query("[name='travelToDate']",mainElement)[0].value;
+			if(fromDateStr==""||toDateStr==""){
+				this.innerHTML="- 天";
+				return;
+			}
+			var fromDateObj = new Date(fromDateStr);
+			var toDateObj = new Date(toDateStr);
+			var gap = (toDateObj.getTime()-fromDateObj.getTime())/86400000;
+			this.innerHTML=gap+" 天";
+		}
+		prepareTypeTooltips(ItemSelectTooltip, registry.byNode(mainElement), travelTypeElement, on);
+		prepareDateSelectionTooltips(Tooltip,SpinWheelDatePicker, Button, registry.byNode(mainElement), dojo.query("[name='travelFromDate']",mainElement)[0], dojo.query("[name='travelFromDateSelector']",mainElement)[0], travelFromToDateGapEle, on, domCon);
+		prepareDateSelectionTooltips(Tooltip,SpinWheelDatePicker, Button, registry.byNode(mainElement), dojo.query("[name='travelToDate']",mainElement)[0], dojo.query("[name='travelToDateSelector']", mainElement)[0], travelFromToDateGapEle, on, domCon);
+		
 	});
 
 }
@@ -51,39 +167,63 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 <div>
 	<div data-dojo-type="dojox/mobile/ContentPane" id="travelPlanMainPageMainContentPane">
 		<div data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentLeftPane">
-			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;">
-				<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'Enter Travel Plan Name'" style="width:200px;"/>
-			</div>
-			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;">
-				<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'Please Enter Introduction here.'"></textarea>
-			</div>
-			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-				2014-6-3<br/>2014-7-10<br/>(3 Days)
-			</div>
-			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-				Children(0-3): 3 <br/>
-				Children(>3): 3 <br/>
-				Audlt: 3
-			</div>
-			<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-					Place a
+			<div data-dojo-type="dojox/mobile/ScrollablePane" class="mainContentLeftPane">
+				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:30px;">
+					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'旅行计划名称'" style="width:200px;" name="travelPlanMainPageMainContentNameTextBox"/>
+					:
+					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'类型'" readonly style="width:200px;" name="travelPlanMainPageMainContentTypeTextBox"/>
 				</div>
-				->
-				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-					Place a
+				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:70px;">
+					<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'旅行计划介绍'" name="travelPlanMainPageMainContentIntroTextArea" style="resize:none;"></textarea>
 				</div>
-				->
-				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-					Place a
+				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;" name="travelPlanMainPageMainContentTravelDateTimeRange">
+					<table align="center">
+						<tr valign="middle">
+							<td valign="middle">
+								<div name="travelFromDateSelector"><img src="../../images/calendar-icon-30.png"/>&nbsp;</div>
+							</td>
+							<td valign="middle">
+								<input name="travelFromDate" readonly style="border:0px;width:90px;height:30px;font-size:12pt;" value="">
+							</td>
+							<td style="width:50px;" valign="middle">
+								<img src="../../images/travelcase-30.png"/><br/>
+								<div name="travelFromToDateGap" style="font-size:11pt;">- 天</div>
+							</td>
+							<td valign="middle">
+								<input name="travelToDate" readonly style="border:0px;width:90px;height:30px;font-size:12pt;" value="">
+							</td>
+							<td valign="middle">
+								<div name="travelToDateSelector"><img src="../../images/calendar-icon-30.png"/>&nbsp;</div>
+							</td>
+						</tr>
+					</table>
+					<!-- <div data-dojo-type="dojox/mobile/SpinWheelDatePicker" data-dojo-props="slotProps: [{labelFrom: 2011, labelTo: 2017},{},{}]"></div> -->
 				</div>
-				->
-				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-					Place a
+				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:left;">
+					Kids: 3 <br/>
+					Children: 3 <br/>
+					Audlt: 3
 				</div>
-				->
-				<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:30px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
-					Place a
+				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+						Place a
+					</div>
+					->
+					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+						Place a
+					</div>
+					->
+					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+						Place a
+					</div>
+					->
+					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+						Place a
+					</div>
+					->
+					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
+						Place a
+					</div>
 				</div>
 			</div>
 		</div>
@@ -91,5 +231,6 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		</div>
 		<div data-dojo-type="dojox/mobile/RoundRect" style=float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentRightPane">
 		</div>
+		
 	</div>
 </div>

@@ -12,17 +12,38 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 	
 	var TravelTarget = {};
 	var TargetType = {};
-	var SelectedTarget = {};
 	var PackageItemCategory = {};
 	var PackageItemList = {};
+	var CurrentTravelPlan = {
+			SelectedTarget : {},
+			TravelInfo : {
+				travelName : "",
+				travelIntro : "",
+				travelType : "", //度假 旅游 徒步 户外 背包 亲子 宠物
+				fromDate : "",
+				toDate : "",
+				accompany : [
+					{name:"",gender:"",age:"",type:"",comments:""},
+					{name:"",gender:"",age:"",type:"",comments:""},
+					{name:"",gender:"",age:"",type:"",comments:""}
+				],
+			},
+			TravelPlanPackage : {},
+			TravelPlanComments : {},
+			TravelPlanContacts : {},
+			TravelPlanChecklist : {},
+			TravelPlanAgent : {},
+			TravelPlanReferWebURLs : {},
+			TravelPlanStage : ""
+	}
 	var travelDataJSONStore =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelDataJSONStore", null, {
 		
 	});
 	travelDataJSONStore.getSelectedTarget = function(){
-		return SelectedTarget;
+		return CurrentTravelPlan.SelectedTarget;
 	};
 	travelDataJSONStore.setSelectedTarget = function(selected){
-		return SelectedTarget = selected;
+		CurrentTravelPlan.SelectedTarget = selected;
 	};
 	travelDataJSONStore.initData = function(){
 	};
@@ -35,7 +56,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 		              {id:"mountain",label:"山区",TargetTypeDescription:""},
 		              {id:"ship",label:"邮轮",TargetTypeDescription:""},
 		              {id:"beach",label:"沙滩",TargetTypeDescription:""}];
-		SelectedTarget = {};
+
+		TravelPlanType = [{id:"Holiday",label:"度假"},{id:"Travel",label:"旅游"},{id:"WithChildren",label:"亲子"},{id:"Family",label:"全家"},{id:"Pet",label:"宠物"},{id:"Walking",label:"徒步"},{id:"Outdoor",label:"户外"},{id:"Bagage",label:"背包"}];
 
 		PackageItemCategory = [{"id":"WASHING-OTHER","label":"洗漱及其他","labelE":"Washing-Other","labelP":"XiShuJiQiTa"},
 		                       {"id":"CLOTH","label":"衣物","labelE":"Cloth","labelP":"YiWu"},
@@ -188,6 +210,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 	travelDataJSONStore.getPackageItemCategory = function(){
 		return PackageItemCategory;
 	}
+	travelDataJSONStore.getTravelPlanType = function(){
+		return TravelPlanType;
+	}
 	travelDataJSONStore.readChinaTarget = function(){
 		travelDataJSONStore._readJSONFile("chinaTravelTarget.json","TravelTarget");
 	};
@@ -222,13 +247,13 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 	};
 	travelDataJSONStore.addSelectedTarget = function(target){
 		var targetID = target.id;
-		SelectedTarget[targetID]=target;
+		CurrentTravelPlan.SelectedTarget[targetID]=target;
 	};
 	travelDataJSONStore.setSelectedTarget = function(target){
-		SelectedTarget=target;
+		CurrentTravelPlan.SelectedTarget=target;
 	};
 	travelDataJSONStore.getSelectedTarget = function(){
-		return SelectedTarget;
+		return CurrentTravelPlan.SelectedTarget;
 	};
 	travelDataJSONStore.getTargetTypeByID = function(id){
 		var returnItem = array.filter(TargetType, function(item){
