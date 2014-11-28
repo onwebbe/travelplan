@@ -8,7 +8,8 @@ require([
  		"dojox/mobile/TextBox",
  		"dojox/mobile/TextArea",
  		"dojox/mobile/SpinWheelDatePicker",
- 		"dojox/mobile/ScrollablePane"
+ 		"dojox/mobile/ScrollablePane",
+ 		"com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane"
  		], 
  	function(registry, domgeo, win){
 		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
@@ -37,6 +38,85 @@ function prepareTypeTooltips(ItemSelectTooltip, mainDijit, parentEle, on){
 		parentEle.value=itemData.label;
 		parentEle.selectedTypeID = itemData.id;
 	});
+}
+function prepareAddMateDialog(){
+	var that = dojo.query(".addMateDialogHiddenParent")[0];
+	require([
+	  		"dijit/registry",
+	  		"dojo/dom-geometry",
+	  		"dojo/window",
+	  		"dojox/mobile/SimpleDialog",
+	  		"dojox/mobile/TextBox",
+	  		"dojox/mobile/TextArea",
+	  		"dojox/mobile/Switch",
+	  		"dojox/mobile/Button",
+	  		"dojo/dom-construct"
+	  		
+	  		], 
+	  	function(registry, domgeo, win, SimpleDialog, TextBox, TextArea, Switch, Button, domCon){
+			
+	 		var contentElementText = "<div style='text-align:center;font-size:13pt;'>添加成员<hr/>	<table>"+
+	 			"<tr>"+
+	 			"<td class='addMateNamelabel'>"+
+	 			"</td>"+
+	 			"<td class='addMateName'>"+
+	 			"</td>"+
+	 			"</tr>"+
+	 			"<tr>"+
+	 			"<td class='addMateGenderlabel'>"+
+	 			"</td>"+
+	 			"<td class='addMateGender'>"+
+	 			"</td>"+
+	 			"</tr>"+
+	 			"<tr>"+
+	 			"<td class='addMateAgelabel'>"+
+	 			"</td>"+
+	 			"<td class='addMateAge'>"+
+	 			"</td>"+
+	 			"</tr>"+
+	 			"<tr>"+
+	 			"<td class='addMateCommentslabel'>"+
+	 			"</td>"+
+	 			"<td class='addMateComments'>"+
+	 			"</td>"+
+	 			"</tr>"+
+	 			"<tr>"+
+	 			"<td>"+
+	 			"</td>"+
+	 			"<td style='text-align;center;'>"+
+	 			"<span class='OKButton'></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"+
+	 			"<span class='CancelButton'></span>"+
+	 			"</td>"+
+	 			"</tr>"+
+	 			"</table></div>";
+	 		var contentElementEle = domCon.toDom(contentElementText);
+	 		dojo.query(".addMateNamelabel", contentElementEle)[0].innerHTML="姓名";
+	 		dojo.query(".addMateGenderlabel", contentElementEle)[0].innerHTML="性别";
+	 		dojo.query(".addMateAgelabel", contentElementEle)[0].innerHTML="年龄";
+	 		dojo.query(".addMateCommentslabel", contentElementEle)[0].innerHTML="备注";
+	 		
+	 		var mateNameTextBox = new TextBox();
+	 		dojo.query(".addMateName", contentElementEle)[0].appendChild(mateNameTextBox.domNode);
+	 		var mateGenderSwitch = new Switch({leftLabel:"男",rightLabel:"女"});
+	 		dojo.query(".addMateGender", contentElementEle)[0].appendChild(mateGenderSwitch.domNode);
+	 		var mateAgeTextBox = new TextBox();
+	 		dojo.query(".addMateAge", contentElementEle)[0].appendChild(mateAgeTextBox.domNode);
+	 		var mateCommentsTextArea = new TextArea();
+	 		dojo.query(".addMateComments", contentElementEle)[0].appendChild(mateCommentsTextArea.domNode);
+	 		
+	 		var okButtonButton = new Button({label:"确定"});
+	 		dojo.query(".OKButton", contentElementEle)[0].appendChild(okButtonButton.domNode);
+	 		var cancelButtonButton = new Button({label:"关闭"});
+	 		dojo.query(".CancelButton", contentElementEle)[0].appendChild(cancelButtonButton.domNode);
+	 		
+	 		var addMateDialog = new SimpleDialog({closeButton:true});
+	 		
+ 			that.appendChild(addMateDialog.domNode);
+	 		addMateDialog.containerNode.appendChild(contentElementEle);
+	 		addMateDialog.startup();
+	 		addMateDialog.show();
+	 	}
+	 );
 }
 function prepareDateSelectionTooltips(ToolTip,SpinWheelDatePicker, Button, mainDijit, parentEle, parentEleSelector, fromToDateGapEle, on, domCon){
 	var tooltip = new ToolTip();
@@ -180,7 +260,7 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:30px;">
 					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'旅行计划名称'" style="width:120px;" name="travelPlanMainPageMainContentNameTextBox"/>
 					:
-					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'类型'" readonly style="width:8=50px;" name="travelPlanMainPageMainContentTypeTextBox"/>
+					<input data-dojo-type="dojox/mobile/TextBox" data-dojo-props="placeHolder:'类型'" readonly style="width:50px;" name="travelPlanMainPageMainContentTypeTextBox"/>
 				</div>
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;height:70px;">
 					<textarea data-dojo-type="dojox/mobile/TextArea" data-dojo-props="placeHolder:'旅行计划介绍'" name="travelPlanMainPageMainContentIntroTextArea" style="resize:none;"></textarea>
@@ -210,9 +290,35 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 					<!-- <div data-dojo-type="dojox/mobile/SpinWheelDatePicker" data-dojo-props="slotProps: [{labelFrom: 2011, labelTo: 2017},{},{}]"></div> -->
 				</div>
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:left;">
-					Kids: 3 <br/>
-					Children: 3 <br/>
-					Audlt: 3
+					<table>
+						<tr>
+							<td rowspan="5" style="width:40px">
+								<img alt="" src="../../images/add.png" style="border-radius: 5px 5px 5px 5px; cursor: pointer;">
+							</td>
+						</tr>
+						<tr>
+							<td class='travelMateKid'>
+								Kid:3
+							</td>
+						</tr>
+						<tr>
+							<td class='travelMateChildren'>
+								Children:3
+							</td>
+						</tr>
+						<tr>
+							<td class='travelMateAdult'>
+								Adult:3
+							</td>
+						</tr>
+						<tr>
+							<td class='travelMateAged'>
+								Aged:3
+							</td>
+						</tr>
+					</table>
+					
+					<div class="addMateDialogHiddenParent"></div>
 				</div>
 				<div data-dojo-type="dojox/mobile/RoundRect" style="margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
 					<div data-dojo-type="dojox/mobile/RoundRect" style="display:inline-block;height:20px;width:70px;margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;">
@@ -237,7 +343,7 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 				</div>
 			</div>
 		</div>
-		<div data-dojo-type="dojox/mobile/RoundRect" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentMidPane">
+		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentMidPane">
 		</div>
 		<div data-dojo-type="dojox/mobile/RoundRect" style=float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentRightPane">
 		</div>

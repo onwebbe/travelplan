@@ -268,5 +268,8 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
 	};
 	dynamicView.showOverlay = showOverlay;
 	dynamicView.hideOverlay = hideOverlay;
+	dynamicView.getCurrentView = function(){
+		return _theCurrView;
+	};
 	return dynamicView;
 });
