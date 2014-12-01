@@ -29,7 +29,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 				],
 			},
 			TravelPlanPackage : {},
-			TravelPlanComments : {},
+			TravelPlanNotes : {},
 			TravelPlanContacts : {},
 			TravelPlanChecklist : {},
 			TravelPlanAgent : {},
@@ -39,6 +39,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 	var travelDataJSONStore =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelDataJSONStore", null, {
 		
 	});
+	travelDataJSONStore.getCurrentTravelPlan = function(){
+		return CurrentTravelPlan;
+	};
+	
 	travelDataJSONStore.getSelectedTarget = function(){
 		return CurrentTravelPlan.SelectedTarget;
 	};

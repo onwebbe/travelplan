@@ -62,7 +62,7 @@ http://your.server.com/yourapp.html?theme=WindowsPhone // forces ipad theme -->
         dataModule = dataM;
         dataModule.retriveData();
 		controller = new Controller(true,true);
-		
+		controller.setDataModule(dataModule);
 		controller.setCurrentView(welcomePage);
 		registry.byId("welcomePageEditButton").on("click",function(){
 			test(this);

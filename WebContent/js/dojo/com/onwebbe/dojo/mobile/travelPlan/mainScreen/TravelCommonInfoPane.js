@@ -4,6 +4,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 	 	"dojo/dom-style",
 	 	"dojo/Evented",
  		"dijit/registry",
+ 		"dojo/aspect",
  		"dojo/dom-geometry",
  		"dojo/window",
  		"dojox/mobile/RoundRect",
@@ -31,7 +32,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
  		"dojox/mobile/ListItem",
  		"dojox/mobile/RadioButton"
  		], 
- 	function(declare, DomStyle, Evented, registry, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, TextBox, on, SimpleDialog, ScrollablePane, ViewController, TextArea, SpinWheelDatePicker, Tooltip, Button, Switch, Slider){
+ 	function(declare, DomStyle, Evented, registry, aspect, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, TextBox, on, SimpleDialog, ScrollablePane, ViewController, TextArea, SpinWheelDatePicker, Tooltip, Button, Switch, Slider, RoundRectList, ListItem){
 	/* Module:
 	 * com.onwebbe.dojo.mobile.travelPlan.mainScreen.TravelCommonInfoPane
 	 * com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane
@@ -40,7 +41,6 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 	 * Summary:
 	*/
 	var travelCommonInfoPane =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelPackageItemListPane", [RoundRect,Evented], {
-		_theData : null,
 		_travelNameP : null,
 		_travelIntroP : null,
 		_travelDateP : null,
@@ -54,6 +54,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 		_travelDateEndDialogDijit : null,
 		_travelTypeDialogDijit : null,
 		_travelMateDialogDijit : null,
+		_travelStepDialogDijit : null,
+		_travelMateListDialogDijit : null,
+		
+		_dataModuleData : null,
 		postCreate: function(){
 			var that = this;
 			if(this._parentNode!=null){
@@ -114,7 +118,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			//prepare travelNameP
 			var nameInputBoxElement = new TextBox({placeHolder:"旅行计划名称", name:"travelPlanMainPageMainContentNameTextBox"});
 			travelNameP.addChild(nameInputBoxElement);
-			nameInputBoxElement.domNode.style.width = leftEleWidth-32-85+"px";
+			nameInputBoxElement.domNode.style.width = leftEleWidth-32-65+"px";
 			var spliteEle = domCon.create("span");
 			spliteEle.innerHTML=":";
 			spliteEle.style.width="10px";
@@ -172,12 +176,14 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			travelFromToDateGapEle.calculateDate = function(){
 				var fromDateStr = dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0].value;
 				var toDateStr = dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0].value;
+				that._saveStartDate(fromDateStr);
+				that._saveEndDate(toDateStr);
 				if(fromDateStr==""||toDateStr==""){
 					this.innerHTML="共  - 天";
 					return;
 				}
-				var fromDateObj = getDateObject(fromDateStr);
-				var toDateObj = getDateObject(toDateStr);
+				var fromDateObj = that.getDateObject(fromDateStr);
+				var toDateObj = that.getDateObject(toDateStr);
 				var gap = (toDateObj.getTime()-fromDateObj.getTime())/86400000;
 				this.innerHTML="共 "+gap+" 天";
 			}
@@ -188,14 +194,15 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			
 			//prepare Mate P
 			var matePanelText = 
-				'					<table>'+
-				'						<tr>'+
-				'							<td rowspan="5" style="width:40px">'+
+				'					<table style="width:100%;">'+
+				'						<tr style="width:100%;">'+
+				'							<td rowspan="4" style="width:40px">'+
 				'								<img class="travelMateAddButton" alt="" src="../../images/add.png" style="border-radius: 5px 5px 5px 5px; cursor: pointer;">'+
 				'							</td>'+
-				'						</tr>'+
-				'						<tr>'+
 				'							<td class="travelMateKid">幼儿: 0 名'+
+				'							</td>'+
+				'							<td rowspan="4" style="width:40px">'+
+				'								<img class="travelMateEditButton" alt="" src="../../images/Edit-30.png" style="border-radius: 5px 5px 5px 5px; cursor: pointer;">'+
 				'							</td>'+
 				'						</tr>'+
 				'						<tr>'+
@@ -214,60 +221,91 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			var matePanelEle = domCon.toDom(matePanelText);
 			travelMatesP.domNode.appendChild(matePanelEle);
 			var addMateButton = dojo.query(".travelMateAddButton", travelMatesP.domNode)[0];
+			addMateButton.matesData = new Array();
 			on(addMateButton, "click", function(){
+				that._travelMateDialogDijit.clearData();
 				that._travelMateDialogDijit.show();
 			});
-			var kid = 0;
-			var children=0;
-			var adult=0;
-			var aged=0;
-			this._travelMateDialogDijit = this.prepareMateDialog(travelMatesP, function(dataobj){
-				var age = dataobj.age;
-				if(age<3){
-					kid = kid+1;
-				}
-				if(age>=3&&age<12){
-					children = children+1;
-				}
-				if(age>=12&&age<70){
-					adult = adult+1;
-				}
-				if(age>=70){
-					aged = aged+1;
-				}
-				dojo.query(".travelMateKid", travelMatesP.domNode)[0].innerHTML="幼儿: "+kid+" 名";
-				dojo.query(".travelMateChildren", travelMatesP.domNode)[0].innerHTML="儿童: "+children+" 名";
-				dojo.query(".travelMateAdult", travelMatesP.domNode)[0].innerHTML="成人: "+adult+" 名";
-				dojo.query(".travelMateAged", travelMatesP.domNode)[0].innerHTML="老人: "+aged+" 名";
+			var editMateButton = dojo.query(".travelMateEditButton", travelMatesP.domNode)[0];
+			on(editMateButton, "click", function(){
+				that._travelMateListDialogDijit.show();
 			});
+			addMateButton.displayMateCate = function(){
+				if(typeof addMateButton.matesData=="object"){
+					var kid = 0;
+					var children=0;
+					var adult=0;
+					var aged=0;
+					var matesData = addMateButton.matesData;
+					for(mateIndex = 0;mateIndex<matesData.length;mateIndex++){
+						var mate = matesData[mateIndex];
+						if(mate.age<3){
+							kid = kid+1;
+						}
+						if(mate.age>=3&&mate.age<12){
+							children = children+1;
+						}
+						if(mate.age>=12&&mate.age<70){
+							adult = adult+1;
+						}
+						if(mate.age>=70){
+							aged = aged+1;
+						}
+					}
+					dojo.query(".travelMateKid", travelMatesP.domNode)[0].innerHTML="幼儿: "+kid+" 名";
+					dojo.query(".travelMateChildren", travelMatesP.domNode)[0].innerHTML="儿童: "+children+" 名";
+					dojo.query(".travelMateAdult", travelMatesP.domNode)[0].innerHTML="成人: "+adult+" 名";
+					dojo.query(".travelMateAged", travelMatesP.domNode)[0].innerHTML="老人: "+aged+" 名";
+					that._saveMates(matesData);
+				}
+			}
+			
+			this._travelMateDialogDijit = this.prepareMateDialog(travelMatesP, function(dataobj){
+				if(typeof addMateButton.matesData=="object"){
+					var mates = addMateButton.matesData;
+					mates.push(dataobj);
+				}else{
+					addMateButton.matesData = new Array();
+					var mates = addMateButton.matesData;
+					mates.push(dataobj);
+				}
+				addMateButton.displayMateCate();
+			});
+			this._travelMateListDialogDijit = this.prepareEditMateDialog(travelMatesP, addMateButton);
 			
 			
 			//Prepare Stage panel
 			var stage1 = new RoundRect({style:"margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;display:inline-block;"});
-			stage1.domNode.appendChild(domCon.create("div",{innerHTML:"第一步:计划"}));
+			stage1.domNode.appendChild(domCon.create("div",{innerHTML:"1:计划"}));
 			travelStageP.addChild(stage1);
 			var stage2 = new RoundRect({style:"margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;display:inline-block;"});
-			stage2.domNode.appendChild(domCon.create("div",{innerHTML:"第二步:准备"}));
+			stage2.domNode.appendChild(domCon.create("div",{innerHTML:"2:准备"}));
 			travelStageP.addChild(stage2);
 			var stage3 = new RoundRect({style:"margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;display:inline-block;"});
-			stage3.domNode.appendChild(domCon.create("div",{innerHTML:"第三步:细节"}));
+			stage3.domNode.appendChild(domCon.create("div",{innerHTML:"3:细节"}));
 			travelStageP.addChild(stage3);
 			var stage4 = new RoundRect({style:"margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;display:inline-block;"});
-			stage4.domNode.appendChild(domCon.create("div",{innerHTML:"第四步:打包"}));
+			stage4.domNode.appendChild(domCon.create("div",{innerHTML:"4:打包"}));
 			travelStageP.addChild(stage4);
 			var stage5 = new RoundRect({style:"margin-left:5px;margin-right:5px;margin-bottom:5px;text-align:center;display:inline-block;"});
-			stage5.domNode.appendChild(domCon.create("div",{innerHTML:"第五步:旅行"}));
+			stage5.domNode.appendChild(domCon.create("div",{innerHTML:"5:旅行"}));
 			travelStageP.addChild(stage5);
 			
 			//prepare global
 			nameInputBoxElement.on("click", function(){
 				DomStyle.set(nameInputBoxElement.domNode,computedInputBoxStyle);
-				nameInputBoxElement.domNode.style.width = leftEleWidth-32-85+"px";
+				nameInputBoxElement.domNode.style.width = leftEleWidth-32-65+"px";
 			});
 			introTextAreaElement.on("click", function(){
 				DomStyle.set(introTextAreaElement.domNode,computedTextAreaStyle);
 				introTextAreaElement.domNode.style.width = leftEleWidth-32+"px";
 				introTextAreaElement.domNode.style.height = 57+"px";
+			});
+			nameInputBoxElement.on("blur", function(){
+				that._saveName(nameInputBoxElement.get("value"));
+			});
+			introTextAreaElement.on("blur", function(){
+				that._saveIntro(introTextAreaElement.get("value"));
 			});
 			
 			on(mainElement, "click", function(event){
@@ -276,9 +314,39 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 				}
 				if(event.target!=introTextAreaElement.domNode){
 					introTextAreaElement.domNode.style.border="0px";
+					
 				}
 			});
-			
+		},
+		_saveName : function(name){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.travelName=name;
+			}
+		},
+		_saveType : function(type){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.travelType=type;
+			}
+		},
+		_saveIntro : function(intro){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.travelIntro=intro;
+			}
+		},
+		_saveStartDate : function(startDate){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.fromDate=startDate;
+			}
+		},
+		_saveEndDate : function(endDate){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.toDate=endDate;
+			}
+		},
+		_saveMates: function(mates){
+			if(this._dataModuleData!=null){
+				this._dataModuleData.getCurrentTravelPlan().TravelInfo.accompany=mates;
+			}
 		},
 		prepareDateSelectionTooltips: function(mainDijit, parentEle, parentEleSelector, fromToDateGapEle){
 			var tooltip = new Tooltip();
@@ -287,9 +355,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			tooltip.domNode.appendChild(typeTipEle);
 			var dateWeel = new SpinWheelDatePicker();
 			dojo.query(".dateSelectorWeel", tooltip.domNode)[0].appendChild(dateWeel.domNode);
-			var OKButton = new Button({label:"OK"});
+			var OKButton = new Button({label:"确定"});
 			dojo.query(".okb", tooltip.domNode)[0].appendChild(OKButton.domNode);
-			var CancelButton = new Button({label:"Cancel"});
+			var CancelButton = new Button({label:"取消"});
 			dojo.query(".cancelb", tooltip.domNode)[0].appendChild(CancelButton.domNode);
 			mainDijit.addChild(tooltip);
 			
@@ -319,6 +387,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			return tooltip;
 		},
 		prepareTypeTooltips: function(mainDijit, parentEle){
+			var that = this;
 			var tooltip = new ItemSelectTooltip();
 			mainDijit.addChild(tooltip);
 			tooltip.parentRootElement = parentEle;
@@ -331,6 +400,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			tooltip.on("listItemClicked",function(itemData){
 				parentEle.value=itemData.label;
 				parentEle.selectedTypeID = itemData.id;
+				that._saveType(itemData.id);
 			});
 			tooltip.on("blur", function(){
 				tooltip.hide();
@@ -424,7 +494,111 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 	 		cancelButtonButton.on("click", function(){
 	 			addMateDialog.hide();
 	 		});
+	 		addMateDialog.clearData = function(){
+	 			mateNameTextBox.set("value","");
+	 			mateGenderSwitch.set("value", "on");
+	 			mateAgeSlider.set("value",0);
+	 			mateCommentsTextArea.set("value","");
+	 		};
 	 		return addMateDialog;
+		},
+		prepareEditMateDialog : function(mainDijit, dataDijit){
+			var data = dataDijit.matesData;
+			var editMateDialogText = "<div style='text-align:center;font-size:13pt;'>修改成员<hr/><div>"+
+					"<table style='width:100%;height:100%;'>"+
+					"<tr>"+
+					"	<td class='mateList' colspan='2'>"+
+					"	</td>"+
+					"</tr>"+
+					"<tr style='height:35px;'>"+
+					"	<td class='okButton'>"+
+					"	</td>"+
+					"	<td class='cancelButton'>"+
+					"	</td>"+
+					"</tr>"+
+					"</table>";
+			var contentElementEle = domCon.toDom(editMateDialogText);
+			var okButtonButton = new Button({label:"确定"});
+	 		dojo.query(".okButton", contentElementEle)[0].appendChild(okButtonButton.domNode);
+	 		var cancelButtonButton = new Button({label:"关闭"});
+	 		dojo.query(".cancelButton", contentElementEle)[0].appendChild(cancelButtonButton.domNode);
+	 		
+	 		
+	 		var mateList = new RoundRectList();
+	 		
+	 		
+	 		var winHeight = win.getBox().h;
+	 		var outViewEle = ViewController.getCurrentView();
+	 		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",outViewEle.domNode)[0];
+			var headerHeight = domgeo.getContentBox(headerEle);
+	 		var dialogHeight = winHeight-headerHeight.h-350;
+	 		
+	 		var scrollP = new ScrollablePane();
+	 		scrollP.containerNode.appendChild(mateList.domNode);
+	 		dojo.query(".mateList", contentElementEle)[0].appendChild(scrollP.domNode);
+	 		
+	 		
+	 		
+	 		var editMateListDialog = new SimpleDialog({closeButton:true,top:"150px"});
+	 		
+	 		mainDijit.addChild(editMateListDialog);
+	 		editMateListDialog.containerNode.appendChild(contentElementEle);
+	 		editMateListDialog.startup();
+	 		
+	 		aspect.after(editMateListDialog, "show", function(){
+	 			mateList.destroyDescendants();
+	 			for(mateIndex=0;mateIndex<data.length;mateIndex=mateIndex+1){
+		 			var mateData = data[mateIndex];
+		 			var displayText = mateData.name+" "+mateData.gender+" "+mateData.age;
+		 			var matt = new ListItem({label:displayText,deleteIcon:"../../images/delete-trash-30.png"});
+		 			matt.theDataIndex = mateIndex;
+		 			matt.startup();
+		 			var deleteItem = dojo.query(".mblListItemDeleteIcon", matt.domNode)[0];
+		 			deleteItem.parentDijit = matt;
+		 			deleteItem.style.cursor="pointer";
+		 			deleteItem.style.backgroundColor="#f9a4b1";
+		 			deleteItem.style.borderRadius="5px";
+		 			//dojo.attr(deleteItem, "margin-left:15px;background-color:#f9a4b1;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;");
+		 			on(deleteItem, "click", function(){
+		 				mateList.removeChild(this.parentDijit);
+		 				data.splice(this.parentDijit.theDataIndex,1);
+		 				dataDijit.displayMateCate();
+		 			});
+		 			mateList.addChild(matt);
+		 		}
+	 			
+	 			
+	 			
+	 			var scrollPEleBox = domgeo.getContentBox(scrollP.domNode);
+		 		scrollPEleBox.h=dialogHeight;
+		 		domgeo.setContentSize(scrollP.domNode, scrollPEleBox);
+		 		editMateListDialog.startup();
+	 		});
+	 		
+	 		
+	 		
+	 		okButtonButton.on("click", function(){
+	 			editMateListDialog.hide();
+	 		});
+	 		cancelButtonButton.on("click", function(){
+	 			editMateListDialog.hide();
+	 		});
+	 		return editMateListDialog;
+		},
+		prepareStepFunctionDialog : function(){
+			var roundRect = new RoundRectList();
+			
+		},
+		getDateObject: function (dateStr){
+			var dateStrs = dateStr.split("-");
+			var year = dateStrs[0];
+			var month = dateStrs[1];
+			var day = dateStrs[2];
+			var returnDate = new Date(year,month-1,day);
+			return returnDate;
+		},
+		updateDataAllFromDataModule: function(allData){
+			this._dataModuleData = allData;
 		},
 		createItem : function(itemData){},
 		updateData: function(theData, groupData){},

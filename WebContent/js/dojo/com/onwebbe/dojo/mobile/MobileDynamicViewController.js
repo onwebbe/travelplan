@@ -47,6 +47,8 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
 	var _currentViewIndex = 0;
 	var _needLogHistory = true;
 	
+	//data module
+	var _theFullDataModule = null;
 	
 	var overlaytext = '<div style="position:absolute;z-index:999;color:black;top:0px;left:0px;background-color:rgba(80,80,80,0.5);display:none;" id="totalFullScreenOverlay">&nbsp;</div>';
 	var overlayele = domCon.toDom(overlaytext);
@@ -69,6 +71,9 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
 				_p = ProgressIndicator.getInstance();
 			}
 			
+		},
+		setDataModule : function(data){
+			_theFullDataModule = data;
 		},
 		setCurrentView: function(cv){
 			_theCurrView = cv;
@@ -142,6 +147,18 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
 			hideOverlay();
 		}
 	});
+	dynamicView.updateData = function(rootEle){
+		//update data
+		if(_theFullDataModule!=null){
+			var allWidegets = registry.findWidgets(rootEle);
+			for(widgetIndex=0;widgetIndex<allWidegets.length;widgetIndex++){
+				var widget = allWidegets[widgetIndex];
+				if(typeof widget.updateDataAllFromDataModule=="function"){
+					widget.updateDataAllFromDataModule(_theFullDataModule);
+				}
+			}
+		}
+	};
 	dynamicView._callBackFromPage = function(requireHide){
 		
 		dojo.body().appendChild(_theHTMLNode);
@@ -159,6 +176,11 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
 		
 		
 		dynamicView.switchToViewID(_newViewID);
+		
+		//update data
+		dynamicView.updateData(innerChild);
+		
+		
     	if(_p){
     		_p.stop();
 		}
@@ -246,6 +268,10 @@ define("com/onwebbe/dojo/mobile/MobileDynamicViewController", [
     	_theReplaceParentNode.removeChild(_theReplaceHTMLNode);
     	_theReplaceParentNode.appendChild(innerChild);
     	
+    	//update data
+		dynamicView.updateData(innerChild);
+		
+		
     	if(_p){
     		_p.stop();
 		}
