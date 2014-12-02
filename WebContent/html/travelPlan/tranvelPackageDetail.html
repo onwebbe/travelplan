@@ -162,23 +162,23 @@ function initPackagePage(){
 				item.backupCategory = backupCategory;
 			} */
 			
-			var targetList = dataModule.getSelectedTarget();
+			/* var targetList = dataModule.getSelectedTarget();
 			var targetTypeCate = dataModule.getTargetType();
 			var targetListItemPane = dojo.query(".mainPagePackageInfoTargetInfosPane",controller.getCurrentView().domNode)[0];
 			var targetListItemPaneDijit = registry.byNode(targetListItemPane);
-			targetListItemPaneDijit.updateData(targetList,targetTypeCate);
+			targetListItemPaneDijit.updateData(targetList,targetTypeCate); */
 			
-			
-			var itemCategorys = dataModule.getPackageItemCategory();
-			var selectedPackageItems = dataModule.getPackageItemList();
 			var packageInfoItemPane = dojo.query(".mainPagePackageInfoPackageItemPane",controller.getCurrentView().domNode)[0];
 			var packageInfoItemPaneDijit = registry.byNode(packageInfoItemPane);
-			packageInfoItemPaneDijit.updateData(selectedPackageItems,itemCategorys);
+			/* var itemCategorys = dataModule.getPackageItemCategory();
+			var selectedPackageItems = dataModule.getPackageItemList();
+			
+			packageInfoItemPaneDijit.updateData(selectedPackageItems,itemCategorys); */
 			
 			
 			
-			var itemCategorysInvestory = dataModule.getPackageItemCategory();
-			var packageInvestoryItems = dataModule.getPackageItemList();
+			//var itemCategorysInvestory = dataModule.getPackageItemCategory();
+			//var packageInvestoryItems = dataModule.getPackageItemList();
 			/* for(i=0;i<packageListItemInvestoryCategorys.length;i++){
 				var itemInvestoryCategory = packageListItemInvestoryCategorys[i];
 				var backupInvestoryID = itemInvestoryCategory.id;
@@ -193,7 +193,7 @@ function initPackagePage(){
 			} */
 			var packageInfoInvestoryItemPane = dojo.query(".mainPagePackageInfoPackageItemInvestoryPane",controller.getCurrentView().domNode)[0];
 			var packageInfoItemInvestoryPaneDijit = registry.byNode(packageInfoInvestoryItemPane);
-			packageInfoItemInvestoryPaneDijit.updateData(packageInvestoryItems,itemCategorysInvestory);
+			//packageInfoItemInvestoryPaneDijit.updateData(packageInvestoryItems,itemCategorysInvestory);
 			packageInfoItemInvestoryPaneDijit.on("itemAddClicked", function(item){
 				console.log("add clicked:");
 				console.log(item.itemData);

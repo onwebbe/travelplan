@@ -49,6 +49,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 		_containerNode : null,
 		_parentNode : "travelPlanMainPageMainContentPane",
 		_parentNodeEle : null,
+		_matesData : new Array(),
+		
 		
 		_travelDateStartDialogDijit : null,
 		_travelDateEndDialogDijit : null,
@@ -125,8 +127,12 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			spliteEle.style.textAlign="center";
 			spliteEle.style.display="inline-block";
 			travelNameP.domNode.appendChild(spliteEle);
+			//setup travelName panel dijit
+			travelNameP.nameElement = nameInputBoxElement;
 			var travelTypeElement = new TextBox({readonly:"readonly", placeHolder:"类型", name:"travelPlanMainPageMainContentTypeTextBox"});
 			travelNameP.addChild(travelTypeElement);
+			//setup travelName panel dijit
+			travelNameP.typeElement = travelTypeElement;
 			travelTypeElement.domNode.style.width = 50+"px";
 			//setBorders
 			var computedInputBoxStyle = DomStyle.getComputedStyle(nameInputBoxElement.domNode);
@@ -144,6 +150,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			introTextAreaElement.domNode.style.border="0px";
 			
 			travelIntroP.addChild(introTextAreaElement);
+			//setup travelIntro Panel Dijit
+			travelIntroP.introElement = introTextAreaElement;
 			
 			//prepare for date selection Panel
 			var travelTimeRangeElemnet = travelDateP;
@@ -173,23 +181,12 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			var dateSelectionEle = domCon.toDom(dateSelectionText);
 			travelTimeRangeElemnet.domNode.appendChild(dateSelectionEle);
 			var travelFromToDateGapEle = dojo.query("[name='travelFromToDateGap']", travelTimeRangeElemnet.domNode)[0];
-			travelFromToDateGapEle.calculateDate = function(){
-				var fromDateStr = dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0].value;
-				var toDateStr = dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0].value;
-				that._saveStartDate(fromDateStr);
-				that._saveEndDate(toDateStr);
-				if(fromDateStr==""||toDateStr==""){
-					this.innerHTML="共  - 天";
-					return;
-				}
-				var fromDateObj = that.getDateObject(fromDateStr);
-				var toDateObj = that.getDateObject(toDateStr);
-				var gap = (toDateObj.getTime()-fromDateObj.getTime())/86400000;
-				this.innerHTML="共 "+gap+" 天";
-			}
-			this._travelDateStartDialogDijit = this.prepareDateSelectionTooltips(travelTimeRangeElemnet, dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0], dojo.query("[name='travelFromDateSelector']",travelTimeRangeElemnet.domNode)[0], travelFromToDateGapEle);
-			this._travelDateEndDialogDijit = this.prepareDateSelectionTooltips(travelTimeRangeElemnet, dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0], dojo.query("[name='travelToDateSelector']", travelTimeRangeElemnet.domNode)[0], travelFromToDateGapEle);
+			this._travelDateStartDialogDijit = this.prepareDateSelectionTooltips(travelTimeRangeElemnet, dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0], dojo.query("[name='travelFromDateSelector']",travelTimeRangeElemnet.domNode)[0], travelTimeRangeElemnet.domNode);
+			this._travelDateEndDialogDijit = this.prepareDateSelectionTooltips(travelTimeRangeElemnet, dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0], dojo.query("[name='travelToDateSelector']", travelTimeRangeElemnet.domNode)[0], travelTimeRangeElemnet.domNode);
 			
+			//setup date panel element
+			travelDateP.fromDateElement = dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0];
+			travelDateP.toDateElement =  dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0];
 			
 			
 			//prepare Mate P
@@ -221,7 +218,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			var matePanelEle = domCon.toDom(matePanelText);
 			travelMatesP.domNode.appendChild(matePanelEle);
 			var addMateButton = dojo.query(".travelMateAddButton", travelMatesP.domNode)[0];
-			addMateButton.matesData = new Array();
+			this._addMateButton = addMateButton;
 			on(addMateButton, "click", function(){
 				that._travelMateDialogDijit.clearData();
 				that._travelMateDialogDijit.show();
@@ -230,7 +227,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			on(editMateButton, "click", function(){
 				that._travelMateListDialogDijit.show();
 			});
-			addMateButton.displayMateCate = function(){
+			/*addMateButton.displayMateCate = function(){
 				if(typeof addMateButton.matesData=="object"){
 					var kid = 0;
 					var children=0;
@@ -258,18 +255,17 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 					dojo.query(".travelMateAged", travelMatesP.domNode)[0].innerHTML="老人: "+aged+" 名";
 					that._saveMates(matesData);
 				}
-			}
+			}*/
 			
 			this._travelMateDialogDijit = this.prepareMateDialog(travelMatesP, function(dataobj){
-				if(typeof addMateButton.matesData=="object"){
-					var mates = addMateButton.matesData;
+				if(typeof that._matesData=="object"){
+					var mates = that._matesData;
 					mates.push(dataobj);
 				}else{
-					addMateButton.matesData = new Array();
-					var mates = addMateButton.matesData;
+					var mates = that._matesData;
 					mates.push(dataobj);
 				}
-				addMateButton.displayMateCate();
+				that.displayMateCate(travelMatesP);
 			});
 			this._travelMateListDialogDijit = this.prepareEditMateDialog(travelMatesP, addMateButton);
 			
@@ -318,6 +314,54 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 				}
 			});
 		},
+		calculateDate : function(parentNode){
+			var that = this;
+			var travelTimeRangeElemnet = parentNode;
+			var fromDateStr = dojo.query("[name='travelFromDate']",travelTimeRangeElemnet.domNode)[0].value;
+			var toDateStr = dojo.query("[name='travelToDate']",travelTimeRangeElemnet.domNode)[0].value;
+			that._saveStartDate(fromDateStr);
+			that._saveEndDate(toDateStr);
+			if(fromDateStr==""||toDateStr==""){
+				this.innerHTML="共  - 天";
+				return;
+			}
+			var fromDateObj = that.getDateObject(fromDateStr);
+			var toDateObj = that.getDateObject(toDateStr);
+			var gap = (toDateObj.getTime()-fromDateObj.getTime())/86400000;
+			
+			var travelFromToDateGapEle = dojo.query("[name='travelFromToDateGap']", travelTimeRangeElemnet.domNode)[0];
+			travelFromToDateGapEle.innerHTML="共 "+gap+" 天";
+		},
+		displayMateCate : function(travelMatesP){
+			var that = this;
+			if(typeof this._matesData=="object"){
+				var kid = 0;
+				var children=0;
+				var adult=0;
+				var aged=0;
+				var matesData = this._matesData;
+				for(mateIndex = 0;mateIndex<matesData.length;mateIndex++){
+					var mate = matesData[mateIndex];
+					if(mate.age<3){
+						kid = kid+1;
+					}
+					if(mate.age>=3&&mate.age<12){
+						children = children+1;
+					}
+					if(mate.age>=12&&mate.age<70){
+						adult = adult+1;
+					}
+					if(mate.age>=70){
+						aged = aged+1;
+					}
+				}
+				dojo.query(".travelMateKid", travelMatesP.domNode)[0].innerHTML="幼儿: "+kid+" 名";
+				dojo.query(".travelMateChildren", travelMatesP.domNode)[0].innerHTML="儿童: "+children+" 名";
+				dojo.query(".travelMateAdult", travelMatesP.domNode)[0].innerHTML="成人: "+adult+" 名";
+				dojo.query(".travelMateAged", travelMatesP.domNode)[0].innerHTML="老人: "+aged+" 名";
+				that._saveMates(matesData);
+			}
+		},
 		_saveName : function(name){
 			if(this._dataModuleData!=null){
 				this._dataModuleData.getCurrentTravelPlan().TravelInfo.travelName=name;
@@ -348,7 +392,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 				this._dataModuleData.getCurrentTravelPlan().TravelInfo.accompany=mates;
 			}
 		},
-		prepareDateSelectionTooltips: function(mainDijit, parentEle, parentEleSelector, fromToDateGapEle){
+		prepareDateSelectionTooltips: function(mainDijit, parentEle, parentEleSelector, travelTimeRangeElemnet){
+			var that = this;
 			var tooltip = new Tooltip();
 			var typeTipText = "<div><span style='float:left' class='okb'></span><span style='float:right' class='cancelb'></span></div><br/><br/><div class='dateSelectorWeel'></div>";
 			var typeTipEle = domCon.toDom(typeTipText);
@@ -369,7 +414,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			OKButton.on("click", function(){
 				var dateStr = dateWeel.get("value");
 				parentEle.value = dateStr;
-				fromToDateGapEle.calculateDate();
+				that.calculateDate(travelTimeRangeElemnet);
 				tooltip.hide();
 				tooltip.isViewable = false;
 			});
@@ -408,7 +453,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			return tooltip;
 		},
 		prepareMateDialog : function(mainDijit, callback){
-			var contentElementText = "<div style='text-align:center;font-size:13pt;'>添加成员<hr/>	<table>"+
+			var contentElementText = "<div style='text-align:center;font-size:13pt;'>添加成员<hr/><table>"+
  			"<tr>"+
  			"<td class='addMateNamelabel'>"+
  			"</td>"+
@@ -503,8 +548,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 	 		return addMateDialog;
 		},
 		prepareEditMateDialog : function(mainDijit, dataDijit){
-			var data = dataDijit.matesData;
-			var editMateDialogText = "<div style='text-align:center;font-size:13pt;'>修改成员<hr/><div>"+
+			var that = this;
+			var data = this._matesData;
+			var editMateDialogText = "<div style='text-align:center;font-size:13pt;'>成员列表<hr/><div>"+
 					"<table style='width:100%;height:100%;'>"+
 					"<tr>"+
 					"	<td class='mateList' colspan='2'>"+
@@ -518,24 +564,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 					"</tr>"+
 					"</table>";
 			var contentElementEle = domCon.toDom(editMateDialogText);
-			var okButtonButton = new Button({label:"确定"});
-	 		dojo.query(".okButton", contentElementEle)[0].appendChild(okButtonButton.domNode);
-	 		var cancelButtonButton = new Button({label:"关闭"});
-	 		dojo.query(".cancelButton", contentElementEle)[0].appendChild(cancelButtonButton.domNode);
-	 		
-	 		
-	 		var mateList = new RoundRectList();
-	 		
-	 		
-	 		var winHeight = win.getBox().h;
-	 		var outViewEle = ViewController.getCurrentView();
-	 		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",outViewEle.domNode)[0];
-			var headerHeight = domgeo.getContentBox(headerEle);
-	 		var dialogHeight = winHeight-headerHeight.h-350;
-	 		
-	 		var scrollP = new ScrollablePane();
-	 		scrollP.containerNode.appendChild(mateList.domNode);
-	 		dojo.query(".mateList", contentElementEle)[0].appendChild(scrollP.domNode);
+			
 	 		
 	 		
 	 		
@@ -545,44 +574,79 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 	 		editMateListDialog.containerNode.appendChild(contentElementEle);
 	 		editMateListDialog.startup();
 	 		
+	 		aspect.before(editMateListDialog, "show", function(){
+	 			editMateListDialog.destroyDescendants();
+	 		});
+	 		
 	 		aspect.after(editMateListDialog, "show", function(){
-	 			mateList.destroyDescendants();
-	 			for(mateIndex=0;mateIndex<data.length;mateIndex=mateIndex+1){
-		 			var mateData = data[mateIndex];
-		 			var displayText = mateData.name+" "+mateData.gender+" "+mateData.age;
-		 			var matt = new ListItem({label:displayText,deleteIcon:"../../images/delete-trash-30.png"});
-		 			matt.theDataIndex = mateIndex;
-		 			matt.startup();
-		 			var deleteItem = dojo.query(".mblListItemDeleteIcon", matt.domNode)[0];
-		 			deleteItem.parentDijit = matt;
-		 			deleteItem.style.cursor="pointer";
-		 			deleteItem.style.backgroundColor="#f9a4b1";
-		 			deleteItem.style.borderRadius="5px";
-		 			//dojo.attr(deleteItem, "margin-left:15px;background-color:#f9a4b1;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;");
-		 			on(deleteItem, "click", function(){
-		 				mateList.removeChild(this.parentDijit);
-		 				data.splice(this.parentDijit.theDataIndex,1);
-		 				dataDijit.displayMateCate();
-		 			});
-		 			mateList.addChild(matt);
-		 		}
+	 			data = that._matesData;
 	 			
+	 			var okButtonButton = new Button({label:"确定"});
+		 		dojo.query(".okButton", contentElementEle)[0].appendChild(okButtonButton.domNode);
+		 		var cancelButtonButton = new Button({label:"关闭"});
+		 		dojo.query(".cancelButton", contentElementEle)[0].appendChild(cancelButtonButton.domNode);
+		 		
+		 		
+		 		var mateList = new RoundRectList();
+		 		
+		 		
+		 		var winHeight = win.getBox().h;
+		 		var outViewEle = ViewController.getCurrentView();
+		 		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",outViewEle.domNode)[0];
+				var headerHeight = domgeo.getContentBox(headerEle);
+		 		var dialogHeight = winHeight-headerHeight.h-350;
+		 		
+		 		var scrollP = new ScrollablePane();
+		 		scrollP.containerNode.appendChild(mateList.domNode);
+		 		dojo.query(".mateList", contentElementEle)[0].appendChild(scrollP.domNode);
+		 		scrollP.startup();
+		 		okButtonButton.on("click", function(){
+		 			editMateListDialog.hide();
+		 		});
+		 		cancelButtonButton.on("click", function(){
+		 			editMateListDialog.hide();
+		 		});
 	 			
-	 			
-	 			var scrollPEleBox = domgeo.getContentBox(scrollP.domNode);
-		 		scrollPEleBox.h=dialogHeight;
-		 		domgeo.setContentSize(scrollP.domNode, scrollPEleBox);
-		 		editMateListDialog.startup();
+	 			if(that._dataModuleData!=null){
+	 				
+	 				var genderCVT = that._dataModuleData.getCodedValue("gender");
+		 			for(mateIndex=0;mateIndex<data.length;mateIndex=mateIndex+1){
+			 			var mateData = data[mateIndex];
+			 			var genderStr = "";
+			 			for(genderCVTI = 0;genderCVTI<genderCVT.length;genderCVTI++){
+			 				var genderObj = genderCVT[genderCVTI];
+			 				if(genderObj.value==mateData.gender){
+			 					genderStr = genderObj.label;
+			 				}
+			 			}
+			 			var displayText = mateData.name+" "+genderStr+" "+mateData.age+"岁";
+			 			var matt = new ListItem({label:displayText,deleteIcon:"../../images/delete-trash-30.png"});
+			 			matt.theDataIndex = mateIndex;
+			 			matt.startup();
+			 			var deleteItem = dojo.query(".mblListItemDeleteIcon", matt.domNode)[0];
+			 			deleteItem.parentDijit = matt;
+			 			deleteItem.style.cursor="pointer";
+			 			deleteItem.style.backgroundColor="#f9a4b1";
+			 			deleteItem.style.borderRadius="5px";
+			 			//dojo.attr(deleteItem, "margin-left:15px;background-color:#f9a4b1;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;");
+			 			on(deleteItem, "click", function(){
+			 				mateList.removeChild(this.parentDijit);
+			 				data.splice(this.parentDijit.theDataIndex,1);
+			 				that.displayMateCate(mainDijit);
+			 			});
+			 			mateList.addChild(matt);
+			 		}
+		 			
+		 			var scrollPEleBox = domgeo.getContentBox(scrollP.domNode);
+			 		scrollPEleBox.h=dialogHeight;
+			 		domgeo.setContentSize(scrollP.domNode, scrollPEleBox);
+			 		editMateListDialog.startup();
+				}
 	 		});
 	 		
 	 		
 	 		
-	 		okButtonButton.on("click", function(){
-	 			editMateListDialog.hide();
-	 		});
-	 		cancelButtonButton.on("click", function(){
-	 			editMateListDialog.hide();
-	 		});
+	 		
 	 		return editMateListDialog;
 		},
 		prepareStepFunctionDialog : function(){
@@ -599,6 +663,21 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 		},
 		updateDataAllFromDataModule: function(allData){
 			this._dataModuleData = allData;
+			var travelPlan = allData.getCurrentTravelPlan();
+			var name = travelPlan.TravelInfo.travelName;
+			var intro = travelPlan.TravelInfo.travelIntro;
+			var type = travelPlan.TravelInfo.travelType;
+			var fromDate = travelPlan.TravelInfo.fromDate;
+			var toDate = travelPlan.TravelInfo.toDate;
+			var mates = travelPlan.TravelInfo.accompany;
+			this._travelNameP.nameElement.set("value",name);
+			this._travelNameP.typeElement.set("value",type);
+			this._travelIntroP.introElement.set("value",intro);
+			this._travelDateP.fromDateElement.value=fromDate;
+			this._travelDateP.toDateElement.value=toDate;
+			this._matesData = mates;
+			this.calculateDate(this._travelDateP);
+			this.displayMateCate(this._travelMatesP);
 		},
 		createItem : function(itemData){},
 		updateData: function(theData, groupData){},

@@ -50,6 +50,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 		_listScrollPane : null,
 		_tooltip : null,
 		_itemIndex : 0,
+		_dataModuleData: null,
 		getItemIndex : function(){
 			return this._itemIndex++;
 		},
@@ -272,6 +273,15 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemListPane",
 			var topY = listItem.domNode.offsetTop;
 	     	topY = topY;
 			that._listScrollPane.slideTo({"y":-topY},0.5);
+		},
+		updateDataAllFromDataModule: function(allData){
+			var that = this;
+			this._dataModuleData = allData;
+			setTimeout(function(){
+				var itemCategorys = allData.getPackageItemCategory();
+				var selectedPackageItems = dataModule.getPackageItemList();
+				that.updateData(selectedPackageItems, itemCategorys);
+			},100);
 		}
 	});
 	return travelPackageItemListPane;

@@ -46,6 +46,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 		_targetSpotListScrollPane : null,
 		_isDisplaySpot : false,
 		_isDisplayType : true,
+		
+		_dataModuleData : null,
 		initParams : function(){
 			var params = this.params;
 			if(true==params.isDisplaySpot){
@@ -168,32 +170,34 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 			var listPEle = dojo.query("div:eq(0)",this._targetListScrollPane.domNode)[0];
 			listPEle.appendChild(targetListGroup.domNode);
 			
+			
+				
+
+			var allTargetTypeFullArr = new Array();
+			for(i=0;i<theData.length;i++){
+				var tmpData = theData[i];
+				var nameLabel = tmpData.targetNameC;
+				var targetTypes = tmpData.targetTypes;
+				var targetTypesArr = targetTypes.split(",");
+				for(j=0;j<targetTypesArr.length;j++){
+					var tmpItem = targetTypesArr[j];
+					allTargetTypeFullArr.push(tmpItem);
+				}
+				var targetListItem = dojox.mobile.ListItem({label:nameLabel});
+				targetListGroup.addChild(targetListItem);
+			}
+			
+			var allTargetTypeFullArrNew = [];
+			dojo.forEach(allTargetTypeFullArr, function(item, i) {
+			 if(dojo.indexOf(allTargetTypeFullArrNew, item)  == -1) {
+				 allTargetTypeFullArrNew.push(item);
+			 }
+			});
+				
 			if(this._isDisplayType==true){
 				var targetTypeListGroup = new ContentPane({style:"margin-left:10px;margin-right:10px;margin-top:5px;margin-bottom:5px;"});
 				var listTypePEle = dojo.query("div:eq(0)",this._targetTypeListScrollPane.domNode)[0];
 				listTypePEle.appendChild(targetTypeListGroup.domNode);
-
-				var allTargetTypeFullArr = new Array();
-				for(i=0;i<theData.length;i++){
-					var tmpData = theData[i];
-					var nameLabel = tmpData.targetNameC;
-					var targetTypes = tmpData.targetTypes;
-					var targetTypesArr = targetTypes.split(",");
-					for(j=0;j<targetTypesArr.length;j++){
-						var tmpItem = targetTypesArr[j];
-						allTargetTypeFullArr.push(tmpItem);
-					}
-					var targetListItem = dojox.mobile.ListItem({label:nameLabel});
-					targetListGroup.addChild(targetListItem);
-				}
-				
-				var allTargetTypeFullArrNew = [];
-				dojo.forEach(allTargetTypeFullArr, function(item, i) {
-				 if(dojo.indexOf(allTargetTypeFullArrNew, item)  == -1) {
-					 allTargetTypeFullArrNew.push(item);
-				 }
-				});
-				
 				var gridContentBox = domgeo.getContentBox(targetTypeListGroup.domNode);
 				var contentEleHeight = 24;
 				var contentEleWidth = gridContentBox.w/2-30;
@@ -218,7 +222,16 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 				
 			}
 		},
-		destory : function(){}
+		destory : function(){},
+		updateDataAllFromDataModule : function(allData){
+			var that = this;
+			this._dataModuleData = allData;
+			setTimeout(function(){
+				var selectTarget = allData.getSelectedTarget();
+				that.updateData(selectTarget, allData.getTargetType());
+			},100);
+			
+		}
 	});
 	return travelPackageInfoTargetInfosPane;
 });

@@ -23,9 +23,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 				fromDate : "",
 				toDate : "",
 				accompany : [
-					{name:"",gender:"",age:"",type:"",comments:""},
-					{name:"",gender:"",age:"",type:"",comments:""},
-					{name:"",gender:"",age:"",type:"",comments:""}
+					{name:"test1",gender:"male",age:"1",type:"",comments:"aaaa"},
+					{name:"test2",gender:"female",age:"28",type:"",comments:"bbbb"},
+					{name:"test3",gender:"male",age:"80",type:"",comments:"cccc"}
 				],
 			},
 			TravelPlanPackage : {},
@@ -184,8 +184,13 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 		                   {"id":"89","severity":"1","label":"气吹、擦镜纸","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"},
 		                   {"id":"90","severity":"1","label":"滤镜、黑卡","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"},
 		                   {"id":"91","severity":"1","label":"DV","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"}];
+		
+		TravelPlanCodedValue = {"gender":[{value:"male", label:"男"},{value:"female",label:"女"}]};
 		travelDataJSONStore.readChinaTarget();
 	};
+	travelDataJSONStore.getCodedValue = function(code){
+		return TravelPlanCodedValue[code];
+	},
 	travelDataJSONStore.getPackageItemList = function(types){
 		if(typeof types=="undefined"){
 			return PackageItemList;

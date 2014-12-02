@@ -57,6 +57,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane",
 		_tooltip : null,
 		_addNewItemDialog : null,
 		_noteDialog : null,
+		_dataModuleData : null,
 		postCreate: function(){
 			this.inherited(arguments);
 			var that = this;
@@ -279,6 +280,15 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageItemInvestoryListPane",
 		destory : function(){
 			var listP = this._listScrollPane;
 			listP.destroyDescendants();
+		},
+		updateDataAllFromDataModule: function(allData){
+			var that = this;
+			this._dataModuleData = allData;
+			setTimeout(function(){
+				var itemCategorysInvestory = allData.getPackageItemCategory();
+				var packageInvestoryItems = allData.getPackageItemList();
+				that.updateData(packageInvestoryItems,itemCategorysInvestory);
+			},100);
 		}
 	});
 	return travelPackageItemListPane;
