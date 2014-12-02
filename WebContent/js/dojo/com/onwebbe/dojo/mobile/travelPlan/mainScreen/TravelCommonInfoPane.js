@@ -290,7 +290,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			//prepare global
 			nameInputBoxElement.on("click", function(){
 				DomStyle.set(nameInputBoxElement.domNode,computedInputBoxStyle);
-				nameInputBoxElement.domNode.style.width = leftEleWidth-32-65+"px";
+				nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
 			});
 			introTextAreaElement.on("click", function(){
 				DomStyle.set(introTextAreaElement.domNode,computedTextAreaStyle);
