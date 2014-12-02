@@ -120,7 +120,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			//prepare travelNameP
 			var nameInputBoxElement = new TextBox({placeHolder:"旅行计划名称", name:"travelPlanMainPageMainContentNameTextBox"});
 			travelNameP.addChild(nameInputBoxElement);
-			nameInputBoxElement.domNode.style.width = leftEleWidth-32-65+"px";
+			nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
 			var spliteEle = domCon.create("span");
 			spliteEle.innerHTML=":";
 			spliteEle.style.width="10px";
@@ -133,7 +133,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			travelNameP.addChild(travelTypeElement);
 			//setup travelName panel dijit
 			travelNameP.typeElement = travelTypeElement;
-			travelTypeElement.domNode.style.width = 50+"px";
+			travelTypeElement.domNode.style.width = 40+"px";
 			//setBorders
 			var computedInputBoxStyle = DomStyle.getComputedStyle(nameInputBoxElement.domNode);
 			nameInputBoxElement.domNode.style.border="0px";
@@ -671,7 +671,16 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			var toDate = travelPlan.TravelInfo.toDate;
 			var mates = travelPlan.TravelInfo.accompany;
 			this._travelNameP.nameElement.set("value",name);
-			this._travelNameP.typeElement.set("value",type);
+			var typeStr = "";
+			var typeCodedValue = allData.getTravelPlanType();
+			for(typeCVTI = 0;typeCVTI<typeCodedValue.length;typeCVTI++){
+				var typeCodeObj = typeCodedValue[typeCVTI];
+				if(typeCodeObj.id==type){
+					typeStr = typeCodeObj.label;
+					break;
+				}
+			}
+			this._travelNameP.typeElement.set("value",typeStr);
 			this._travelIntroP.introElement.set("value",intro);
 			this._travelDateP.fromDateElement.value=fromDate;
 			this._travelDateP.toDateElement.value=toDate;
