@@ -10,7 +10,8 @@ require([
  		"dojox/mobile/SpinWheelDatePicker",
  		"dojox/mobile/ScrollablePane",
  		"com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
- 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane"
+ 		"com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
+ 		"com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane"
  		], 
  	function(registry, domgeo, win){
 		com.onwebbe.dojo.mobile.MobileDynamicViewController._callBackReplaceContentFromPage(true);
@@ -21,11 +22,13 @@ require([
 function initMainPage(){
 require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-geometry","dojo/window", "dojo/on", "dojo/dom-style", "com/onwebbe/dojo/mobile/ItemSelectTooltip", "dojox/mobile/Tooltip", "dojox/mobile/SpinWheelDatePicker", "dojox/mobile/Button", "dojo/dom-construct"], 
 	function(parser, domCon, registry, domgeo, win, on, DomStyle, ItemSelectTooltip, Tooltip, SpinWheelDatePicker, Button, domCon){
+		var leftEle = dojo.query(".mainContentLeftPane", mainElement)[0];
 		var mainElement = dojo.query("#travelPlanMainPageMainContentPane")[0];
 		var midEle = dojo.query(".mainContentMidPane", mainElement)[0];
 		var rightEle = dojo.query(".mainContentRightPane", mainElement)[0];
 		var mainElementBox = domgeo.getContentBox(mainElement);
 		var mainElementWidth = mainElementBox.w;
+		var leftEleWidth = mainElementWidth/3-28-50;
 		var midEleWidth = mainElementWidth/3-28+50;
 		var rightEleWidth = mainElementWidth/3-28;
 		var totalWindowSize = win.getBox();
@@ -33,12 +36,16 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 		var headerHeight = domgeo.getContentBox(headerEle);
 		var actualHeight = totalWindowSize.h - headerHeight.h - 82+40;
 		
+		var leftEleBox = domgeo.getContentBox(leftEle);
 		var midEleBox = domgeo.getContentBox(midEle);
 		var rightEleBox = domgeo.getContentBox(rightEle);
+		leftEleBox.w = leftEleWidth;
+		leftEleBox.h = actualHeight;
 		midEleBox.w = midEleWidth;
-		rightEleBox.w = rightEleWidth;
 		midEleBox.h = actualHeight;
+		rightEleBox.w = rightEleWidth;
 		rightEleBox.h = actualHeight;
+		domgeo.setContentSize(leftEle, leftEleBox);
 		domgeo.setContentSize(midEle, midEleBox);
 		domgeo.setContentSize(rightEle, rightEleBox);
 	});
@@ -50,9 +57,9 @@ require(["dojox/mobile/parser","dojo/dom-construct","dijit/registry","dojo/dom-g
 	<div data-dojo-type="dojox/mobile/ContentPane" id="travelPlanMainPageMainContentPane">
 		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentLeftPane">
 		</div>
-		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane" data-dojo-props="isDisplaySpot : true, isDisplayType : false" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentMidPane">
+		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane" data-dojo-props="isDisplaySpot : true, isDisplayType : false, editable:true" style="float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentMidPane">
 		</div>
-		<div data-dojo-type="dojox/mobile/RoundRect" style=float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentRightPane">
+		<div data-dojo-type="com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane" style=float:left;display:inline-block;background-color:#e8e8e8;margin-left:5px;margin-right:5px;margin-bottom:5px;" class="mainContentRightPane">
 		</div>
 		
 	</div>

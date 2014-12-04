@@ -34,7 +34,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 			TravelPlanChecklist : {},
 			TravelPlanAgent : {},
 			TravelPlanReferWebURLs : {},
-			TravelPlanStage : ""
+			TravelPlanStage : "",
+			TravelEat : [],
+			TravelTraffic : [],
+			TravelHousing : []
 	}
 	var travelDataJSONStore =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelDataJSONStore", null, {
 		
@@ -185,8 +188,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 		                   {"id":"90","severity":"1","label":"滤镜、黑卡","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"},
 		                   {"id":"91","severity":"1","label":"DV","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"}];
 		
-		TravelPlanCodedValue = {"gender":[{value:"male", label:"男"},{value:"female",label:"女"}]};
+		TravelPlanCodedValue = {"gender":[{value:"male", label:"男"},{value:"female",label:"女"}],
+								"EHT":[{value:"eat", label:"吃"},{value:"traffic",label:"行"},{value:"housing",label:"住"},{value:"play",label:"玩"}]};
 		travelDataJSONStore.readChinaTarget();
+		travelDataJSONStore.getTestTargetData();
 	};
 	travelDataJSONStore.getCodedValue = function(code){
 		return TravelPlanCodedValue[code];
@@ -273,6 +278,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 		}else{
 			return null;
 		}
+	};
+	travelDataJSONStore.getTestTargetData = function(id){
+		travelDataJSONStore._readJSONFile("testdata.json","CurrentTravelPlan");
 	};
 	return travelDataJSONStore;
 });

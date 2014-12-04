@@ -16,18 +16,18 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
  		"dojox/mobile/CheckBox",
  		"dojo/on",
  		"dojox/mobile/SimpleDialog",
+ 		"dojox/mobile/Button",
  		"dojox/mobile/RoundRectList",
  		"dojox/mobile/ListItem",
  		"dojox/mobile/ScrollablePane",
  		"dojox/mobile/RoundRect",
  		"dojox/mobile/Accordion",
- 		"dojox/mobile/Button",
  		"dojox/mobile/ScrollablePane",
  		"dojox/mobile/ListItem",
  		"dojox/mobile/TextArea",
  		"dojox/mobile/RadioButton"
  		], 
- 	function(declare, array, GridLayout, Evented, registry, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, on, SimpleDialog){
+ 	function(declare, array, GridLayout, Evented, registry, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, on, SimpleDialog, Button){
 	/* Module:
 	 * com.onwebbe.dojo.mobile.travelPlan.TravelPackageInfoTargetInfosPane
 	 * com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane
@@ -47,6 +47,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 		_isDisplaySpot : false,
 		_isDisplayType : true,
 		
+		_editTargetListAndTypeURL : "travelMainAdd.html",
+		_editable : false,
 		_dataModuleData : null,
 		initParams : function(){
 			var params = this.params;
@@ -60,39 +62,85 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 			}else{
 				this._isDisplayType = false;
 			}
+			
+			if(true==params.editable){
+				this._editable = true;
+			}else{
+				this._editable = false;
+			}
+			
 		},
 		postCreate: function(){
 			this.inherited(arguments);
 			this.initParams();
 			var that = this;
 			this.destroyDescendants();
-			var titleDIVEle = domCon.create("div", titleDIVEle);
-			titleDIVEle.innerHTML="目标列表";
+			var titleText = "<table style='width:100%;'>"+
+			"<tr>"+
+			"	<td style='text-align:left;'>"+
+			"	目标列表"+
+			"	</td>"+
+			"	<td style='text-align:right' class='categoryButton'>"+
+			"	</td>"+
+			"</tr>"+
+			"</table>";
+			var titleDIVEle = domCon.toDom(titleText);
 			this.domNode.appendChild(titleDIVEle);
-			
+			if(this._editable){
+				var targetListEditButton = domCon.create("span",{style:"cursor:pointer;border-radius:5px;width:30px;height:30px;float:right;background-color:#ababab;background-image: url(../../images/Edit-30.png)"});
+				dojo.query(".categoryButton",titleDIVEle)[0].appendChild(targetListEditButton);
+			}
 			var listOuterScrollPane = new dojox.mobile.ScrollablePane({style:"margin-top:5px;"});
 			this.domNode.appendChild(listOuterScrollPane.domNode);
 			this._targetListScrollPane = listOuterScrollPane;
 			
 			
 			if(this._isDisplayType==true){
-				var targetTypeDIVEle = domCon.create("div", targetTypeDIVEle);
-				targetTypeDIVEle.innerHTML="目标类型列表";
+				var titleText = "<table style='width:100%;'>"+
+				"<tr>"+
+				"	<td style='text-align:left;'>"+
+				"	目标类型列表"+
+				"	</td>"+
+				"	<td style='text-align:right' class='categoryButton'>"+
+				"	</td>"+
+				"</tr>"+
+				"</table>";
+				var targetTypeDIVEle = domCon.toDom(titleText);
 				this.domNode.appendChild(targetTypeDIVEle);
 				var listTypeOuterScrollPane = new dojox.mobile.ScrollablePane({style:"margin-top:5px;"});
 				this.domNode.appendChild(listTypeOuterScrollPane.domNode);
 				this._targetTypeListScrollPane = listTypeOuterScrollPane;
+				if(this._editable){
+					var targetTypeEditButton = domCon.create("span",{style:"cursor:pointer;border-radius:5px;width:30px;height:30px;float:right;background-color:#fdfea5;background-image: url(../../images/Edit-30.png)"});
+					dojo.query(".categoryButton",targetTypeDIVEle)[0].appendChild(targetTypeEditButton);
+				}
 			}
 			
 			
 			
 			if(this._isDisplaySpot==true){
-				var targetSpotDIVEle = domCon.create("div", targetSpotDIVEle);
-				targetSpotDIVEle.innerHTML="景点列表";
+				var titleText = "<table style='width:100%;'>"+
+				"<tr>"+
+				"	<td style='text-align:left;'>"+
+				"	景点列表"+
+				"	</td>"+
+				"	<td style='text-align:right' class='categoryButton'>"+
+				"	</td>"+
+				"</tr>"+
+				"</table>";
+				var targetSpotDIVEle = domCon.toDom(titleText);
 				this.domNode.appendChild(targetSpotDIVEle);
 				var listSpotOuterScrollPane = new dojox.mobile.ScrollablePane({style:"margin-top:5px;"});
 				this.domNode.appendChild(listSpotOuterScrollPane.domNode);
 				this._targetSpotListScrollPane = listSpotOuterScrollPane;
+				if(this._editable){
+					var targetSpotEditButton = domCon.create("span",{style:"cursor:pointer;border-radius:5px;width:30px;height:30px;float:right;background-color:#ababab;background-image: url(../../images/Edit-30.png)"});
+					dojo.query(".categoryButton",targetSpotDIVEle)[0].appendChild(targetSpotEditButton);
+					
+					var targetSpotEditButton = domCon.create("span",{style:"cursor:pointer;margin-right:30px;border-radius:5px;width:30px;height:30px;float:right;background-image: url(../../images/add.png)"});
+					dojo.query(".categoryButton",targetSpotDIVEle)[0].appendChild(targetSpotEditButton);
+					
+				}
 			}
 			
 			
@@ -116,7 +164,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelPackageInfoTargetInfosPane",
 			var targetListScrollPane = listOuterScrollPane.domNode;
 			var targetListBox = domgeo.getContentBox(targetListScrollPane);
 			targetListBox.h = targetListHeight;
-			targetListBox.w = mainPagePackageInfoPackageItemPane.style.width;
+			targetListBox.w = "";
 			domgeo.setContentSize(targetListScrollPane, targetListBox);
 			
 			

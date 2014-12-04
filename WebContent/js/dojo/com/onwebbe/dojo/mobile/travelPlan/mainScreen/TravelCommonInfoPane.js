@@ -101,16 +101,12 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			
 			//setup the travelNameP
 			var mainElement = this._parentNodeEle;
-			var leftEle = dojo.query(".mainContentLeftPane", mainElement)[0];
 			var leftEle1 = outerScrollPane.domNode;
-			var mainElementBox = domgeo.getContentBox(mainElement);
-			var mainElementWidth = mainElementBox.w;
-			var leftEleWidth = mainElementWidth/3-28-50;
+			var leftEleWidth = "";
 			var totalWindowSize = win.getBox();
 			var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",outViewEle.domNode)[0];
 			var headerHeight = domgeo.getContentBox(headerEle);
 			var actualHeight = totalWindowSize.h - headerHeight.h - 82+40;
-			
 			var leftEleBox = domgeo.getContentBox(leftEle);
 			leftEleBox.w = leftEleWidth;
 			leftEleBox.h = actualHeight;
@@ -118,19 +114,34 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			domgeo.setContentSize(leftEle1, leftEleBox);
 			
 			//prepare travelNameP
-			var nameInputBoxElement = new TextBox({placeHolder:"旅行计划名称", name:"travelPlanMainPageMainContentNameTextBox"});
-			travelNameP.addChild(nameInputBoxElement);
-			nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
-			var spliteEle = domCon.create("span");
+			var travelNameText = "<table style='width:100%;'>"+
+			"<tr>"+
+			"	<td style='text-align:left;' class='planName'>"+
+			"	</td>"+
+			"	<td style=''>:"+
+			"	</td>"+
+			"	<td style='text-align:right;width:42px;' class='planType'>"+
+			"	</td>"+
+			"</tr>"+
+			"</table>";
+			var travelNameDom = domCon.toDom(travelNameText);
+			travelNameP.domNode.appendChild(travelNameDom);
+			var nameInputBoxElement = new TextBox({placeHolder:"旅行计划名称", name:"travelPlanMainPageMainContentNameTextBox", style:"width:100%;"});
+			dojo.query(".planName",travelNameDom)[0].appendChild(nameInputBoxElement.domNode);
+			nameInputBoxElement.domNode.width="100%"
+			//travelNameP.addChild(nameInputBoxElement);
+			//nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
+			/*var spliteEle = domCon.create("span");
 			spliteEle.innerHTML=":";
 			spliteEle.style.width="10px";
 			spliteEle.style.textAlign="center";
 			spliteEle.style.display="inline-block";
-			travelNameP.domNode.appendChild(spliteEle);
+			travelNameP.domNode.appendChild(spliteEle);*/
 			//setup travelName panel dijit
 			travelNameP.nameElement = nameInputBoxElement;
 			var travelTypeElement = new TextBox({readonly:"readonly", placeHolder:"类型", name:"travelPlanMainPageMainContentTypeTextBox"});
-			travelNameP.addChild(travelTypeElement);
+			//travelNameP.addChild(travelTypeElement);
+			dojo.query(".planType",travelNameDom)[0].appendChild(travelTypeElement.domNode);
 			//setup travelName panel dijit
 			travelNameP.typeElement = travelTypeElement;
 			travelTypeElement.domNode.style.width = 40+"px";
@@ -143,7 +154,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			
 			//setup travel intro P
 			var introTextAreaElement = new TextArea({placeHolder:'旅行计划介绍', name:'travelPlanMainPageMainContentIntroTextArea', style:"resize:none"});
-			introTextAreaElement.domNode.style.width = leftEleWidth-32+"px";
+			//introTextAreaElement.domNode.style.width = leftEleWidth-32+"px";
+			introTextAreaElement.domNode.width="100%";
 			introTextAreaElement.domNode.style.height = 57+"px";
 			//set borders
 			var computedTextAreaStyle = DomStyle.getComputedStyle(introTextAreaElement.domNode);
@@ -290,11 +302,13 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			//prepare global
 			nameInputBoxElement.on("click", function(){
 				DomStyle.set(nameInputBoxElement.domNode,computedInputBoxStyle);
-				nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
+				//nameInputBoxElement.domNode.style.width = leftEleWidth-32-75+"px";
+				nameInputBoxElement.domNode.style.width="100%";
 			});
 			introTextAreaElement.on("click", function(){
 				DomStyle.set(introTextAreaElement.domNode,computedTextAreaStyle);
-				introTextAreaElement.domNode.style.width = leftEleWidth-32+"px";
+				//introTextAreaElement.domNode.style.width = leftEleWidth-32+"px";
+				introTextAreaElement.domNode.style.width="100%";
 				introTextAreaElement.domNode.style.height = 57+"px";
 			});
 			nameInputBoxElement.on("blur", function(){
