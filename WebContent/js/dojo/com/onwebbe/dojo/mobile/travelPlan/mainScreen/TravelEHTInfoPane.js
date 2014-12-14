@@ -27,11 +27,13 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane",
  		"dojox/mobile/Slider",
  		"dojox/mobile/RoundRectList",
  		"dojox/mobile/ListItem",
+ 		"com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelTrafficInfoDialog",
+ 		"com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelTrafficInfoItem",
  		"dojox/mobile/Accordion",
  		"dojox/mobile/ListItem",
  		"dojox/mobile/RadioButton"
  		], 
- 	function(declare, DomStyle, Evented, registry, aspect, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, TextBox, on, SimpleDialog, ScrollablePane, ViewController, TextArea, SpinWheelDatePicker, Tooltip, Button, Switch, Slider, RoundRectList, ListItem){
+ 	function(declare, DomStyle, Evented, registry, aspect, domgeo, win, RoundRect, domCon, GroupDataUtil, ContentPane, ItemSelectTooltip, parser, CheckBox, TextBox, on, SimpleDialog, ScrollablePane, ViewController, TextArea, SpinWheelDatePicker, Tooltip, Button, Switch, Slider, RoundRectList, ListItem, TravelTrafficInfoDialog, TravelTrafficInfoItem){
 	/* Module:
 	 * com.onwebbe.dojo.mobile.travelPlan.mainScreen.TravelEHTInfoPane
 	 * com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane
@@ -51,6 +53,8 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane",
 		_searchButton : null,
 		
 		_searchTypeDialog : null,
+		
+		_travelTrafficInfoDialog : null,
 		postCreate: function(){
 			var that = this;
 			if(this._parentNode!=null){
@@ -106,7 +110,11 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane",
 			var trafficList = new RoundRectList({style:"margin:5px;"});
 			var trafficHeader = domCon.create("div",{innerHTML:"行",className:"traffic", style:"height:30px;"});
 			trafficHeader.appendChild(domCon.create("img",{src:"../../images/edit-30.png", style:"margin-left:20px;float:right;position:relative;top:-4px;border-radius: 5px 5px 5px 5px; cursor: pointer;"}));
-			trafficHeader.appendChild(domCon.create("img",{src:"../../images/add.png", style:"float:right;position:relative;top:-4px;border-radius: 5px 5px 5px 5px; cursor: pointer;"}));
+			var trafficAddEle = domCon.create("img",{src:"../../images/add.png", style:"float:right;position:relative;top:-4px;border-radius: 5px 5px 5px 5px; cursor: pointer;"});
+			trafficHeader.appendChild(trafficAddEle);
+			on(trafficAddEle, "click", function(){
+				that._travelTrafficInfoDialog.show();
+			});
 			trafficP.domNode.appendChild(trafficHeader);
 			trafficP.addChild(trafficList);
 			var eatP = new RoundRect({style:"margin:5px;"});
@@ -141,10 +149,29 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane",
 			outerScrollPane.containerNode.appendChild(eatP.domNode);
 			outerScrollPane.containerNode.appendChild(housingP.domNode);
 			outerScrollPane.containerNode.appendChild(playP.domNode);
+			
+			
+			this.prepareOtherDialogs();
 		},
 		updateDataAllFromDataModule: function(allData){
 			this._dataModuleData = allData;
 			this.prepareSearchDialog(this, this._searchButton.domNode);
+			this._travelTrafficInfoDialog.updateDataAllFromDataModule(allData);
+			
+			this.prepareDataForTraffic();
+		},
+		prepareDataForTraffic : function(){
+			var that = this;
+			this._trafficList.destroyDescendants();
+			//TravelTrafficInfoItem
+			var traffics = this._dataModuleData.getCurrentTravelPlan().TravelPlanTraffic;
+			for(trafficsi = 0;trafficsi<traffics.length;trafficsi++){
+				var trafficData = traffics[trafficsi];
+				var trafficListItem = new TravelTrafficInfoItem();
+				this._trafficList.addChild(trafficListItem);
+				trafficListItem.updateDataAllFromDataModule(this._dataModuleData);
+				trafficListItem.updateData(trafficData);
+			}
 		},
 		prepareSearchDialog : function(mainDijit, parentEle){
 			var that = this;
@@ -178,6 +205,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelEHTInfoPane",
 			}
 			
 			return this._searchTypeDialog;
+		},
+		prepareOtherDialogs : function(){
+			this._travelTrafficInfoDialog = new TravelTrafficInfoDialog({closeButton:true});
+			this.domNode.appendChild(this._travelTrafficInfoDialog.domNode);
 		},
 		destory : function(){}
 	});

@@ -231,14 +231,14 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			travelMatesP.domNode.appendChild(matePanelEle);
 			var addMateButton = dojo.query(".travelMateAddButton", travelMatesP.domNode)[0];
 			this._addMateButton = addMateButton;
-			on(addMateButton, "click", function(){
+			this.own(on(addMateButton, "click", function(){
 				that._travelMateDialogDijit.clearData();
 				that._travelMateDialogDijit.show();
-			});
+			}));
 			var editMateButton = dojo.query(".travelMateEditButton", travelMatesP.domNode)[0];
-			on(editMateButton, "click", function(){
+			this.own(on(editMateButton, "click", function(){
 				that._travelMateListDialogDijit.show();
-			});
+			}));
 			/*addMateButton.displayMateCate = function(){
 				if(typeof addMateButton.matesData=="object"){
 					var kid = 0;
@@ -318,7 +318,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 				that._saveIntro(introTextAreaElement.get("value"));
 			});
 			
-			on(mainElement, "click", function(event){
+			this.own(on(mainElement, "click", function(event){
 				if(event.target!=nameInputBoxElement.domNode){
 					nameInputBoxElement.domNode.style.border="0px";
 				}
@@ -326,7 +326,7 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 					introTextAreaElement.domNode.style.border="0px";
 					
 				}
-			});
+			}));
 		},
 		calculateDate : function(parentNode){
 			var that = this;
@@ -436,10 +436,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 				tooltip.hide();
 				tooltip.isViewable = false;
 			});
-			on(parentEleSelector, "click", function(){
+			this.own(on(parentEleSelector, "click", function(){
 				tooltip.show(parentEleSelector);
 				tooltip.isViewable = true;
-			});
+			}));
 			tooltip.on("blur", function(){
 				tooltip.hide();
 			});
@@ -453,9 +453,9 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			var theTypeData = dataModule.getTravelPlanType();
 			tooltip.updateData(theTypeData);
 			tooltip.createList();
-			on(parentEle, "click", function(){
+			this.own(on(parentEle, "click", function(){
 				tooltip.showTip(parentEle);
-			});
+			}));
 			tooltip.on("listItemClicked",function(itemData){
 				parentEle.value=itemData.label;
 				parentEle.selectedTypeID = itemData.id;
@@ -643,11 +643,11 @@ define("com/onwebbe/dojo/mobile/travelPlan/mainScreen/TravelCommonInfoPane",
 			 			deleteItem.style.backgroundColor="#f9a4b1";
 			 			deleteItem.style.borderRadius="5px";
 			 			//dojo.attr(deleteItem, "margin-left:15px;background-color:#f9a4b1;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;");
-			 			on(deleteItem, "click", function(){
+			 			that.own(on(deleteItem, "click", function(){
 			 				mateList.removeChild(this.parentDijit);
 			 				data.splice(this.parentDijit.theDataIndex,1);
 			 				that.displayMateCate(mainDijit);
-			 			});
+			 			}));
 			 			mateList.addChild(matt);
 			 		}
 		 			

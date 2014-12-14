@@ -35,9 +35,10 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 			TravelPlanAgent : {},
 			TravelPlanReferWebURLs : {},
 			TravelPlanStage : "",
-			TravelEat : [],
-			TravelTraffic : [],
-			TravelHousing : []
+			TravelPlanEat : [],
+			TravelPlanTraffic : [{id:"01", type:"flight", bookingType:"internet", bookingStatus:"new", totalPrice:"1000", paid:"300", fromLocation:"上海", toLocation:"深证", fromDT:"2014-01-01 11:00", toDT:"2014-01-01 13:00"},
+			                 {id:"02", type:"ship", bookingType:"internet", bookingStatus:"new", totalPrice:"80", paid:"80", fromLocation:"深证", toLocation:"香港", fromDT:"2014-01-01 14:00", toDT:"2014-01-01 15:00"}],
+			TravelPlanHousing : []
 	}
 	var travelDataJSONStore =  declare("com.onwebbe.dojo.mobile.travelPlan.TravelDataJSONStore", null, {
 		
@@ -187,9 +188,13 @@ define("com/onwebbe/dojo/mobile/travelPlan/TravelDataJSONStore", [
 		                   {"id":"89","severity":"1","label":"气吹、擦镜纸","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"},
 		                   {"id":"90","severity":"1","label":"滤镜、黑卡","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"},
 		                   {"id":"91","severity":"1","label":"DV","labelE":"","labelP":"","category":"PHOTOGRAPHIC","description":"","supportType":"COMMON"}];
-		
+		//火车/汽车/轮船/飞机/自驾/出租
 		TravelPlanCodedValue = {"gender":[{value:"male", label:"男"},{value:"female",label:"女"}],
-								"EHT":[{value:"eat", label:"吃"},{value:"traffic",label:"行"},{value:"housing",label:"住"},{value:"play",label:"玩"}]};
+								"EHT":[{value:"eat", label:"吃"},{value:"traffic",label:"行"},{value:"housing",label:"住"},{value:"play",label:"玩"}],
+								"TrafficType":[{value:"train",label:"火车"},{value:"bus",label:"汽车"},{value:"ship",label:"轮船"},{value:"plane",label:"飞机"},{value:"driving",label:"自驾"},{value:"taxi",label:"出租"}],
+								"BookingType":[{value:"internet",label:"网络",img:""},{value:"agentshop",label:"实体",img:""}],
+								"BookingStatus":[{value:"new",label:"创建"},{value:"payed",label:"付款"},{value:"confirmed",label:"确认"}],
+								"TrafficType":[{value:"ship",label:"轮船",img:"../../images/ship-30.png"},{value:"flight",label:"飞机",img:"../../images/flight-30.png"}]};
 		travelDataJSONStore.readChinaTarget();
 		travelDataJSONStore.getTestTargetData();
 	};

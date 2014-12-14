@@ -20,9 +20,14 @@ require([
 		var totalWindowSize = win.getBox();
 		var eachPaneWidth = (totalWindowSize.w-24*2-14*2-20*3)/3;
 		
+		var totalWindowSize = win.getBox();
+		var headerEle = dojo.query("div[data-dojo-type='dojox/mobile/Heading']",dojo.query("#mainFunctionView")[0])[0];
+		var headerHeight = domgeo.getContentBox(headerEle);
+		var actualHeight = totalWindowSize.h - headerHeight.h - 82+42;
 		
 		var mainPagePackageInfoTargetInfosPane = dojo.query(".mainPagePackageInfoTargetInfosPane",controller.getCurrentView().domNode)[0];
 		mainPagePackageInfoTargetInfosPane.style.width = eachPaneWidth - 62 +20 +10 +"px";
+		mainPagePackageInfoTargetInfosPane.style.height=actualHeight+"px";
 		/* var headerHeight = domgeo.getContentBox(dojo.query("div[data-dojo-type='dojox/mobile/Heading']",controller.getCurrentView().domNode)[0]);
 		
 		var targetListHeight = Math.round(actualHeight*0.6);
